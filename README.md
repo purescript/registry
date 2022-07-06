@@ -1,0 +1,1 @@
+# PureScript Registry
