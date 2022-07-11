@@ -4,6 +4,8 @@ name: Import Packages
 # The importer is run every day at 04:00 UTC and can also be run manually from
 # the 'Actions' tab.
 on:
+  # TODO: DISABLE
+  push:
   workflow_dispatch:
   schedule:
     - cron: "0 4 * * *"
@@ -23,6 +25,8 @@ jobs:
       - uses: actions/checkout@v3
         with:
           repository: purescript/registry
+          # TODO: DISABLE
+          ref: trh/single-vs-batch
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
       
       # We cache NPM and PureScript dependencies, as well as persist the in-memory
