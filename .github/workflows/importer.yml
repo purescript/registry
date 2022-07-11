@@ -4,8 +4,6 @@ name: Import Packages
 # The importer is run every day at 07:00 UTC and can also be run manually from
 # the 'Actions' tab.
 on:
-  # TODO: DISABLE
-  push:
   workflow_dispatch:
   schedule:
     - cron: "0 7 * * *"
