@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "yukikurage",
+    "githubRepo": "purescript-jelly"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 8742,
+      "hash": "sha256-4Jv8wjqr7MiZ4VPTMvTYZv0MHP/y8d0hI9fdTnYC4ZI=",
+      "publishedTime": "2022-05-25T04:36:40.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 8772,
+      "hash": "sha256-HmP6Ozk0hQ6WgQM8u0Gb9wVLYtIGdzGLdidBrZ8bK4M=",
+      "publishedTime": "2022-05-25T04:52:05.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 6400,
+      "hash": "sha256-lKfHGzp5JbNGZB9XBlXWSFYZ29L354VkdeDmeHCDTng=",
+      "publishedTime": "2022-05-25T15:42:08.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

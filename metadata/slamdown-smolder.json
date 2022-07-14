@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "hgiasac",
+    "githubRepo": "purescript-markdown-smolder"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2676,
+      "hash": "sha256-4q9eBSIPlx5Jo1EhoWGSf5NFN7ot4KfBE5rdNcbp1Tw=",
+      "publishedTime": "2016-12-29T01:58:40.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 3044,
+      "hash": "sha256-2ybMEn5U8oTSwDfNDlqxVSZmc1Mq2QQD1RhbVO92H28=",
+      "publishedTime": "2016-12-29T03:50:02.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 3233,
+      "hash": "sha256-nSNzfPoKh8jM6NWWyTHShU3XHhNty/+X1s+v1EtHTLY=",
+      "publishedTime": "2016-12-30T06:32:17.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.3.0": {
+      "bytes": 3284,
+      "hash": "sha256-1lYz+dv6GE0Mrbksds0HGkWqcAeDG1u6TJpqaphXbuA=",
+      "publishedTime": "2016-12-30T20:46:13.0Z",
+      "ref": "v1.3.0"
+    },
+    "2.0.0": {
+      "bytes": 4580,
+      "hash": "sha256-stOfguIFnTsac6A268ybaY5q8tQTAIqJKqE6ciYsyOc=",
+      "publishedTime": "2018-11-11T07:56:36.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 4598,
+      "hash": "sha256-8ZBb1zdIJIJ7xPjk3tBQqm7Hn9k6iMR/YuOLUze5Kjw=",
+      "publishedTime": "2018-11-11T08:41:06.0Z",
+      "ref": "v2.0.1"
+    }
+  },
+  "unpublished": {}
+}

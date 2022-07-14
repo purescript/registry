@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "Ebmtranceboy",
+    "githubRepo": "purescript-sparse-polynomials"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4861,
+      "hash": "sha256-rDLRO/ClWpzPHVR/youJuiDmr6uCGEcklcQNaXMcAWU=",
+      "publishedTime": "2019-08-04T19:56:56.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5186,
+      "hash": "sha256-/UWTRkK+VfoCFbu17Gx1xJhawjsj7c3re1ff/Tell7o=",
+      "publishedTime": "2019-08-05T16:01:32.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 5349,
+      "hash": "sha256-k+BHt8MTNpg3f5pwokW5X3PkUi4ror8xTHKcVJiaz/I=",
+      "publishedTime": "2019-08-06T22:20:08.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.0.3": {
+      "bytes": 5810,
+      "hash": "sha256-r/iETAjTL/BuPwcpWjSYqRzOLUYhIo8/Jg9xMVzpL4A=",
+      "publishedTime": "2019-08-07T22:45:29.0Z",
+      "ref": "v1.0.3"
+    },
+    "1.0.4": {
+      "bytes": 6847,
+      "hash": "sha256-CqjBoehfQpu69XZ9ZDTyHme+Fh2xw/3v3W8Pbwz4jIY=",
+      "publishedTime": "2022-05-04T09:37:54.0Z",
+      "ref": "v1.0.4"
+    },
+    "1.0.5": {
+      "bytes": 6860,
+      "hash": "sha256-hL/SSyfoK3HsUZw1m9rcm+cPNO785fsaD0EIhnZDjDo=",
+      "publishedTime": "2022-05-06T13:48:41.0Z",
+      "ref": "v1.0.5"
+    }
+  },
+  "unpublished": {}
+}

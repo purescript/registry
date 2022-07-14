@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-abides"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 5432,
+      "hash": "sha256-Bz12FXpk7rziqLj2q3KQELR0+SWEUmxGjzne8U2gk4Y=",
+      "publishedTime": "2019-09-23T15:18:01.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 6784,
+      "hash": "sha256-UcAGZ73+rMCGoMHRlrRbad0xhPyPRXdp1E4d8ral468=",
+      "publishedTime": "2020-04-29T21:33:41.0Z",
+      "ref": "v0.0.1"
+    }
+  },
+  "unpublished": {}
+}

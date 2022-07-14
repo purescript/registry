@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "gbagan",
+    "githubRepo": "purescript-linalg"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5360,
+      "hash": "sha256-A987dAb8jQA7kZjM+Zg99WHxtoX5x23VbrBcVKHRqoI=",
+      "publishedTime": "2022-05-14T14:53:54.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 5874,
+      "hash": "sha256-SMQZPbuo9IKt/2pOOm08H6dsTCfz1QFMVLcdzNYqdyk=",
+      "publishedTime": "2022-05-15T13:46:28.0Z",
+      "ref": "v1.1.0"
+    },
+    "4.0.0": {
+      "bytes": 6172,
+      "hash": "sha256-AJDD6RQ8kVoePTSUWWEe+gcSmgPIWDEJikg2NGa4ZDs=",
+      "publishedTime": "2022-05-16T22:47:08.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 6275,
+      "hash": "sha256-Fiotvsfo6t0fIZwE8fJEKOLKTVHbaLZIvIROThGbkuY=",
+      "publishedTime": "2022-05-22T14:34:45.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.1.0": {
+      "bytes": 6391,
+      "hash": "sha256-Yy5Qx0z8/Pj7+PYuMmRoLql2Ux2Jmo8tc2d2bJb9ZlM=",
+      "publishedTime": "2022-05-24T15:54:37.0Z",
+      "ref": "v5.1.0"
+    }
+  },
+  "unpublished": {}
+}

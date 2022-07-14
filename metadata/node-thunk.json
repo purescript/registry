@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "andreypopp",
+    "githubRepo": "purescript-node-thunk"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2571,
+      "hash": "sha256-fjAa0vT2OECqA4Fl/8NQs3MY+SpPftY4cArGffCdCTw=",
+      "publishedTime": "2014-07-22T10:31:02.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2674,
+      "hash": "sha256-ALM9VxYwHtBR1XPW7EYuEcz3BlABx8FiHsQF+EqFPuU=",
+      "publishedTime": "2014-07-27T07:26:45.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2717,
+      "hash": "sha256-Yofng9djsi6k/rIjx8UuWosGY+XjVfAZkrxmvK/2wm4=",
+      "publishedTime": "2014-07-27T22:02:29.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

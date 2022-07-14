@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "rightfold",
+    "githubRepo": "purescript-metric"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 803,
+      "hash": "sha256-xHmJfvlKbK8DyBvKaa5D9CX5yllZ0aoE1ieYGJ3IRJI=",
+      "publishedTime": "2016-11-19T12:20:37.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 804,
+      "hash": "sha256-8bIuCvyDm0By507WOIZ2SCo/5hoYkU+P6hsjXn7IfnE=",
+      "publishedTime": "2016-11-19T12:25:21.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 910,
+      "hash": "sha256-agAT3bKw/5br4GNOCwwBVL7Ss2b7OUy1QvgC4cnNSLY=",
+      "publishedTime": "2016-11-19T12:57:54.0Z",
+      "ref": "v2.1.0"
+    }
+  },
+  "unpublished": {}
+}

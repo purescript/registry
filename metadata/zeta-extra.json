@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-zeta-extra"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 3197,
+      "hash": "sha256-oaG1YzbiKrfYvI5EQf/JaHDiy1oiQt87BO9+CU86U9w=",
+      "publishedTime": "2019-02-25T04:25:48.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 5008,
+      "hash": "sha256-SnEOtZcfy4zwVsr7N9aO4X3dH+P+uoIhKMDSaz+BOgU=",
+      "publishedTime": "2020-05-01T22:26:32.0Z",
+      "ref": "v0.0.1"
+    }
+  },
+  "unpublished": {}
+}

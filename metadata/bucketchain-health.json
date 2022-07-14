@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "Bucketchain",
+    "githubRepo": "purescript-bucketchain-health"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1947,
+      "hash": "sha256-PJMdspQNsH+E9JZoCID5PfSKMemtUtLoxCLm4rRajSA=",
+      "publishedTime": "2018-11-19T14:43:18.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1941,
+      "hash": "sha256-S7rEIzBvBizF7yksnoTEfz1H9iEBtXDWb8Bw3Spt9P8=",
+      "publishedTime": "2018-12-20T02:20:47.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 1967,
+      "hash": "sha256-LFCDo5pIyl26QBT+Mn9kofZ6blqYwathPOPrzjTKNZ8=",
+      "publishedTime": "2021-03-02T07:06:00.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

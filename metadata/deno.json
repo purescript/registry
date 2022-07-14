@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "njaremko",
+    "githubRepo": "purescript-deno"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 7416,
+      "hash": "sha256-sU5sfzmV3A9JTLrhxEBmw7TvONLzoH659xb4DsmyDHE=",
+      "publishedTime": "2022-06-22T23:56:44.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 7335,
+      "hash": "sha256-UPmyM1nOkZwu4dnrIaPdCBcmMJwZuL2yKmww0suazJA=",
+      "publishedTime": "2022-06-23T00:00:58.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 8444,
+      "hash": "sha256-wnTpbyGo0Zc6PcNITmKHBiCU8kt7ARlRSssjyS2JxfE=",
+      "publishedTime": "2022-06-23T22:28:25.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 9716,
+      "hash": "sha256-LLGqP+gPD9VXu05N0d84JrjmiolWhv3x8FsoyoyRVrU=",
+      "publishedTime": "2022-06-23T23:50:53.0Z",
+      "ref": "v0.0.5"
+    }
+  },
+  "unpublished": {}
+}

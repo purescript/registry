@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "yehzhang",
+    "githubRepo": "purescript-materialize"
+  },
+  "published": {
+    "0.1.3": {
+      "bytes": 33004,
+      "hash": "sha256-uStV9Zr7LisZE1iP55PvxHWux0GlsuOcQ8ZaLWBtEGc=",
+      "publishedTime": "2018-07-20T03:27:45.0Z",
+      "ref": "v0.1.3"
+    },
+    "0.1.4": {
+      "bytes": 33026,
+      "hash": "sha256-Wzz11A/5vUHSEzidnes93wV8hP2OaPVIXYLyNqVZXmA=",
+      "publishedTime": "2018-07-20T03:44:53.0Z",
+      "ref": "v0.1.4"
+    },
+    "0.1.5": {
+      "bytes": 33040,
+      "hash": "sha256-yM8GWqYOF+s9dqfQSkg2rOSbEbcOTYyJR3qwKzyJ1XI=",
+      "publishedTime": "2018-07-20T04:26:43.0Z",
+      "ref": "v0.1.5"
+    },
+    "0.1.6": {
+      "bytes": 33290,
+      "hash": "sha256-v3zm8tF96T4vskoKT6ZU3qyRHgH+ls2TIZaS585be1g=",
+      "publishedTime": "2018-10-23T03:09:19.0Z",
+      "ref": "v0.1.6"
+    }
+  },
+  "unpublished": {}
+}

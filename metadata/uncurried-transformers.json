@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "PureFunctor",
+    "githubRepo": "purescript-uncurried-transformers"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 8101,
+      "hash": "sha256-MnPDHwcB55/MA8H1t7lrmLiMH4uM6WjlkiwQt2jo7Ho=",
+      "publishedTime": "2022-05-17T02:23:52.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 8884,
+      "hash": "sha256-wF+mHIYVcnCjHGuxp0V9kvTASV7Q+jmzPXxiEanBGWk=",
+      "publishedTime": "2022-05-17T03:15:48.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 9082,
+      "hash": "sha256-uy5VXKuw7CEq9x3Dj9f67Di+KqBp+KRkEDRXuK4D5gY=",
+      "publishedTime": "2022-05-22T12:44:27.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

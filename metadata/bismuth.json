@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-bismuth"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3076,
+      "hash": "sha256-dbe3cTnObxtQTcJV9t+FPHNzEXnalpF+H0xreMj4N+A=",
+      "publishedTime": "2017-12-04T21:18:41.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3231,
+      "hash": "sha256-8rMI/cC+X2U0ZwSE06dDw6jwqsXm9Zl28DVtTpEcJs8=",
+      "publishedTime": "2017-12-06T08:52:16.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3637,
+      "hash": "sha256-zOsW6r1L4pWAxDzHupJnv8rRaBIYqwogV0+E3C8noNk=",
+      "publishedTime": "2017-12-06T12:56:24.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 3657,
+      "hash": "sha256-Xp+30AyPzn51KsyGw3WmKFZttfQZygxCocDkeoJN+0Y=",
+      "publishedTime": "2017-12-07T21:47:35.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

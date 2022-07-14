@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "sharkdp",
+    "githubRepo": "purescript-gametree"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2384,
+      "hash": "sha256-4QED/hAPdSI3OyKzzpHfTfrEkyhNHxlFkgb4JAsI5nk=",
+      "publishedTime": "2016-08-26T19:41:03.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2387,
+      "hash": "sha256-4KNX8uoxkvpru3lSx5UvLC3pCMeTwTeMeu2KlJbs0Lw=",
+      "publishedTime": "2016-10-29T16:07:20.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2394,
+      "hash": "sha256-pa2Fv88euKnr36Bd4fSYhEZv2i8IG6jLPoQv1/xLWuU=",
+      "publishedTime": "2017-04-15T20:04:40.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

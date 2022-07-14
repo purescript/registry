@@ -1,0 +1,135 @@
+{
+  "location": {
+    "githubOwner": "purescript",
+    "githubRepo": "purescript-enums"
+  },
+  "published": {
+    "0.2.2": {
+      "bytes": 2440,
+      "hash": "sha256-gKelgtyX6lfYkihs/GZXffmQurPIRwzv96arAjcRu9c=",
+      "publishedTime": "2014-10-16T22:50:24.0Z",
+      "ref": "v0.2.2"
+    },
+    "0.2.3": {
+      "bytes": 2587,
+      "hash": "sha256-YfSSuuBT+Kb8kJqMyrHx3kZK6bQyIKHPSxS26cgZOaQ=",
+      "publishedTime": "2014-10-18T12:05:03.0Z",
+      "ref": "v0.2.3"
+    },
+    "0.2.4": {
+      "bytes": 2580,
+      "hash": "sha256-vcnfnT29WJFSiVVCWmlEsoU7ezZN4E1L21AQpkbIs9E=",
+      "publishedTime": "2014-10-31T15:29:55.0Z",
+      "ref": "v0.2.4"
+    },
+    "0.3.0": {
+      "bytes": 3907,
+      "hash": "sha256-u8iqAJieHSTddjAUDpecuw6LTkKxwTky2+9NLGOHzt4=",
+      "publishedTime": "2014-12-01T20:38:07.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 3915,
+      "hash": "sha256-qHos+GEGxerDwy38BX3AQPSbB9opVD6FDrFJoKEeaHY=",
+      "publishedTime": "2015-02-16T06:17:36.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.4.0": {
+      "bytes": 4090,
+      "hash": "sha256-Vntamj7jcxcBuSKMSzeYh3MgzNzFgoQgfWiJzviTMiY=",
+      "publishedTime": "2015-02-21T12:59:57.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 3668,
+      "hash": "sha256-bdyDk4T99sC7aT/7Sg928yiFuhIjiWD7dM7uQllv0EQ=",
+      "publishedTime": "2015-06-07T19:33:36.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 3799,
+      "hash": "sha256-0qlpQ8j8Pu4mk+V3kYN8mKf0eF+DXWOp2uVhRYmKf28=",
+      "publishedTime": "2015-08-02T15:52:08.0Z",
+      "ref": "v0.6.0"
+    },
+    "0.7.0": {
+      "bytes": 3796,
+      "hash": "sha256-BxVpItZOvSzpj6lVYhJ29J+UAfGMAUGp3khemN5S6F0=",
+      "publishedTime": "2015-08-13T14:12:24.0Z",
+      "ref": "v0.7.0"
+    },
+    "1.0.0": {
+      "bytes": 3981,
+      "hash": "sha256-wKqlVSfShmwDhJA3iapWF7oKRVJ38SxTEMNJPaFEkaQ=",
+      "publishedTime": "2016-06-01T02:34:46.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 4108,
+      "hash": "sha256-wRs5oJCKZAlidz5bkMTDkbs91FMiOBQupnro4+aH8sU=",
+      "publishedTime": "2016-08-17T01:40:53.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 4146,
+      "hash": "sha256-nrO02WvvpWaz9+Skp/tR2uexzZHAyoc/VtPzh1tZloc=",
+      "publishedTime": "2016-10-09T22:36:51.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 4108,
+      "hash": "sha256-I8BWhPOoXmIyUrBNTQRO4gQfEwI4n3o/WW3WExmjIOc=",
+      "publishedTime": "2016-11-10T23:38:15.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 4016,
+      "hash": "sha256-6PaGKYz5eS6d3oeb1zVTQW7LDxzEbX0XVyN7uAT+pPo=",
+      "publishedTime": "2017-03-26T20:32:35.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.1.0": {
+      "bytes": 4246,
+      "hash": "sha256-JlembxnN04RHDnlaS8zdJyED4XdJn8fHgBuRzdkZc9s=",
+      "publishedTime": "2017-06-08T20:27:28.0Z",
+      "ref": "v3.1.0"
+    },
+    "3.2.0": {
+      "bytes": 4361,
+      "hash": "sha256-15xapOPnahF0NYHXrPNbx6/mJULG0n3GXqLMI6/sXa0=",
+      "publishedTime": "2017-06-11T19:36:56.0Z",
+      "ref": "v3.2.0"
+    },
+    "3.2.1": {
+      "bytes": 4729,
+      "hash": "sha256-JMTrPXisUVuHoz2Ry6HEaVxEGrsIAQIg9aUrbmwlius=",
+      "publishedTime": "2017-07-29T17:09:53.0Z",
+      "ref": "v3.2.1"
+    },
+    "4.0.0": {
+      "bytes": 5351,
+      "hash": "sha256-TCRWNSU+a7prF1M0NOODJewmi4l2edUjKlrArL3yKJA=",
+      "publishedTime": "2018-05-23T19:33:57.0Z",
+      "ref": "v4.0.0"
+    },
+    "4.0.1": {
+      "bytes": 5428,
+      "hash": "sha256-JM+cadmYltXaRg7Z7T04dAAXue8Mpm5I585ieQAXqCg=",
+      "publishedTime": "2019-01-31T22:40:52.0Z",
+      "ref": "v4.0.1"
+    },
+    "5.0.0": {
+      "bytes": 6446,
+      "hash": "sha256-lATo9v2tTSkQ5e7u+lCKhNH3Z/SimUbJ37KRB0zkT2I=",
+      "publishedTime": "2021-02-26T18:53:42.0Z",
+      "ref": "v5.0.0"
+    },
+    "6.0.0": {
+      "bytes": 6440,
+      "hash": "sha256-jFvWps4NMwoaugk23pCa8XLNDJkLvtJ9BVTo2HBwpYE=",
+      "publishedTime": "2022-04-27T21:14:46.0Z",
+      "ref": "v6.0.0"
+    }
+  },
+  "unpublished": {}
+}

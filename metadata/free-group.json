@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "hrb90",
+    "githubRepo": "purescript-free-group"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1219,
+      "hash": "sha256-fOfBRb+QT2fhlk0aiYn5B/JCeEEcOcZW6m4D8Ckjwjc=",
+      "publishedTime": "2017-12-05T02:51:58.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 1260,
+      "hash": "sha256-z3+SPxur7Lw3BWnyJaiH+AulZKK6i8yb1YSQuBEqCm8=",
+      "publishedTime": "2017-12-06T00:10:25.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 2161,
+      "hash": "sha256-MXnAN6ls0ETy96ifdR3TddtRm7HX1KliDD1/Qs0L6Ec=",
+      "publishedTime": "2017-12-07T22:04:00.0Z",
+      "ref": "v1.1.1"
+    },
+    "1.1.2": {
+      "bytes": 2177,
+      "hash": "sha256-GcNNeoA7qvji9+zIsGxv7gFhuLhjxUS8sikyL33Kczs=",
+      "publishedTime": "2017-12-11T03:46:07.0Z",
+      "ref": "v1.1.2"
+    },
+    "1.1.3": {
+      "bytes": 2221,
+      "hash": "sha256-P780RNiUQIkGr5Z444BOf/7/+WTcf7YMrhfKx0lerZ8=",
+      "publishedTime": "2017-12-28T17:34:21.0Z",
+      "ref": "v1.1.3"
+    }
+  },
+  "unpublished": {}
+}

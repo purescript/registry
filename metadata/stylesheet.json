@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "danieljharvey",
+    "githubRepo": "purescript-stylesheet"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 6746,
+      "hash": "sha256-vmmuEjvplDFwbj20RIZnIgFyb7a/CXFKRhdVEa8+7V0=",
+      "publishedTime": "2019-07-26T12:52:17.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 6977,
+      "hash": "sha256-uXpBo1q5X2jHVjxS5JDXUxHV+YJ5fK+OYvm/hksOHzY=",
+      "publishedTime": "2019-07-29T13:31:14.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 6261,
+      "hash": "sha256-TWpSme8JLrLVXMAkdOG+698r+riwgdArXuqTanbf65k=",
+      "publishedTime": "2019-07-30T18:53:19.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "LiamGoodacre",
+    "githubRepo": "purescript-tagged"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1868,
+      "hash": "sha256-QeaYILFr52kOmSo6hwEUNU3nU69BLd5xYB7uP5eukdo=",
+      "publishedTime": "2017-02-19T11:34:22.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 1874,
+      "hash": "sha256-KyzSkk8J3d2j+uWL6l8+AOTg2pyIP9lGTE56g//yTzs=",
+      "publishedTime": "2017-07-22T14:32:14.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 1926,
+      "hash": "sha256-LgwTc1gCBzO7SfMcPiqfc4F6EQVCyZ2BhQMSLqLbcOM=",
+      "publishedTime": "2018-05-29T22:58:52.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

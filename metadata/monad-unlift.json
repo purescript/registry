@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-monad-unlift"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 1908,
+      "hash": "sha256-tOi2tnKsfqEeLdIDqO3hT5hAAUVoauqZaCz7MC68rr8=",
+      "publishedTime": "2018-02-16T21:42:28.0Z",
+      "ref": "v0.0.0"
+    },
+    "1.0.0": {
+      "bytes": 1907,
+      "hash": "sha256-8cRbq7F5paOg3a4cHGeGbgrW4cXrhaURPMl1lGI7RW8=",
+      "publishedTime": "2018-10-26T02:12:29.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3296,
+      "hash": "sha256-VFNskaMmEeR5bat7uK8fUxybI+7f4nD681WojDZ1SL8=",
+      "publishedTime": "2020-04-29T23:38:44.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

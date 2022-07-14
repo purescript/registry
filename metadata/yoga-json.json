@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "rowtype-yoga",
+    "githubRepo": "purescript-yoga-json"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5302,
+      "hash": "sha256-WS7wIO/TLBH6j/GNm9lrc6JueRNUK6YZHtV9zCVFe1I=",
+      "publishedTime": "2022-05-10T17:05:00.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 7021,
+      "hash": "sha256-Kx8Yv99JnDZSTet58vlH7JqZuVYt2dRbg9IKw1JGPn4=",
+      "publishedTime": "2022-06-10T14:36:49.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 8808,
+      "hash": "sha256-+dWMFpA1rMq3DYbIrDF2R82WiM0glCZaXtAM7Ho4vDw=",
+      "publishedTime": "2022-06-11T19:13:29.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

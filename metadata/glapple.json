@@ -1,0 +1,63 @@
+{
+  "location": {
+    "githubOwner": "yukikurage",
+    "githubRepo": "purescript-glapple"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 12870,
+      "hash": "sha256-zBpqAp7eIycVchngkXjZKdxyRKS/z3BLYKA8y+DzM+o=",
+      "publishedTime": "2021-11-23T09:27:22.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 13917,
+      "hash": "sha256-l4qww3mJgFMYTUoMQbad0ZrBAwpxfoWTmrzakkYM/3I=",
+      "publishedTime": "2021-11-23T16:39:23.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 14194,
+      "hash": "sha256-j9s0JSWf8vPxsYBSrZXnTzTmFyb5WY/ZNCPL3iStuC8=",
+      "publishedTime": "2021-11-24T10:34:36.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.0": {
+      "bytes": 14594,
+      "hash": "sha256-IZHCXBLg4xLAZaTXiycsErodbVsD8rCVGB5z6ejmJDg=",
+      "publishedTime": "2021-12-10T23:34:09.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 14612,
+      "hash": "sha256-N2Vl/XOg8EUxFcDgghu+B3I/QsriRQP+m/fvYkX/aHA=",
+      "publishedTime": "2021-12-11T03:54:54.0Z",
+      "ref": "v1.1.1"
+    },
+    "2.0.0": {
+      "bytes": 16056,
+      "hash": "sha256-HjEjMxAphrD9Y+GDUQruOAcrOa03F++jezIlznbJwKo=",
+      "publishedTime": "2022-04-01T16:27:38.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 16022,
+      "hash": "sha256-8vXgcUH5MP7KWP8wGdq0UR2c8P8lN28NQXPCZ+x2qBE=",
+      "publishedTime": "2022-04-01T16:30:25.0Z",
+      "ref": "v2.0.1"
+    },
+    "2.0.2": {
+      "bytes": 16024,
+      "hash": "sha256-0ozdz9MIWD0L8hQXIrl0vNCcfclgXLL8nvQPy/MKQN8=",
+      "publishedTime": "2022-04-01T16:38:18.0Z",
+      "ref": "v2.0.2"
+    },
+    "2.1.0": {
+      "bytes": 16073,
+      "hash": "sha256-TTajqEtWFcg+7OzoCoIq5VmLHLm9HXfYhV13r4TX1ms=",
+      "publishedTime": "2022-04-02T15:48:36.0Z",
+      "ref": "v2.1.0"
+    }
+  },
+  "unpublished": {}
+}

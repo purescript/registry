@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "maxdeviant",
+    "githubRepo": "purescript-which"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2559,
+      "hash": "sha256-LtCkKesbBYsHK/sAut4iibLXpLwS+qXzL/Ud2JU0O90=",
+      "publishedTime": "2020-09-26T03:06:51.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2837,
+      "hash": "sha256-jBsANQ3N1FKUarYbL6KzRj8Gc90W2nHyXyD+Ba2LydI=",
+      "publishedTime": "2021-07-30T01:25:06.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "cdepillabout",
+    "githubRepo": "purescript-words-lines"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2357,
+      "hash": "sha256-OAQ4o1krC4ASp+SuTA2sdlvNEdWtBzo0QYgxaX0oVI0=",
+      "publishedTime": "2016-02-01T16:37:49.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2367,
+      "hash": "sha256-XBcowLRsOLOkQzWsaQYC58zLV9sBIGxWe9dkbTQQWGc=",
+      "publishedTime": "2016-02-02T13:46:27.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 2366,
+      "hash": "sha256-j6ijvfYmGqCfm1K9eLEfU6Z8qL7EKDeR05c8L3rMIMQ=",
+      "publishedTime": "2016-04-29T15:05:06.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 2365,
+      "hash": "sha256-0WK+4BfLq3CFH+JyK0GcAG0vVM5/NNnFDMjYRggF/3U=",
+      "publishedTime": "2016-04-29T15:10:54.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 3203,
+      "hash": "sha256-SsG+DEpwpui/sEUXU7MtQchy37tJL2Q4vawvJZfqddU=",
+      "publishedTime": "2016-04-29T15:17:02.0Z",
+      "ref": "v0.0.5"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "Unisay",
+    "githubRepo": "purescript-jsonrpc"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2666,
+      "hash": "sha256-MzsmvgGP0rGWcfgi1bjt55Wvz7IGXRnV+QBeuBrkDsE=",
+      "publishedTime": "2017-09-30T16:21:32.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2769,
+      "hash": "sha256-BsdRzFIGTbt+Fbp8ifV/DUDtPC5pkCGa+BDbRxV2SnU=",
+      "publishedTime": "2017-10-01T13:08:10.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 2920,
+      "hash": "sha256-m9nFH1nrZe9KA/SgzNp3sbhoOnlSPHcSE5b+39IidSQ=",
+      "publishedTime": "2017-10-01T15:10:30.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 3091,
+      "hash": "sha256-mn/gHU4+QaP9KNfXvkwfwCE3tzRR2CNEMqYijzY1pRk=",
+      "publishedTime": "2017-10-01T19:05:29.0Z",
+      "ref": "v0.2.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,81 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-search"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5677,
+      "hash": "sha256-Z+nKRUO5iK6sRN1GsQPL4efx/XsFLXUj5Lz+0wcIJrM=",
+      "publishedTime": "2015-03-05T01:14:20.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 5407,
+      "hash": "sha256-wT94TeBqy6elLytgMa4wfAjAELR/zpqL3SsZx6eUOaQ=",
+      "publishedTime": "2015-04-07T16:00:02.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 5704,
+      "hash": "sha256-2QKfxV6xEKpKNFMknJARuyFYRY2ZDXXJ2Z89K/S8MeE=",
+      "publishedTime": "2015-07-10T16:03:53.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 5880,
+      "hash": "sha256-iP8Do8p8sDgkJlSVFJGxwh9kg78HsshEGhPZtpBjf2A=",
+      "publishedTime": "2015-09-21T22:40:43.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 5830,
+      "hash": "sha256-BPnWnotF5flYUkbs/jK8T3s8//ukcu9MNmIXF1HKJWg=",
+      "publishedTime": "2015-11-16T11:34:10.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 6541,
+      "hash": "sha256-X7XvSJ7yITXE7V2k5v6cWxoWZ+OlF6MR9xx7RATr1CU=",
+      "publishedTime": "2015-11-30T17:43:40.0Z",
+      "ref": "v0.6.0"
+    },
+    "0.7.0": {
+      "bytes": 6517,
+      "hash": "sha256-JkhtiFTJ6hF+G819ygGMR9dJbIR7RgIuZQVug+L7hrQ=",
+      "publishedTime": "2016-04-22T19:41:48.0Z",
+      "ref": "v0.7.0"
+    },
+    "0.7.1": {
+      "bytes": 6586,
+      "hash": "sha256-zglUfttwVwBOKZJ8BmX1Dgc9oG1DDTxVorJVRtjHj+U=",
+      "publishedTime": "2016-05-20T17:20:53.0Z",
+      "ref": "v0.7.1"
+    },
+    "0.7.2": {
+      "bytes": 6569,
+      "hash": "sha256-AIoaCqDtV5bTKCooeT2jUt5jbOCVFx3N8ZDnmznGbfk=",
+      "publishedTime": "2016-05-20T19:15:45.0Z",
+      "ref": "v0.7.2"
+    },
+    "1.0.0": {
+      "bytes": 6484,
+      "hash": "sha256-nLhgGSbgnCHRdPHh1Y03c7hCkXW3KOuJhOTygrWVdHA=",
+      "publishedTime": "2016-07-22T11:21:16.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 6498,
+      "hash": "sha256-+rlEuPwpcJsgxdMg2ynsveIt1F/+BfZHh1jN6qy3cZw=",
+      "publishedTime": "2016-11-03T15:28:24.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 6426,
+      "hash": "sha256-t2NV4fq8TzbjB3UDS49rDSrFPYWgQ5MwXIIPY1crtpA=",
+      "publishedTime": "2017-04-11T20:12:26.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

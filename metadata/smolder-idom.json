@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "mbid",
+    "githubRepo": "purescript-smolder-idom"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2069,
+      "hash": "sha256-Zhr659WWrlbHPdhLkjT7gbHVAxW11/F89AbzPZeom4c=",
+      "publishedTime": "2017-05-05T11:50:20.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2068,
+      "hash": "sha256-ljm+17s9+bNd9AmG8HBkeIUn0WqWqWCyeZFeDTXpmlM=",
+      "publishedTime": "2017-05-05T12:56:03.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2057,
+      "hash": "sha256-uSannYDrORJpMpLAuJiEBYHtrk5IQ/PWCKLvZbVtRtI=",
+      "publishedTime": "2017-05-07T14:24:46.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 2382,
+      "hash": "sha256-2tJCKd86OG3XpJ0KWU2tx9KlEah1cnMDVLaVUVhrJ/Q=",
+      "publishedTime": "2017-05-11T12:45:41.0Z",
+      "ref": "v0.1.3"
+    }
+  },
+  "unpublished": {}
+}

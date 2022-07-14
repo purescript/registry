@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "jamesdbrock",
+    "githubRepo": "purescript-node-streams-aff"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5879,
+      "hash": "sha256-qNA8Hsh+ZAVYhxCo6PK+gWPIh0gMoNnwYl4wvwPmH/4=",
+      "publishedTime": "2022-05-25T16:09:57.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 5860,
+      "hash": "sha256-uDYep9zyp78XgmKw0Zr9oeq142RDlwPhEV+wC0gVC18=",
+      "publishedTime": "2022-05-26T09:32:06.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 5985,
+      "hash": "sha256-fU+nkMiAZ4f5EqAWfZ7KKU5qVFMB8LBZe0q/E3sMeNo=",
+      "publishedTime": "2022-05-31T09:29:36.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 6167,
+      "hash": "sha256-xTZ5gXEBE2CgA5jwDnM/wn63x0LI7exG93zdilcJr+Q=",
+      "publishedTime": "2022-07-04T07:12:05.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 6408,
+      "hash": "sha256-SJQn7EWVdxFCyYakMxfLtdrrfbpvB4Lz1uPdN9+K970=",
+      "publishedTime": "2022-07-06T16:38:41.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

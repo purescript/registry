@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "coot",
+    "githubRepo": "purescript-argonaut-aeson-generic"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 8434,
+      "hash": "sha256-yAlyVsBTCuNYvxUOiTDNlKTDNQ4dHEvlfCMjKPhWZHk=",
+      "publishedTime": "2017-10-19T13:22:11.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 11574,
+      "hash": "sha256-8hexu+cEGOQpD6jhY8VZhQdlvp4WpC6w54zwjk0XLp0=",
+      "publishedTime": "2020-11-12T23:39:30.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 11705,
+      "hash": "sha256-tOkY2bCK2KdlXb7X0pM9QlnaK4RbradFhHFxIVxlxc4=",
+      "publishedTime": "2021-01-17T11:09:30.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

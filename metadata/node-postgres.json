@@ -1,0 +1,69 @@
+{
+  "location": {
+    "githubOwner": "epost",
+    "githubRepo": "purescript-node-postgres"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3329,
+      "hash": "sha256-6QE2jYReEiPGmzleG17xTFG2M5MTC9268gTJ3BqVdzE=",
+      "publishedTime": "2015-04-25T13:38:11.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4053,
+      "hash": "sha256-ppvATKO2glOluYe5OOe/joRxilOHbdHh8w6zQUz1Vv0=",
+      "publishedTime": "2015-07-14T20:31:29.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 4211,
+      "hash": "sha256-XR34CtlJYhtdZZx8v6NH9S7GGk6Hu++mROYm2gRP0GQ=",
+      "publishedTime": "2016-04-23T22:02:26.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 4210,
+      "hash": "sha256-WKV1q0BKTtXE1P8t2D4XTRD0su0uYo1rLTeKjdRIbD8=",
+      "publishedTime": "2016-04-23T22:20:29.0Z",
+      "ref": "v0.2.2"
+    },
+    "1.0.0": {
+      "bytes": 4355,
+      "hash": "sha256-F/5qlygqiVnY7+AUADLL9zBc86TnpzIjZHGD5fLwO8Q=",
+      "publishedTime": "2016-10-23T08:21:07.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4449,
+      "hash": "sha256-PdxhMFkw+ZTLdgsEEAKihrnT6aKehWs/tIWCjo0TAlw=",
+      "publishedTime": "2016-10-23T10:05:57.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 4466,
+      "hash": "sha256-adDs2hDOT6yVHJpRZXKdpjfCn7/kPu9g0yUJhhWbFyA=",
+      "publishedTime": "2017-09-13T18:49:07.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 4592,
+      "hash": "sha256-nuSQdfsPhl/qGerT05beBeKMcIeVu1j3Y0gspL0Xfsk=",
+      "publishedTime": "2017-10-19T19:23:51.0Z",
+      "ref": "v4.0.0"
+    },
+    "4.1.0": {
+      "bytes": 4611,
+      "hash": "sha256-ZYJ1zkytrAb2u9gMQBTZqz8Nb09WTGd1Xrrrw4dtDTc=",
+      "publishedTime": "2017-12-16T19:23:15.0Z",
+      "ref": "v4.1.0"
+    },
+    "5.0.0": {
+      "bytes": 4430,
+      "hash": "sha256-2VU5cqUmoZarImA24rwRI6t81HW37tok3yFUhFz6V18=",
+      "publishedTime": "2018-06-09T18:58:02.0Z",
+      "ref": "v5.0.0"
+    }
+  },
+  "unpublished": {}
+}

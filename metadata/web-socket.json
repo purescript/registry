@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-socket"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3593,
+      "hash": "sha256-+Xi25F+IuTdzlQkTdzF44SSEBcazBjZdD74Ky+6E9sc=",
+      "publishedTime": "2018-05-25T14:38:40.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3603,
+      "hash": "sha256-/P8T+rr3j4cxua96B2uhQ3ICVdv/5meD3dGL2riqBgk=",
+      "publishedTime": "2019-02-23T18:19:31.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3644,
+      "hash": "sha256-oi1KJJSu3AxjhFZBoE1nASymj7mLG3GQ1LODsP3iOrc=",
+      "publishedTime": "2021-02-26T21:07:50.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 3627,
+      "hash": "sha256-upzEVkJLyg7wFOlaZonzwXewJKX4CQ7s3tR68o5ruTo=",
+      "publishedTime": "2022-04-27T23:33:59.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

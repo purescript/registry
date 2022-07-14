@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-leafletjs"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 14420,
+      "hash": "sha256-EFDmBoSu9Riiwi6M4OWxiCYlUcXpv43URstvDm3UY6k=",
+      "publishedTime": "2017-05-02T15:56:52.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 15234,
+      "hash": "sha256-Bqgy7A8v3LwydEYqPlKISSaOieFNTFMGDP77fMaJt0Q=",
+      "publishedTime": "2017-06-06T14:20:17.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 15245,
+      "hash": "sha256-hpoRwAdH090fFxn1Qe7ccdrzrNCc5HVQb91AUCkJRP8=",
+      "publishedTime": "2017-09-15T13:02:26.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 15372,
+      "hash": "sha256-h5JMOXhZ7Vmzbn7ZabqTfZZOnYixsuy3Gr87Mtva900=",
+      "publishedTime": "2017-10-17T16:17:01.0Z",
+      "ref": "v0.3.1"
+    },
+    "4.0.0": {
+      "bytes": 15364,
+      "hash": "sha256-OTxe1mBWM7xE8B6yx5QwlG/mttK9u4EpRFSOSuGi/Vw=",
+      "publishedTime": "2017-10-17T16:17:01.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 15364,
+      "hash": "sha256-KkBbuaqHNaBF/RhusoQ6tsMiR8EdFvKWnikgquVsK5Y=",
+      "publishedTime": "2018-01-24T15:21:22.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.1.0": {
+      "bytes": 15431,
+      "hash": "sha256-mJ80MH6paQ8dOMnOjOJ1/bfrM1IpLIU2YSSoUMQiShQ=",
+      "publishedTime": "2018-02-13T20:42:41.0Z",
+      "ref": "v5.1.0"
+    },
+    "6.0.0": {
+      "bytes": 15624,
+      "hash": "sha256-fX8w/c328Nu1IH9BjunlIq+fk07YrGfgqCdo/+DqqZY=",
+      "publishedTime": "2018-03-20T22:49:36.0Z",
+      "ref": "v6.0.0"
+    }
+  },
+  "unpublished": {}
+}

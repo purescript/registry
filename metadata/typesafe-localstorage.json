@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "cdepillabout",
+    "githubRepo": "purescript-typesafe-localstorage"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1590,
+      "hash": "sha256-U7paTLsAOgZ0qKpe9wPlZj8FvXKjCnNPfefyivgec7A=",
+      "publishedTime": "2016-01-06T05:29:24.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1906,
+      "hash": "sha256-r15VfDixZNQuWOETCnT+ozzlx1JEkymtOy5j8kZpRZM=",
+      "publishedTime": "2016-02-03T15:35:34.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

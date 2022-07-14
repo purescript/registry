@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "SodiumFRP",
+    "githubRepo": "purescript-sodium"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 8491,
+      "hash": "sha256-0X3DCJzmNpQ9jbYz7DhbRWfqPVu1ZeCCj+v5MJltAv8=",
+      "publishedTime": "2018-08-28T18:43:30.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 8558,
+      "hash": "sha256-nmlT+ebcODaDKKFOmH+a8pqoeek1iHXxa6eSjxHA7xo=",
+      "publishedTime": "2018-08-28T19:23:31.0Z",
+      "ref": "v0.0.2"
+    },
+    "1.0.0": {
+      "bytes": 8447,
+      "hash": "sha256-jj/OpoJqhdgv8DcYT/iw55USFHGzwVJH41w2q0QSP48=",
+      "publishedTime": "2018-08-31T11:09:46.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 8613,
+      "hash": "sha256-Jv76iY5kYLkaQ+3Jz0zY1ta/cD7NIxkkZUdLgOZ5gJI=",
+      "publishedTime": "2018-09-06T21:49:48.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 8647,
+      "hash": "sha256-U+TsaXEbvfoEmXFaum0ohIAOjvZ/zP4yH82j+k2Yx0I=",
+      "publishedTime": "2018-09-13T19:47:02.0Z",
+      "ref": "v2.1.0"
+    }
+  },
+  "unpublished": {}
+}

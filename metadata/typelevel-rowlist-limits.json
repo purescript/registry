@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "mwalkerwells",
+    "githubRepo": "purescript-typelevel-rowlist-limits"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 4583,
+      "hash": "sha256-QkriXdg4nh6KeMOiR2LUXwxdRYbb08yMJTyXFU4QwRc=",
+      "publishedTime": "2020-04-04T20:32:32.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 4492,
+      "hash": "sha256-dJYxDWUODXmX90cy6WsGnmuEw8+tsMSQZjp0hAm9K88=",
+      "publishedTime": "2020-04-04T20:41:12.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 4482,
+      "hash": "sha256-TybMSIcAG+mcPN8Cit+0mrkDnu/gH8LB+LhTs5jkwzU=",
+      "publishedTime": "2020-04-04T20:44:08.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.6": {
+      "bytes": 4470,
+      "hash": "sha256-Q1Ob6poEA49vQF6xnjNdMgri1jo1s6QIil7WwXl99Jo=",
+      "publishedTime": "2020-04-10T04:10:36.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

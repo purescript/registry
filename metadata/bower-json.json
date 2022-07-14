@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "klntsky",
+    "githubRepo": "purescript-bower-json"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2944,
+      "hash": "sha256-Sr7Y2ia56BbB3GoAObVRnuFYNtyrQZrY6Us9bv97ebs=",
+      "publishedTime": "2019-08-09T21:07:09.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 3865,
+      "hash": "sha256-9P1Zord+PiXMozAOPQcC6fAtVu73y6dW7QBrLvEX29A=",
+      "publishedTime": "2019-08-10T10:27:20.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 3893,
+      "hash": "sha256-RBYizL3oFPvhAg6IHNzRI+jzm93k8V06dgX4W/2wE+o=",
+      "publishedTime": "2019-08-30T11:55:40.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3920,
+      "hash": "sha256-jPDvilrtCvisRd8qdFS3hECKb3YnZGl+Z7LVEHhAoxw=",
+      "publishedTime": "2020-06-29T07:11:41.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3877,
+      "hash": "sha256-dgv7ColYQNboLxOl9MjzGU20ZkgygzDQDzRezqURteo=",
+      "publishedTime": "2021-03-08T12:29:58.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-intervals"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2934,
+      "hash": "sha256-+J8DiHSiEdq7nOh0SslD+VsWSgORywmXA7Ad/SFW8Sk=",
+      "publishedTime": "2018-05-07T22:06:50.0Z",
+      "ref": "v0.0.1"
+    },
+    "1.0.0": {
+      "bytes": 4137,
+      "hash": "sha256-QW0DSlkyHT/G9WezkUwhj4OAi71TCEzxSCGqdI22MWo=",
+      "publishedTime": "2018-05-11T07:30:36.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4543,
+      "hash": "sha256-SGgRCtnREA4DzW3HG3/bjsxv7ux4lGlf6fve18t4AH0=",
+      "publishedTime": "2018-05-11T09:40:33.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 4563,
+      "hash": "sha256-jDZjne2Lep6F/N9DBfRYdxRs8q0LXW4wT+Gcj+VuxT8=",
+      "publishedTime": "2018-05-11T11:13:13.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 4571,
+      "hash": "sha256-eBPbFkAZ/y9E/9QDe80mdk09qIvLrJJVlfegvh/7wTQ=",
+      "publishedTime": "2018-05-11T21:18:41.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.1.0": {
+      "bytes": 4590,
+      "hash": "sha256-SFCPazI4+UG8Sti7a2boRclHbaCGM7cwF/+tzWc2ni4=",
+      "publishedTime": "2018-05-29T22:06:41.0Z",
+      "ref": "v3.1.0"
+    },
+    "3.2.0": {
+      "bytes": 4602,
+      "hash": "sha256-lInaXHlwOzxsI0yRLDcvZG+jE/DJsJqYA8SSaVZutPg=",
+      "publishedTime": "2018-05-29T22:09:17.0Z",
+      "ref": "v3.2.0"
+    },
+    "4.0.0": {
+      "bytes": 4589,
+      "hash": "sha256-cZDA1m3I2iiw03P+QPIR3YBSSMdUVSgDpQRchacZ/so=",
+      "publishedTime": "2018-10-23T15:06:55.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

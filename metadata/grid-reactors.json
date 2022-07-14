@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "Eugleo",
+    "githubRepo": "purescript-grid-reactors"
+  },
+  "published": {
+    "3.0.0": {
+      "bytes": 15874,
+      "hash": "sha256-764z0b1ExIeOm733VcXP23JDD/oWDgtzjLRbyUy+1UQ=",
+      "publishedTime": "2021-11-18T22:11:55.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 16331,
+      "hash": "sha256-yl2TBfpIpNpUGnWs2acI26znqEDX8whB3qWIdqc74CA=",
+      "publishedTime": "2021-11-25T18:11:12.0Z",
+      "ref": "v3.0.1"
+    },
+    "4.0.0": {
+      "bytes": 17574,
+      "hash": "sha256-4OmW8HXQ4ZmZBI+9gZC37INJffvFu8tHzl3JYgea+6g=",
+      "publishedTime": "2022-01-25T18:23:09.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

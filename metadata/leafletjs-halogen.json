@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-leafletjs-halogen"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6074,
+      "hash": "sha256-3MoWKyAOT/eFEOWyfVBvXI3oFi6RJ9hGYm9ntzWT8x4=",
+      "publishedTime": "2017-06-07T13:10:49.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 6076,
+      "hash": "sha256-tt4PeZgcSsmxu0fQpvUfOeL+iOtFvdE2DWgEDgXNGE0=",
+      "publishedTime": "2017-09-15T13:48:06.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 6071,
+      "hash": "sha256-sH6w26dlY8FjZiVI2nqvTFb0Uqbv92LJ2MGU/b88xqw=",
+      "publishedTime": "2018-01-24T15:11:49.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 6066,
+      "hash": "sha256-sWktDufdj5lGUxI1Hl0UaVF6lv3qd0CSnMjjH37Rr/s=",
+      "publishedTime": "2018-01-24T15:37:00.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 6066,
+      "hash": "sha256-1/n28KNONt3D7D/GEddbIy0cHXdlKBg82h8d1fLqD6Y=",
+      "publishedTime": "2018-03-20T23:09:30.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

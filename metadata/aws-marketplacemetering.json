@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-marketplacemetering"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 6199,
+      "hash": "sha256-Gt5qoefhIwTtXz5B1TWZ58e6WxTp5guLbv22JrEcSIo=",
+      "publishedTime": "2018-03-10T21:08:18.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.1": {
+      "bytes": 6213,
+      "hash": "sha256-hn1OU11ekJlJHaIv3XZuT++WbA18DL0V0RERo+X5hD4=",
+      "publishedTime": "2018-03-12T18:08:52.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 6185,
+      "hash": "sha256-M+Sp79faQFtnP+48wozOwn1vlTKd2Du4u0HbIvW93pE=",
+      "publishedTime": "2018-03-13T13:37:20.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 6377,
+      "hash": "sha256-wDebp1wCe28+oBmdtKjhagB8aamIkMa7JjXOeetFkPM=",
+      "publishedTime": "2018-03-28T16:45:32.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 6337,
+      "hash": "sha256-ZhTB05rSpT8yYenmFBBnhkr+PlRx64plsnCpb7b9N/0=",
+      "publishedTime": "2018-04-26T13:28:35.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

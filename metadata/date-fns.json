@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "tancc",
+    "githubRepo": "purescript-date-fns"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 7595,
+      "hash": "sha256-Om654/SrUDjIqS/ioXgKRHwWU7+vbeH4zXD7RtiDbsk=",
+      "publishedTime": "2018-05-06T13:03:01.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 7578,
+      "hash": "sha256-0yJlvuNmLf1KqxTn6b21mfq8OUuoZy9r6ef2ATG0m8I=",
+      "publishedTime": "2018-05-06T13:10:14.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 7561,
+      "hash": "sha256-GRMzXU6cj+gOrPqnxIsNlLi7XpmghB7vWzhHwlNIxw0=",
+      "publishedTime": "2018-05-06T13:13:33.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.0.3": {
+      "bytes": 7548,
+      "hash": "sha256-ZrCS4V37KGLBiiFobWSRDWrez4k4j4qnZIXG5qZO6aU=",
+      "publishedTime": "2018-05-06T13:16:50.0Z",
+      "ref": "v1.0.3"
+    }
+  },
+  "unpublished": {}
+}

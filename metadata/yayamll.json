@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-yayamll"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 972,
+      "hash": "sha256-71NaRwxBeDjwa9pI7Ow11WRw+N0i7/Wdem5/uBPQ8fg=",
+      "publishedTime": "2018-04-14T06:58:45.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 972,
+      "hash": "sha256-UQr+Z9y4PlQPOveyDY1u8lpXbdOLeyHEBav+Y5h07Tw=",
+      "publishedTime": "2018-04-14T07:00:25.0Z",
+      "ref": "v0.0.2"
+    },
+    "1.0.0": {
+      "bytes": 986,
+      "hash": "sha256-IfUgoRjVHW8ccmT3qUcoeTdU6u6JnG3paAeu2rYcmKo=",
+      "publishedTime": "2018-04-18T03:09:39.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 980,
+      "hash": "sha256-jBuY4aj/j9Zp1yDzMvSkepah95yqDsKwhHIpCsAbP/Y=",
+      "publishedTime": "2018-10-23T18:26:19.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 981,
+      "hash": "sha256-doMRJcs3kJFNgCEJWSLuDbmbecmohZpsMtTSSmiRvCg=",
+      "publishedTime": "2019-06-11T00:11:13.0Z",
+      "ref": "v1.1.1"
+    }
+  },
+  "unpublished": {}
+}

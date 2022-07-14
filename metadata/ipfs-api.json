@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "chfi",
+    "githubRepo": "purescript-ipfs-api"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2329,
+      "hash": "sha256-iG//Cadouv9S0e2+dxMMCxVvlOXHH1OVRdtHb2qQZXk=",
+      "publishedTime": "2017-09-07T11:47:15.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2342,
+      "hash": "sha256-j4S52p/t8naefMhevO8wdszmY5pj9NVIpGdjC8j8Bkw=",
+      "publishedTime": "2017-09-13T15:22:50.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 2241,
+      "hash": "sha256-zAzSj4e26dQXchC/QucAPGLIAIXTLIWg40h19/RGx1E=",
+      "publishedTime": "2018-01-27T14:20:16.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 2917,
+      "hash": "sha256-11AWgnj3wiRnsMc11rB1fGWwXsZqIVhfOSSeACf0N1U=",
+      "publishedTime": "2018-02-21T13:43:05.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

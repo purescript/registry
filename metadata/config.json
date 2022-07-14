@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "TinkerTravel",
+    "githubRepo": "purescript-config"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2156,
+      "hash": "sha256-7TxfxxmR/54pnoiGlGprKaIa2ByaXMx8vxcDEyQb0Zk=",
+      "publishedTime": "2017-04-07T12:02:08.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2787,
+      "hash": "sha256-z+qHRanqCiILhn5sWWSa6AAKZ5QH1O6o54zj1/RwiRc=",
+      "publishedTime": "2017-04-07T12:37:31.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 3024,
+      "hash": "sha256-sh5BiNfeW+KdpDC0g12zG5zRdhQ1sUacBGJPtdbc+r8=",
+      "publishedTime": "2017-04-07T13:15:33.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 3308,
+      "hash": "sha256-aMZN0DdB1E08qq2FqijlbEhgYNox4V3VD9eqUTnpliA=",
+      "publishedTime": "2017-04-07T14:43:20.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 3898,
+      "hash": "sha256-YneSzp5d0FTtSiA24y3LV4LkunJNqZ98Yf+eYMYormQ=",
+      "publishedTime": "2017-04-07T18:12:57.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 3866,
+      "hash": "sha256-kl2MSYmL2YYj4lfVFswhqH1WJc8S4Hl8W60VUEM5Dw0=",
+      "publishedTime": "2017-04-09T21:41:57.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

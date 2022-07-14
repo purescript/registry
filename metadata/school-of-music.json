@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "newlandsvalley",
+    "githubRepo": "purescript-school-of-music"
+  },
+  "published": {
+    "1.1.1": {
+      "bytes": 16528,
+      "hash": "sha256-OuOqK32rg/sFiVtdTF4UPFaOWWWnUHs+HLe2Jt+lWG8=",
+      "publishedTime": "2018-02-04T08:33:52.0Z",
+      "ref": "1.1.1"
+    },
+    "1.2.0": {
+      "bytes": 16098,
+      "hash": "sha256-FdCJwT1aYFJbWTPONEXjJO1BNr+9d+rORzuakmAHt9s=",
+      "publishedTime": "2018-07-19T09:47:57.0Z",
+      "ref": "1.2.0"
+    },
+    "1.2.1": {
+      "bytes": 15659,
+      "hash": "sha256-+VjyRIrDPzgrZF2f9VAKHy2XGfjRz9gV56nSoQzmjP8=",
+      "publishedTime": "2019-05-13T16:27:37.0Z",
+      "ref": "1.2.1"
+    },
+    "1.2.2": {
+      "bytes": 15645,
+      "hash": "sha256-bLud3J5sWc0a7+7TmkHU3Idk6RhEfZDAEnR4qzNuhrg=",
+      "publishedTime": "2019-07-30T07:19:52.0Z",
+      "ref": "v1.2.2"
+    },
+    "1.2.4": {
+      "bytes": 17120,
+      "hash": "sha256-mm2iK/DbU0h4MGj95jWNWjpk+ZayL314EpDqnlVAY6Q=",
+      "publishedTime": "2020-12-06T18:35:23.0Z",
+      "ref": "v1.2.4"
+    }
+  },
+  "unpublished": {}
+}

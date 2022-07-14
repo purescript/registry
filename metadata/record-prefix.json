@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "dariooddenino",
+    "githubRepo": "purescript-record-prefix"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1112,
+      "hash": "sha256-igqbcoRfR7xt6tne9trxRnQprf2aEsPqKOv2bnK8F7A=",
+      "publishedTime": "2018-09-13T12:31:13.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1210,
+      "hash": "sha256-ywrkkZ32drN6DDhTAKjxfiQgIZ6rCjNz0omd503zS+o=",
+      "publishedTime": "2018-10-15T15:04:28.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 1229,
+      "hash": "sha256-DjaSQ2pmeJt3cWSuxdY8J+lmTXAoZ37j3x8M8ujbRa4=",
+      "publishedTime": "2018-10-15T15:08:04.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.0": {
+      "bytes": 1225,
+      "hash": "sha256-lhUeSjWvtPQqsdIICqMgiyi2w0UN36X1JDZ0kP61F8U=",
+      "publishedTime": "2018-10-15T15:11:34.0Z",
+      "ref": "v0.3.0"
+    },
+    "1.0.0": {
+      "bytes": 1270,
+      "hash": "sha256-f558XeTg9Aa8aEES9kkMHwq66FiWi8kD1Wc+YXtgUy4=",
+      "publishedTime": "2019-10-28T15:44:06.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2667,
+      "hash": "sha256-nGE0I6e7O0Q70kKo+vFkizBwrmQG+9tlmtKug5RUQtE=",
+      "publishedTime": "2021-11-17T15:05:12.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

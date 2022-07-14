@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "JoelLefkowitz",
+    "githubRepo": "purescript-maps-eager"
+  },
+  "published": {
+    "0.2.0": {
+      "bytes": 3222,
+      "hash": "sha256-vP55+GLQG+POll2ayE0uEvjRxYkIrmWwZHWlVcbOgkA=",
+      "publishedTime": "2021-06-01T20:25:06.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3260,
+      "hash": "sha256-uiUqpgaztJTRMRznMvsxeJFyxhq4zoJ4p8AiS7fShMw=",
+      "publishedTime": "2021-12-05T19:47:07.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 3263,
+      "hash": "sha256-YJ+hfkTkxLFyXjERIqKYdGbaw54xNc5zihWzUdkx7Cw=",
+      "publishedTime": "2021-12-05T22:04:38.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

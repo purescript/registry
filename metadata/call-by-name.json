@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "natefaubion",
+    "githubRepo": "purescript-call-by-name"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2959,
+      "hash": "sha256-10f9BEFhbDMg2HJtqUXH5fpNQkaKSX5fz5+hzKCoiH8=",
+      "publishedTime": "2018-08-16T16:13:54.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2968,
+      "hash": "sha256-wxxN/8BPb9oMoRRWiJjRknWtE85Zab77pckivTelV5o=",
+      "publishedTime": "2019-07-30T15:13:39.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2952,
+      "hash": "sha256-lJzAhH5Z3U3S+qgj+1oQxJfXeOG6koWx5Mj+0jfgXAQ=",
+      "publishedTime": "2021-03-04T22:24:23.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 3082,
+      "hash": "sha256-0iTUITlPIBZ9O5RHSexBkdCCrWpU+yjESu4U559WJhE=",
+      "publishedTime": "2022-05-03T18:06:46.0Z",
+      "ref": "v4.0.0"
+    },
+    "4.0.1": {
+      "bytes": 3082,
+      "hash": "sha256-39S1txy21NmZddzDuz4ZzGVP8pn25Pdew/KKWrl620I=",
+      "publishedTime": "2022-05-03T18:13:15.0Z",
+      "ref": "v4.0.1"
+    }
+  },
+  "unpublished": {}
+}

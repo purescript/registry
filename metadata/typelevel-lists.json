@@ -1,0 +1,63 @@
+{
+  "location": {
+    "githubOwner": "PureFunctor",
+    "githubRepo": "purescript-typelevel-lists"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4108,
+      "hash": "sha256-R/x3u3kG5gp3EMNhmQ6M/g1ZNqoMBckjTm63/xu4j1Y=",
+      "publishedTime": "2021-01-11T15:08:27.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4348,
+      "hash": "sha256-6vUJtX+vBckq2v6xyno+S74adPAlRGDgsDGhYTUSMJc=",
+      "publishedTime": "2021-01-12T06:38:33.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 4262,
+      "hash": "sha256-7w7y1dVTBQSrHGDnLIGAFWtWQzEA2hnuTv0JolKCVL0=",
+      "publishedTime": "2021-01-12T10:00:30.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 4264,
+      "hash": "sha256-cm7gIa+6yicyLMKdBZizkJMNQ2Nvm8di4pDIL8eUReg=",
+      "publishedTime": "2021-01-13T06:11:49.0Z",
+      "ref": "v0.3.1"
+    },
+    "1.0.0": {
+      "bytes": 3897,
+      "hash": "sha256-mCRzGeDiT8OE9meS20DwlKASY5MiaEwIQrTibyV0mXs=",
+      "publishedTime": "2021-03-16T08:07:18.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 4130,
+      "hash": "sha256-HnhDik/LxK2ybLTS1eSYaQF970EJ+3R3NuReGUYr6cs=",
+      "publishedTime": "2021-03-29T15:47:23.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 4664,
+      "hash": "sha256-kgCnoCUYP4iSKDRHVo+XRAcCRq7Ggqx6rBmluFc0p98=",
+      "publishedTime": "2021-04-16T16:19:00.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 4668,
+      "hash": "sha256-fLzqQNS1EApxluB4FheeGL0sMKVp76jXJg8ldDJCrvc=",
+      "publishedTime": "2021-04-16T16:23:12.0Z",
+      "ref": "v2.0.1"
+    },
+    "2.1.0": {
+      "bytes": 4562,
+      "hash": "sha256-DQhEfh5rvsLYh+Ql397aTLzF99ZBwFVrgPPhH/4EBR8=",
+      "publishedTime": "2021-11-17T05:31:46.0Z",
+      "ref": "v2.1.0"
+    }
+  },
+  "unpublished": {}
+}

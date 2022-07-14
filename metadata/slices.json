@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "jacereda",
+    "githubRepo": "purescript-slices"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3362,
+      "hash": "sha256-mUY+ARFJt40rIPtvDG5wz5eBS8w69bXpFuT4oK7isz8=",
+      "publishedTime": "2017-04-11T20:31:45.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 3362,
+      "hash": "sha256-ohrhRk4B00WK5yV5LHgB1Yf6c08WWs4DVsBACEjm/rk=",
+      "publishedTime": "2017-04-11T20:34:33.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 3353,
+      "hash": "sha256-HDqu65D661SeLEhWFFfVxUgvUw1J95PklkGO6I4XSDs=",
+      "publishedTime": "2019-06-04T20:31:33.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

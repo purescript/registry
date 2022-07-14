@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "joneshf",
+    "githubRepo": "purescript-optic"
+  },
+  "published": {
+    "0.3.0": {
+      "bytes": 5996,
+      "hash": "sha256-Xh6sfPrh4BBPU0P8TrlljaGPbzyUlSB37vHpLnzzTLQ=",
+      "publishedTime": "2015-01-20T03:13:01.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 6399,
+      "hash": "sha256-01/NffyWkTrQRbNrgND0caJWrSEc7070jEA1P+uVLPY=",
+      "publishedTime": "2015-02-21T17:17:14.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 6391,
+      "hash": "sha256-nuQmPIaAsg/pju1fTYAK2As2Qx1ZZJ9mZpT/+9J8XJk=",
+      "publishedTime": "2015-04-13T17:15:24.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.7.0": {
+      "bytes": 5278,
+      "hash": "sha256-RUs52/7x+JwX8gMburjCuGvqCvVGIHE7IMPJYD6zH50=",
+      "publishedTime": "2015-08-19T13:52:39.0Z",
+      "ref": "v0.7.0"
+    },
+    "0.8.0": {
+      "bytes": 5194,
+      "hash": "sha256-ylijP5036gRnBoqMFiYufBt2m/HMjbXHyFqteud1IIQ=",
+      "publishedTime": "2015-08-19T14:19:16.0Z",
+      "ref": "v0.8.0"
+    },
+    "0.9.0": {
+      "bytes": 5313,
+      "hash": "sha256-kSd5hLs2dYN28s/MtZVdLgL2iUqy08mPMpm4KR/Z7OQ=",
+      "publishedTime": "2015-11-10T14:44:41.0Z",
+      "ref": "v0.9.0"
+    },
+    "0.9.1": {
+      "bytes": 5382,
+      "hash": "sha256-8Ads/EWLilVbStegTzM8MXg1zpqzafjsb0ZcaCDsPhI=",
+      "publishedTime": "2015-11-10T14:47:02.0Z",
+      "ref": "v0.9.1"
+    }
+  },
+  "unpublished": {}
+}

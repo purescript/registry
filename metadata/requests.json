@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "chrisdotcode",
+    "githubRepo": "purescript-requests"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 13597,
+      "hash": "sha256-RkQ8KFjuhmy75dHsje8GRVD4nbBEiRo6Yo2ZTx40cCQ=",
+      "publishedTime": "2017-01-26T07:14:44.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 7425,
+      "hash": "sha256-Tb11+DViDc8Gi7pXAUlCS65n/Gig21/YPWMMV5arWgU=",
+      "publishedTime": "2017-01-27T00:05:52.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 7425,
+      "hash": "sha256-FLVn9bjxorJyYu6dxM4dyEjfgqi/GM9AMXqno+FT76I=",
+      "publishedTime": "2017-01-27T00:11:11.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 7656,
+      "hash": "sha256-B4/LTRuiXRwsCv/wZ9jjgsCb+VdwtCF5NkbvRheNH44=",
+      "publishedTime": "2017-06-05T07:46:43.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

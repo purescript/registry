@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "labordynamicsinstitute",
+    "githubRepo": "metajelo-web"
+  },
+  "published": {
+    "1.0.2": {
+      "bytes": 12353,
+      "hash": "sha256-+3Bxa+ULIzZg7TuUQb6jQER6fhzXu/QFKhSfVxciNJY=",
+      "publishedTime": "2019-07-11T15:14:49.0Z",
+      "ref": "v1.0.2"
+    },
+    "2.0.0": {
+      "bytes": 13304,
+      "hash": "sha256-/1MJtV3epo0PmieBGKr/RIPuMUBXnF8D8WwiAQzNUe8=",
+      "publishedTime": "2021-02-05T16:20:40.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

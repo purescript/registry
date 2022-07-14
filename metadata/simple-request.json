@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "Thimoteus",
+    "githubRepo": "purescript-simple-request"
+  },
+  "published": {
+    "3.1.0": {
+      "bytes": 3920,
+      "hash": "sha256-HAfSoQP9vButaYGvelhj0y9Q1LBHPdFcDDKkdl1L5u0=",
+      "publishedTime": "2016-06-16T01:38:44.0Z",
+      "ref": "v3.1.0"
+    },
+    "3.1.1": {
+      "bytes": 3919,
+      "hash": "sha256-RbM87KuHcQBYvq7Vx+nmsN+ChwszKUQHPVPoHmaIcwA=",
+      "publishedTime": "2016-06-21T21:29:52.0Z",
+      "ref": "v3.1.1"
+    },
+    "4.0.0": {
+      "bytes": 4027,
+      "hash": "sha256-hfaX/ulD3HNG+BzCK5Qet5wIo38O9iwqWdu7b5TO1+Y=",
+      "publishedTime": "2016-08-14T03:49:27.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

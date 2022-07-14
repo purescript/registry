@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-vnm-utility"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 3332,
+      "hash": "sha256-mN6kasR3pMgC/O4INLY4qgCLoLEf+2FDDSnDXN18wlk=",
+      "publishedTime": "2018-05-07T22:53:05.0Z",
+      "ref": "v0.0.1"
+    },
+    "1.0.0": {
+      "bytes": 3514,
+      "hash": "sha256-StAlztotA8jyFKBbnXNHB+Nza3Edy/qdrINgfV4EZYw=",
+      "publishedTime": "2018-05-11T10:30:36.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3558,
+      "hash": "sha256-0p6IpMrJENVIhl1d8xApY0TGinUhRyfrXOMdt8uYSWE=",
+      "publishedTime": "2018-05-29T22:17:06.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3607,
+      "hash": "sha256-EmkEjWeiMjIzpAJVCWo2hEdgAlW8xAf9vrr3q/518w4=",
+      "publishedTime": "2018-10-23T15:51:19.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "mbuszka",
+    "githubRepo": "purescript-record-fold"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2914,
+      "hash": "sha256-0VWO6jifvOj7MIrMxRqIRt2grMZNVMKCt57aPdClOGE=",
+      "publishedTime": "2018-04-09T10:10:29.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.3.0": {
+      "bytes": 3119,
+      "hash": "sha256-+WTRczymU2AkhP8A0wwvCyBwGKjaXR7rtGq4OQV0oTc=",
+      "publishedTime": "2018-04-20T13:28:45.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 3116,
+      "hash": "sha256-ht/47QF5WU3RNDMG1DfZfEgQUi93F5E5GN0dupgM+uw=",
+      "publishedTime": "2018-10-13T18:31:00.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

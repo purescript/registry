@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "f-o-a-m",
+    "githubRepo": "purescript-eth-core"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 7332,
+      "hash": "sha256-6N8SIrKaFt3bM7tkXHU5TiPHh0aajqJvP2GUHl3UNOw=",
+      "publishedTime": "2018-04-17T21:24:46.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 7325,
+      "hash": "sha256-YwLBjok9IgM0rN9FUCx9bDglrdq0odIjURuS2ijA5xc=",
+      "publishedTime": "2018-05-07T19:04:58.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 7647,
+      "hash": "sha256-2tL0wapOolUaM56z8SKDwDupXbP78YWQ3JybJoreBB0=",
+      "publishedTime": "2018-05-09T19:54:21.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 7636,
+      "hash": "sha256-Jvsqqy8qo+KANzVNGUd4zQTrzz5RJJnJZ2qn1S3XNWI=",
+      "publishedTime": "2018-05-24T15:21:33.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 7629,
+      "hash": "sha256-+CvBlkiul+V6Qhp7tiSA2f5hUIcLJi1BDNFRiVuHg4c=",
+      "publishedTime": "2018-05-24T15:21:33.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 7782,
+      "hash": "sha256-9J3Eb0JdDDnTBJsRooDp+EIwm6W8DZwRHO8VXSc5hXY=",
+      "publishedTime": "2018-11-29T13:50:01.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 7865,
+      "hash": "sha256-bHfMSinOoD2tfHxOY/WN66YLoDNyNi/0prb2u8sMqKI=",
+      "publishedTime": "2019-08-21T21:30:44.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 7944,
+      "hash": "sha256-HoIBGuc7h/DplyzajTltI/AcwW9h1/692LYWavFeDjo=",
+      "publishedTime": "2019-10-01T09:02:55.0Z",
+      "ref": "v5.0.0"
+    }
+  },
+  "unpublished": {}
+}

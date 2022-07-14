@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "JordanMartinez",
+    "githubRepo": "purescript-vexceptt"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4300,
+      "hash": "sha256-S+b0MI2kq6H70cCxnK4bZqnxE1+0+UxX1mL4AgiiMBU=",
+      "publishedTime": "2021-03-25T20:15:01.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4391,
+      "hash": "sha256-1wXwYAoBw7NRWFS5G8JTqCJ4FiuMnjudsIQWQuFYJnE=",
+      "publishedTime": "2021-05-22T14:03:24.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 4391,
+      "hash": "sha256-zpDClkZAZ9EIcLz6iO+PrynRG/ubaV+BpB8EQX7JwgQ=",
+      "publishedTime": "2021-05-31T19:33:16.0Z",
+      "ref": "v1.0.2"
+    }
+  },
+  "unpublished": {}
+}

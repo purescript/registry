@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "markfarrell",
+    "githubRepo": "purescript-parsing-repetition"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2545,
+      "hash": "sha256-ydBDilsvOALkm0WAXpNNvVrMK/meXbI9GAlunQ4KGpc=",
+      "publishedTime": "2020-06-04T22:45:10.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2544,
+      "hash": "sha256-7iz6usNh8kvm2zuKbZj3XR2gOjqwqR397Vqrosp0GKo=",
+      "publishedTime": "2020-06-19T21:29:23.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 3983,
+      "hash": "sha256-IMCqtLNeLVL5TQgAJmJnZ/QjCCsXgdMQCT2idNfllPs=",
+      "publishedTime": "2020-07-27T17:00:47.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 3973,
+      "hash": "sha256-qG8u7QAqZCYYGuB6FB+zELrxQc5F0b6yz+9o5WJN0l4=",
+      "publishedTime": "2020-07-27T17:02:05.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 4065,
+      "hash": "sha256-yS5Id9LVas0BboC/RvuvdMH0ryvZ9wKXiRg3J/yhQmo=",
+      "publishedTime": "2020-07-27T17:19:28.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 3967,
+      "hash": "sha256-oG+2dy6BiGQ5WA1BfKaUl8HdPA3VXH85hWEgCP7EAWg=",
+      "publishedTime": "2020-09-03T21:41:52.0Z",
+      "ref": "v0.0.6"
+    },
+    "0.0.7": {
+      "bytes": 3998,
+      "hash": "sha256-hYe/5oK0wGNH+6kLtvoHSnPQ8KdWlTX9zlM1BQediTk=",
+      "publishedTime": "2021-12-09T07:17:51.0Z",
+      "ref": "v0.0.7"
+    },
+    "0.0.8": {
+      "bytes": 4001,
+      "hash": "sha256-MMXWHdG8zHjdStBrTKW6Y3YWBDznDcZdMYEylYGOAwc=",
+      "publishedTime": "2021-12-09T07:26:30.0Z",
+      "ref": "v0.0.8"
+    }
+  },
+  "unpublished": {}
+}

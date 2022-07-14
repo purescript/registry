@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "mgmeier",
+    "githubRepo": "purescript-webgl-examples"
+  },
+  "published": {
+    "1.0.1": {
+      "bytes": 10759,
+      "hash": "sha256-5eIOj2s3CyuDnrfBCRg2APuhTLksVwG2f3lAbT+wqGs=",
+      "publishedTime": "2016-10-04T09:09:14.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 10728,
+      "hash": "sha256-WnqWvJ9WkB9L/svkYaNz9Bp26VWJesa4ClE/nORA7jQ=",
+      "publishedTime": "2016-10-04T09:14:02.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.0": {
+      "bytes": 10863,
+      "hash": "sha256-alxbaJm1XK2rnu4hVSe97kRsEt9Iv/r8h6hIMXUErFs=",
+      "publishedTime": "2016-10-19T12:06:00.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 10874,
+      "hash": "sha256-U6gpDXYZAk6UGJ8bwyeoL5Fj7zZWbpzrqlEZPdwBSU4=",
+      "publishedTime": "2017-01-16T15:06:25.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.3.0": {
+      "bytes": 10714,
+      "hash": "sha256-R8rVdqBHotEnEL4JvHiFilKknzDcIa5RPSl+Kt3A1cU=",
+      "publishedTime": "2017-09-25T09:55:17.0Z",
+      "ref": "v1.3.0"
+    }
+  },
+  "unpublished": {}
+}

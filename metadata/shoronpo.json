@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-shoronpo"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2340,
+      "hash": "sha256-xF5bL+NP/oMmeDe2/mcEv5iJkF6mTP0T9Lcd96MpwTQ=",
+      "publishedTime": "2018-06-04T17:43:17.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2341,
+      "hash": "sha256-UbRgmWdDrRUXsl4eCBBqiJe6KsYYk7Lokz2LqdBvLBE=",
+      "publishedTime": "2018-06-09T11:44:31.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2446,
+      "hash": "sha256-ZZY0DumzmzjmYbA2zOLhcsdo5oObSVCq+I8iC5Dpb7o=",
+      "publishedTime": "2018-06-09T12:20:21.0Z",
+      "ref": "v0.3.0"
+    },
+    "1.0.0": {
+      "bytes": 2445,
+      "hash": "sha256-mkbiClx6yOvYY57q1tLYa7IZPF7yr1rtVWHxiDO1Ch8=",
+      "publishedTime": "2021-12-15T13:09:55.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "mckayb",
+    "githubRepo": "purescript-airconsole"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4616,
+      "hash": "sha256-O4IlzkDP7KquSup+esVyzTl+Gt0zbYpCPSS2XNCYaoc=",
+      "publishedTime": "2017-06-01T01:23:40.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 4746,
+      "hash": "sha256-ga9AD1LrcDGDmEd1xlcfPdZIcSObQrvOV29ppgi+OKI=",
+      "publishedTime": "2017-06-01T02:08:04.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 4350,
+      "hash": "sha256-S5YfTnGk3ipeqSkr8Lo6lQY131wkyqENLJYlb3unKBY=",
+      "publishedTime": "2017-06-11T20:52:16.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 4191,
+      "hash": "sha256-QtqfBbt41NIFS5dO6q7aebk5+KeTtgUu3EXUAcIaw14=",
+      "publishedTime": "2017-07-03T19:05:48.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 4216,
+      "hash": "sha256-q1R9gvoKgKi1g3zYzOoMbJPTT3952WJBB6nCwQTf4AA=",
+      "publishedTime": "2017-07-21T19:58:56.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "jqyu",
+    "githubRepo": "purescript-paxl"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5807,
+      "hash": "sha256-feQVlp3HsJ/u09/D4m2F6DshbNG7cqiVbfe8PsDATOE=",
+      "publishedTime": "2018-03-19T01:36:24.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 5991,
+      "hash": "sha256-YAe7GqcH4RJVXbNiL2YHL6E6lYZMnIBXz/F/u+04/aY=",
+      "publishedTime": "2018-03-19T04:40:19.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

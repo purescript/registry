@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-causal-graphs"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1572,
+      "hash": "sha256-2W3VaTHI+KtRK/xkc1fnlp5DEa5Sy83o3DFYD14F4JQ=",
+      "publishedTime": "2019-06-11T00:00:41.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 2063,
+      "hash": "sha256-aSg9dg5dfygfYHjd9EHWG9yHn2jQ617nCpZvUm3WTKE=",
+      "publishedTime": "2019-06-13T20:15:13.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2325,
+      "hash": "sha256-pQlYRem9yoCsHAUSaIz/e2mvKwK79Nafvud2ZPNC2Hk=",
+      "publishedTime": "2019-06-25T23:42:52.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2484,
+      "hash": "sha256-CSstHhe9BUc/O1EYfIYKceAZEMtTKWVnSRhM0aA5H2g=",
+      "publishedTime": "2019-06-26T00:54:40.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 4889,
+      "hash": "sha256-pF1xH6x/gAlHvb416AWdVZR9iGUdQYKpCW8XaqvMr+U=",
+      "publishedTime": "2019-11-04T00:42:22.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.4.1": {
+      "bytes": 4923,
+      "hash": "sha256-SsgNFvj+6unYSFxzNjPGQ4MlZ13SrfIQkZqjMZn+gCU=",
+      "publishedTime": "2019-11-20T02:20:00.0Z",
+      "ref": "v0.4.1"
+    }
+  },
+  "unpublished": {}
+}

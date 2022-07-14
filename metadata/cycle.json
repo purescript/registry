@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "TylorS",
+    "githubRepo": "purescript-cycle"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2282,
+      "hash": "sha256-JGpLfN8dSG92s1XOer4rGSQQRhYddWC8Faw8lgp9u+g=",
+      "publishedTime": "2016-05-26T20:22:53.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2308,
+      "hash": "sha256-Xb6qXuYQNmFvENUl8zCYF5sue0fPkdS+zHfmtEOVfVc=",
+      "publishedTime": "2016-05-27T19:31:14.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

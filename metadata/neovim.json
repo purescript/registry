@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "player-two",
+    "githubRepo": "purescript-neovim"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 8474,
+      "hash": "sha256-SSKp/q5jjUtt4amH2vQaoBrpnVLSlrcrbeG8aSQuPY8=",
+      "publishedTime": "2016-06-22T05:59:45.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 8375,
+      "hash": "sha256-vwNBN5GAMfLB3Am2afhMN93glFURSwbYk4uo6rtTFnM=",
+      "publishedTime": "2016-11-06T23:47:04.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 8353,
+      "hash": "sha256-MOmLs7vOcfnhJqaopKhffPmPWsS1MrzBz1+RHQjuboo=",
+      "publishedTime": "2016-11-09T06:33:01.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 8384,
+      "hash": "sha256-nXSkhhtkqFe1oHoAj3PiV4NgeQV3eQqI7nwQS+0ZSyw=",
+      "publishedTime": "2016-11-11T06:28:35.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 8411,
+      "hash": "sha256-Jamnn4nlJ4AtAslu/AO8xz7knS5kaXvaKVlLi5nZKjE=",
+      "publishedTime": "2016-11-14T01:54:57.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 8521,
+      "hash": "sha256-uBmu/nW2Qc9gM9h+m/yt4SaoFQz1Li9YU2dBU3OhDWM=",
+      "publishedTime": "2016-11-24T06:31:56.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

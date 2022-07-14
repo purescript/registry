@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-home-run-ball"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2617,
+      "hash": "sha256-bwoZjse1eEdEAjgWyub0NU2n1ySjX01g9q83NKOFhBU=",
+      "publishedTime": "2017-09-04T18:29:55.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2868,
+      "hash": "sha256-nAk9Uie8nQgz2echqt84t8Y7c6Gb75+4HIWGd4im8MA=",
+      "publishedTime": "2017-09-06T19:00:55.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 2960,
+      "hash": "sha256-wd2UVYIRdfPHWjs789VzHIe6rMX80sdHjt4DKrXp3j4=",
+      "publishedTime": "2018-06-20T20:19:06.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

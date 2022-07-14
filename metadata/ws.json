@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "FruitieX",
+    "githubRepo": "purescript-ws"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 3245,
+      "hash": "sha256-dBncFgnkbGfnz6WneXWC6HbSmQogoLxJyzWq1ySBW6k=",
+      "publishedTime": "2018-02-21T17:08:04.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 3290,
+      "hash": "sha256-NdJztVWrCyQCwggZR+nlsKqH/lbJRsu6eVRkvNk0hXg=",
+      "publishedTime": "2018-02-27T14:31:40.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

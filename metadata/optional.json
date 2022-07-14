@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "erisco",
+    "githubRepo": "purescript-optional"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3780,
+      "hash": "sha256-jlvTeQQAwc4+YzvTDi9UG9SaWiTFYZbkyUF0qY9+6ns=",
+      "publishedTime": "2018-03-18T00:08:37.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3648,
+      "hash": "sha256-WlbrrVkN8w3yn6CADiascEvSa8qliojPQlekd1sdqgk=",
+      "publishedTime": "2018-08-23T01:27:18.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

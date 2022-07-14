@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "LukaJCB",
+    "githubRepo": "purescript-snabbdom"
+  },
+  "published": {
+    "0.2.1": {
+      "bytes": 7070,
+      "hash": "sha256-geeMUn4E9JGX8VODCUIc7+ASmotl7x0CjOhAEQsI82M=",
+      "publishedTime": "2017-02-27T13:52:11.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 7124,
+      "hash": "sha256-5Wo+QzOOdVYwWlZaOAw4zG3IoIDaEeBfSxXEZpi4lBw=",
+      "publishedTime": "2017-02-27T14:02:01.0Z",
+      "ref": "v0.2.2"
+    },
+    "0.2.3": {
+      "bytes": 6738,
+      "hash": "sha256-eZpNNUj2SeW/SVFwJxnU+cRuqmMABYupzvfLnoURp9k=",
+      "publishedTime": "2017-02-27T14:06:31.0Z",
+      "ref": "v0.2.3"
+    },
+    "1.0.0": {
+      "bytes": 6938,
+      "hash": "sha256-zncw6S/S+Mm7zFpg7zndZ9KdzvBZ9jvWw8FQFxIomm4=",
+      "publishedTime": "2017-04-17T00:43:56.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 6900,
+      "hash": "sha256-9R4aYNhvL1lRmY5vvB0syDEqqjumcxRzCAS3vGX1E/A=",
+      "publishedTime": "2018-12-28T19:21:48.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

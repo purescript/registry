@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "TylorS",
+    "githubRepo": "purescript-stream"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 12759,
+      "hash": "sha256-G0nbxB0fGlGkQCqpR6oprZuupcsjEbSFVUWMpi+ck9c=",
+      "publishedTime": "2017-03-16T17:54:24.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 13092,
+      "hash": "sha256-oGr8UYXXKtb1LnUcS5NSuoegnM2knk5tjR15UpJb1SE=",
+      "publishedTime": "2017-03-21T01:38:06.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "hdgarrood",
+    "githubRepo": "purescript-node-irc"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2952,
+      "hash": "sha256-E9mHCryX6cl2gdAwbcx2JveGul/UdJnWmqvrEFnT7Sk=",
+      "publishedTime": "2017-02-08T22:35:05.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3622,
+      "hash": "sha256-dEbnV20wYkCp+lMBWDKh8jMdMf4yAn2nt2G434TSssY=",
+      "publishedTime": "2017-07-15T12:24:49.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

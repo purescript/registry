@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "aykl",
+    "githubRepo": "purescript-css-bem"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1770,
+      "hash": "sha256-sqWSDFAt9DQK0EOLol7vLOTguC9FoVWnyadbirQhHkc=",
+      "publishedTime": "2017-03-19T16:31:08.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1762,
+      "hash": "sha256-ZGSOGeFiJuq7tyt5oiBE/EkGzJ8c974qHEb1KDKaP6E=",
+      "publishedTime": "2017-05-17T00:09:59.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

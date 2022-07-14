@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "artemisSystem",
+    "githubRepo": "purescript-game"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3586,
+      "hash": "sha256-A359p0kfBcpMAWLTc+9ejFXxqxWI52KMLs/69zNkF2E=",
+      "publishedTime": "2019-12-01T21:03:25.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 14903,
+      "hash": "sha256-L1UQee7LNR94JKef1+DcWCABF7tLJHdqUsMvqywLcPI=",
+      "publishedTime": "2020-08-31T19:15:38.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 14747,
+      "hash": "sha256-j43GgAsVDVIPQ3E6xdjXV/Ztk+MMClZG2jMczAC3gMU=",
+      "publishedTime": "2020-11-20T23:14:23.0Z",
+      "ref": "v2.0.1"
+    }
+  },
+  "unpublished": {}
+}

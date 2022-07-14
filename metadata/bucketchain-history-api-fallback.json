@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "Bucketchain",
+    "githubRepo": "purescript-bucketchain-history-api-fallback"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2311,
+      "hash": "sha256-PUuQzTEShbpZHwJIbjOvQqi6CV2+u1K0aBdaI5Bm/BY=",
+      "publishedTime": "2018-11-25T04:16:30.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2310,
+      "hash": "sha256-7c+ZxjwVsoxlj7G6SN1ovm2lvVJlCPwqMSxBkTRXygs=",
+      "publishedTime": "2018-12-20T02:26:37.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2435,
+      "hash": "sha256-3nXY32HzUTuUKoNAcTM9iPolZx5EzDpeE7CEhlEAnEY=",
+      "publishedTime": "2019-08-18T07:11:02.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 2440,
+      "hash": "sha256-etu7x9+IMTBMUg1e2jtd499li5SJMYUsR5l5KsPvVAQ=",
+      "publishedTime": "2021-03-02T06:59:26.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

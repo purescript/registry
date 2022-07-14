@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "bbarker",
+    "githubRepo": "purescript-xpath-like"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2174,
+      "hash": "sha256-ICGSkt9pmP60GwoSqJcCMR9Ozp6ib9FKKuYkKqnrw/k=",
+      "publishedTime": "2019-06-28T02:21:35.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2551,
+      "hash": "sha256-A3eX2vsw7sYlw9LrCgZpjKd2g67CppvEoRamxsy4Sf8=",
+      "publishedTime": "2019-06-28T14:10:33.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 2639,
+      "hash": "sha256-1aGnM3VYxgBogMoF5pLcs1kSDavt5uY86EAA36W4D7A=",
+      "publishedTime": "2019-06-28T15:08:47.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2661,
+      "hash": "sha256-xgZ03XxWbLMsVv8hGokbbgzvZOwNrmr+PcIDGGmwbGs=",
+      "publishedTime": "2019-07-02T20:50:02.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

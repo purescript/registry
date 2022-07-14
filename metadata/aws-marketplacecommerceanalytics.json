@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-marketplacecommerceanalytics"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 4205,
+      "hash": "sha256-lV9uJiJX8lTMYJRtk9uuHu/j12b4vwt1tvBKwMxo+Ns=",
+      "publishedTime": "2018-03-10T21:06:29.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.1": {
+      "bytes": 4217,
+      "hash": "sha256-jivaJ463RXsGPIx8neW2x94I7TauPUkwpmzC5YmYb5g=",
+      "publishedTime": "2018-03-12T18:08:04.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 4189,
+      "hash": "sha256-4z0J7YmR/elwsI+aE3yJVehbK0mHbAGVd7DtBwtUoEs=",
+      "publishedTime": "2018-03-13T13:37:12.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 4380,
+      "hash": "sha256-Y95SWGCx4auRNeUeyqgkaKF5a0owTQuhKCBxrSoQWUQ=",
+      "publishedTime": "2018-03-28T16:45:22.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 4350,
+      "hash": "sha256-j7387O+bqX7PhKgFXTF5Ep2F1z1E0OwqtMIOgq8Qmrg=",
+      "publishedTime": "2018-04-26T13:28:24.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

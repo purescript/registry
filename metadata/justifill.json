@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "i-am-the-slime",
+    "githubRepo": "purescript-justifill"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4162,
+      "hash": "sha256-ypzQxB/buxaDCPl8MqBTvmT7sKgVelyH2ZHjSBMkl8U=",
+      "publishedTime": "2021-01-15T19:57:21.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4070,
+      "hash": "sha256-s6MdsJL566/P0Pxj2x9qQvrRi4sbUMQiH71JB8JT95U=",
+      "publishedTime": "2021-03-03T07:00:58.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 7977,
+      "hash": "sha256-avkaHMMkyQe15SOaJGog+8rTW8wpBCZ2RpnzOIvfOsU=",
+      "publishedTime": "2021-03-10T15:14:41.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 8061,
+      "hash": "sha256-D9/oH6I2ck2MBRwDOt4IExxIaB2looxIhZ2zOgYekj0=",
+      "publishedTime": "2022-04-21T11:17:03.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.5.0": {
+      "bytes": 7958,
+      "hash": "sha256-wuqPDfKD9YXFosihFtgSlRoeW1/Q/LWCk3nRCF2yLno=",
+      "publishedTime": "2022-05-22T19:07:11.0Z",
+      "ref": "v0.5.0"
+    }
+  },
+  "unpublished": {}
+}

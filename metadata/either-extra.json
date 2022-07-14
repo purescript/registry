@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "bbarker",
+    "githubRepo": "purescript-either-extra"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 7487,
+      "hash": "sha256-Utjve8q06iiR2Mi5Udq27dgENOhiR9VRcJwAQ7r/eU0=",
+      "publishedTime": "2021-01-06T21:55:49.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 7582,
+      "hash": "sha256-PUsGfxxbA4J8ischscfbGYqa5b8MnONuU5DJbBzVF1E=",
+      "publishedTime": "2021-01-07T13:17:23.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 7574,
+      "hash": "sha256-rL/OJI/62hzZXpyHYPRlnqavmfVzG1nUTbJVb13mZno=",
+      "publishedTime": "2021-01-11T15:29:33.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

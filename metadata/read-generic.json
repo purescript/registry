@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "Swordlash",
+    "githubRepo": "purescript-read-generic"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4517,
+      "hash": "sha256-tNsKp2Sc3h8GBzRLkGKhyPt2sEU7l4a92KWgJ88PQIM=",
+      "publishedTime": "2021-05-23T20:07:26.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4506,
+      "hash": "sha256-lFvdv11Cau1FI75VQvQOUU06vkNDPQCgl2HlJajS1Ys=",
+      "publishedTime": "2021-05-23T20:12:02.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 4511,
+      "hash": "sha256-7EwZL5grkEiN7kv3/vfwG6Xcf/3J7wTXpeTcib3d6/4=",
+      "publishedTime": "2021-05-23T20:53:22.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.0.3": {
+      "bytes": 4600,
+      "hash": "sha256-kKXXItDMUaBeZ4VnILjPsDSt7yEM2oN+pAzwBvtqozI=",
+      "publishedTime": "2021-05-24T17:36:45.0Z",
+      "ref": "v1.0.3"
+    },
+    "1.0.4": {
+      "bytes": 4648,
+      "hash": "sha256-lAULgXbeprB9R0Smk+8dbI90DvF/oKvna1QmYc8DeH4=",
+      "publishedTime": "2021-05-26T09:43:51.0Z",
+      "ref": "v1.0.4"
+    },
+    "1.0.5": {
+      "bytes": 4719,
+      "hash": "sha256-v4KRrLTN2ftFzFgqzWIaUM9mSUVrpa/XL34/k9EVk9Q=",
+      "publishedTime": "2021-05-26T09:45:55.0Z",
+      "ref": "v1.0.5"
+    },
+    "1.0.6": {
+      "bytes": 4726,
+      "hash": "sha256-yQkqwP2st9ROzH7zUjBHqP1oU3WysFmjc+SExOJHnx4=",
+      "publishedTime": "2021-05-26T09:49:37.0Z",
+      "ref": "v1.0.6"
+    },
+    "1.0.7": {
+      "bytes": 4840,
+      "hash": "sha256-eXKtx+YCJEKlY483btfpS8XKD4pX0mA03Ue7tHI3bH8=",
+      "publishedTime": "2021-05-29T10:41:03.0Z",
+      "ref": "v1.0.7"
+    }
+  },
+  "unpublished": {}
+}

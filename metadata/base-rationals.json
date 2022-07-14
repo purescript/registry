@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "herrzinter",
+    "githubRepo": "purescript-base-rationals"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 19034,
+      "hash": "sha256-ZWHBZ/NgXXfhDFqZ+Pym0QeztS0rS6xf+eRcMQ6v/TM=",
+      "publishedTime": "2017-08-06T08:36:19.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 19038,
+      "hash": "sha256-zFvQ+oT8/euTLJi+/RLCNaBD57FVeLMqEi+Qwm2XLFo=",
+      "publishedTime": "2017-08-06T08:45:04.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 19074,
+      "hash": "sha256-v281zfTjW5LMuNfCdPW7FA/DMm/bW7JAmlOn0TXhAHQ=",
+      "publishedTime": "2017-08-06T19:23:17.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "paf31",
+    "githubRepo": "purescript-signal-loop"
+  },
+  "published": {
+    "1.0.1": {
+      "bytes": 1982,
+      "hash": "sha256-vJ9L5igdRdWTl7cbeh+Pomh4EanhsWdfB7yPG9R7Z/4=",
+      "publishedTime": "2016-08-18T04:12:03.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 2081,
+      "hash": "sha256-pe1pgYZ0uvcj5ooAvi4q4vw0jcsnS0GW7yWnLve/GKo=",
+      "publishedTime": "2017-04-11T05:02:43.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}
