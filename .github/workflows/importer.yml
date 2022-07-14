@@ -1,0 +1,68 @@
+# This workflow automates daily imports of new releases for legacy packages.
+name: Import Packages
+
+# The importer is run every day at 07:00 UTC and can also be run manually from
+# the 'Actions' tab.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.PACCHETTIBOTTI_TOKEN }}
+      PACCHETTIBOTTI_TOKEN: ${{ secrets.PACCHETTIBOTTI_TOKEN }}
+      SPACES_KEY: ${{ secrets.SPACES_KEY }}
+      SPACES_SECRET: ${{ secrets.SPACES_SECRET }}
+
+    steps:
+      # Checks out the registry-dev repository so we can run scripts from it
+      - uses: actions/checkout@v3
+        with:
+          repository: purescript/registry
+          token: ${{ env.PACCHETTIBOTTI_TOKEN }}
+      
+      # We cache NPM and PureScript dependencies, as well as persist the in-memory
+      # cache used by the registry importer
+      - name: Cache NPM dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('./ci/**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Cache PureScript dependencies
+        uses: actions/cache@v2
+        with:
+          key: ${{ runner.os }}-spago-${{ hashFiles('./ci/**/*.dhall') }}
+          path: |
+            ./ci/.spago
+            ./ci/output
+
+      - name: Cache importer artifacts
+        uses: actions/cache@v2
+        with:
+          # This cache directory is meant to be essentially permanent, with cache
+          # expiry implemented in code.
+          key: ${{ runner.os }}-importer-0
+          path: |
+            ./ci/.cache
+
+      # The registry repository uses a number of system tools, so it's necessary we
+      # make them available via Nix
+      - name: Install Nix
+        uses: cachix/install-nix-action@v16
+        with:
+          extra_nix_config: |
+            access-tokens = github.com=${{ env.PACCHETTIBOTTI_TOKEN }}
+
+      # Finally, we can execute the importer.
+      - name: Install dependencies
+        run: cd ci && nix develop --command 'registry-install'
+
+      - name: Run the importer
+        run: cd ci && nix develop --command 'registry-importer' 'update'
