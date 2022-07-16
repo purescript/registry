@@ -5,8 +5,8 @@ name: Import Packages
 # the 'Actions' tab.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 7 * * *"
+  # schedule:
+  #   - cron: "0 7 * * *"
 
 jobs:
   build:
@@ -48,7 +48,7 @@ jobs:
         with:
           # This cache directory is meant to be essentially permanent, with cache
           # expiry implemented in code.
-          key: ${{ runner.os }}-importer-2
+          key: ${{ runner.os }}-registry-importer-0
           path: |
             ./ci/.cache
 
