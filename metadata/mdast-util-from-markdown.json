@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "sigma-andex",
+    "githubRepo": "purescript-mdast-util-from-markdown"
+  },
+  "published": {
+    "0.1.5": {
+      "bytes": 3970,
+      "hash": "sha256-ZcHm3nPMS7/FDz0FWiIjz/SLdD24EP+HV/Pv5rSpBFA=",
+      "publishedTime": "2021-12-16T08:44:47.0Z",
+      "ref": "v0.1.5"
+    },
+    "0.2.0": {
+      "bytes": 3948,
+      "hash": "sha256-QSPpLdp6Y6KpB2iq5wb9U4TqAWQ2OVryiF3adi5MWPM=",
+      "publishedTime": "2022-06-02T15:38:00.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 3853,
+      "hash": "sha256-CBzWA9Gzo2QZiELOfXrW76IvMSPh33Ujnjq2db7uOJw=",
+      "publishedTime": "2022-06-02T15:43:39.0Z",
+      "ref": "v0.2.1"
+    }
+  },
+  "unpublished": {}
+}

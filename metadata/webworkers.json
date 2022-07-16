@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "FrigoEU",
+    "githubRepo": "purescript-webworkers"
+  },
+  "published": {
+    "0.1.1": {
+      "bytes": 2699,
+      "hash": "sha256-s5Ngj2ylXgsbxJtKAo60ZcsZ+0JJy1du8CQEankOf88=",
+      "publishedTime": "2016-10-23T15:51:48.0Z",
+      "ref": "0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2724,
+      "hash": "sha256-YE3Ds9gFZ0laQfnhA+V2NbNAqIpjSaldFr7mbREbGNw=",
+      "publishedTime": "2016-10-23T15:55:27.0Z",
+      "ref": "0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 2735,
+      "hash": "sha256-KlPzC99cpzKteKXqvRn58KH9/C668HcAYsWWLz4NZJw=",
+      "publishedTime": "2017-04-18T06:36:00.0Z",
+      "ref": "0.2.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "hoodunit",
+    "githubRepo": "purescript-kubernetes"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 147313,
+      "hash": "sha256-bkTI7JpjVmWEW43oI7Z5dXICfSXykQehZ/PBb3lg7WY=",
+      "publishedTime": "2018-01-16T17:26:15.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 147334,
+      "hash": "sha256-xKfQ8no68YgF8rtrMNNyY5YluCzwsUnscAecq1a2m0Q=",
+      "publishedTime": "2018-01-16T17:54:05.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 247440,
+      "hash": "sha256-aVe5mXzJp8hh5xHFQXAmvLQvSgs1K6Aqt2u7ur7Ot4Y=",
+      "publishedTime": "2018-01-16T20:54:50.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 214400,
+      "hash": "sha256-b3Z/aM6OdMUK1MGvHa24yp0ldt/auAarvjFMamuVNpo=",
+      "publishedTime": "2018-01-18T13:49:53.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 251178,
+      "hash": "sha256-QJvjtJ3pSibHALt/c0Igd9kXKylgv5vy+AMmtJ40XBE=",
+      "publishedTime": "2018-01-21T15:18:04.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 234798,
+      "hash": "sha256-GqKU10uSQ3h0q3my5M9WCI/VKCgnmcuOIWixpkvBDes=",
+      "publishedTime": "2018-02-06T18:35:28.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 238471,
+      "hash": "sha256-XjOULDg2fX5bUDRmvIZChHKeLZuXaclDXjhLz17VAYQ=",
+      "publishedTime": "2018-03-14T02:51:22.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 236465,
+      "hash": "sha256-PqCHYhvE7JMzHtXllqmvEIiMeW1RfnhPyb0duMhLrO8=",
+      "publishedTime": "2018-08-04T03:19:50.0Z",
+      "ref": "v0.6.0"
+    }
+  },
+  "unpublished": {}
+}

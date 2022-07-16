@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "pselm",
+    "githubRepo": "core"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 36592,
+      "hash": "sha256-b2gjAFXnnOl9st4iiC/9XRjCLEp/fFIK0ghNETMVwic=",
+      "publishedTime": "2016-04-04T03:54:18.0Z",
+      "ref": "v0.0.0"
+    },
+    "1.0.0": {
+      "bytes": 36742,
+      "hash": "sha256-yTpwDQgP9oKJC+4c1L4ydTDlbQkbd0JP6yWcaRSPyHw=",
+      "publishedTime": "2016-04-04T06:24:17.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 37837,
+      "hash": "sha256-21CAevzWpqwST0k1Jw0jfwmEkJ9tg2SbsH2rap5n0B0=",
+      "publishedTime": "2018-04-02T05:07:43.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 38325,
+      "hash": "sha256-7dDzcKFzKUq4chP6jP08a0IPO3rHK0++Zf8cNnQCck4=",
+      "publishedTime": "2018-04-05T19:24:53.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 48649,
+      "hash": "sha256-bSjbLC3z+PFMEI5MgT5LbpmTzQDNjFgJ2SRHrxprGdE=",
+      "publishedTime": "2018-04-11T17:59:46.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

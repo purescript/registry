@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "nonbili",
+    "githubRepo": "purescript-node-fs-extra"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2673,
+      "hash": "sha256-jzsfoD3y3TC9izHQ0x1qwbBKNZ3H8EQqXDTWJj53M+A=",
+      "publishedTime": "2019-07-02T13:26:19.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2717,
+      "hash": "sha256-eiTZYeOE6eFAehlyMq5zUMnN5s5mEzl3UJax2oml4Cw=",
+      "publishedTime": "2019-07-02T23:39:43.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2718,
+      "hash": "sha256-uSRqVOLTzDV3/1CTZIj6cpQhgCaw4V66K3kJfav/MKs=",
+      "publishedTime": "2019-07-03T07:41:15.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

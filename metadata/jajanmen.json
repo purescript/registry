@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-jajanmen"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2819,
+      "hash": "sha256-TJ8Xn9//PZS/kLxaLEdvxc437snes/ZGcjp5aTJjDUo=",
+      "publishedTime": "2018-06-04T17:44:49.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2829,
+      "hash": "sha256-J39qFEJnaAdTyYxPYNPYvob7p41Tc9HEnCN9fNpCc7w=",
+      "publishedTime": "2018-10-04T11:31:54.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 2870,
+      "hash": "sha256-rNM2zybeFjJnAYNINoWclfAlUZ0tjhyAqrMd77Es7PY=",
+      "publishedTime": "2019-03-23T12:41:27.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

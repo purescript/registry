@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "vmchale",
+    "githubRepo": "ppp"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2440,
+      "hash": "sha256-ALKg02ORZ/8FkuPqMiLjV9l9uRQeMp5pKI4bV+WNkRU=",
+      "publishedTime": "2017-11-25T06:24:16.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2553,
+      "hash": "sha256-fYqdkpamPE7PkdXWCldxS8vsosyr2MckWYBnzcHclds=",
+      "publishedTime": "2017-11-25T06:47:52.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 2602,
+      "hash": "sha256-cDkZYGf+uew6GMgj0v84AvtnaHa2+xa0O4rRWipSNeI=",
+      "publishedTime": "2017-11-26T04:48:56.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 2606,
+      "hash": "sha256-gc841S6VT0YrUjqnBqu8nsAjakcw0AHbDT5BxJ5YtYU=",
+      "publishedTime": "2017-11-26T04:53:39.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 2626,
+      "hash": "sha256-mNV4QjOfneZ1GFvIevqHeF689SXPWyyaEUrXqdTnQyU=",
+      "publishedTime": "2017-11-26T06:52:24.0Z",
+      "ref": "v0.2.2"
+    }
+  },
+  "unpublished": {}
+}

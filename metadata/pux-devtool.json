@@ -1,0 +1,69 @@
+{
+  "location": {
+    "githubOwner": "alexmingoia",
+    "githubRepo": "pux-devtool"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3067,
+      "hash": "sha256-LB0dbb2Rhbyhn5Gtb+zT5V1rPmlhxB7DOHzvYlJBpXw=",
+      "publishedTime": "2016-04-19T23:33:02.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 3144,
+      "hash": "sha256-AQ7Trj8vYtAhFW8Zxiw70YDyPwFqShJgWLwEcQGc2Xw=",
+      "publishedTime": "2016-04-20T03:08:38.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 3239,
+      "hash": "sha256-7hXHCPzvlMDXIyrZYglYyxE+K31IfK48UQ0t7bm/FGE=",
+      "publishedTime": "2016-04-21T20:42:25.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 3293,
+      "hash": "sha256-fzeP6tDTJa2bGdJF6yOpCUYMZN4sy9EhJNN8wmk0VfU=",
+      "publishedTime": "2016-05-11T02:04:47.0Z",
+      "ref": "v2.0.1"
+    },
+    "2.0.2": {
+      "bytes": 3288,
+      "hash": "sha256-Lj/sOLi+DKkWJwhaXTuL4Wu1i1vNqMPhE+CWtxYmIUI=",
+      "publishedTime": "2016-05-11T02:08:46.0Z",
+      "ref": "v2.0.2"
+    },
+    "2.0.3": {
+      "bytes": 3311,
+      "hash": "sha256-iTVGkbks8tjChMHw4y0FPZ3l8pZy6hermKLSkSFLG78=",
+      "publishedTime": "2016-05-16T22:27:28.0Z",
+      "ref": "v2.0.3"
+    },
+    "3.0.0": {
+      "bytes": 4509,
+      "hash": "sha256-hdQdIeGl6u0yKLmuE7db0wy8XDXWzOxhXwqNUUMBsi4=",
+      "publishedTime": "2016-06-26T21:19:37.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 4529,
+      "hash": "sha256-SZszKtbtBE3Xpe7mMv2d+NKgK6D9ReWz6e+ZhhzY8XY=",
+      "publishedTime": "2016-08-21T17:58:48.0Z",
+      "ref": "v3.0.1"
+    },
+    "4.0.0": {
+      "bytes": 4534,
+      "hash": "sha256-DXkGSrwNYu5fRjvO1hwe3bHE716ttN3wRoxt1VlVWtA=",
+      "publishedTime": "2016-11-02T16:58:07.0Z",
+      "ref": "v4.0.0"
+    },
+    "4.1.0": {
+      "bytes": 4537,
+      "hash": "sha256-0P2GQeKnELH0I6dz6mVS1ZQiRIJonw4C2YjLlcEoF98=",
+      "publishedTime": "2016-11-02T17:09:28.0Z",
+      "ref": "v4.1.0"
+    }
+  },
+  "unpublished": {}
+}

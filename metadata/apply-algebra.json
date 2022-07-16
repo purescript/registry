@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "morganthomas",
+    "githubRepo": "purescript-apply-algebra"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5497,
+      "hash": "sha256-rD5IUjOwL7xUkKgNl49znO6ImsVmRpD48LPlPoEogJQ=",
+      "publishedTime": "2016-12-21T22:47:59.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 5512,
+      "hash": "sha256-MDEhvOgd+K4ucklTgA6okipCg2qoMI9MDI86og+zjVQ=",
+      "publishedTime": "2016-12-22T04:19:03.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

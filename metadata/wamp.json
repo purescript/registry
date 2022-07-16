@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "kkazuo",
+    "githubRepo": "purescript-wamp"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 4205,
+      "hash": "sha256-uDhyhSHqIoGAo5Tee8OTEF2xB7iuBJZEKD2XeoGZbG4=",
+      "publishedTime": "2017-01-21T17:47:17.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 4519,
+      "hash": "sha256-YgyyBUBxlcng6NTAUPH84zp3eYjGuve02JBCCJ9QECw=",
+      "publishedTime": "2017-01-22T02:26:52.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 4543,
+      "hash": "sha256-YcaJeK3DBovbiqhp2QIhpTPz028J6G3qF+5swtJNx1M=",
+      "publishedTime": "2017-01-22T12:11:55.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

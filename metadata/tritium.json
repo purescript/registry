@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "DevNebulae",
+    "githubRepo": "purescript-tritium"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3065,
+      "hash": "sha256-UUQ74EMN5TbdOjCRnTZp6celxLkuOeWAmIAG9YaozKg=",
+      "publishedTime": "2017-09-14T13:42:42.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3182,
+      "hash": "sha256-v2PNlKzxIruLlFncJAcq98d0f0tKv1s3WwH1AhDy4Xk=",
+      "publishedTime": "2017-09-14T14:08:00.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 3226,
+      "hash": "sha256-bqYu7luGE8d1RbRryP6SeBZgEb7mVRdZnBtWSvXgJ2A=",
+      "publishedTime": "2017-09-14T14:32:01.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.0": {
+      "bytes": 3514,
+      "hash": "sha256-KE5Ys7yAUHTMm+XDcPP4Qh3f3dF1ftOuwmvPlNcabVc=",
+      "publishedTime": "2017-09-14T19:04:17.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-tables-parse"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2056,
+      "hash": "sha256-8G1WgIDV2sQsLm0afUSre9huQMnoOns7QgI6sHLoUoc=",
+      "publishedTime": "2019-01-17T18:31:59.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2058,
+      "hash": "sha256-fl9pQZm5kSpO117xkWaot1qHcH2gu2ZvD55Zf3FRww4=",
+      "publishedTime": "2019-01-17T19:59:46.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 2447,
+      "hash": "sha256-cKsVy8Fn3Cnah7rgkYWsY8tCPlKNw3CaUFN9Pn4pXxM=",
+      "publishedTime": "2019-01-30T02:31:51.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2380,
+      "hash": "sha256-ijADagryXATqq9Z5vdzbogTRQd0qpEElzwHbMnJmfSw=",
+      "publishedTime": "2019-05-28T22:28:33.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2376,
+      "hash": "sha256-V9158SCVSbav/leJtJNBJdSgyjX0kNI+h2S3NYCwG6w=",
+      "publishedTime": "2019-05-31T22:45:04.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

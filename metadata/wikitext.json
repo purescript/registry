@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "AKST",
+    "githubRepo": "purescript-wikitext"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 6586,
+      "hash": "sha256-X5ykI2KAuznqUumJFe1pR43UFrGBd1F1/F62qmssNPo=",
+      "publishedTime": "2015-04-25T04:20:06.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 6755,
+      "hash": "sha256-9aagF2Og1YKEEIEavt4XL/L9/wmyNjLW0p8oHRC2Elc=",
+      "publishedTime": "2015-04-25T04:51:51.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 6772,
+      "hash": "sha256-WNFRM9HfT7jZgsaeJDL7PedPtnasZxZedlc7dZtPbyQ=",
+      "publishedTime": "2015-04-25T05:03:42.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 6638,
+      "hash": "sha256-wZ9td0aaMUWkn1KsiEZVl5zNkjK4hW3KINH08i7mmV0=",
+      "publishedTime": "2015-04-25T06:55:45.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 7065,
+      "hash": "sha256-+ygd7454lLo5RlpswC7AGm3P6SV6vRtWQFPthJCJdx0=",
+      "publishedTime": "2015-04-25T08:29:15.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

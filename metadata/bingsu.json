@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-bingsu"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2195,
+      "hash": "sha256-KlwkF4m8svo8SNhWNuul7oSBPB0jgoThqoJU8oeoXAc=",
+      "publishedTime": "2019-06-20T12:02:51.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2209,
+      "hash": "sha256-p3s+blsZpuZVnnd5HC8EmQi/Ohh06WGkgiA7aZfYDJM=",
+      "publishedTime": "2019-06-22T18:56:42.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

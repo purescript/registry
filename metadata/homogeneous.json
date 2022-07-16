@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "paluh",
+    "githubRepo": "purescript-homogeneous"
+  },
+  "published": {
+    "0.2.0": {
+      "bytes": 6836,
+      "hash": "sha256-gplkliWHwfauvm6uFlThVQ1f5AqkQegnu9jEbjaR+ls=",
+      "publishedTime": "2021-04-15T09:38:13.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 7421,
+      "hash": "sha256-7xRBMCDAFdIOZDdOM4SA8FIASfmWemgJqRzoWHLMZto=",
+      "publishedTime": "2021-04-15T10:18:14.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 6371,
+      "hash": "sha256-snENtIemL/153+AHk7aQXSPzd8DaPUGf2qg/IWYw6nA=",
+      "publishedTime": "2022-06-19T19:50:12.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

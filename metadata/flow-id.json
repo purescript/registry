@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "i-am-the-slime",
+    "githubRepo": "purescript-flow-id"
+  },
+  "published": {
+    "0.1.1": {
+      "bytes": 613,
+      "hash": "sha256-BQCz/Wx/arALeDKuH6GphOYGz8Xq5arud9211fNBM6E=",
+      "publishedTime": "2018-11-21T17:49:57.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 658,
+      "hash": "sha256-iHuRkva1sDDZ8Z/7/SHF5gBm8rw41dih+/Psm4aFNWI=",
+      "publishedTime": "2018-11-21T17:52:16.0Z",
+      "ref": "v0.1.2"
+    },
+    "1.0.0": {
+      "bytes": 654,
+      "hash": "sha256-8YYTQBWtSqpF1Iui/Pmoqf2yguhm4f3DLQ5B2dIqh1s=",
+      "publishedTime": "2019-04-30T12:11:53.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

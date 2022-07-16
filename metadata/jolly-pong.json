@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-jolly-pong"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2889,
+      "hash": "sha256-r4eMXsqTqxjKE/HKIV63Jj7GsURkQ3OxBAGHA6FxfNk=",
+      "publishedTime": "2017-09-17T12:15:13.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3023,
+      "hash": "sha256-LLCgxsTWD5hAYxu+PxkNvPoY3M8VmWybooQ6v8dYNVM=",
+      "publishedTime": "2017-09-21T17:51:15.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 2935,
+      "hash": "sha256-l8vqoxsK/NRybWbFVfDK9y4MRwK3CzjBrRwrkazGKFg=",
+      "publishedTime": "2018-07-31T20:40:57.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

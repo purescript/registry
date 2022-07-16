@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "paulyoung",
+    "githubRepo": "purescript-trie"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5783,
+      "hash": "sha256-cRzavCT+qOlsafFntppgqqFzWFYg1QoVCZnaUmrmWI8=",
+      "publishedTime": "2018-02-04T05:31:31.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 5662,
+      "hash": "sha256-6/om3SM8u7EcLol9gTzCWL2VzAsDA74g0ffT6cj4JTU=",
+      "publishedTime": "2018-02-04T05:40:43.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

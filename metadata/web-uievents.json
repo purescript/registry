@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-uievents"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4746,
+      "hash": "sha256-/+6xRPa9quEhB3gTjJ/GVIrUT+bntfx44yWJN4o6OBE=",
+      "publishedTime": "2018-05-26T23:53:42.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 4882,
+      "hash": "sha256-L0v0F2I4AfYqsgJUybg/EB+pqGeVRgKYH0oGEkeS0ss=",
+      "publishedTime": "2018-12-02T16:39:51.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 4878,
+      "hash": "sha256-61ie/4P39bAh9N+XCrahVeL4CDNZUb3pJWhjetdVTIg=",
+      "publishedTime": "2019-02-23T18:27:00.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 4917,
+      "hash": "sha256-I9YictlO97enyfzgEWfJ0tl70EJyg+JgdTM2+foRF+M=",
+      "publishedTime": "2021-02-26T21:12:33.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 4903,
+      "hash": "sha256-T5si8VisBevDdmQnwnzKnFnyS5fAlsSUWq+7xSBpUBE=",
+      "publishedTime": "2022-04-27T23:58:41.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

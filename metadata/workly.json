@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "cakekindel",
+    "githubRepo": "purescript-workly"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 7217,
+      "hash": "sha256-W8K1o67P1F70owP7Pb/DShHBEabIhdb5l0maGLUfTA4=",
+      "publishedTime": "2021-03-18T21:39:14.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 7210,
+      "hash": "sha256-Asiqu6XAk+AH3V+sTOJ0ZxQ/4XsByjtyB5hoS3P0xo0=",
+      "publishedTime": "2021-03-18T21:43:27.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

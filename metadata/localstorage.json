@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "eskimor",
+    "githubRepo": "purescript-localstorage"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3437,
+      "hash": "sha256-EOEK+0SHbCe0FS5iFbiRKezxRGylf6Bh2xH/a/4M8vw=",
+      "publishedTime": "2016-03-14T10:23:26.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 3490,
+      "hash": "sha256-vrCwJj8L2CLx1r/4+Jm1v9AGIruiX+IhrvaO9P6AX70=",
+      "publishedTime": "2016-03-14T10:26:30.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 3656,
+      "hash": "sha256-A4cw69rgvkg01sAJjX7PfuzEzpMMjyUMNsIAvZm3F4w=",
+      "publishedTime": "2016-03-14T12:48:23.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 3794,
+      "hash": "sha256-bOIksoRnhvZkaiqSx/LYvJKV+NLTePh2I4TTd1xN7Ks=",
+      "publishedTime": "2016-05-03T08:02:28.0Z",
+      "ref": "v0.1.3"
+    },
+    "1.0.0": {
+      "bytes": 3758,
+      "hash": "sha256-UUoI+2XQWO4JtGptn1woLjtx9lq2yA5uYuLsz6Bz3R4=",
+      "publishedTime": "2016-06-22T12:47:39.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4329,
+      "hash": "sha256-eeHZB2BNowIOUE1YYbm3zEVn5fvxoEOg7+lw3I3nBdc=",
+      "publishedTime": "2016-08-10T08:24:46.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.1": {
+      "bytes": 4369,
+      "hash": "sha256-AHqboRsCgDzaMJPquB+JjIJ+lqKXmqcPuhfMPZszAd8=",
+      "publishedTime": "2016-11-29T16:53:13.0Z",
+      "ref": "v3.0.1"
+    },
+    "4.0.0": {
+      "bytes": 4349,
+      "hash": "sha256-ggbcpFxHnv1athaIYG6iO+5wIHSH8rrmpGkDh+Pb970=",
+      "publishedTime": "2017-10-06T11:57:49.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

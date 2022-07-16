@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "paluh",
+    "githubRepo": "purescript-redis-hotqueue"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3522,
+      "hash": "sha256-R95aHaAvz8UE8JCSdEzpttsaSajmLrqHvIlXz6y1lpI=",
+      "publishedTime": "2018-05-17T23:06:04.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3620,
+      "hash": "sha256-e9u2Rsr7/tAlCaLY2gVPRake3tj+Wm7xadqdh8YDdL4=",
+      "publishedTime": "2018-05-18T09:47:48.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 3831,
+      "hash": "sha256-NLM2UK7L9X+0KJazgmFXUWQOXTJcD2pa59U/uj18Ag0=",
+      "publishedTime": "2020-03-05T13:56:52.0Z",
+      "ref": "v0.2.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "rightfold",
+    "githubRepo": "purescript-cowlaser"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 4011,
+      "hash": "sha256-03Q8pqpm9tKIty4BcyPZznTOiWBgvVMUdrmExo3yQis=",
+      "publishedTime": "2016-08-27T20:54:28.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 4237,
+      "hash": "sha256-8KBJZ4YT8Xj79+xIVofF87rCzSXEWdEKM00Jb9nONlg=",
+      "publishedTime": "2016-08-27T21:33:23.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4691,
+      "hash": "sha256-F1hnxJ8eGpDZYgNRyu1eIJWImt3csLy6iwFtEFoBIpA=",
+      "publishedTime": "2016-08-27T23:19:43.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 4426,
+      "hash": "sha256-vv8Jlep3sFjGmfAWqxw3gq+g42skRFJdOsQlbFxIJWM=",
+      "publishedTime": "2016-08-27T23:44:16.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 4523,
+      "hash": "sha256-D+ayyidm356EQKT0r3tru61VJCZcrU/kURTyHwkylP4=",
+      "publishedTime": "2016-08-28T09:37:07.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 4893,
+      "hash": "sha256-4Wu2oWjlyp4fn6XZQzyWgpYL/euMCc2oLZHPxEOIPKY=",
+      "publishedTime": "2016-08-28T10:24:48.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 4430,
+      "hash": "sha256-a5i6F38otNQsp9iSBMAq+EmSgw2r2IevnoxL4OUFHuQ=",
+      "publishedTime": "2016-08-28T10:42:00.0Z",
+      "ref": "v0.6.0"
+    },
+    "0.7.0": {
+      "bytes": 5674,
+      "hash": "sha256-gKFSwcj5sqCuetwdc57OLTJo8HIVjyb8Eeypg9mtaYk=",
+      "publishedTime": "2016-08-28T15:11:46.0Z",
+      "ref": "v0.7.0"
+    }
+  },
+  "unpublished": {}
+}

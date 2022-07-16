@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "natefaubion",
+    "githubRepo": "purescript-run-streaming"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6100,
+      "hash": "sha256-wDZbGins6zSGPmjXvmnNGflBY3f7eyBM7GsQL8rZ87g=",
+      "publishedTime": "2017-05-04T02:58:10.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 6076,
+      "hash": "sha256-Ztw59V85ZV+2MuuHuLOSU+EHj66KOWWNGW04Dz9jYys=",
+      "publishedTime": "2017-10-28T16:47:54.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 6091,
+      "hash": "sha256-UwGAj6KTDMeHPGJY3DoqoQ23GE92XrvSqFwFTXmtbRM=",
+      "publishedTime": "2018-08-24T16:40:48.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

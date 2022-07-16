@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "reactormonk",
+    "githubRepo": "purescript-simple-timestamp"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3294,
+      "hash": "sha256-W61wZul7LuF0dJmbpozbkj4dP+zsT4xTZ7r666lzJkc=",
+      "publishedTime": "2019-07-04T07:55:16.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 3312,
+      "hash": "sha256-KZ8IW7tss/5wS75172mF9ow4PYjUfW+SNu2pgL1VfA8=",
+      "publishedTime": "2019-07-04T11:31:44.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 3384,
+      "hash": "sha256-SgHoipu/wVal9lXyTxLbU1fBh2ZvXa/4//r0oYqiYqo=",
+      "publishedTime": "2019-07-05T07:33:06.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.3.0": {
+      "bytes": 3405,
+      "hash": "sha256-62aJ6TEcKeWleH3lA9pHCpWLFBE+I0xWtevL5kcfdVA=",
+      "publishedTime": "2019-07-05T12:56:01.0Z",
+      "ref": "v1.3.0"
+    },
+    "2.0.0": {
+      "bytes": 3409,
+      "hash": "sha256-OmlRtid2JD8JtTl1N527gLn10cDGU6ii9P827prNhFM=",
+      "publishedTime": "2019-10-08T14:29:58.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3786,
+      "hash": "sha256-bAM/2GDnNTwUiP+r8lK7LnaTO27Oq1aSbiTLnVDNhyw=",
+      "publishedTime": "2019-10-11T18:23:18.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

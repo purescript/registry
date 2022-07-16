@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "soupi",
+    "githubRepo": "purescript-howler"
+  },
+  "published": {
+    "0.2.0": {
+      "bytes": 3250,
+      "hash": "sha256-9uCQT9BRc4lYUHK4Xm+Wl+wow9D3mn9qZs7ZrCAtvQw=",
+      "publishedTime": "2016-07-10T21:04:40.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3254,
+      "hash": "sha256-gAufGxiaX35f3FmpH8PBx7WokOgcScJDCOKkF3GIp6o=",
+      "publishedTime": "2016-11-28T17:32:50.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 3260,
+      "hash": "sha256-uEY0zaJTik9lfT3vQ+Qf4e5qTFduT+IyfcmH7NJROFY=",
+      "publishedTime": "2017-03-29T21:47:06.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "narinari",
+    "githubRepo": "purescript-signature-pad"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1668,
+      "hash": "sha256-k0DZZLnyoeAoS1UEPKp1ZxuYBFqcoMR3zKTRQF5pheo=",
+      "publishedTime": "2016-09-16T08:05:23.0Z",
+      "ref": "0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1761,
+      "hash": "sha256-o3cjlo3oSbINZWcaLwpXyW5Q97z8hOgQvhLXgAhZ1u8=",
+      "publishedTime": "2016-09-16T08:45:55.0Z",
+      "ref": "0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 1767,
+      "hash": "sha256-hwsTg0tuI5ibre83OQOVZ2pqooFESwnu+kZ+I+Y/w/4=",
+      "publishedTime": "2016-09-18T04:36:10.0Z",
+      "ref": "0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 1845,
+      "hash": "sha256-Fk6pM7WLzDbC+z2+gZ+VM4KUdhnLbQzkZJg4P4tutbA=",
+      "publishedTime": "2016-10-25T09:19:02.0Z",
+      "ref": "0.4.0"
+    },
+    "1.0.0": {
+      "bytes": 1836,
+      "hash": "sha256-m79+HcOAavUyRn8Vc2isiyTB6IvNqcEMqdCtLAyL8C4=",
+      "publishedTime": "2016-11-09T05:41:48.0Z",
+      "ref": "1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "funkia",
+    "githubRepo": "purescript-turbine"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 6395,
+      "hash": "sha256-r4MNXog1ZFFcQrgOUN+R/lI8GEdaGlp299puqijJHxk=",
+      "publishedTime": "2018-08-22T18:52:28.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 6387,
+      "hash": "sha256-9NwhPLUfgYvwbqG79ukKZoyJlb/rnYXJ2zrJv7C3P60=",
+      "publishedTime": "2018-08-22T19:00:52.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 6644,
+      "hash": "sha256-Ulo0zcWwiucj7oDfk926ibF/THRvGvGolRp2R/4fmIM=",
+      "publishedTime": "2018-08-30T18:04:47.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 6625,
+      "hash": "sha256-zX/z0fegxJcjAJAUkHboq7theDGqJns9/j+tSGMIpYQ=",
+      "publishedTime": "2018-09-05T12:48:43.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 10135,
+      "hash": "sha256-Ai94IbaPumxkQ2NQaYYe8XC+Xn8h6MiMiGzDxZJXDn8=",
+      "publishedTime": "2019-02-25T18:11:14.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.1.0": {
+      "bytes": 8715,
+      "hash": "sha256-T4i/mKo6JF+Px0gL3lNbLrNh3NmMujL0coxP9CouNoM=",
+      "publishedTime": "2019-09-02T10:33:28.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

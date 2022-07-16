@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "collegevine",
+    "githubRepo": "purescript-elmish-enzyme"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 10340,
+      "hash": "sha256-tst8IRdtXHGyxlLhS3wHj8rViVwFCf25OPXx83FpEXQ=",
+      "publishedTime": "2021-12-30T03:33:43.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 10502,
+      "hash": "sha256-mLqcGXrqQb5Y7c+jbYgmVe4ShO6xlx2WcNF1eTru6C0=",
+      "publishedTime": "2022-01-02T02:52:36.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 10828,
+      "hash": "sha256-QTlGTM6XQV/pFzEOv8s4B3BlxaIcn3wRNCnRMHVXzO4=",
+      "publishedTime": "2022-01-10T05:08:37.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.1.0": {
+      "bytes": 10488,
+      "hash": "sha256-YAve7ho0zsChxoSplmsGD/W6BGq1hBThScR9kpv3U5Y=",
+      "publishedTime": "2022-04-30T03:36:01.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 10382,
+      "hash": "sha256-NVehg83Z726Xq+YCgZJmHqnjatRT+WQyrhAHgm/lOTc=",
+      "publishedTime": "2022-06-14T18:58:25.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

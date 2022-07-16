@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "tel",
+    "githubRepo": "purescript-intmaps"
+  },
+  "published": {
+    "1.1.2": {
+      "bytes": 6560,
+      "hash": "sha256-mPzw8LBv7y/NesNrO01Hvc43Khp3OBL1JnGcA2KneBU=",
+      "publishedTime": "2016-05-03T17:27:33.0Z",
+      "ref": "v1.1.2"
+    },
+    "1.1.3": {
+      "bytes": 6569,
+      "hash": "sha256-QFm1GPatAWKoWbrWqbl8oLae0s0zcg8v46KcUWLueC8=",
+      "publishedTime": "2016-05-03T17:35:32.0Z",
+      "ref": "v1.1.3"
+    }
+  },
+  "unpublished": {}
+}

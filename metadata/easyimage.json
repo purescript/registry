@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-easyimage"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4978,
+      "hash": "sha256-ZSamPlnCFNmvgofRzcaNZO/DYE7/6akKUDwRTcRkOTw=",
+      "publishedTime": "2015-09-16T13:06:03.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4980,
+      "hash": "sha256-kN8SMcupZxOU8HFda6daFsCoR1nw0NpnBWMUke1k0VQ=",
+      "publishedTime": "2015-10-26T04:09:29.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 5267,
+      "hash": "sha256-3F4usL8jd+Fo8gIV5+ox63/TwBiGBQ+gHak3st7svec=",
+      "publishedTime": "2016-03-15T01:03:09.0Z",
+      "ref": "v0.3.0"
+    },
+    "1.0.0": {
+      "bytes": 5373,
+      "hash": "sha256-EbrdESJn2D320RZRa842hiaOw7wr7iAZX+fQMGP2Ug8=",
+      "publishedTime": "2016-07-25T15:17:32.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

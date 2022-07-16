@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "eikooc",
+    "githubRepo": "nano-id"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 14943,
+      "hash": "sha256-7/5v1IXF0gO5zU0cq5SlGk1Uw7mYgFJG2UDn1aJJv4A=",
+      "publishedTime": "2021-12-17T16:48:56.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 14701,
+      "hash": "sha256-QX93boW/PCZ5Mi6hvW4WVKvGG1HTCKU1cdWFRkLRGDk=",
+      "publishedTime": "2022-06-08T19:10:12.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 14090,
+      "hash": "sha256-vjRdXLFW6ieMA/FOt/dHZR7WnZsfqxnazYfJcMjutfo=",
+      "publishedTime": "2022-06-08T20:00:28.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "matthieubulte",
+    "githubRepo": "purescript-complex"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2285,
+      "hash": "sha256-1EJIWb0STNribsru2pwubdf1NZQ/MFIwQn2Ut2hdImw=",
+      "publishedTime": "2015-10-07T17:19:42.0Z",
+      "ref": "1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2438,
+      "hash": "sha256-X5vcdULVpd2jj48Etv9nACEcurSjrS3bm5WbKpEJWG4=",
+      "publishedTime": "2015-10-08T09:48:31.0Z",
+      "ref": "1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 2575,
+      "hash": "sha256-QHICekGAB20fGITxkcEf/QCwnz+7rYTu/bCsJQhX08U=",
+      "publishedTime": "2015-10-08T14:11:50.0Z",
+      "ref": "1.1.0"
+    }
+  },
+  "unpublished": {}
+}

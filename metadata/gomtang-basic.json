@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-gomtang-basic"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2979,
+      "hash": "sha256-/kQBbuzaYWeyYfASDYzxSD0EWPukL2j5JqorMwF7u9w=",
+      "publishedTime": "2018-02-27T14:30:38.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2958,
+      "hash": "sha256-wlFdk4q8b6VXzv8aJpFvz5AFWQYBt7coj9m4FqJ1xf8=",
+      "publishedTime": "2018-05-27T21:21:34.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

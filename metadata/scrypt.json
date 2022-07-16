@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-scrypt"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 1239,
+      "hash": "sha256-gJQzJQ/CqEj8Yp9goK9avg4y9h6fmCzejKO0ZX08f7g=",
+      "publishedTime": "2017-11-09T21:24:33.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 1240,
+      "hash": "sha256-zrEN+OPpF555ZM/jjUZ+mMK2RGN5gmQ35cZg3uXDy64=",
+      "publishedTime": "2018-03-29T03:57:07.0Z",
+      "ref": "v0.0.1"
+    },
+    "1.0.0": {
+      "bytes": 1145,
+      "hash": "sha256-o3y5g0BWNni7jX89YyZXF0g2q3ZHIF4osb2AfZtl/Wk=",
+      "publishedTime": "2018-10-22T08:34:48.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2445,
+      "hash": "sha256-FnkHvnDI/WSJFCv8nIENe18NyPFxSVPUTrXT5O2P9Rw=",
+      "publishedTime": "2020-04-29T23:51:44.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

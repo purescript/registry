@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript",
+    "githubRepo": "purescript-safe-coerce"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1869,
+      "hash": "sha256-efyPtFCCn5f7gpOs6tx7tQBpm9QNlZEAPXWk38zvVTk=",
+      "publishedTime": "2019-06-19T21:07:25.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1873,
+      "hash": "sha256-rqRy4LahwuU/NwHSRKB39OudQtOF3JImbzTGhvp3YPE=",
+      "publishedTime": "2019-08-17T13:49:47.0Z",
+      "ref": "v0.0.2"
+    },
+    "1.0.0": {
+      "bytes": 2265,
+      "hash": "sha256-5R87dF+LI2UyQs/T3M7HPvzvRqYzvhUHvT62M1Ks100=",
+      "publishedTime": "2021-02-26T17:15:34.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2271,
+      "hash": "sha256-IR8OpkCBg5KolMj4ubIqtMiODRPJ/r5ctBA78yQV6dI=",
+      "publishedTime": "2022-04-27T14:56:52.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "sloosch",
+    "githubRepo": "purescript-incremental"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4645,
+      "hash": "sha256-F8HzAi38bUug+0t6vy6PS/RY9lDVUPZQA/QAZZaH6nA=",
+      "publishedTime": "2015-09-20T18:14:37.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4710,
+      "hash": "sha256-9wGGAfKkHr4ue5ZEpoB3OU+lh/UPmUonhkbnJla7OlQ=",
+      "publishedTime": "2015-09-22T20:27:01.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 4841,
+      "hash": "sha256-dBLKC6wH/0c5t0s5Y7jgCFvFaLIKd7iVHsrmMUhCsQc=",
+      "publishedTime": "2015-10-02T20:18:46.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

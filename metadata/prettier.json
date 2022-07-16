@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "epicallan",
+    "githubRepo": "purescript-prettier"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2282,
+      "hash": "sha256-LU5KZYAYhP+NtGMdPjNTJrXfUYxTObuEm5E5zQKjMdo=",
+      "publishedTime": "2017-06-25T15:47:52.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2297,
+      "hash": "sha256-5XkUrsPlTNLVoVa2HuHQAC6WCrdGdUCOYAshr+vaM6A=",
+      "publishedTime": "2017-07-10T07:58:14.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 2350,
+      "hash": "sha256-N90BQI/D4Xp4iRy8bEEm0Ba2pW6yWy7F27Xpv5HiyI8=",
+      "publishedTime": "2017-11-09T17:24:54.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2358,
+      "hash": "sha256-7vCi+Ag3i5axb0hUcA+jiQB/SOJGqpuMweoZ8gH/OwY=",
+      "publishedTime": "2018-05-28T07:42:35.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2357,
+      "hash": "sha256-cw6VPFjg/c3zdDV98UV6yhS04SNTpwZhxnv1x1lX4WA=",
+      "publishedTime": "2020-05-07T09:35:21.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

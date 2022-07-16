@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "natefaubion",
+    "githubRepo": "purescript-routing-duplex"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6302,
+      "hash": "sha256-MjRkvR7R13EDmBQlzq73k3xmcgiGW98Z7+L09guUvyE=",
+      "publishedTime": "2018-10-23T15:31:20.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 12543,
+      "hash": "sha256-BJDBb0nAD7/M7dnH7BAwv/kfD1iYiRc+oR9KoCPPX28=",
+      "publishedTime": "2018-11-20T03:16:30.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 12535,
+      "hash": "sha256-iyufpMW935KqHZShVxoGPM+hXtQeNz6xvheVZ9wnH/k=",
+      "publishedTime": "2019-03-15T13:54:47.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 12529,
+      "hash": "sha256-vFtzvSPwCZNGkujYP76IOA0p7nX+P/YdoU/PnnKguLE=",
+      "publishedTime": "2019-07-30T22:58:17.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.4.1": {
+      "bytes": 14738,
+      "hash": "sha256-BBtjCkYbNJyJSwzgggXR+NYcxwPKxfJDgzB3iMktERA=",
+      "publishedTime": "2019-12-02T17:04:29.0Z",
+      "ref": "v0.4.1"
+    },
+    "0.5.0": {
+      "bytes": 14756,
+      "hash": "sha256-HsZK54q0vXU0gWeFwuwk1tsmBLVfTr/mbslDn5VDGQA=",
+      "publishedTime": "2021-03-03T03:41:58.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.5.1": {
+      "bytes": 14749,
+      "hash": "sha256-+9JUEvJ9ropkg9iCJEbeS925PZZjKbtelDPUBeWsZk0=",
+      "publishedTime": "2021-06-16T19:37:16.0Z",
+      "ref": "v0.5.1"
+    },
+    "0.6.0": {
+      "bytes": 15099,
+      "hash": "sha256-/kG04lUjvM6G3dFxHz/+qaom2O8TUOeL4o2+voygmK0=",
+      "publishedTime": "2022-04-30T16:34:29.0Z",
+      "ref": "v0.6.0"
+    }
+  },
+  "unpublished": {}
+}

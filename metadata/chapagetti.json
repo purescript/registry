@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-chapagetti"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2818,
+      "hash": "sha256-zdM/0z7PNth9aXsZVidYh9bUXBT0Zy1dt1KuGPuju6w=",
+      "publishedTime": "2017-09-17T22:38:25.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2755,
+      "hash": "sha256-DVB2lSmLOdF8HZI1otGr9AkIZUeRG8bR8rCG7J8lNHY=",
+      "publishedTime": "2018-07-31T21:11:12.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

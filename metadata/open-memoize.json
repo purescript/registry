@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "purescript-open-community",
+    "githubRepo": "purescript-open-memoize"
+  },
+  "published": {
+    "2.0.1": {
+      "bytes": 2819,
+      "hash": "sha256-u2MNaNXnMafcj9ziGgNB4VcfyLesJAyOghuPed5Ytxw=",
+      "publishedTime": "2016-07-18T15:56:02.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 2814,
+      "hash": "sha256-mXwxmR9TAfXUNRtD2Vkc4PmvkFzYzpmsJuROixnT8OE=",
+      "publishedTime": "2016-10-23T01:31:01.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 3665,
+      "hash": "sha256-6mU63MZbHoDIwRWoSk5bAk4db/Hl7wC6kIqIGd3bZOs=",
+      "publishedTime": "2017-04-07T02:11:02.0Z",
+      "ref": "v4.0.0"
+    },
+    "4.0.1": {
+      "bytes": 3656,
+      "hash": "sha256-whT7NGkf7Dxfgm2JCJJ/hSDsjDDa5KNQwOxxuzVE3Nc=",
+      "publishedTime": "2017-04-25T00:11:33.0Z",
+      "ref": "v4.0.1"
+    },
+    "5.0.0": {
+      "bytes": 3734,
+      "hash": "sha256-pvpmFXvFrrnaBCLKRcgXiHFtRse2L88IKKj0lRR9rqE=",
+      "publishedTime": "2018-06-23T01:38:36.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.2.0": {
+      "bytes": 4047,
+      "hash": "sha256-pcragLnNEVM5vzTQBhnezk2tVsYLCrgrJ147Sdqgz2I=",
+      "publishedTime": "2021-04-28T06:05:09.0Z",
+      "ref": "v5.2.0"
+    },
+    "6.0.0": {
+      "bytes": 3814,
+      "hash": "sha256-qyIif/M+SiL95iK958OVRiwCSzqvfpL/vnWqutOwEjI=",
+      "publishedTime": "2021-04-16T13:30:03.0Z",
+      "ref": "v6.0.0"
+    },
+    "6.1.0": {
+      "bytes": 4046,
+      "hash": "sha256-D6rxV3gnB7K9mjD/U8QYaXXnsAQtFbf6Pj3R4B8Xgww=",
+      "publishedTime": "2021-04-28T06:08:30.0Z",
+      "ref": "v6.1.0"
+    }
+  },
+  "unpublished": {}
+}

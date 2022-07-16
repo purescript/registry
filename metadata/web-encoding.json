@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-encoding"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2014,
+      "hash": "sha256-ITa6pSOgVxIR5sS+ien5RtEM2ug+8nsn6sci9Jecpqk=",
+      "publishedTime": "2020-01-14T18:44:32.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2463,
+      "hash": "sha256-9F/Zm2dOCy2qPXY2FuCoOIjT8CF/jfqkOb/OsZLU4rE=",
+      "publishedTime": "2021-02-26T21:27:58.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2477,
+      "hash": "sha256-raLdGDKoRUFTgzFqZypHv0JyJSjYL7I+ab8q/dmKDoc=",
+      "publishedTime": "2022-04-27T18:00:42.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

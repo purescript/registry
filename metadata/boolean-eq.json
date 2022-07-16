@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "Risto-Stevcev",
+    "githubRepo": "purescript-boolean-eq"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1608,
+      "hash": "sha256-7BfOHwNgzWt9s0zkCmicZdVDW+Js+FVwkFJ2HrwGfOc=",
+      "publishedTime": "2017-08-21T10:58:45.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 1609,
+      "hash": "sha256-CsuNSOaNIPAAy4mSkPqGyPgpJUQvoMZrJWQBay/TQGQ=",
+      "publishedTime": "2017-08-21T11:01:11.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 1636,
+      "hash": "sha256-CQn6UNKd8jSO4POe0YQJCB0f4EcJWefLIQoTyJrHOMs=",
+      "publishedTime": "2017-08-21T11:08:58.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 1711,
+      "hash": "sha256-/U2E0Yvsw3bncAZxa3KCQiuYV8DKQ5XW6vADsdcujk8=",
+      "publishedTime": "2017-08-28T12:19:10.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

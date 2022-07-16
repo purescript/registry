@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "f-o-a-m",
+    "githubRepo": "purescript-ring-modules"
+  },
+  "published": {
+    "2.1.0": {
+      "bytes": 1796,
+      "hash": "sha256-r71EImaie0w7UK4YS6B72b5XWmF1Q8jfuH/lLtWsVAc=",
+      "publishedTime": "2017-03-29T19:41:02.0Z",
+      "ref": "v2.1.0"
+    },
+    "2.2.0": {
+      "bytes": 1860,
+      "hash": "sha256-bkGy7JEISDeGhKccehN4C080ricirofJMf44RKUjwYY=",
+      "publishedTime": "2017-04-01T16:11:57.0Z",
+      "ref": "v2.2.0"
+    },
+    "3.0.0": {
+      "bytes": 1859,
+      "hash": "sha256-17Od4EL3XHKvdB+YxuoiLMF/UR5ftq56GJvUnIKqo3M=",
+      "publishedTime": "2017-04-18T21:06:53.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 2053,
+      "hash": "sha256-NixjX7PWITZJEIPmFe0w2N7OBa3vwfRvIr26v9qyscY=",
+      "publishedTime": "2018-11-29T13:08:08.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 2051,
+      "hash": "sha256-XoyfGeqJk1TjCM4YN8grHtUDTycjJ0+1nzPAPTg5fy4=",
+      "publishedTime": "2018-11-29T13:20:30.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.0.1": {
+      "bytes": 2047,
+      "hash": "sha256-cQHbj+UPgEgUDyxVd+O1N/EV6gGEe9//1iy9RBe1Q0E=",
+      "publishedTime": "2018-11-29T13:23:50.0Z",
+      "ref": "v5.0.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "AlexaDeWit",
+    "githubRepo": "purescript-text-encoding"
+  },
+  "published": {
+    "0.0.7": {
+      "bytes": 6700,
+      "hash": "sha256-ZGa+WIgecnTYiMybMehjCmikH5IHU17ZM5lKrJULT+8=",
+      "publishedTime": "2018-07-06T06:47:51.0Z",
+      "ref": "v0.0.7"
+    },
+    "0.0.8": {
+      "bytes": 6827,
+      "hash": "sha256-gmDmryx7JmAzqxwaM8kfr4yAJMW7NzI0HH9Ywk9rUs8=",
+      "publishedTime": "2018-07-06T23:34:53.0Z",
+      "ref": "v0.0.8"
+    },
+    "0.0.9": {
+      "bytes": 7073,
+      "hash": "sha256-Ws4z3jRw6oGCqsOH/4L/+oTy41an1Biq8Cgt6ydqbrg=",
+      "publishedTime": "2018-10-11T06:40:55.0Z",
+      "ref": "v0.0.9"
+    },
+    "1.0.0": {
+      "bytes": 8488,
+      "hash": "sha256-dA5XCAMJJnewT0bbMezzfsCXIU+Bd4DuRciCqJot9Hc=",
+      "publishedTime": "2019-10-27T23:58:17.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "rnons",
+    "githubRepo": "purescript-halogen-storybook"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3333,
+      "hash": "sha256-Ljze4Z2Zy2IytQBlzFzCIJd9xggZerpc49DZ7CWYyCw=",
+      "publishedTime": "2018-01-18T13:59:16.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3342,
+      "hash": "sha256-WIynXKUoHLmjxcNwzj59qeSFkef45UCMTrRWkTtBWLQ=",
+      "publishedTime": "2018-03-24T00:57:58.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3351,
+      "hash": "sha256-8Wc0VBacv2TNtJpotxunbwIpZx8ZkIqKnyzwf0RQqks=",
+      "publishedTime": "2018-06-10T06:41:14.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 3612,
+      "hash": "sha256-4VOibrE3adOLywHoFfaxVzGbdZy76x8zZFPRbaubqY0=",
+      "publishedTime": "2018-07-08T03:35:53.0Z",
+      "ref": "v0.4.0"
+    },
+    "1.0.1": {
+      "bytes": 4302,
+      "hash": "sha256-W5jLgKT8Qd0pU/c9knNLOnYcCg+4eSYmJxIlpgNszbQ=",
+      "publishedTime": "2021-03-12T05:28:53.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 4357,
+      "hash": "sha256-KeazmK/jB2O4zhhhPgaMrkNC33QNwWw3iHtzPKRt5rQ=",
+      "publishedTime": "2022-05-03T14:14:02.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

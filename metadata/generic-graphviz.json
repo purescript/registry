@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "csicar",
+    "githubRepo": "purescript-generic-graphviz"
+  },
+  "published": {
+    "1.0.1": {
+      "bytes": 4867,
+      "hash": "sha256-lqkqa+Gh18MW3PcYsCHpVrQvHCh6eztG0N7t4rfpIrg=",
+      "publishedTime": "2017-11-23T13:44:33.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 4992,
+      "hash": "sha256-WXw+88VYleYdqj+6K2RCBI97pPXBEshXJ6+ah1Dddc4=",
+      "publishedTime": "2017-11-29T22:59:21.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.1": {
+      "bytes": 5998,
+      "hash": "sha256-Q4Gu7Yqm2w3g1+TE+F2Ic780HsWbC4dBYd8WMbg/Drg=",
+      "publishedTime": "2017-12-25T13:53:26.0Z",
+      "ref": "v1.1.1"
+    },
+    "2.0.0": {
+      "bytes": 4263,
+      "hash": "sha256-1DvhxeVNL4YhuT+Baobx9c8ZnJJBMIzTLM0iDiSm9YY=",
+      "publishedTime": "2018-01-17T20:53:10.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 4257,
+      "hash": "sha256-Juk01fAK9Z0+FY8GJKwIMCSbL5DPq8KEdI0tJuS3ZfU=",
+      "publishedTime": "2018-01-17T20:59:24.0Z",
+      "ref": "v2.0.1"
+    }
+  },
+  "unpublished": {}
+}

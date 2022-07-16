@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "timdeputter",
+    "githubRepo": "purescript-projections"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 2518,
+      "hash": "sha256-dUswVvEBCUuQFsFCByzpVjDxA8UFT5WxHp4TJRT79l8=",
+      "publishedTime": "2016-03-16T20:25:57.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 2516,
+      "hash": "sha256-MYny0j8P2U8dTVjRe64hUEFJqTH2rsbhjq5Vm2/UvlQ=",
+      "publishedTime": "2016-03-16T20:26:29.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

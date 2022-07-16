@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-moonshine"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5192,
+      "hash": "sha256-wc3yjH8hHxkPL+lUYmBLIicS2Xdlmpcjr02f4Q2VBy8=",
+      "publishedTime": "2018-05-07T15:52:12.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 5181,
+      "hash": "sha256-lPSBu5+m9OcrbQ/63iWybRk+iPayz1BfCYsRBJAVLrs=",
+      "publishedTime": "2018-06-05T19:51:01.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 5462,
+      "hash": "sha256-m6SRdWsDi1L26jL/TS4XCPGix63oAGox0QWat+8c1SM=",
+      "publishedTime": "2018-06-26T11:36:51.0Z",
+      "ref": "v0.0.3"
+    },
+    "1.0.0": {
+      "bytes": 5458,
+      "hash": "sha256-QjAtA08Ys8gpYIS3seS7WGvY6CuMBjSog6j2VxCfLDs=",
+      "publishedTime": "2018-08-14T12:55:06.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 5437,
+      "hash": "sha256-XD+HMw3K+kYtiAXvpeFW/diLw4tY3ouXeulhs4TAdEk=",
+      "publishedTime": "2018-10-01T18:09:44.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

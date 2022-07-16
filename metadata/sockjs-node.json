@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "FruitieX",
+    "githubRepo": "purescript-sockjs-node"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2298,
+      "hash": "sha256-hANCAjcD/a8ch+yAJu+xUSOsTL2yIANzDfcGjXJBbNM=",
+      "publishedTime": "2018-03-10T16:45:54.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2300,
+      "hash": "sha256-Z9a8Mcli3serD51iYfw71nvCxrrGizJvrHQZKOAIMxE=",
+      "publishedTime": "2018-03-10T16:51:01.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "sharkdp",
+    "githubRepo": "purescript-isometric"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4833,
+      "hash": "sha256-6omqReRqcbyg3ldAnEjsm9HIMPOcjrdnKlwc1AK1lX4=",
+      "publishedTime": "2016-01-12T15:23:02.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4863,
+      "hash": "sha256-8HAxLJKLlAFN1p8Tj0pGTgvtZkOs/Tu1X6MMIrG3Fs4=",
+      "publishedTime": "2016-02-08T20:29:35.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 5314,
+      "hash": "sha256-6tVxl+czMkG8ryNza2H8v2S0n1jaQ16B1zRb7uZlyJg=",
+      "publishedTime": "2016-08-07T12:35:57.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 5302,
+      "hash": "sha256-C8RQaT0UWelA1pm5kIWCcN5XM+r/tajF7n4ijbfUQ7w=",
+      "publishedTime": "2016-12-07T23:06:16.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 5298,
+      "hash": "sha256-z3ml0b93UR/RU0jPG1UN+hCSHL/Ek08w4HJfu5aum3E=",
+      "publishedTime": "2017-04-15T20:56:59.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

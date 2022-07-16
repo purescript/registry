@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "ursi",
+    "githubRepo": "purescript-point-free"
+  },
+  "published": {
+    "0.1.1": {
+      "bytes": 3109,
+      "hash": "sha256-KZZTxiyo6W1NCT/oBv7XbXW4ApjAM6J82bCRbWrEXsI=",
+      "publishedTime": "2020-10-12T22:21:01.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 3115,
+      "hash": "sha256-X3rQZ/ydEHPxMcKfUU2PcZXjfp+zAWAKMY6IfO0xKaI=",
+      "publishedTime": "2020-11-29T23:25:48.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 3120,
+      "hash": "sha256-60KP81pnOUvpFMXRQxmFhD62917BJzNLRP2GqC1X4Ws=",
+      "publishedTime": "2020-12-11T21:43:56.0Z",
+      "ref": "v0.1.3"
+    },
+    "1.0.0": {
+      "bytes": 2847,
+      "hash": "sha256-6cDQJz0FZg3djg1e9vhoybwIvWdXrgvTYDVHZgad2Ek=",
+      "publishedTime": "2021-11-28T22:09:32.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

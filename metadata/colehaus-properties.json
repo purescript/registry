@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-properties"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2821,
+      "hash": "sha256-Z2d1tecqi8jAoQ3AYNCtZyaDaJXdwqxce+iB9ZJQUKM=",
+      "publishedTime": "2017-08-20T17:26:47.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2946,
+      "hash": "sha256-DSM8FXO//BP+65UvLVWNJ6r7bKCIQ3tCQaulyfB8ewE=",
+      "publishedTime": "2017-08-20T17:31:29.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2918,
+      "hash": "sha256-8e8odSX8KCE5jTOgqj2dqU/2oDHO4SzCzHi+ag0VZ6I=",
+      "publishedTime": "2018-10-23T05:41:53.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 2922,
+      "hash": "sha256-lPC+I5B2wFVyLviq4/U46iFsyOvI1GnhWmEV/JVinxs=",
+      "publishedTime": "2018-10-23T06:06:54.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.3.2": {
+      "bytes": 2919,
+      "hash": "sha256-VAfAqrQ5s2D/AZ3nwsIsIUYr89DTJzs9fM2B9uTGXEQ=",
+      "publishedTime": "2018-10-23T06:22:41.0Z",
+      "ref": "v0.3.2"
+    }
+  },
+  "unpublished": {}
+}

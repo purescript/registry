@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "ogma-project",
+    "githubRepo": "purescript-ogmarkup"
+  },
+  "published": {
+    "3.0.0": {
+      "bytes": 11190,
+      "hash": "sha256-mDg+k2S/eTsMpLGK+FMdkNNo1dA2tsWCrjQbF0pnW1E=",
+      "publishedTime": "2016-10-02T08:50:17.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.1.0": {
+      "bytes": 11308,
+      "hash": "sha256-4zvzMXJZeYuFsdkAWqifCDkJYGLf0uu104R/N2qI8ds=",
+      "publishedTime": "2016-10-21T12:21:58.0Z",
+      "ref": "v3.1.0"
+    },
+    "4.0.0": {
+      "bytes": 11925,
+      "hash": "sha256-1EngNUNlVRIpp+++7ufZHMencFNg/Uz/raVdR6v2Hyg=",
+      "publishedTime": "2016-10-23T17:49:08.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 11994,
+      "hash": "sha256-yvHm9GZdLvRaaQjhCeAkJk9yip/4ST3YPFhgvMnv/ds=",
+      "publishedTime": "2016-11-07T17:12:03.0Z",
+      "ref": "v5.0.0"
+    }
+  },
+  "unpublished": {}
+}

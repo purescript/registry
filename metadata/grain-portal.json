@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "purescript-grain",
+    "githubRepo": "purescript-grain-portal"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4072,
+      "hash": "sha256-S8rO7LN7GHqoXX2v3FYCYr9Sse40/7MNbXIW6Vjs8+0=",
+      "publishedTime": "2020-06-15T12:30:18.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 4068,
+      "hash": "sha256-nPQsDqhDPGxA8fuiZjsGavYEIH5maem+LUerAXdtzOg=",
+      "publishedTime": "2020-06-18T21:01:49.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

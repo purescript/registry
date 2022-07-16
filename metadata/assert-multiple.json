@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "JoelLefkowitz",
+    "githubRepo": "purescript-assert-multiple"
+  },
+  "published": {
+    "0.2.0": {
+      "bytes": 3201,
+      "hash": "sha256-zvA5NdKuMDU7IsNMJtNgte4PM7aVEsXICk87KaFnTqA=",
+      "publishedTime": "2021-06-01T20:29:36.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 3333,
+      "hash": "sha256-EvRxjgnPKX7Hokx3sXY0/8/hEYI6k3vjZ3Mx/IaWoDM=",
+      "publishedTime": "2021-12-05T21:58:59.0Z",
+      "ref": "v0.2.1"
+    }
+  },
+  "unpublished": {}
+}

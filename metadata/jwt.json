@@ -1,0 +1,63 @@
+{
+  "location": {
+    "githubOwner": "menelaos",
+    "githubRepo": "purescript-jwt"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5810,
+      "hash": "sha256-gFCCwpCRz0poPqQ3Z1LvLsa24fkjkwVvB7rk3io7FI8=",
+      "publishedTime": "2016-07-29T11:20:41.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 5832,
+      "hash": "sha256-5qDaWqcfy7iSASduNzz3AUd6uetN/oBTZwP7455U6kU=",
+      "publishedTime": "2016-10-27T13:21:24.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 5813,
+      "hash": "sha256-1cC+Jgl4qq5tUtPOhDngM7J6+vypD/CrAGg605UvMJc=",
+      "publishedTime": "2017-04-29T10:23:35.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 5826,
+      "hash": "sha256-2FFlT+IInNCizXYTDJTiDciysZrCWqapauD3r7GU0+8=",
+      "publishedTime": "2018-08-10T15:35:28.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 5825,
+      "hash": "sha256-9R7dHN8Y+3+1kmpe1a1+r1S4AGTJc+FbkfYJ36FSELM=",
+      "publishedTime": "2019-01-06T22:16:15.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 5833,
+      "hash": "sha256-ROUCZBG+/1gzTWH0CcmbUaFdnDJtbbS+OGGhg0yfETg=",
+      "publishedTime": "2019-03-12T20:01:15.0Z",
+      "ref": "v0.0.6"
+    },
+    "0.0.7": {
+      "bytes": 6809,
+      "hash": "sha256-bp6HclFdXPt3nUAvDgiR1liZS9MiS0YxhoKycrXAZx4=",
+      "publishedTime": "2019-10-18T17:15:56.0Z",
+      "ref": "v0.0.7"
+    },
+    "0.0.8": {
+      "bytes": 6786,
+      "hash": "sha256-6W2/nzvg6lVAsQwikfftdijiU+ZtCS24wowxGFPXNPk=",
+      "publishedTime": "2021-03-19T10:55:11.0Z",
+      "ref": "v0.0.8"
+    },
+    "0.0.9": {
+      "bytes": 5771,
+      "hash": "sha256-M2GGcU1/2m8/S0UeOOsZDqvF0i3652Y/VOAafo2rWAY=",
+      "publishedTime": "2022-05-03T20:39:09.0Z",
+      "ref": "v0.0.9"
+    }
+  },
+  "unpublished": {}
+}

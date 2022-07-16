@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "ersocon",
+    "githubRepo": "purescript-creditcard-validation"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2500,
+      "hash": "sha256-9SsjGEYyTBc5dhKVnrkmqnWAeI4wKHPVr2YOVp1As/o=",
+      "publishedTime": "2018-09-22T07:40:08.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2516,
+      "hash": "sha256-lPGWG8r6YFid5CW7gg7/o6R9axJ7oZwZDblcGe7UlGo=",
+      "publishedTime": "2018-09-23T00:35:14.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 2529,
+      "hash": "sha256-uCsJeIpY4bGnhg7+i3my1oEoNkqwsX2CMG2MBMgODxk=",
+      "publishedTime": "2018-09-24T11:34:30.0Z",
+      "ref": "v1.0.2"
+    }
+  },
+  "unpublished": {}
+}

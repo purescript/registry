@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "the-dr-lazy",
+    "githubRepo": "purescript-quickcheck-state-machine"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 3222,
+      "hash": "sha256-G8BBkW9amNDpSKvyM038UBp9uI+btj6Q5/tnv7nMI4g=",
+      "publishedTime": "2020-06-17T18:43:35.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 5491,
+      "hash": "sha256-CKHNMGxliD+hXDeRBKANPG06VwUd2MA/3psnNRkxdng=",
+      "publishedTime": "2020-06-17T19:47:38.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 5489,
+      "hash": "sha256-GDWZLU4itKBLGwe7yvcssJ1dqRW7FYH6jLTD5D5fK+g=",
+      "publishedTime": "2020-06-21T13:48:31.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 5874,
+      "hash": "sha256-lZFQzIpSNzLMJ8KSCZXGGWAjUQ/93/YLkfFOA3y76lQ=",
+      "publishedTime": "2020-06-25T05:46:37.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 5639,
+      "hash": "sha256-6KL2hWEojHJDdLArmkiFIDksx96wmA6Z8GWQKFJBuRk=",
+      "publishedTime": "2020-06-25T07:33:03.0Z",
+      "ref": "v0.0.6"
+    },
+    "0.0.7": {
+      "bytes": 5604,
+      "hash": "sha256-6Xci9xa39X7l2iAoVw9B4KbUq/BS2jwyj58qDCi+6C4=",
+      "publishedTime": "2020-06-25T07:33:58.0Z",
+      "ref": "v0.0.7"
+    },
+    "0.0.8": {
+      "bytes": 5629,
+      "hash": "sha256-mrQ+PkWBMwRUrSbBTu1slRp35eNMPpZvdNjnhZcErA4=",
+      "publishedTime": "2020-06-26T09:21:42.0Z",
+      "ref": "v0.0.8"
+    },
+    "0.0.9": {
+      "bytes": 5606,
+      "hash": "sha256-8kt+1wK+RFEpAHOVqEAiDVRlrwbKoqdwRmNllv23/E8=",
+      "publishedTime": "2020-07-13T05:26:57.0Z",
+      "ref": "v0.0.9"
+    }
+  },
+  "unpublished": {}
+}

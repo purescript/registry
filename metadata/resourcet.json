@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "robertdp",
+    "githubRepo": "purescript-resourcet"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6181,
+      "hash": "sha256-+Flo3jBWZQHesIrvd2el1dNtBrzsijqy8DxZ2u1SZBk=",
+      "publishedTime": "2021-01-11T00:45:45.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 6392,
+      "hash": "sha256-BsqvlfAQ4xja9xj4DHsSfL7pN/FOJ51x9OYRNuYSERw=",
+      "publishedTime": "2021-03-14T12:47:35.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

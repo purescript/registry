@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "rubenpieters",
+    "githubRepo": "tupc"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6650,
+      "hash": "sha256-YeBKSRL/Xb7th70YMneqNXcSFQzmAJwjqBPs2Vb2iqU=",
+      "publishedTime": "2018-03-10T21:07:32.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 7081,
+      "hash": "sha256-kvHIsTHnu4ImY2IFVnAHsokLWTZeGlrEmtEF4jtah48=",
+      "publishedTime": "2018-03-29T18:21:41.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

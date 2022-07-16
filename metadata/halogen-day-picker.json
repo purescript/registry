@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "rnons",
+    "githubRepo": "purescript-halogen-day-picker"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6642,
+      "hash": "sha256-5NeBiXW8g78t+yeNkB9nK4/b7NDJ1SPgeWqoKDlw8+Y=",
+      "publishedTime": "2018-01-03T03:24:42.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 6411,
+      "hash": "sha256-E10+tKZ0dUyEsFFGdLnc9g+OmH1tFvjm8uAbvuUaEz4=",
+      "publishedTime": "2018-01-18T14:16:32.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 6449,
+      "hash": "sha256-HHxpd9PB5xyBLLLUAz2umS8/EH/R6FOOnx0/x9mDrps=",
+      "publishedTime": "2018-02-26T13:38:50.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 6378,
+      "hash": "sha256-R0mHAi4/nEFpRAEIt/8SpFUfP43oUiQbdWTg7O7gVwI=",
+      "publishedTime": "2018-06-10T07:34:53.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 6434,
+      "hash": "sha256-4vOs4qIGemgPNhJ9iqgLVsWEDP4e7sDJGPMvxHD1HXs=",
+      "publishedTime": "2018-07-01T03:26:51.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 6475,
+      "hash": "sha256-npwXFnzppCtsbqTZkbu394sgK/ND0ClUDlZBmnUL7TE=",
+      "publishedTime": "2018-09-05T03:55:51.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

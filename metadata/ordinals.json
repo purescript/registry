@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "thimoteus",
+    "githubRepo": "purescript-ordinals"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5491,
+      "hash": "sha256-RbV1XTmsZ2nY8q0hgvhH95SP53NQvwfrklPxehhKy2w=",
+      "publishedTime": "2016-04-26T00:01:05.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 5499,
+      "hash": "sha256-s8ARtNun/hDj8FB16UZ+Gh/Rja7GqssXaS9TaFzOTIw=",
+      "publishedTime": "2016-08-14T03:33:42.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}
