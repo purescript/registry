@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "tweag",
+    "githubRepo": "purescript-unlift"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4604,
+      "hash": "sha256-pht4VnFAdEkPrH1/H4DHpQX6X+ozyAgkR7TXEIidY/U=",
+      "publishedTime": "2022-03-16T04:13:13.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4100,
+      "hash": "sha256-gz2unF4gqrYQO58ZWB8MqJ7ixkpM2SLvrhk4MBzacPY=",
+      "publishedTime": "2022-03-16T15:00:01.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

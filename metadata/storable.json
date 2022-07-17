@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "GoNZooo",
+    "githubRepo": "purescript-storable"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 4727,
+      "hash": "sha256-T/Q6jWjsMKdDw/dfBOydzbHIi9YNd7eqnb8zLMDv3X0=",
+      "publishedTime": "2019-04-08T20:29:01.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.3": {
+      "bytes": 5257,
+      "hash": "sha256-80agI0oQwGctnBu2ZbwH2AkMwQJNu0qhQBbS+bTDibo=",
+      "publishedTime": "2019-04-08T21:22:32.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 5253,
+      "hash": "sha256-OQJ0sfKcWX57352inRv2oicpZPSNUzYQgy01ZK5NX70=",
+      "publishedTime": "2019-04-08T21:25:27.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 5173,
+      "hash": "sha256-JxeHBz/9wE1YD1rVtb+E3XIWHRZiNnfthiOwJcmGXNs=",
+      "publishedTime": "2019-04-08T21:28:04.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 5163,
+      "hash": "sha256-duvmjh4jHLHVVOs7FtMn8aGqfzJP4vPmSppboI5YTYg=",
+      "publishedTime": "2019-04-08T21:37:54.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

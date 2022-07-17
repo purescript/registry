@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "klangner",
+    "githubRepo": "purescript-stats"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 5956,
+      "hash": "sha256-/fbm3pVMBQoFcMlaExeV+aQral9ynIJuCVX2EUV0wU8=",
+      "publishedTime": "2017-04-13T11:42:40.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 7899,
+      "hash": "sha256-W75abHnckJ4DiHHAa3a0pEAU8bB+B9U8H5Fh/KIMdsE=",
+      "publishedTime": "2017-04-15T09:37:57.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 8334,
+      "hash": "sha256-SX+u9FupqmTxPvS237v+Dxh+fGYD1KN3jjbKfTkYjyw=",
+      "publishedTime": "2017-04-24T08:49:01.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

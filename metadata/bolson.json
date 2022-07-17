@@ -1,0 +1,63 @@
+{
+  "location": {
+    "githubOwner": "mikesol",
+    "githubRepo": "purescript-bolson"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 10403,
+      "hash": "sha256-pksk8Gj5+dztdyU89ab6L2jSu1w3g0rZPrEyfA7PYGE=",
+      "publishedTime": "2022-05-11T20:18:40.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 10472,
+      "hash": "sha256-MO/c5O/z5ekW6W/1O+/apCyU37CdI974Lr819Fuv0UA=",
+      "publishedTime": "2022-05-12T07:39:28.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 10500,
+      "hash": "sha256-IqsAgggyWbw/Ookb3N+9qkJD2y3+oE+sR/u93jmshoE=",
+      "publishedTime": "2022-05-18T03:27:16.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 10495,
+      "hash": "sha256-9H/ATwGhL35SgfS7C0ehaaPYtzfZ4xQkmm13SSrwAdY=",
+      "publishedTime": "2022-06-01T10:12:50.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 10497,
+      "hash": "sha256-gHCmJD11atqfpMsUa35vPAHT9gHFR9DgLwUXJxW90iM=",
+      "publishedTime": "2022-06-01T10:19:23.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 10772,
+      "hash": "sha256-4Pf7QDa+62Qf3s1fpCNzcsbm9GdMyYu3td0HGlW7c6Y=",
+      "publishedTime": "2022-06-01T11:36:47.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 11086,
+      "hash": "sha256-OjEWk93/PKf7g8sPtoJvEQ0t+ipF46qiWAA+ZGavNxc=",
+      "publishedTime": "2022-06-05T09:57:29.0Z",
+      "ref": "v0.0.6"
+    },
+    "0.0.7": {
+      "bytes": 11147,
+      "hash": "sha256-Rfh+IggbsP5bvjLJrsxNx1lPBtVLBGkWUsYhy0Moe9g=",
+      "publishedTime": "2022-06-30T19:18:25.0Z",
+      "ref": "v0.0.7"
+    },
+    "0.0.8": {
+      "bytes": 11720,
+      "hash": "sha256-dUr0pWavO9tv89qiJTv4cUdCIOsxm1z2c0foDInfSjU=",
+      "publishedTime": "2022-07-13T12:29:10.0Z",
+      "ref": "v0.0.8"
+    }
+  },
+  "unpublished": {}
+}

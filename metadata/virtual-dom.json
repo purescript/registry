@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "garyb",
+    "githubRepo": "purescript-virtual-dom"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2129,
+      "hash": "sha256-1ixpy6VWfyIV0fghQSdR2Dyy4tjrn04pL5p9tOGXjmk=",
+      "publishedTime": "2014-11-16T01:43:46.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2087,
+      "hash": "sha256-odr7ulxWpE5if1NfsdkPCRPZmxCGzQQqlPXiEIixoLQ=",
+      "publishedTime": "2014-12-14T15:34:40.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2948,
+      "hash": "sha256-foXM9WCuIuNuPfnLSEpRJwYrOvLNXsDteBda080lWPc=",
+      "publishedTime": "2015-01-30T09:01:02.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-translate"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 3567,
+      "hash": "sha256-Vk88F7Dc1bzeHaDqoTB7SIWRgBsv2IX/UW87a4Gx4YM=",
+      "publishedTime": "2018-03-10T21:59:55.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.1": {
+      "bytes": 3586,
+      "hash": "sha256-K+0sUfilBbvBfIz1Ic26qL3XUE+ZWHQc2TYxSgefJRc=",
+      "publishedTime": "2018-03-12T18:28:49.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 3558,
+      "hash": "sha256-DdtqutB5oNNkhOpd5oaHgC1m9HOz9bY1j4aku13rD9Y=",
+      "publishedTime": "2018-03-13T13:40:54.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 3757,
+      "hash": "sha256-HVfK6HRWJyZRJ0qjqSlb4SUxJZCpY9Q9hQX0PMBQjn8=",
+      "publishedTime": "2018-03-28T16:49:30.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 3725,
+      "hash": "sha256-4ZoPjuGZcW5LyO9Cw5YlTJNVa/D85ipsbOQ0cdIjbKM=",
+      "publishedTime": "2018-04-26T13:33:30.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

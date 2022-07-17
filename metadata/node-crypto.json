@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "owickstrom",
+    "githubRepo": "purescript-node-crypto"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 7235,
+      "hash": "sha256-UFuFWZuEh06niNk4ewPI0LMAw1xQSq4DKWotdiXsmEY=",
+      "publishedTime": "2017-03-11T08:51:55.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 7979,
+      "hash": "sha256-NEi/6LRXqGpknZxpZjnb2mrDVAJdqzcflURXA59tCnE=",
+      "publishedTime": "2017-03-11T20:45:48.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 8317,
+      "hash": "sha256-Wpulay3ENUojfl7adA7aXKb02zPOVg7zZLsdtDPRDM4=",
+      "publishedTime": "2017-03-12T12:00:34.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 8300,
+      "hash": "sha256-VvOmrPdEq518RpLirwushkrx2KsF7ldabR/POa36row=",
+      "publishedTime": "2017-03-15T17:50:32.0Z",
+      "ref": "v0.2.2"
+    }
+  },
+  "unpublished": {}
+}

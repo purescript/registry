@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "purescripters",
+    "githubRepo": "purescript-conditional"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1628,
+      "hash": "sha256-zqhEH1YbNnCOhsKWJYo4FKk2boUqVV9FIcvWMIWlwbA=",
+      "publishedTime": "2016-12-27T02:16:18.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 1628,
+      "hash": "sha256-2vEjfNXsypxdo4wiQ08ydbKTw0NfFLYw0pqTaL4niZ8=",
+      "publishedTime": "2016-12-27T02:22:44.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 1604,
+      "hash": "sha256-xL8u9GnRQQbvLfkecSukDBGTCtnttLgYbl/FFcaAd1A=",
+      "publishedTime": "2017-05-31T06:27:05.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

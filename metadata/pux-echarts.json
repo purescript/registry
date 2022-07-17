@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "tweag",
+    "githubRepo": "purescript-pux-echarts"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6205,
+      "hash": "sha256-JsGrXaxsUnoN2Ert18wLT6XVof9URoMt0Gjfecn+Xks=",
+      "publishedTime": "2017-08-04T09:59:31.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 6211,
+      "hash": "sha256-VMzdkD84P9CLv49u5byM3n7mznGDKUanNfEuGXfYXuk=",
+      "publishedTime": "2017-11-01T20:12:48.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "ecliptic",
+    "githubRepo": "purescript-recompose"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3267,
+      "hash": "sha256-ZFWe1V1wptb18nbaR0w2an+gU4ni90+t2YQ76WbaneU=",
+      "publishedTime": "2016-09-11T01:46:20.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5003,
+      "hash": "sha256-tQ6LlkYqOfqld8STzwFJBK2tU05WV7YJaiBCc8eRInk=",
+      "publishedTime": "2016-09-11T16:59:12.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 5003,
+      "hash": "sha256-oBosl7qRRp7H4HG7n3LbJ78IMG/h/QWef3Z0HeZBKHI=",
+      "publishedTime": "2016-10-30T19:08:36.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

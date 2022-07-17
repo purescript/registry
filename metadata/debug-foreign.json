@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "CapillarySoftware",
+    "githubRepo": "purescript-debug-foreign"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 1347,
+      "hash": "sha256-v2K9OJPCWG29zIZx1pFFT26mLfps+2JbaIcTmCqv3DI=",
+      "publishedTime": "2014-11-13T00:23:03.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 1318,
+      "hash": "sha256-2u3pF72VlDMgJysItoowKYq1saVAeOl6IMF2RCYbd6Y=",
+      "publishedTime": "2014-12-16T18:26:18.0Z",
+      "ref": "0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 1406,
+      "hash": "sha256-Djs4m6TiZPYPITQn/pGXEGBEiWRWDmL8TwRTXMVYZJM=",
+      "publishedTime": "2015-02-01T00:19:15.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

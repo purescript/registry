@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "carldata",
+    "githubRepo": "purescript-learn"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5661,
+      "hash": "sha256-LqKyH7Oofa0lEMNruiliSfzDbNXFYl7EWSaMVHfMu/A=",
+      "publishedTime": "2017-04-18T08:24:48.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 6271,
+      "hash": "sha256-7SpuLAQrf4o4s1l4T5eXdce71Z8b1xPaOYTIMQNw02g=",
+      "publishedTime": "2017-04-21T09:33:04.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 6716,
+      "hash": "sha256-zLs/JSNRi9AvoLu5A1tfrg2ipkNfIUTve1v4pFy73pQ=",
+      "publishedTime": "2017-05-04T14:29:40.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,75 @@
+{
+  "location": {
+    "githubOwner": "natefaubion",
+    "githubRepo": "purescript-spork"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 10816,
+      "hash": "sha256-8L3HEt76WE6uGQXy3ziO667/A9Ki2vrmrrGU5n1clzg=",
+      "publishedTime": "2017-10-13T05:40:25.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 11888,
+      "hash": "sha256-mOHEk08D3DuFO28NwTNJ1ElA2ZZzVdx/+VwRtmZqNso=",
+      "publishedTime": "2017-10-20T01:39:31.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 12331,
+      "hash": "sha256-XdgXvoz77rBnQLNBTGDTJn8YF8c8Qyxd1p2tZUSWXWM=",
+      "publishedTime": "2017-10-28T17:27:27.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 13706,
+      "hash": "sha256-QxcDL8v1nwmh3WsXtEGxNpryb7r3LyuIL2HnsohNJ/w=",
+      "publishedTime": "2017-11-01T03:23:39.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.3.2": {
+      "bytes": 13710,
+      "hash": "sha256-UIyFmYo2VW4Py+Nx4VGnK4jm1SpyTojOsPAbPpuK+Ow=",
+      "publishedTime": "2017-11-01T03:31:23.0Z",
+      "ref": "v0.3.2"
+    },
+    "0.3.3": {
+      "bytes": 13780,
+      "hash": "sha256-NLk6BA73twjYY0kCLy+UyVfq9QpILL+gEiN08WxtNjY=",
+      "publishedTime": "2017-11-01T03:38:47.0Z",
+      "ref": "v0.3.3"
+    },
+    "0.3.4": {
+      "bytes": 13804,
+      "hash": "sha256-aSxwdS7ZRhv57/QANC5oVXsHq5OTedMcN0xFxu+Sv9o=",
+      "publishedTime": "2017-11-08T16:59:37.0Z",
+      "ref": "v0.3.4"
+    },
+    "0.4.0": {
+      "bytes": 13876,
+      "hash": "sha256-qVRwJ7APoCGd+mEVZLrn7b4Y2NQszJ3bKclLK6r5yKs=",
+      "publishedTime": "2017-12-19T16:31:16.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 14370,
+      "hash": "sha256-upCkdtd49XGfRedEy59s+f5t8OKUf5aMwvUvZq4x0T0=",
+      "publishedTime": "2018-02-23T17:05:37.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 14686,
+      "hash": "sha256-6ZiSrXLWPtHp8fsmS9eTmOaP8qtrLW5Da4qBzeRXn3g=",
+      "publishedTime": "2018-02-24T19:33:18.0Z",
+      "ref": "v0.6.0"
+    },
+    "1.0.0": {
+      "bytes": 13857,
+      "hash": "sha256-alQz5+nqsdLl1869AT8o0KEUZ27Asbo5Bwmw33e/JEQ=",
+      "publishedTime": "2018-06-28T02:28:09.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

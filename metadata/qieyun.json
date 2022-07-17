@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "nk2028",
+    "githubRepo": "purescript-qieyun"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6406,
+      "hash": "sha256-vMReEmKCraZISDg1AMOFF/rY2sKvh1zalkcjVFJKh7Y=",
+      "publishedTime": "2021-01-20T03:28:17.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 6398,
+      "hash": "sha256-s0z9DoC4czIPeFV0Tq3s7xMRxK4rYuToKOluNSwLtdU=",
+      "publishedTime": "2021-01-20T13:29:00.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 6349,
+      "hash": "sha256-7MNEwy8sxOO5ltvg6Gng25iNgNJB3En3lM1agZ4y+yE=",
+      "publishedTime": "2021-01-21T01:22:00.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 6352,
+      "hash": "sha256-l2HaZwGvEDm129mHfVdFmPXM4Ur5kthW8i/g057wYJQ=",
+      "publishedTime": "2021-01-22T05:56:02.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 6353,
+      "hash": "sha256-SBfQeHU/CfQwQEdJL0wbYyoiQ7KbWV14VJIDU/uwxhA=",
+      "publishedTime": "2021-01-22T14:17:36.0Z",
+      "ref": "v0.5.0"
+    }
+  },
+  "unpublished": {}
+}

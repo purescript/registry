@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-sijidou"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2105,
+      "hash": "sha256-zGsGaLbtQnSZzjaYtW81R7iSuEBbFVYQxgsjef75rgA=",
+      "publishedTime": "2018-10-24T19:25:16.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2135,
+      "hash": "sha256-VAa7LvyvIRgq2F+vMjbr3VrbBS7U3WEQzV7GPi83eiM=",
+      "publishedTime": "2019-05-30T20:32:18.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

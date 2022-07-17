@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "ethul",
+    "githubRepo": "purescript-mongodbf"
+  },
+  "published": {
+    "0.0.4": {
+      "bytes": 2390,
+      "hash": "sha256-KM5RmqDTUjex+3Cnxj9CKmQ7C02jOuq3o/7HpZNalAs=",
+      "publishedTime": "2014-04-28T01:33:28.0Z",
+      "ref": "0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 2404,
+      "hash": "sha256-ZU56RGVKy/oVe00MpFFOaHYBDgbAS9vzdKJ5xMl1Tc8=",
+      "publishedTime": "2014-10-25T22:57:11.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.1.0": {
+      "bytes": 2399,
+      "hash": "sha256-BGnTDr1v2WMqPXzo2t2r8KRH+YupZrx0atWhUOkGKcw=",
+      "publishedTime": "2015-01-10T15:29:59.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2402,
+      "hash": "sha256-NtmefAInKNrCZOG2PisNqZia4d2uXHR+NEZsvp9BW8I=",
+      "publishedTime": "2015-02-21T16:49:00.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

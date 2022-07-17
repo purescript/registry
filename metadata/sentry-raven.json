@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "adamczykm",
+    "githubRepo": "purescript-sentry-raven"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 7942,
+      "hash": "sha256-miajSKxF96globHOcIBKHRNEZVGYTDSFu1VnYm20i94=",
+      "publishedTime": "2018-05-04T14:50:44.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 7952,
+      "hash": "sha256-CXloN54Q9xUsqwP/HMU/fmjsVNsoc9E3+Fj7j9BVVhs=",
+      "publishedTime": "2018-05-06T12:28:17.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 8026,
+      "hash": "sha256-YCpVai5R1o5F1mGvvB7evO5MVlGKNfhJURfJureC4/o=",
+      "publishedTime": "2018-05-06T12:56:05.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 7948,
+      "hash": "sha256-T0t63BT2XD1z86p4XSaJaEoZoxMYDrL+F/uft3oDGbc=",
+      "publishedTime": "2018-07-15T14:59:34.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

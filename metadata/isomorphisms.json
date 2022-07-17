@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "paf31",
+    "githubRepo": "purescript-isomorphisms"
+  },
+  "published": {
+    "2.0.0": {
+      "bytes": 1992,
+      "hash": "sha256-Y4tu5TOrJAqyatHDHAMl+Y06DnlJvEuZuLJoU/qtjm4=",
+      "publishedTime": "2016-08-18T04:25:59.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2115,
+      "hash": "sha256-VHMoEuhM466NgxCD3VfDzVkU4oRMrPvQLnOVVIYy7wI=",
+      "publishedTime": "2016-10-23T00:07:16.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 2257,
+      "hash": "sha256-WwoDGIp4Z3+uMoEXT63h8WVIBgRVgCWav7TrcEIJIno=",
+      "publishedTime": "2017-04-10T03:12:33.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 2270,
+      "hash": "sha256-oyzZXXhXn0T9I+azglsV63Lhup4CDC69t41K5M/nRAs=",
+      "publishedTime": "2018-10-22T17:33:18.0Z",
+      "ref": "v5.0.0"
+    }
+  },
+  "unpublished": {}
+}

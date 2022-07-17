@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-cognitoidentityserviceprovider"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 57711,
+      "hash": "sha256-vTiwHIv8Li//y9a7oX+AJTIUBue7gsH2a1uVvEApG8o=",
+      "publishedTime": "2018-03-10T19:19:52.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 57709,
+      "hash": "sha256-MzSrQBtSqlOZlIxlkk4eoW+S67VRlGbr2t6TJ4/GRKg=",
+      "publishedTime": "2018-03-11T00:40:55.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 57706,
+      "hash": "sha256-6IreMd0MNYxrpqS4gu2tRy+47z6fdWJw0lklW31/r7I=",
+      "publishedTime": "2018-03-11T11:44:46.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.1.1": {
+      "bytes": 57868,
+      "hash": "sha256-g48yHYabtzzDOTnxjyyBsu1OeXvUfSvoMCIxLyuoXTo=",
+      "publishedTime": "2018-03-12T17:44:42.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 57837,
+      "hash": "sha256-+XTUnRyzHK5Q+Lb8BUIwlJZFWc5gcC2ipTYFMC/KbOM=",
+      "publishedTime": "2018-03-13T13:33:11.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 57189,
+      "hash": "sha256-gltA64BgY7MzN7GLtAuXm6bh2rOl15q6H6ifwIOViOc=",
+      "publishedTime": "2018-03-28T16:40:42.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 56418,
+      "hash": "sha256-LvgLTH99+thKB4jb2TQwoSbWK6jVw96jCryuMsTxn8c=",
+      "publishedTime": "2018-04-26T13:23:08.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "purescript-graphqlclient",
+    "githubRepo": "purescript-graphqlclient"
+  },
+  "published": {
+    "1.2.0": {
+      "bytes": 11461,
+      "hash": "sha256-168mg7aYb0mVcE2dXAkepXxb55yYra3AE6JZjbOe2Wc=",
+      "publishedTime": "2021-04-28T08:18:36.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.2.1": {
+      "bytes": 11846,
+      "hash": "sha256-z62TfR4YCsbRcrRR4IG6elIl6VK+Fuzqe+dOsPW0IGA=",
+      "publishedTime": "2022-02-02T16:26:50.0Z",
+      "ref": "v1.2.1"
+    }
+  },
+  "unpublished": {}
+}

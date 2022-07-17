@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "matthewleon",
+    "githubRepo": "purescript-mersenne"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2416,
+      "hash": "sha256-ghdZYA7EDZSbavUVAzJXZ5wqm6wXe9AoRq62UXuakNM=",
+      "publishedTime": "2017-03-15T17:42:47.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2653,
+      "hash": "sha256-96WYPS6YF92fOFFP2zvg8eZ9i7hInRBOUIFqINdLgmg=",
+      "publishedTime": "2017-03-16T16:46:04.0Z",
+      "ref": "v0.0.2"
+    },
+    "1.0.0": {
+      "bytes": 2641,
+      "hash": "sha256-S4PVVhuBDueTfvkQ3cIDB1G2yhkEy575Rh6vlzegP/A=",
+      "publishedTime": "2017-04-03T13:05:54.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

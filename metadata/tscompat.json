@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "doolse",
+    "githubRepo": "purescript-tscompat"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2644,
+      "hash": "sha256-y1H6UrZxtktctFh81cVN+dx1YC4vApEPnA1OyZPyGms=",
+      "publishedTime": "2018-09-23T11:56:28.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2806,
+      "hash": "sha256-gH7AWtlvzdBxQCzA8Je3urPsUKMXOGeysHLvPtw2+Q4=",
+      "publishedTime": "2018-09-26T07:39:07.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

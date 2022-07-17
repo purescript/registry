@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "collegevine",
+    "githubRepo": "purescript-activity-monitor"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3129,
+      "hash": "sha256-r4KeWiQsiNVIQS/kJOngIIEWjDSJDLDxZWp34zFbmHo=",
+      "publishedTime": "2019-02-07T01:30:59.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 3126,
+      "hash": "sha256-vHDFBjVWQLevIH3Xa8v8kzYz99RrN0LJBLOMTS0LLQ8=",
+      "publishedTime": "2019-02-07T14:14:22.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 3138,
+      "hash": "sha256-hWOwrgPkJPGQ6rDlQekpp8Er6U8S5FWN961dn3EzsqQ=",
+      "publishedTime": "2019-02-07T14:26:51.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "garyb",
+    "githubRepo": "purescript-functor1"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1477,
+      "hash": "sha256-Ts53FevyV/oJnLxh7rTyV2cl+kY/Xb2CYX9hhAVZ7fg=",
+      "publishedTime": "2019-03-10T15:42:16.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 1489,
+      "hash": "sha256-09f3tiOHKo/i7EffZf/zJzikQugYsHGU7tFrnrTUdhE=",
+      "publishedTime": "2021-04-24T01:38:56.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 1493,
+      "hash": "sha256-TIhYV4ksEjmx/JiLrtedMq7GnUf8QwsS5cSahpfg1ek=",
+      "publishedTime": "2022-05-16T11:46:44.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

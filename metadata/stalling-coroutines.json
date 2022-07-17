@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-stalling-coroutines"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5679,
+      "hash": "sha256-9URA0xAOl5wDVzdZQwvt8bO0ZsWsM8erWW41eW/5dv8=",
+      "publishedTime": "2015-11-05T17:54:24.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 5669,
+      "hash": "sha256-6cPG0aYIOuh1t7s7dn6g9Q/EmquGnVbKKNk3SEyU8Lw=",
+      "publishedTime": "2015-11-20T12:00:09.0Z",
+      "ref": "v0.1.1"
+    },
+    "1.0.0": {
+      "bytes": 6060,
+      "hash": "sha256-7ZAYhhrC/dpBMxCgNUbgCV0Z/0jm94UllR2hneXC758=",
+      "publishedTime": "2016-06-21T16:34:19.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 6079,
+      "hash": "sha256-/PxPwsg7SLrT5PlL97dgR3L7S2hi2ScOp1/CDcWXzDI=",
+      "publishedTime": "2016-07-22T13:43:26.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 6052,
+      "hash": "sha256-WJpSaFY0menR4liRThSjR5KTl6Yl6JAd9psi7+mnI4A=",
+      "publishedTime": "2016-10-23T16:08:05.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "gorillatron",
+    "githubRepo": "purescript-bf-gun"
+  },
+  "published": {
+    "0.0.32": {
+      "bytes": 4912,
+      "hash": "sha256-PsiZTtMVGsF/O7nyHhOIAFylpu7hWiy+PvdKY+Ldum8=",
+      "publishedTime": "2021-10-20T16:14:58.0Z",
+      "ref": "v0.0.32"
+    },
+    "0.0.33": {
+      "bytes": 4912,
+      "hash": "sha256-aU7UWuXCYTCUs/vA3wqIEVpc405p8Grjci+EaZ3hI6Y=",
+      "publishedTime": "2021-10-20T16:17:36.0Z",
+      "ref": "v0.0.33"
+    },
+    "0.0.34": {
+      "bytes": 4955,
+      "hash": "sha256-xvxFgN+ETeHL7UXphP6ZN6Mh9NqSFgDa5M6jEwD+mGM=",
+      "publishedTime": "2021-10-20T16:20:15.0Z",
+      "ref": "v0.0.34"
+    },
+    "0.0.35": {
+      "bytes": 5058,
+      "hash": "sha256-oJzSN2pxH68LfPjx+LFTQbbQnf/VT0e7hufFt1CWmJw=",
+      "publishedTime": "2021-10-20T17:52:30.0Z",
+      "ref": "v0.0.35"
+    },
+    "0.0.36": {
+      "bytes": 5701,
+      "hash": "sha256-q2/TUrUqWrEaKjRvW2S+7BjAlBG6Os8K5tlJjdxIFgk=",
+      "publishedTime": "2021-10-20T17:54:49.0Z",
+      "ref": "v0.0.36"
+    },
+    "0.1.0": {
+      "bytes": 5772,
+      "hash": "sha256-rA6QQjZoLU5lUJ7+YIOFtZ7VIxlv/8OV3RkWyHaTiHc=",
+      "publishedTime": "2021-10-22T13:23:58.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 6972,
+      "hash": "sha256-uvUcF7zStiL4Tnfy9RnglsbP/+XsAJERjrs2T4KicPE=",
+      "publishedTime": "2021-11-05T15:02:06.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

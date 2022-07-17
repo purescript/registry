@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "Glorp",
+    "githubRepo": "purescript-lambs"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 16796,
+      "hash": "sha256-O4aiYDvaEVcbT0T4YA8NA1VBvLymSWJtUyuvwyP/8HE=",
+      "publishedTime": "2017-06-15T15:32:21.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 17838,
+      "hash": "sha256-aMBqAels0wokrp+uIooZT2mosRyYTb7sxYdnxYqOCB4=",
+      "publishedTime": "2017-07-03T11:36:53.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 17851,
+      "hash": "sha256-lnbTXuelVLSe29xKX0nsDVt3+2vS0kwSMvaOT+RoiWo=",
+      "publishedTime": "2017-07-30T10:46:44.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 17848,
+      "hash": "sha256-xA7ykDH1bGxXVoImd29pKt9iSvCbfA5Zl8t3J6n1Jis=",
+      "publishedTime": "2018-05-19T14:52:52.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "paluh",
+    "githubRepo": "purescript-undefined-is-not-a-problem"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 9061,
+      "hash": "sha256-1KN5WF/C1hjwO0b0H5Ko9M4iMrFcKNs7dUctZKVbojQ=",
+      "publishedTime": "2020-12-22T19:46:52.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 9007,
+      "hash": "sha256-8JPOKnRTkBrABHp+bTjqgw/h7VnHIgMkDUsD+8V7zS8=",
+      "publishedTime": "2020-12-23T11:27:27.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 9006,
+      "hash": "sha256-KGODhD62bvj73dJNi13NTX8iN523dQXdZeM+VFKBu6c=",
+      "publishedTime": "2020-12-23T12:13:15.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 8052,
+      "hash": "sha256-hRg15KpNWZJcjRXdk99wU9n+nVSlOz/iQUfsciQPdVE=",
+      "publishedTime": "2021-04-06T20:00:38.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 8305,
+      "hash": "sha256-lIqXNpTTMRjEaakb37u9sH9F2DEweXO69w8CLk02+pI=",
+      "publishedTime": "2022-01-27T18:16:44.0Z",
+      "ref": "v0.2.1"
+    },
+    "1.0.0": {
+      "bytes": 8676,
+      "hash": "sha256-SAhWWQ6VEj2Rd+qfWi0noqF/5ZgWcFsc4rCRr/TN4jA=",
+      "publishedTime": "2022-06-13T21:40:58.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 8731,
+      "hash": "sha256-4qRZ5ER2F3kGY01jCdjldy640iMSsE3Yrh7ND8Qqs4M=",
+      "publishedTime": "2022-06-19T19:28:17.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript-deprecated",
+    "githubRepo": "purescript-functor-coproducts"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3378,
+      "hash": "sha256-h1LB5exO58y0sc9VjWJjNhoToeOXq8cb7V9bhamPHrA=",
+      "publishedTime": "2016-06-01T02:40:03.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3373,
+      "hash": "sha256-xNw0aiAF1w2MYnm4xO2GOJ5DxQr4v9ey/Fl6Sj3k908=",
+      "publishedTime": "2016-07-12T14:36:35.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 3433,
+      "hash": "sha256-ebyVfwDELD2BJsUEb33JfE0ayJBV5EFabAeHbwLmpWs=",
+      "publishedTime": "2016-08-07T17:17:04.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 3628,
+      "hash": "sha256-hCZDEcpEQS/9FT2giYUuvz1XpsleKnHEn2XjFnARgeE=",
+      "publishedTime": "2016-10-09T22:26:55.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

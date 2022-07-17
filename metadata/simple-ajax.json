@@ -1,0 +1,69 @@
+{
+  "location": {
+    "githubOwner": "dariooddenino",
+    "githubRepo": "purescript-simple-ajax"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3086,
+      "hash": "sha256-8QTCy/8kJ28t9nYt1he8tg2GX2Qdq6q6HmaxwWkVaVw=",
+      "publishedTime": "2018-09-15T17:07:03.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3281,
+      "hash": "sha256-tUu8iPFid6Mc7RZE3doFPxCa1YCzaxmvsRr93M9PA9w=",
+      "publishedTime": "2018-09-17T10:14:51.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3941,
+      "hash": "sha256-Qw5SyJSYyKE1rnC/twSxmk+qnLD4447EPv75Ni1ulI8=",
+      "publishedTime": "2018-09-22T17:03:33.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 4036,
+      "hash": "sha256-fR1kHfyzKFw1dZN9rt+TqlVbeSGrC9J7wwbxl3m7dzU=",
+      "publishedTime": "2018-09-24T08:44:12.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.4.1": {
+      "bytes": 4116,
+      "hash": "sha256-Vn5CmLr0NW5ej+Z3bZErxk89VA0wRAs+8KmEhDqKfNc=",
+      "publishedTime": "2018-10-25T09:55:25.0Z",
+      "ref": "v0.4.1"
+    },
+    "0.5.0": {
+      "bytes": 4625,
+      "hash": "sha256-ckr5VDR7Lq8lHJdy/ELIrHsXsOz18CjolGmywaXxy4Y=",
+      "publishedTime": "2018-12-18T15:12:41.0Z",
+      "ref": "v0.5.0"
+    },
+    "1.0.0": {
+      "bytes": 4639,
+      "hash": "sha256-TQK7uNkJdqma+zq8WKEkCj225tCxLJppJGNd7PGguBY=",
+      "publishedTime": "2019-10-28T10:30:03.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4505,
+      "hash": "sha256-diaqGE4HIrlp8DUduy11Y+ZoRzSbveR0Cl5flKardI0=",
+      "publishedTime": "2020-06-26T08:41:47.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 4538,
+      "hash": "sha256-t3ADAHZIo5KMsd16pO+fNFLG+WRs3HW4NoMbPxGhAJA=",
+      "publishedTime": "2020-10-13T09:25:16.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 4722,
+      "hash": "sha256-TgQeYy+JpjstC98zgeXcv25bL9tCEqRgycJCylab4PM=",
+      "publishedTime": "2021-04-14T14:33:00.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

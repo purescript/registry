@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "BBVA",
+    "githubRepo": "purescript-google-apps"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 439436,
+      "hash": "sha256-IAcPTFPuuSn3YdDIkBNp4stKGZ1vAbruV/ZLIIcwLr8=",
+      "publishedTime": "2021-07-23T10:13:09.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 439337,
+      "hash": "sha256-C2wxwmBes/IqilEVy1b2fM+MpZjm3uJQEnDJQNqSWKc=",
+      "publishedTime": "2021-08-05T20:00:00.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 439567,
+      "hash": "sha256-83fTAZJGNLOn49U5eSfFbSC6hH3t+lMxMgoxBCJqoXs=",
+      "publishedTime": "2021-08-06T09:32:23.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

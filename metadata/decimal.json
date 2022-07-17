@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "Ambrosia",
+    "githubRepo": "purescript-decimal"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2377,
+      "hash": "sha256-hvhJehC9Jcx4pBHlmE5Qr0+C7ZC7eaO+PqatLIVrlSI=",
+      "publishedTime": "2016-12-03T15:18:38.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2364,
+      "hash": "sha256-aHT2DfMduQMM6qCBD6DW0MNpMQ9+uHT0YVMzX6R6TKI=",
+      "publishedTime": "2017-05-03T00:23:46.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

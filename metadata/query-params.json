@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "dgendill",
+    "githubRepo": "purescript-query-params"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2377,
+      "hash": "sha256-9UTZNBBYd8mt6Qjx3I7uiYmnmEGVBOuV1oVDeVRLUyI=",
+      "publishedTime": "2017-03-06T22:39:46.0Z",
+      "ref": "v0.0.1"
+    },
+    "1.0.0": {
+      "bytes": 2450,
+      "hash": "sha256-52ezyQffgVK6Pfs/kC3dTNb8eioQgOhcixwnR5FK0Nw=",
+      "publishedTime": "2017-03-13T18:17:56.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2447,
+      "hash": "sha256-o/LIsjwRdhSgikWlPAvpChH1GmK4jCO5h/lhLUmDu68=",
+      "publishedTime": "2017-03-13T18:25:06.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 3117,
+      "hash": "sha256-Ckcl34MRS92x7DLmfpzEpYSfiwsJ0DLLbxNYXR/gGVI=",
+      "publishedTime": "2017-03-13T18:27:48.0Z",
+      "ref": "v1.0.2"
+    },
+    "2.0.0": {
+      "bytes": 3057,
+      "hash": "sha256-5maCMlb/Bg6uvwZVnnzAhCoVXrvnelXOWb6rbG94Q/M=",
+      "publishedTime": "2017-03-27T02:15:38.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

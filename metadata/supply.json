@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "ajnsit",
+    "githubRepo": "purescript-supply"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3818,
+      "hash": "sha256-CdZqKNK+sgWNnCOJH3zhPuAEE1SLkBa0xiRF4IDqjgg=",
+      "publishedTime": "2020-12-20T10:36:17.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3870,
+      "hash": "sha256-aUbZT9vi2RK1YXlRZrsme33YX85LQNSRHEE1EmqKcwk=",
+      "publishedTime": "2021-11-20T10:52:20.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "Ebmtranceboy",
+    "githubRepo": "purescript-sparse-matrices"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5582,
+      "hash": "sha256-zuYMniCRt6Gs358FdswlGebxhVoNiwIuusiequHKp1s=",
+      "publishedTime": "2020-06-12T20:45:37.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 6166,
+      "hash": "sha256-WYwIJgkUiA35zRyf53JnPsZZ80cztxLHtvm4Q4FiDXI=",
+      "publishedTime": "2020-06-12T23:27:42.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 6176,
+      "hash": "sha256-1FLBBBz+YLHViKAYva7QvJTAw5q91Wb3SRPxznlOONo=",
+      "publishedTime": "2020-06-12T23:27:42.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.2.1": {
+      "bytes": 6176,
+      "hash": "sha256-c3ts/OV71GYN8LiBOLpvw5A/WhssAjMcRYLebqpoQ2I=",
+      "publishedTime": "2022-05-06T14:18:29.0Z",
+      "ref": "v1.2.1"
+    }
+  },
+  "unpublished": {}
+}

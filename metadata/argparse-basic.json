@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "natefaubion",
+    "githubRepo": "purescript-argparse-basic"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 8136,
+      "hash": "sha256-PFStI5jULTseabeS5gBUYB12/yunjnS0nKxcDdY+NDA=",
+      "publishedTime": "2021-04-03T21:33:33.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 8346,
+      "hash": "sha256-TOJv+dvord5Vz/g3muuZsZ1uSK2B6Dl5Kw4YqyanD/M=",
+      "publishedTime": "2022-05-03T16:26:19.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

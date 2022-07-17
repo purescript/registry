@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "jacereda",
+    "githubRepo": "purescript-clock"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1013,
+      "hash": "sha256-NVlWTPC94lRJbk+JbPlPglUJTjmlKP+txVUansLRNyU=",
+      "publishedTime": "2017-04-11T21:46:52.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 1161,
+      "hash": "sha256-XBX+WLFEuGBgevX9LteO4udlcny9bWPtlasCUwB3+3w=",
+      "publishedTime": "2017-04-11T22:28:11.0Z",
+      "ref": "v0.1.1"
+    },
+    "1.0.0": {
+      "bytes": 1121,
+      "hash": "sha256-j/qSLpXDRgDvW5mLHqT+sPIuDTfGZenoDVA7qL5MYpc=",
+      "publishedTime": "2017-04-21T23:42:33.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 1096,
+      "hash": "sha256-7z2vjkDmg3FCXdJa8Qym7WJhRLTsOcCkL936MKP8C6I=",
+      "publishedTime": "2017-04-21T23:47:04.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 1083,
+      "hash": "sha256-BqMXLAfVl70ReRu5N1u9ifTh3qvDBN4qUO4que2gsyk=",
+      "publishedTime": "2018-06-08T07:26:58.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "matthewleon",
+    "githubRepo": "purescript-node-readable"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1605,
+      "hash": "sha256-Ae6TALd6KMaNEhY7mU94x+F50mrSlcviV5CSjHM0H34=",
+      "publishedTime": "2017-11-27T02:20:59.0Z",
+      "ref": "v0.0.1"
+    },
+    "1.0.0": {
+      "bytes": 2107,
+      "hash": "sha256-6qcxfqt1EeLc8Rb3zJ3xkyHHrHdBQY8pADi+XBXcAx4=",
+      "publishedTime": "2017-11-27T23:26:48.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2115,
+      "hash": "sha256-600/ffhxkvYMgajcZWRB+rHGC3ToW9kIvzXJfr59NSY=",
+      "publishedTime": "2017-11-27T23:42:07.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 2093,
+      "hash": "sha256-sRD/5hFvUlMyCZQLB/+F41dbqpR21/BKSF8kjiUteG4=",
+      "publishedTime": "2017-11-28T01:36:05.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 2503,
+      "hash": "sha256-Fa4x01rlrNu/FEjnyWozeLpOCAvB1EvZkZjWmEPg9ME=",
+      "publishedTime": "2017-11-28T14:53:58.0Z",
+      "ref": "v2.1.0"
+    },
+    "2.2.0": {
+      "bytes": 2506,
+      "hash": "sha256-kFowxI0Xcb3IJGk4+ORaLkRRT0pGPlD63xetFbuMp1Q=",
+      "publishedTime": "2017-12-10T00:49:34.0Z",
+      "ref": "v2.2.0"
+    },
+    "3.0.0": {
+      "bytes": 2350,
+      "hash": "sha256-n0eQuw5Wk23HoFW3GlkfbP1tseCJAvws2JnUzXS48nk=",
+      "publishedTime": "2018-09-02T19:28:05.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

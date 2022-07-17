@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "lukasturcani",
+    "githubRepo": "validated-molecule"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4116,
+      "hash": "sha256-2iV+qiwkMAewLFowjWLVfoCmnCKr3S1CKEVFVA4uGEI=",
+      "publishedTime": "2020-07-27T20:11:13.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4021,
+      "hash": "sha256-zi1tzoawugTfYk8S3wSvHCrUZ3k6iCXnyuvkWsfdfUU=",
+      "publishedTime": "2020-07-27T20:43:58.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 4074,
+      "hash": "sha256-+/QninvWuKtF6U+SdFY0fTW2DFUV6p40vO6prkED6m4=",
+      "publishedTime": "2020-07-27T23:15:35.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.0.3": {
+      "bytes": 4068,
+      "hash": "sha256-WK1gW0HSdZxli7GToObZP8FtdCQlo6PmvIqEdy97YhY=",
+      "publishedTime": "2020-07-27T23:24:45.0Z",
+      "ref": "v1.0.3"
+    },
+    "1.0.4": {
+      "bytes": 4741,
+      "hash": "sha256-j2qf4dFKbSVK51fAsCNdRj8Xq3pQRmCXM4ah78sWR38=",
+      "publishedTime": "2020-07-29T12:38:13.0Z",
+      "ref": "v1.0.4"
+    },
+    "1.0.5": {
+      "bytes": 5366,
+      "hash": "sha256-fZ/Rbyf4Pjy1+S26CmNvALyefIikKauZqpw3LBsYzsI=",
+      "publishedTime": "2020-08-21T20:05:32.0Z",
+      "ref": "v1.0.5"
+    }
+  },
+  "unpublished": {}
+}

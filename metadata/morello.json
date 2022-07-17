@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "sigma-andex",
+    "githubRepo": "purescript-morello"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5337,
+      "hash": "sha256-K+zDD/Mw2pERU0c3imUkqaMdIwiPOtisam78gR6fECM=",
+      "publishedTime": "2021-03-05T08:22:36.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 5333,
+      "hash": "sha256-U1gUs8EcXvTCcmDGJ8ojN9bL6YcJFnyrujZBDTUtkUI=",
+      "publishedTime": "2021-03-05T08:45:54.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 5682,
+      "hash": "sha256-EP7eLVb8c6SlKvt7alx6LXUmVXvLj76CU7O7YxZFPs8=",
+      "publishedTime": "2021-03-10T20:19:19.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.2": {
+      "bytes": 4951,
+      "hash": "sha256-K80BiW30+s5fr/THq0aN+pmB1Z+Jf0S4T82SwWokUUs=",
+      "publishedTime": "2022-05-15T11:27:28.0Z",
+      "ref": "v0.3.2"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "truqu",
+    "githubRepo": "purescript-workers"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 7612,
+      "hash": "sha256-HmyKiSXrXvIVSBkOi8aK7sn6K/4bMtGTqUuEc/9mMyU=",
+      "publishedTime": "2017-07-20T13:02:21.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 13137,
+      "hash": "sha256-1OzhF4Yn0zIjA3q2L8HDmHS8jziKB+PKk++n4XHhxdo=",
+      "publishedTime": "2017-07-28T13:27:18.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 17460,
+      "hash": "sha256-lFWMI5q4t95yVQZ+Ch04OzDHURuym+wt2VBITmUTKGw=",
+      "publishedTime": "2017-09-16T12:40:40.0Z",
+      "ref": "v2.1.0"
+    }
+  },
+  "unpublished": {}
+}

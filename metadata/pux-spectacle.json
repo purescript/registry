@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "megamaddu",
+    "githubRepo": "purescript-pux-spectacle"
+  },
+  "published": {
+    "1.0.1": {
+      "bytes": 2615,
+      "hash": "sha256-TCCUk8p33cUZrXuRJJC5ijr5cPiby+CjnWEUgAMLQlE=",
+      "publishedTime": "2016-08-24T03:57:00.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 2616,
+      "hash": "sha256-y4tqyoOt56u0/yssGtnyXBruB5bM0x2x59ga78WBOzg=",
+      "publishedTime": "2016-08-24T04:54:16.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 2620,
+      "hash": "sha256-OGN44fMxESOoSfQKowt0Kxd5JzZD1WRIx6YWaILOtak=",
+      "publishedTime": "2016-08-24T07:06:29.0Z",
+      "ref": "v1.2.0"
+    },
+    "2.0.0": {
+      "bytes": 2601,
+      "hash": "sha256-3fGqOCoKQTDYsoXcxuvr9EDM+VVYNkiC8fACbFRYpm0=",
+      "publishedTime": "2017-01-24T15:55:44.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

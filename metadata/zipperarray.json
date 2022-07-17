@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "jamieyung",
+    "githubRepo": "purescript-zipperarray"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4100,
+      "hash": "sha256-kFGU8onujK3UODerjEVE9Ajfi1FLLvpSYWCXe4y6Iys=",
+      "publishedTime": "2019-08-21T13:50:52.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4248,
+      "hash": "sha256-i8m7Pc/nsHyeeZUtH0xDS9G3NtnmX8b4QiC0sZuFtqo=",
+      "publishedTime": "2019-08-22T00:51:29.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 4282,
+      "hash": "sha256-STz8sxL6kZLQGiR+JkMEeQ+btSzbslstF+6zeLKYTBM=",
+      "publishedTime": "2019-08-25T14:13:40.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

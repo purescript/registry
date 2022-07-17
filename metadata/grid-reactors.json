@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "Eugleo",
+    "githubRepo": "purescript-grid-reactors"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 16022,
+      "hash": "sha256-5NKjnMDmI+VC5Eiaxfz2MWUq/BAYiINg7G59qdC6XBA=",
+      "publishedTime": "2021-09-10T22:48:14.0Z",
+      "ref": "v0.0.1"
+    },
+    "2.1.0": {
+      "bytes": 16106,
+      "hash": "sha256-4KgjthrfAFM1UHbpFYWX5BRalNYH/WGr6JgC5CN3K3Y=",
+      "publishedTime": "2021-10-26T12:44:12.0Z",
+      "ref": "v2.1.0"
+    },
+    "3.0.0": {
+      "bytes": 15874,
+      "hash": "sha256-zggYMVbDVfS03kRDjqiG8KczGa+BViF0t008OjFRWqQ=",
+      "publishedTime": "2021-11-18T22:11:55.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 16342,
+      "hash": "sha256-3Nc3PnMWL6ovCfEeKMOxB0XUAJYHTM09jwEC9CXAy+s=",
+      "publishedTime": "2021-11-25T18:11:12.0Z",
+      "ref": "v3.0.1"
+    },
+    "4.0.0": {
+      "bytes": 17559,
+      "hash": "sha256-8rlbIYjBmXtOg6bgX1vZx2f1mZjo9QShOOVl/OGDORk=",
+      "publishedTime": "2022-01-25T18:23:09.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

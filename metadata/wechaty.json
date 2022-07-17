@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "Lupino",
+    "githubRepo": "purescript-wechaty"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3815,
+      "hash": "sha256-Ii3ruxq8xIiHSelhIvk4mRq25hjrWaeTlSBxXip56rM=",
+      "publishedTime": "2018-04-17T23:51:57.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3829,
+      "hash": "sha256-aFqO9AMCJJY5tgxRLVWsSgHeHsDOIkxTHx9/3s2yCpk=",
+      "publishedTime": "2018-04-18T02:58:13.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

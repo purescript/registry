@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "kritzcreek",
+    "githubRepo": "purescript-dynamic-buffer"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 7433,
+      "hash": "sha256-o9V/PRdmn49qSvzKLbaDB7KFDDfhTf1YQ4+o2ixOGCA=",
+      "publishedTime": "2020-11-06T20:56:31.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 7600,
+      "hash": "sha256-EUBPYzWPQOmWrDbq4TmwvNlJah2T5oll+J4FEZwpxOc=",
+      "publishedTime": "2020-11-08T17:58:26.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 8841,
+      "hash": "sha256-EF7dXbQT56YC3A3htdNS14ogEMgY3hWh/WP4fwIDHQ8=",
+      "publishedTime": "2020-12-16T13:41:08.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 8905,
+      "hash": "sha256-cGr7PKyekKiCy3wnrwiD9PrZhP9OA+aEvN0O9qVvd7w=",
+      "publishedTime": "2022-05-06T08:16:45.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 8907,
+      "hash": "sha256-5iHV/8q6Us+rxkLpyq0NXQFST5EKh6iRxmvgm3M2bRU=",
+      "publishedTime": "2022-05-06T08:23:20.0Z",
+      "ref": "v3.0.1"
+    }
+  },
+  "unpublished": {}
+}

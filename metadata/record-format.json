@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "kcsongor",
+    "githubRepo": "purescript-record-format"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2862,
+      "hash": "sha256-S+pT6lYf6fHq6+ZzkIZKmUqRzzcOosPF8Ar+n4r66a8=",
+      "publishedTime": "2018-05-24T10:05:02.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 2890,
+      "hash": "sha256-TSusnQhQ2kQFRo/JAEuzjKCb2jfjWmC2erAHg5OwIKQ=",
+      "publishedTime": "2018-05-24T10:34:58.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2887,
+      "hash": "sha256-VeWdm8gd9NeNnlK7IFWBgyo8CsJ33cQ1i8gbJBzEmLk=",
+      "publishedTime": "2019-03-23T13:00:35.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2889,
+      "hash": "sha256-TX/TUHxBrFGSUFEAnHf3jfnOz5yurcd73lbK9YmOtbo=",
+      "publishedTime": "2019-06-22T06:09:06.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2887,
+      "hash": "sha256-ME3P9r1Hx15oqJpvTPhwmV/lBztbL/47p0wN7AyMUjw=",
+      "publishedTime": "2021-12-15T13:08:30.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

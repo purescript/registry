@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "parsonsmatt",
+    "githubRepo": "purescript-pair"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1839,
+      "hash": "sha256-jQ7A5u4PSPDhIJjaL2c8mezpQNcsToIl4ql8LquUcB0=",
+      "publishedTime": "2016-04-04T16:41:50.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 1984,
+      "hash": "sha256-bkuaTmb0kIp+qdlmbn5g2wzZZvA7QF2hfNp8/QyZB+E=",
+      "publishedTime": "2016-04-04T22:42:56.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

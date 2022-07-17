@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-workmail"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 15437,
+      "hash": "sha256-V8MTla7bCU+jcA2AHh2PTxpxDf8H0vEpM3xgnBFzr08=",
+      "publishedTime": "2018-03-10T22:04:49.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.1": {
+      "bytes": 15481,
+      "hash": "sha256-k+gC7c49KV3YK6vcbWFex7jil2NDl/lid8RpWsDDiDA=",
+      "publishedTime": "2018-03-12T18:30:49.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 15452,
+      "hash": "sha256-GNyvu8Ppv7mwUiwA6xwxQDUzL409aOM+QOVM7oL6xwA=",
+      "publishedTime": "2018-03-13T13:41:16.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 15457,
+      "hash": "sha256-XAe2tlqxR53IByk7QNn0Pqkb3sBYtXAJe4l7fwKczCU=",
+      "publishedTime": "2018-03-28T16:49:49.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 15290,
+      "hash": "sha256-lfNPWE/r1JvO9IIeTKaouA120wboViKvAIYipnQkUm8=",
+      "publishedTime": "2018-04-26T13:33:54.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

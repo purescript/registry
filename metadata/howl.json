@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "houli",
+    "githubRepo": "purescript-howl"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1898,
+      "hash": "sha256-sQX2PVhglzOt4+PkcuNtrM9j4vDEja2ZSWaW/F0PFqM=",
+      "publishedTime": "2018-02-18T17:29:30.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1833,
+      "hash": "sha256-yDOcdSxxcc19IZoQN/ICEV5X/FuBfT+ra97y8UUIFcI=",
+      "publishedTime": "2018-05-24T19:39:52.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

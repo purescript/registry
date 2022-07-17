@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-marketplaceentitlementservice"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 4067,
+      "hash": "sha256-0aBTkbPjJA4Ub0OW0uqeJQUT04sqJP6JhuINW6X/VRY=",
+      "publishedTime": "2018-03-10T21:07:25.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.1": {
+      "bytes": 4082,
+      "hash": "sha256-zIqxCfD1O8X+Jst9CNOaVfcLc0mVdfvFmA9Iqkw+Y/o=",
+      "publishedTime": "2018-03-12T18:08:28.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 4057,
+      "hash": "sha256-7Jkoan24RkF0UKMkc8xIb211sq1+gZd7vmdNhM4loDI=",
+      "publishedTime": "2018-03-13T13:37:16.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 4239,
+      "hash": "sha256-xXwtvUsMcbPwjHKQSkzI5I1P1a7lEeKw4ANHGjX0Z/k=",
+      "publishedTime": "2018-03-28T16:45:27.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 4195,
+      "hash": "sha256-tmb4yGH7fslAy3/d3MiltUaepf3Vjajw5t9F8zHNpjY=",
+      "publishedTime": "2018-04-26T13:28:29.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

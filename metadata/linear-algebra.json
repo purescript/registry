@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "klangner",
+    "githubRepo": "purescript-linear-algebra"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5994,
+      "hash": "sha256-iBYs7eNmXSfRgXVcXbqDchb5sHpdDokWvvmxA3w0p9k=",
+      "publishedTime": "2017-04-20T11:38:28.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 5905,
+      "hash": "sha256-4fz4YO9HxRPPLgNS47U0nuAB094Tooa8tUmt6HutIQI=",
+      "publishedTime": "2017-04-20T13:34:33.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 6326,
+      "hash": "sha256-l/Dvra84gGoCFSMoEQ8dUa1vBqKqmC/q4XZeKYIM5Bk=",
+      "publishedTime": "2017-04-25T09:29:35.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 6385,
+      "hash": "sha256-7d9U3s8TE9nUi/fTm7y1MTrwLkEtJXZzVay/NMm+22k=",
+      "publishedTime": "2017-05-04T14:22:17.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 7293,
+      "hash": "sha256-yWIjgUHABZIAK3o3iyJ9cQ1Vsx+vH/PfX1aVMY3bYn0=",
+      "publishedTime": "2017-05-13T08:20:34.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 7294,
+      "hash": "sha256-SuOjqn9EYLLjXMUnvlHMTTTkIBe3NnyEz1g6I2kg17Y=",
+      "publishedTime": "2018-08-09T08:36:36.0Z",
+      "ref": "v0.5.0"
+    }
+  },
+  "unpublished": {}
+}

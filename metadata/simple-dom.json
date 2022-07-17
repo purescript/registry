@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "aktowns",
+    "githubRepo": "purescript-simple-dom"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 10914,
+      "hash": "sha256-cX347rqXbRGNIb2CRacmAM5HJ3zWe1ogdf+ALIptPqM=",
+      "publishedTime": "2015-04-13T00:00:22.0Z",
+      "ref": "0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 11678,
+      "hash": "sha256-TtDjz14APWBZBRraSITKmBg8vgyEUI4hSRbHnJ7o+R4=",
+      "publishedTime": "2015-08-03T10:36:42.0Z",
+      "ref": "0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 11875,
+      "hash": "sha256-mu2US5vmDLC1jq+z9VsM6+HyIe+9IkHC+F+JxkMiDfI=",
+      "publishedTime": "2015-08-03T11:35:12.0Z",
+      "ref": "0.0.4"
+    },
+    "0.1.0": {
+      "bytes": 11874,
+      "hash": "sha256-kDgxpcs/O1eGRdgfu1FpMXwRSUiUy9Fo7Wiz7/G+JvI=",
+      "publishedTime": "2015-08-05T01:47:42.0Z",
+      "ref": "0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 11363,
+      "hash": "sha256-Ab7yx4zB3bhHhM7y9golT9rBPw2FI6hVubuu5Vy9eHU=",
+      "publishedTime": "2015-11-02T16:01:39.0Z",
+      "ref": "0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 11376,
+      "hash": "sha256-44n91o4clg0/DumEkCVnkzF6YtEoLG9owBahVlnkd/I=",
+      "publishedTime": "2015-11-02T16:18:31.0Z",
+      "ref": "0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 11396,
+      "hash": "sha256-bR6rEwWpRtmdJA7YqptaPJLp1+IErm9ESuvUgLNUqJw=",
+      "publishedTime": "2015-11-02T16:33:16.0Z",
+      "ref": "0.1.3"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "lightandlight",
+    "githubRepo": "purescript-pux-redux"
+  },
+  "published": {
+    "0.2.0": {
+      "bytes": 4919,
+      "hash": "sha256-B9pyD7ngs3OQm+uI31RV9SlULvO/l1skLFJq7NjJESE=",
+      "publishedTime": "2017-06-30T04:00:59.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 4936,
+      "hash": "sha256-X7RRQ9jnw3prKWupuN7oWY1mrZ34Fke3fhwglTGRvMw=",
+      "publishedTime": "2017-06-30T04:15:34.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 4936,
+      "hash": "sha256-Kdwfi3xZj0gZab90NKNTXP4mJx1TmHeUx+8yjzHYQzM=",
+      "publishedTime": "2017-06-30T04:26:22.0Z",
+      "ref": "v0.2.2"
+    }
+  },
+  "unpublished": {}
+}

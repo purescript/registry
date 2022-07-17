@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "ascjones",
+    "githubRepo": "purescript-accounting"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1257,
+      "hash": "sha256-UinrHUlbi+Kv82VpxBiZLHfeEd5j7Ytpruh77P/GF54=",
+      "publishedTime": "2016-01-29T23:29:27.0Z",
+      "ref": "0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1141,
+      "hash": "sha256-8kr6yytzHSV77p2S2XoogQDefYLGKAExOBRMDxkX6Go=",
+      "publishedTime": "2016-01-30T11:15:43.0Z",
+      "ref": "0.2.0"
+    },
+    "0.4.0": {
+      "bytes": 1225,
+      "hash": "sha256-oFi+qVWC2+R/rLvVYMjHv8GjH1inCPz/Ao+S0Rj/QQY=",
+      "publishedTime": "2016-01-30T12:05:11.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

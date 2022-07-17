@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "monoidmusician",
+    "githubRepo": "purescript-textcursor"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 7097,
+      "hash": "sha256-Qza80k8wFzNeTnAiuPDkZSMYMhBsAJva9pepe4uFr3k=",
+      "publishedTime": "2017-07-21T21:11:26.0Z",
+      "ref": "0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 7121,
+      "hash": "sha256-lXD9FJs25dS3vT9gzjSeKaiNkUkNm67SW04/C9ON6Y0=",
+      "publishedTime": "2017-07-21T21:19:53.0Z",
+      "ref": "v0.1.1"
+    },
+    "1.0.0": {
+      "bytes": 6897,
+      "hash": "sha256-S9c2MF77IT6sLzGOSXaT4YqTl8AeTQMf+8gii/vJoCs=",
+      "publishedTime": "2018-07-14T01:49:54.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 6892,
+      "hash": "sha256-BKlPJGLF0+D6EeeiLvL9RiL7hDGIeXS2gSODbx/4Ko0=",
+      "publishedTime": "2019-06-29T02:08:52.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-chirashi"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2584,
+      "hash": "sha256-4zbMWFemMP6GVb526e6NtCbO4nCqjzHPpVnt/s7TSc8=",
+      "publishedTime": "2018-09-29T13:26:46.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2698,
+      "hash": "sha256-GQfscKgpVgJ+swtDGLMGhQ5mfkSFMhohuMlTI957Tl0=",
+      "publishedTime": "2019-05-30T10:04:28.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "Risto-Stevcev",
+    "githubRepo": "purescript-lattice"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2023,
+      "hash": "sha256-ytoXsciOwos+wZHiq+dmC6icZMqmEfh4NcHEJv293fU=",
+      "publishedTime": "2017-08-20T22:44:07.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2395,
+      "hash": "sha256-xlelo64vwEXtjZprXWqtvgrU/uoZtbcFC4zXTP3s/mE=",
+      "publishedTime": "2017-08-20T23:19:05.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2401,
+      "hash": "sha256-TrPcEYppxaTicMQKh/LzazqnmpNL0xgbWcQ2OUZUXAo=",
+      "publishedTime": "2017-08-20T23:28:49.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

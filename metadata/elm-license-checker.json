@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "kakkun61",
+    "githubRepo": "elm-license-checker"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 4634,
+      "hash": "sha256-AKdn3hihAZQIbh3vrBU2Kum7aIrHp6nHHwcC4WblDAg=",
+      "publishedTime": "2020-01-06T21:30:01.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 6379,
+      "hash": "sha256-Qy1cyzvcOsOh10LDQOZYqMtovP1//9wk4Jm6RP2NZMc=",
+      "publishedTime": "2020-01-09T12:37:04.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 6335,
+      "hash": "sha256-MTcWSiNCMwXa1uTzNKSrMtIJlu5aaOETCqSKNyFuZZk=",
+      "publishedTime": "2020-01-10T13:39:31.0Z",
+      "ref": "v2.1.0"
+    },
+    "2.2.0": {
+      "bytes": 6415,
+      "hash": "sha256-69mgbNij4CRu+L/kMqBzwPyDqg925nK6S1r95lBu5dA=",
+      "publishedTime": "2020-01-15T12:13:32.0Z",
+      "ref": "v2.2.0"
+    },
+    "2.2.1": {
+      "bytes": 6416,
+      "hash": "sha256-9wNoxY0Xh/mV1yCo3U6zu9J7z18IzU8w+9KFHzR2AWQ=",
+      "publishedTime": "2020-01-15T14:58:39.0Z",
+      "ref": "v2.2.1"
+    },
+    "2.3.0": {
+      "bytes": 8421,
+      "hash": "sha256-xMM5Ku1kr4mtHOZRkNqtzQDCNDAgX9PxYOuNqb4DHzY=",
+      "publishedTime": "2020-07-08T17:36:43.0Z",
+      "ref": "v2.3.0"
+    },
+    "2.4.0": {
+      "bytes": 9554,
+      "hash": "sha256-64f4RnnOCYb9DPXZTg0ThShaucYtq7sIfm8EyNdCJQI=",
+      "publishedTime": "2021-01-16T14:44:34.0Z",
+      "ref": "v2.4.0"
+    }
+  },
+  "unpublished": {}
+}

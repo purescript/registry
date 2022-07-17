@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "narinari",
+    "githubRepo": "purescript-js-barcode-halogen"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1538,
+      "hash": "sha256-ZPSTVGvZgR5oc6I8eRxzGo8Eftab5y63yOZUNYBJqAM=",
+      "publishedTime": "2016-10-25T05:24:44.0Z",
+      "ref": "0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1563,
+      "hash": "sha256-iTOBriJ4WwmzGjTjdeyIPMKfJbih+h5L99NCMvtYehg=",
+      "publishedTime": "2016-10-25T07:17:55.0Z",
+      "ref": "0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 1579,
+      "hash": "sha256-EowGPn62/ayRp76MKZCRk41cPkdKIRm5VOHi/IAe1sg=",
+      "publishedTime": "2016-11-09T07:16:44.0Z",
+      "ref": "1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 1613,
+      "hash": "sha256-XBqCZJqYABmaMqvUwKwboXRN1Wi2sY3gjwWtLxtLRFw=",
+      "publishedTime": "2016-11-30T08:59:55.0Z",
+      "ref": "1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 1668,
+      "hash": "sha256-ajpYUJhLMaoLJnUrEc28wgu55DPakF0H9xPmI56Ijco=",
+      "publishedTime": "2017-03-17T01:28:54.0Z",
+      "ref": "2.0.0"
+    }
+  },
+  "unpublished": {}
+}

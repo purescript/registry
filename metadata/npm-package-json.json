@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "maxdeviant",
+    "githubRepo": "purescript-npm-package-json"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2626,
+      "hash": "sha256-1KbH22nfBV6NGS9j8V0sG+GuyuGniUpOac8wjf9tFtg=",
+      "publishedTime": "2020-08-11T22:40:58.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 3021,
+      "hash": "sha256-yYLIvChwrzMfSVHyUXg0EPqhXa6AqhjifAG0LvN6Oqo=",
+      "publishedTime": "2020-08-13T22:38:36.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 3212,
+      "hash": "sha256-zsVRH5jdiHq6rUYChAb581WY9cfwHx7qu1aT5zZAENw=",
+      "publishedTime": "2020-09-26T20:15:28.0Z",
+      "ref": "v1.2.0"
+    },
+    "2.0.0": {
+      "bytes": 3280,
+      "hash": "sha256-ocfcmYE9cARCMNjD79ok9GYaTlPA6Z+vzMH7+u9XJRI=",
+      "publishedTime": "2021-07-30T00:48:20.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

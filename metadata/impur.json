@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "RuneBlaze",
+    "githubRepo": "purescript-impur"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 9059,
+      "hash": "sha256-yLeL4AlfdZeLrrDAlIBnCIa7Ii1aKnQk+O+j6KpO0rA=",
+      "publishedTime": "2018-04-22T22:23:49.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 9072,
+      "hash": "sha256-AIm4QnUyR9y/GvzNsgfIuAeVBtZ1bI5lvKmn/8+S3mI=",
+      "publishedTime": "2018-04-22T22:36:59.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 9569,
+      "hash": "sha256-3MarOodgBCYJg7QsQJS8o49bUwyRAeyWkkCSJ45QzJ4=",
+      "publishedTime": "2018-04-23T13:43:00.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 9568,
+      "hash": "sha256-Kc2HRLuQFHpv+AYwlbAtmARSaPV/5IeNIaxgER13y5I=",
+      "publishedTime": "2018-04-23T14:02:30.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 9570,
+      "hash": "sha256-GK3mvG8lpzGANCW8gAShOacg4K/o/2R1imcwFFC9tdU=",
+      "publishedTime": "2018-04-23T14:26:11.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 9601,
+      "hash": "sha256-So9o/QUY2mVfXiYZgO5uJMGG2IJ7nHb+GmsE7gXzalM=",
+      "publishedTime": "2018-05-05T02:59:57.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

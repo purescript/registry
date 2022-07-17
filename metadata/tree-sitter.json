@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "neppord",
+    "githubRepo": "purescript-tree-sitter"
+  },
+  "published": {
+    "0.1.2": {
+      "bytes": 4652,
+      "hash": "sha256-1gBVGLUGwvuhXYRyYWvi0Y+zz74hVoL+jPeh5IjfiSM=",
+      "publishedTime": "2021-10-18T17:39:20.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 5018,
+      "hash": "sha256-Z3G+fpL+G6wwIPMkeB4XXVbTakEaO0epOU9HqFSlYYQ=",
+      "publishedTime": "2021-10-19T19:08:57.0Z",
+      "ref": "v0.1.3"
+    }
+  },
+  "unpublished": {}
+}

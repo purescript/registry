@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "dewey92",
+    "githubRepo": "purescript-classnames"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3934,
+      "hash": "sha256-ZghAyAY0IElu/lPgewkSPmScVvakFVw7ZEVext5H03s=",
+      "publishedTime": "2020-05-23T09:09:55.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 3848,
+      "hash": "sha256-GZzblISb4kHhkSOUlR47/bmKFjmN6HhT792DLl3Qgt0=",
+      "publishedTime": "2020-05-27T18:05:05.0Z",
+      "ref": "v0.1.1"
+    },
+    "1.0.0": {
+      "bytes": 3910,
+      "hash": "sha256-LAcgZNip0MdH+pZA9/LPm+jE0HGpUthKQCZAj4RZ0Yw=",
+      "publishedTime": "2021-06-16T21:15:17.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3885,
+      "hash": "sha256-tSZ9EpcGhQg2dNTACDKV2aYd/Gs/gv5wtQNnxcGlfEE=",
+      "publishedTime": "2022-06-05T21:57:53.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

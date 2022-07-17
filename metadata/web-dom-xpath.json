@@ -1,0 +1,69 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-dom-xpath"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3719,
+      "hash": "sha256-krFJNNmazVsu72nQdx07YbrJunl1F8cCKVQC8TZkOBQ=",
+      "publishedTime": "2019-04-19T19:30:11.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3726,
+      "hash": "sha256-lpulQdoN/qi6rO1/C4vafpi+AiGMtF6r1qBRA0SaYRU=",
+      "publishedTime": "2019-04-19T20:01:23.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 3713,
+      "hash": "sha256-ev56SjNIQu7oAS+YJO34J1U/3jyOhF944ZQfTN40Ozg=",
+      "publishedTime": "2019-04-19T20:23:57.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.0": {
+      "bytes": 4469,
+      "hash": "sha256-dnfZgZzQqc1E6dDPY5CgZ9hNICAICyq/fjX00FMK4S0=",
+      "publishedTime": "2019-04-23T19:53:49.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 4620,
+      "hash": "sha256-GykzRomXFM2hfxirvHnRT9OXe909aQ0DqlhMKiTpgq8=",
+      "publishedTime": "2019-04-23T21:34:48.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.2.1": {
+      "bytes": 4624,
+      "hash": "sha256-0IdHIzhzO7kjF0C4CXapRfR68Q1A8mG+iNzWpymE7Yw=",
+      "publishedTime": "2019-06-26T19:50:53.0Z",
+      "ref": "v1.2.1"
+    },
+    "1.2.2": {
+      "bytes": 4631,
+      "hash": "sha256-qEk1tGQb7XVbKYnyNNtNbqwDERw0+CQsG+YMJOq0g34=",
+      "publishedTime": "2019-08-18T14:06:27.0Z",
+      "ref": "v1.2.2"
+    },
+    "2.0.0": {
+      "bytes": 4605,
+      "hash": "sha256-vKgj9AZz59uY4PWf3CMTKK2DN4TDE1NrnqGG1dgpKYc=",
+      "publishedTime": "2021-02-26T21:26:53.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 4595,
+      "hash": "sha256-K0JyibO1+q88uMSmP9kNO2hHk9AivIy5TdcXEE9V1dI=",
+      "publishedTime": "2021-05-06T16:46:02.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 4605,
+      "hash": "sha256-fwEspPW4J/fB0+vU5SH3KZv+Uo66L7sPR7yORYF4X/s=",
+      "publishedTime": "2022-04-27T23:25:50.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

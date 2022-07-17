@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "paluh",
+    "githubRepo": "purescript-puxing-bob"
+  },
+  "published": {
+    "0.0.3": {
+      "bytes": 6909,
+      "hash": "sha256-WIcoOdEAhoCRllBYrqKYCNTvrua86bjnDS+zwG5SwQA=",
+      "publishedTime": "2016-12-12T18:25:32.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.1.0": {
+      "bytes": 6907,
+      "hash": "sha256-M9xoBw/A7b2dlUjM0ezWO+KVZYwpq/XW3cby7B9BDeY=",
+      "publishedTime": "2016-12-12T18:36:15.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

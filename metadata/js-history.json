@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "coot",
+    "githubRepo": "purescript-js-history"
+  },
+  "published": {
+    "2.0.1": {
+      "bytes": 3280,
+      "hash": "sha256-2vc7Jo9SPAAeSBJNctxo9Tag2KCYBTozjW8jYt7SqGs=",
+      "publishedTime": "2017-03-18T15:10:20.0Z",
+      "ref": "v2.0.1"
+    },
+    "2.0.2": {
+      "bytes": 3329,
+      "hash": "sha256-4v0XlrgMu7//UpNk+f1Ydrd9VLxeSFnzA7X52xjVhjw=",
+      "publishedTime": "2017-03-18T15:12:13.0Z",
+      "ref": "v2.0.2"
+    },
+    "2.0.3": {
+      "bytes": 3332,
+      "hash": "sha256-bLqBWmgQVV2KNdmWa4wYznLQY7gMVWv19E3HZQxp35A=",
+      "publishedTime": "2017-03-24T23:42:21.0Z",
+      "ref": "v2.0.3"
+    }
+  },
+  "unpublished": {}
+}

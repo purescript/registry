@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "csicar",
+    "githubRepo": "purescript-sized-matrices"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5041,
+      "hash": "sha256-4gMRNBp/8XcMbD36FyWUv2nXZYrNbIz9xwMnVBHmWkk=",
+      "publishedTime": "2018-06-22T22:38:28.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 5910,
+      "hash": "sha256-7rcQa2H2ZkOe8dhgphmoisyBvyJfMz4Ny+FGPUt9Qfw=",
+      "publishedTime": "2018-06-23T00:33:08.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 7178,
+      "hash": "sha256-ekhKwiOK9MjfvM9C2zYEMSk4gwtb7GDlrVSJv8jzkHI=",
+      "publishedTime": "2018-06-23T23:02:58.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 7180,
+      "hash": "sha256-STY/yIWr1IZaJBH50YICpo+SL6k4peCMPg3Yk3AX+GU=",
+      "publishedTime": "2018-06-23T23:06:32.0Z",
+      "ref": "v0.2.1"
+    },
+    "1.0.0": {
+      "bytes": 6856,
+      "hash": "sha256-6+O9LQScdPsIcHPjYcrUQZuN1DZ8HdpGzqGo9mGt1Hg=",
+      "publishedTime": "2020-02-20T09:13:48.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

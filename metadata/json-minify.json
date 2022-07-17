@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "dgendill",
+    "githubRepo": "purescript-json-minify"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1752,
+      "hash": "sha256-2BPefMoQjL8Oh9snxz4ssTV9kiPKTUrAjXQYYI1BXDw=",
+      "publishedTime": "2016-06-19T16:07:11.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2024,
+      "hash": "sha256-bv2rci+Y0XsxMuUwVR1aj6yQbR4R8PviJ7S96A9sV1E=",
+      "publishedTime": "2016-11-15T17:17:49.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 2016,
+      "hash": "sha256-UXCDhaFAYpJ0IZ2R3L4GvrIIWbGK6Wmvh5LtfpUlDPI=",
+      "publishedTime": "2016-11-15T18:45:26.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2137,
+      "hash": "sha256-Hsj1PR5xtC1BM4yCMq0cgU/CrHnPJlr4kUy7nfRWymQ=",
+      "publishedTime": "2017-03-27T21:50:07.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}
