@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "opyapeus",
+    "githubRepo": "purescript-pseudo-random"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2565,
+      "hash": "sha256-Yh4qQA4lxZTsanF7baZuh6mCYszASXkMXFAIW44TkAw=",
+      "publishedTime": "2018-09-11T08:40:37.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2561,
+      "hash": "sha256-eDNwIIcxqOoTkjNUynsEGjTZtyn2BAlPNETv0ZsZMm8=",
+      "publishedTime": "2019-01-29T12:16:51.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 2562,
+      "hash": "sha256-Ivqqp+Qv3liiWVHvKP1w6hfNj2pYH+b5rH21w4LvEVw=",
+      "publishedTime": "2019-01-29T12:26:39.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 2619,
+      "hash": "sha256-HXxDEQ4fRvpkAHOFhZdB6U971KoiW2zW7LOncfzmRFo=",
+      "publishedTime": "2019-10-05T11:36:28.0Z",
+      "ref": "v0.2.2"
+    }
+  },
+  "unpublished": {}
+}

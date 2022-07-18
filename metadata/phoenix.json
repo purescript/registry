@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "brandonhamilton",
+    "githubRepo": "purescript-phoenix"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3365,
+      "hash": "sha256-kJ8MUBnGCIFL8XaAgg2yLkpAwX06QwQeAD2PXUEaQXg=",
+      "publishedTime": "2016-07-17T22:09:07.0Z",
+      "ref": "v0.1.0"
+    },
+    "2.0.0": {
+      "bytes": 3367,
+      "hash": "sha256-rzPY5vAyie0xR+6Fj9+RP8bwNbWR+rY9cAhXsLx0ILc=",
+      "publishedTime": "2016-12-21T08:04:44.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 3365,
+      "hash": "sha256-U74StrnkTHo/cx3ESUcyKhGfCAlpQ7M6dX7gl9oF6DA=",
+      "publishedTime": "2016-12-28T20:56:34.0Z",
+      "ref": "v2.0.1"
+    },
+    "2.0.2": {
+      "bytes": 3360,
+      "hash": "sha256-suPCXgWc5QSg33IBDLgzimf5uoJZi7cEpakpO6WcK/4=",
+      "publishedTime": "2017-01-30T15:52:19.0Z",
+      "ref": "v2.0.2"
+    },
+    "3.0.0": {
+      "bytes": 3620,
+      "hash": "sha256-wYibeR2bS0XxPrbzIs43Djs1/SJ679YlwuynVysKr/M=",
+      "publishedTime": "2017-04-28T09:27:21.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 3404,
+      "hash": "sha256-0jsDW927Rb53ydurf174VSgCVAJBIWz+8W4pdhY/cig=",
+      "publishedTime": "2018-06-17T14:12:38.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

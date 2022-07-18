@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "matthewleon",
+    "githubRepo": "purescript-semigroups"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1148,
+      "hash": "sha256-FlFg3Q/QsFlEsSDDiZDhQOxU0gm+RIhx3HPyIfDe73w=",
+      "publishedTime": "2018-02-04T02:37:50.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1250,
+      "hash": "sha256-MHXjOqAthJoUw0FZEqrIyEQhhrfgY318TCkB4R5wkzI=",
+      "publishedTime": "2018-03-06T02:44:29.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.4": {
+      "bytes": 1222,
+      "hash": "sha256-OOffvKgRxMR7OczknbriPD7aXEy7ED+R/CzW4zV+QY8=",
+      "publishedTime": "2018-04-09T22:57:37.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

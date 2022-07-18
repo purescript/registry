@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "paf31",
+    "githubRepo": "purescript-smash"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5007,
+      "hash": "sha256-GtUPkUUz5lA/2Xr8+gBVqlpIXILiTlkoL4IicKjiKKc=",
+      "publishedTime": "2018-02-01T03:28:32.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 5744,
+      "hash": "sha256-LhZeRK87vI/9sdh77lrivb/IDbcBIyO3vrVIwhhIRWw=",
+      "publishedTime": "2018-02-04T20:29:58.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 5676,
+      "hash": "sha256-sRmYtEa8nz6KOir00MgJuBHXLKdeUo9Nkr91l3I4HEs=",
+      "publishedTime": "2018-05-20T22:56:54.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 5681,
+      "hash": "sha256-/72hEATRyNFKmbwsmxDI+OmjE9ItY4QnqQi+/Yb5vRg=",
+      "publishedTime": "2018-06-19T01:29:30.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "i-am-tom",
+    "githubRepo": "purescript-prelewd"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5880,
+      "hash": "sha256-dz5XiVOpaw9BUMXx7xs2twsjY14DjJXg4ULvXBF54+A=",
+      "publishedTime": "2017-08-07T19:50:27.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 6806,
+      "hash": "sha256-5Rem28CbWQ7NrkroA23hCDslIvaHoJy2UdMgkPVFMec=",
+      "publishedTime": "2017-08-11T09:04:04.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

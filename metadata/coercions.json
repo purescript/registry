@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "PipocaQuemada",
+    "githubRepo": "purescript-coercions"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2126,
+      "hash": "sha256-HnhrJEwSjeoZEThx9HroGzBA9JajvKpnNcshT9tRBd0=",
+      "publishedTime": "2016-04-13T06:41:29.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2254,
+      "hash": "sha256-TQcZhvBJvrbLwYMaX/06UEONnErNRS0UmRVAl00ubBY=",
+      "publishedTime": "2016-04-26T20:31:38.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 2010,
+      "hash": "sha256-EMHshrUcRQpxS37qnSr+b/oHwMIc0k87fSQzZTEYFPU=",
+      "publishedTime": "2016-06-06T16:38:24.0Z",
+      "ref": "v2.1.0"
+    },
+    "3.0.0": {
+      "bytes": 2007,
+      "hash": "sha256-cAiwrMK5zvo8TCv8CF3n66QXWUHOG8vo5R9AGClp9Vg=",
+      "publishedTime": "2016-11-28T13:55:22.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

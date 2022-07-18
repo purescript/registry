@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-inflection"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 1817,
+      "hash": "sha256-hok+xjOjWdrJ2xJW9oQ5xDY4LSvcLHfpHsm9lGOA5uo=",
+      "publishedTime": "2017-09-16T15:02:36.0Z",
+      "ref": "v0.0.0"
+    },
+    "1.0.0": {
+      "bytes": 1781,
+      "hash": "sha256-rOetnxHqnyEt2jeu9C9aOFwbkG0+XMSd1yerqed1saM=",
+      "publishedTime": "2018-10-19T06:37:14.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3135,
+      "hash": "sha256-56j6mqfdaOVDT5SKwGgKNEivnfcGwje86bYhrQxg3Ps=",
+      "publishedTime": "2020-04-29T23:59:27.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

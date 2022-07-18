@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-qrcode"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 1184,
+      "hash": "sha256-fC8i6cP8sLWJddZtQGLxNhWtJZ61avEamCg3iBxU8OY=",
+      "publishedTime": "2017-04-28T20:20:25.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 1185,
+      "hash": "sha256-zSktKAYgaObZBgc4YEOroPoDxRAG0+cCtUl5S8H5wV8=",
+      "publishedTime": "2017-04-28T20:36:02.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1180,
+      "hash": "sha256-QdKcaZUk54X3AKcCX1fqZCVhw5ItQ3S3GCPbixoMGJ4=",
+      "publishedTime": "2017-04-28T20:44:22.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "nwolverson",
+    "githubRepo": "purescript-csv"
+  },
+  "published": {
+    "1.2.2": {
+      "bytes": 2830,
+      "hash": "sha256-s7O8i6QeEl0DX/yTUvK9xofqtLgJOGuLf1bBLc9VhxE=",
+      "publishedTime": "2016-09-23T10:01:34.0Z",
+      "ref": "v1.2.2"
+    },
+    "1.3.0": {
+      "bytes": 2786,
+      "hash": "sha256-ZiRaOsbb7gieyNGWtgMLMyV46oOwAZC51BBCiQVZQgg=",
+      "publishedTime": "2017-02-11T20:17:20.0Z",
+      "ref": "v1.3.0"
+    },
+    "1.3.1": {
+      "bytes": 2783,
+      "hash": "sha256-33lVr9vkuNoqtya10xWvvpT16lyoG6NYJaRr4tbDiso=",
+      "publishedTime": "2017-04-08T14:05:51.0Z",
+      "ref": "v1.3.1"
+    },
+    "2.0.0": {
+      "bytes": 2779,
+      "hash": "sha256-vH8MRYK7HVq2EYEaDb5krl2mM/4sjxmVDUjwvMmIuto=",
+      "publishedTime": "2017-04-10T20:24:03.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2816,
+      "hash": "sha256-3MFgTs6ZBPAU7StwOFzmKdTp44dmdKpJg+X6lTC7lSg=",
+      "publishedTime": "2018-08-03T08:34:13.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-proportion"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 858,
+      "hash": "sha256-iB3MJIW4KPsoXuSSzRNMWGGSmDORCE9pAtMvn9AABVs=",
+      "publishedTime": "2019-01-29T20:02:39.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 874,
+      "hash": "sha256-WuR5B+4bPslHHYCRyWnIWnL9IMxbvpxkkLIyOviuGlA=",
+      "publishedTime": "2019-01-30T02:51:18.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 906,
+      "hash": "sha256-oaCu7ePrPLBHWZDYQhxybagrQuVcN3Hhl0HG1Wwt8+g=",
+      "publishedTime": "2019-01-30T03:08:32.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

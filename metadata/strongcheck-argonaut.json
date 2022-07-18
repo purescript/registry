@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "purescript-deprecated",
+    "githubRepo": "purescript-strongcheck-argonaut"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5677,
+      "hash": "sha256-Xcinjvpjb6xBTQAtmV7h1QuHgJy0IEOxWaUyxHA2WRA=",
+      "publishedTime": "2016-11-29T14:54:30.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 5780,
+      "hash": "sha256-iqPO1zdNWpq+FfZTu7X9lfXpUIaNdwtXNe3lbKqmNeo=",
+      "publishedTime": "2017-03-14T11:07:35.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

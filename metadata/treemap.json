@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-treemap"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2626,
+      "hash": "sha256-aHE2BHzwxYgnusSxEJBGF+DgAQNMC7Q8jstJK8Pnxzo=",
+      "publishedTime": "2016-08-04T10:46:12.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2781,
+      "hash": "sha256-0Ijz9zsBiOGTuAWRpgGfjkp5KtIbpSmBWvkEYMQp5kQ=",
+      "publishedTime": "2016-08-08T11:19:08.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

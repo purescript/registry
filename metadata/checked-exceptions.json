@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "natefaubion",
+    "githubRepo": "purescript-checked-exceptions"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3900,
+      "hash": "sha256-S9HYe9V+6VeTkYpGkaPjmtpxHPLz446Y4PSBzZOHMuU=",
+      "publishedTime": "2018-04-08T21:48:21.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3875,
+      "hash": "sha256-+SRmpfd8x75W31OJjY3f/gpE1dk77Gck2EM56LKpIGA=",
+      "publishedTime": "2018-11-02T15:24:56.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3893,
+      "hash": "sha256-YsgxEmonM0x6sJW6OR3A5o8EsSSOg7QtYZ5YXYrtdcU=",
+      "publishedTime": "2019-05-30T13:58:06.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.1.0": {
+      "bytes": 3984,
+      "hash": "sha256-D72ARl25The9KlaUWWWSoPK8qsR4jvM4WEC07AR76Og=",
+      "publishedTime": "2019-08-04T18:35:16.0Z",
+      "ref": "v3.1.0"
+    },
+    "3.1.1": {
+      "bytes": 3992,
+      "hash": "sha256-waDTSPwRx8jU3w4MaUieoikJauDvyqEXuNvhy17HZNc=",
+      "publishedTime": "2020-09-08T14:40:53.0Z",
+      "ref": "v3.1.1"
+    }
+  },
+  "unpublished": {}
+}

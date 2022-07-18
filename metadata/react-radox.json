@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "danieljharvey",
+    "githubRepo": "purescript-react-radox"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2105,
+      "hash": "sha256-ovqDWNHkJ0l9TQNtMd3PURKbw3W7EaFn7TOHaVC4CMQ=",
+      "publishedTime": "2019-05-29T12:34:20.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2146,
+      "hash": "sha256-fpcPy6ABfwJ3NqHwLFkMtzHm4w5biyOxuehpSXXkKjs=",
+      "publishedTime": "2019-05-29T12:46:27.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 2177,
+      "hash": "sha256-t5RGVWF9bz/TNq4IqXELHMExzJQ+AhbafGl891dTnmQ=",
+      "publishedTime": "2019-06-04T13:19:57.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 2172,
+      "hash": "sha256-ScS3/2PZaE6s1Mb+mTn+qkqGmbyRF+PK/jSQAcJzaEc=",
+      "publishedTime": "2019-06-04T14:59:23.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 2671,
+      "hash": "sha256-Gr84BK13G9d4gl9Pvj3OMSIJJOHnVao5ggK8UNTfx5Y=",
+      "publishedTime": "2019-06-10T16:29:17.0Z",
+      "ref": "v0.0.5"
+    }
+  },
+  "unpublished": {}
+}

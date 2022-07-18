@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-mote-runner"
+  },
+  "published": {
+    "2.0.0": {
+      "bytes": 6284,
+      "hash": "sha256-oRbP9ODpEb1hwpiPFFNS+9BE2GyUWXOTuHqb5SQSOwk=",
+      "publishedTime": "2018-12-07T12:25:44.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 6314,
+      "hash": "sha256-RpA9lPN7r6IgHTP4FeChx6u3kiZ9XwGDyIz/NGG0ubM=",
+      "publishedTime": "2019-03-24T15:13:55.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 6289,
+      "hash": "sha256-i1cfRMP34ksfSdvPvzqwnqfpQHZUKYw+3BrLwDS1nvk=",
+      "publishedTime": "2019-06-08T23:10:54.0Z",
+      "ref": "v3.0.1"
+    }
+  },
+  "unpublished": {}
+}

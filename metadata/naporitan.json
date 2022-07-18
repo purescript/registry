@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-naporitan"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1927,
+      "hash": "sha256-d2w9fJD4b07kiuOlOUYd2HkuXBIfEhzfWRHyS3GZZkw=",
+      "publishedTime": "2018-09-12T08:08:01.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1949,
+      "hash": "sha256-MB8yqj60UoWn27wb1ZjRnHosoHe2JKRWIlguGjV6qtU=",
+      "publishedTime": "2018-09-14T06:55:09.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 1978,
+      "hash": "sha256-+9gqdlDxIMM8Os5ix4o8cKIL5Zolnk/U3DtETT7VghY=",
+      "publishedTime": "2019-05-30T19:20:18.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 1977,
+      "hash": "sha256-z52pZmsebjB7Bo+PP0PHBUfFSJMx40Z8CEX/lsDL69I=",
+      "publishedTime": "2021-12-15T13:04:33.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "cryogenian",
+    "githubRepo": "purescript-minimatch"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4647,
+      "hash": "sha256-8b8p5p9plHtyG6IE8C5Lx4U0MOsgDGkzAiFmbtcxgP4=",
+      "publishedTime": "2015-03-09T21:33:56.0Z",
+      "ref": "0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4696,
+      "hash": "sha256-VTA9urnmq4LKIq4P675z8Exj3/VaA718eAF3JmcuLEY=",
+      "publishedTime": "2015-07-14T00:16:29.0Z",
+      "ref": "0.2.0"
+    }
+  },
+  "unpublished": {}
+}

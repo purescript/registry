@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "cdepillabout",
+    "githubRepo": "purescript-monad-logger-writer"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1915,
+      "hash": "sha256-P74Frrh2zHS5XREcPepxh9E6C8xVuznnewZemtySdVA=",
+      "publishedTime": "2015-12-26T09:15:02.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1902,
+      "hash": "sha256-U06F7aAilNO5iBIheI1z7nRS30xxdNUD/gdP6uGwbmc=",
+      "publishedTime": "2015-12-26T09:24:33.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 1906,
+      "hash": "sha256-WjQXRvcOAn5De1JxCLnsLU35YbTXfLATX3jEcQlolPc=",
+      "publishedTime": "2015-12-26T09:25:51.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

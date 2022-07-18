@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "rightfold",
+    "githubRepo": "purescript-density-codensity"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2282,
+      "hash": "sha256-oS1c4NC2JAre3EwbXH1pKB3OurBq/5xuQaKV2Ysj6Bk=",
+      "publishedTime": "2017-08-26T11:29:00.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2296,
+      "hash": "sha256-mA25ncss/tGkL9Von9WlaJG6h+1fWIfci9jWNoZbtxk=",
+      "publishedTime": "2017-08-26T11:30:56.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 2506,
+      "hash": "sha256-5AhpbssRyjnPr4ex6qAVjJsSfffj/HOP6NLaR9hSLPI=",
+      "publishedTime": "2017-08-26T11:41:13.0Z",
+      "ref": "v1.0.2"
+    }
+  },
+  "unpublished": {}
+}

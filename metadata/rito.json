@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "mikesol",
+    "githubRepo": "purescript-rito"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 51530,
+      "hash": "sha256-wlB5PklbDNbNdeURvMPsH/mU835FBwhhx0f0P55hFn4=",
+      "publishedTime": "2022-06-20T19:31:34.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.2": {
+      "bytes": 57349,
+      "hash": "sha256-5wKitB+5FafA53jAKdgOoXbAbyXjwgoeeYbO2C4lPbE=",
+      "publishedTime": "2022-06-29T18:35:31.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-observable-lift"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1218,
+      "hash": "sha256-leFrJhEZ0eJwtWL50gEwR52BUCAMQCmGZK+Woz6Kreg=",
+      "publishedTime": "2016-09-04T13:49:02.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1388,
+      "hash": "sha256-2xGdFdT51e1AaTqc+vniFWN6KiI1cIXsqNTSScRoM7I=",
+      "publishedTime": "2016-09-04T16:13:19.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 1387,
+      "hash": "sha256-9sk82naGne8rwwbNM1tdOGzmmkR0AZ9fNOkr/2JU42c=",
+      "publishedTime": "2016-09-04T21:12:29.0Z",
+      "ref": "v0.2.1"
+    }
+  },
+  "unpublished": {}
+}

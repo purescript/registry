@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "deadshot465",
+    "githubRepo": "purescript-owoify"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 10127,
+      "hash": "sha256-afjIyA9RXTjpZRsumwNlvZqZpak/rP0lesOktXPuDqk=",
+      "publishedTime": "2021-08-10T11:25:17.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 10126,
+      "hash": "sha256-kwwN6apV92OaszpI4UREYR2lpp03ggJfZi6mwg60Io0=",
+      "publishedTime": "2021-08-10T11:33:36.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 10124,
+      "hash": "sha256-VnDBb29dIHyVTyzmUkQphpZ7qOMBuJONGWMDehK/n40=",
+      "publishedTime": "2021-08-10T17:27:43.0Z",
+      "ref": "v1.1.1"
+    },
+    "1.1.2": {
+      "bytes": 10169,
+      "hash": "sha256-bqrLE4Si4Te6ni9nql9MBkKqFUEMywlNE97AvxJgzb4=",
+      "publishedTime": "2021-08-14T13:54:31.0Z",
+      "ref": "v1.1.2"
+    }
+  },
+  "unpublished": {}
+}

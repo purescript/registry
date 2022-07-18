@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "colehaus",
+    "githubRepo": "purescript-tables"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1937,
+      "hash": "sha256-7lzB4H7zMj8aOkf5+HQH51LfLBuBm0AjUdkh2sQDfdM=",
+      "publishedTime": "2019-01-17T18:25:57.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1990,
+      "hash": "sha256-T52AFY18DEC27YNLhwUrLo35MHrHT+VUNHIHt+7QrvU=",
+      "publishedTime": "2019-01-17T19:57:20.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.5": {
+      "bytes": 2125,
+      "hash": "sha256-Eg9u7ePWbX2XX1s277Q+1vh3V4BMpAc6hc5VcZfqLAo=",
+      "publishedTime": "2019-05-24T21:08:26.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.7": {
+      "bytes": 2473,
+      "hash": "sha256-Q1yjBTsqq8XhpT37MZF9sjXYJwsFYSQaJbLVDS84HFU=",
+      "publishedTime": "2019-05-28T20:14:16.0Z",
+      "ref": "v0.0.7"
+    }
+  },
+  "unpublished": {}
+}

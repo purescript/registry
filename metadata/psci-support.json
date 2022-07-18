@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "purescript",
+    "githubRepo": "purescript-psci-support"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2063,
+      "hash": "sha256-8prQRfhY94WNAgC/ofv/1AX5vwG6CnZjvFCIPhlCF4s=",
+      "publishedTime": "2016-06-01T01:59:07.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2108,
+      "hash": "sha256-Wgnpd2fhxuJv4vwJQQ+UCJJw0nvTqjS3cgsBY5A04Vo=",
+      "publishedTime": "2016-10-03T00:29:08.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2036,
+      "hash": "sha256-11U03FKTdA7CTaERZ6i/XvBknpa/aawePDQLg5h7F/U=",
+      "publishedTime": "2017-03-26T00:52:31.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 2146,
+      "hash": "sha256-5P48VyAVhlVhXe/erkW86X7xGN3KRgEyYrzrQMaYMg0=",
+      "publishedTime": "2018-05-23T00:31:55.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 2189,
+      "hash": "sha256-Gk16MfxJHaz/We+d1PXPqID4kUfcO0T8MES5W4eW2F4=",
+      "publishedTime": "2021-02-26T17:26:27.0Z",
+      "ref": "v5.0.0"
+    },
+    "6.0.0": {
+      "bytes": 2191,
+      "hash": "sha256-VZd5bhAeg/m5t0fCFMXVRrIYxyTRQf/4xTacS5rAy40=",
+      "publishedTime": "2022-04-27T14:15:39.0Z",
+      "ref": "v6.0.0"
+    }
+  },
+  "unpublished": {}
+}

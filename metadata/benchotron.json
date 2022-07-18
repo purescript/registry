@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "hdgarrood",
+    "githubRepo": "purescript-benchotron"
+  },
+  "published": {
+    "3.0.5": {
+      "bytes": 6882,
+      "hash": "sha256-sjI+wYtp/QuS7QuakAiRPSlkfJWOgmtf3BpwbQRZod0=",
+      "publishedTime": "2016-05-02T23:40:57.0Z",
+      "ref": "v3.0.5"
+    },
+    "4.0.0": {
+      "bytes": 6971,
+      "hash": "sha256-rgQqmVml1p2VOqVzIn+7sbP04xSL5IYFP5CaqKgX2bU=",
+      "publishedTime": "2016-06-30T00:10:17.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 7646,
+      "hash": "sha256-6QsrP9PaThfBjUONh2ov/FUKZtrFYf+12QFvhv5dMWs=",
+      "publishedTime": "2016-11-07T20:46:51.0Z",
+      "ref": "v5.0.0"
+    },
+    "6.0.0": {
+      "bytes": 7732,
+      "hash": "sha256-oP+6VX6izKUaFrnLkgnfCaklxZD+91SOQA+eRCF6Y8U=",
+      "publishedTime": "2017-04-11T22:52:53.0Z",
+      "ref": "v6.0.0"
+    },
+    "7.0.0": {
+      "bytes": 7467,
+      "hash": "sha256-IytRMdIM3pNqoFXfbpHqAR9EctsnX8xmOW/fqyBC/NA=",
+      "publishedTime": "2018-08-04T16:09:45.0Z",
+      "ref": "v7.0.0"
+    },
+    "7.0.1": {
+      "bytes": 7521,
+      "hash": "sha256-jtmMRHCGXiuPTztd0UmnlSNBWh8KBMqxNU5BGQT1/64=",
+      "publishedTime": "2019-06-08T15:15:44.0Z",
+      "ref": "v7.0.1"
+    }
+  },
+  "unpublished": {}
+}

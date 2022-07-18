@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "sanrokugomaato",
+    "githubRepo": "purescript-sudoku"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4584,
+      "hash": "sha256-0heUqFDw7X8DRxomcRt1Wxd0xU5pBb2OizPETRHDZV4=",
+      "publishedTime": "2017-01-31T06:58:13.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 4582,
+      "hash": "sha256-99ZEcY8nka55jplowUTXBD4kVwxhFByUrtAhnLxxfrs=",
+      "publishedTime": "2017-04-26T07:49:43.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "paf31",
+    "githubRepo": "purescript-graphics-vis"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3703,
+      "hash": "sha256-6mGTP6tjLWbXZ9IgKrx3TfRGR1+WqE1GPxgPwqHwsMs=",
+      "publishedTime": "2016-12-09T03:32:53.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3819,
+      "hash": "sha256-O9Q+iLzDZu14QZoWbViczlSNo8+93jVPmU/Ej6tVAzg=",
+      "publishedTime": "2017-04-10T03:41:23.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

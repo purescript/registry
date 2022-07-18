@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "ursi",
+    "githubRepo": "purescript-task"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5020,
+      "hash": "sha256-uV32NF8rXL24sud7nRksHQCdSQGSsaOO1jbtbIXNudA=",
+      "publishedTime": "2020-10-23T07:25:13.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 5469,
+      "hash": "sha256-F3bBopn107Cp75NjrCoozbapH4smiawb3VRiCdYJgOc=",
+      "publishedTime": "2020-10-27T00:38:08.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 5466,
+      "hash": "sha256-P65wqsYGrNKC7+20Zzx95CGSYONQS7EukMpp1lUH1TE=",
+      "publishedTime": "2020-10-27T00:49:02.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.0": {
+      "bytes": 5938,
+      "hash": "sha256-DOFicvzCYg99eUthfy90yXlGsNkpgT2fchCjpfPlDZE=",
+      "publishedTime": "2020-12-16T23:07:41.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 5769,
+      "hash": "sha256-kj0M3U2ajY9vRo1p2EZ7v6sImXqEpCXth+x7eWHkY9U=",
+      "publishedTime": "2021-04-20T20:22:25.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

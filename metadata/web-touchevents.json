@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-touchevents"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2529,
+      "hash": "sha256-0E83Wzakxxm2d8RUkBzRo9GKST86ndGXHYHRDuRlMQY=",
+      "publishedTime": "2018-05-27T00:17:46.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2545,
+      "hash": "sha256-GPlnOBjrSIQ9WcHTLzISoBq8zShY/W3r39pLKuA3bcE=",
+      "publishedTime": "2019-02-23T18:34:07.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2583,
+      "hash": "sha256-TVKoD/yGQq9lCk/TuRXylPQOtXzXvhlDYt4GGYlhvw8=",
+      "publishedTime": "2021-02-26T21:27:05.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 2566,
+      "hash": "sha256-gAoCC0xmzvqR3xiGcUIFc5E0rjTI5+0LuCH+SLnZp8I=",
+      "publishedTime": "2022-04-28T00:07:27.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

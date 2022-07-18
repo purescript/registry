@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript-freedom",
+    "githubRepo": "purescript-freedom-window-resize"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2032,
+      "hash": "sha256-5GqVZt2bYHu0W9T7+9Fr5DhPrOdbb/7G9kIvSRACJ4s=",
+      "publishedTime": "2019-03-08T06:47:25.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2032,
+      "hash": "sha256-hZ58/yFxiUq7OJdFBflxhbNDyZeS0Yz/uh3q3rJP4Dk=",
+      "publishedTime": "2019-03-08T13:36:45.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 2033,
+      "hash": "sha256-mfdKwefsLV8/yviXqmcq1sJH0mVKdYIx/yONZs6VaME=",
+      "publishedTime": "2019-03-23T13:21:28.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 1994,
+      "hash": "sha256-hflwU8ltT7NMOZaddUEolO+lF70qw6bR//XcPhUFu1o=",
+      "publishedTime": "2020-04-03T15:05:51.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

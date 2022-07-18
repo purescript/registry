@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "j-keck",
+    "githubRepo": "purescript-react-basic-textf"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6781,
+      "hash": "sha256-qfqiMgCtcHV4+G8dWb/grOxpFucLjd4rfaFEjj1uI64=",
+      "publishedTime": "2019-12-15T19:15:18.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 6783,
+      "hash": "sha256-38ET2gu5yhY6Fk5Ozc6kiaGx87bpfsw+Tf1a1MumYV8=",
+      "publishedTime": "2019-12-15T19:21:21.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 7235,
+      "hash": "sha256-bgfiahpG0femc1q221k+WZGXiB9+KeURGrUWIgoBjTA=",
+      "publishedTime": "2020-01-23T09:53:28.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 8294,
+      "hash": "sha256-OrA7jpYPwIa5O3vUgkdF8vJsCX/EjCN3GFho+wC7Kac=",
+      "publishedTime": "2020-01-24T12:41:10.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "Woody88",
+    "githubRepo": "purescript-sforce-remote-action"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 3939,
+      "hash": "sha256-wrLEyYoXvxHjg4wPNYyDxOHwa63F+bO4CHWZf38Y32Y=",
+      "publishedTime": "2019-04-11T13:39:42.0Z",
+      "ref": "0.0.0"
+    },
+    "1.0.0": {
+      "bytes": 4189,
+      "hash": "sha256-N+7ZqVthqaJzxU6MvSDrBVIuZwwQjCXpdALtWJ6gHm4=",
+      "publishedTime": "2019-04-11T14:03:55.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 4237,
+      "hash": "sha256-uKMPJKs2p3340s6UvNy4sxgKYnOpjUrlmoexxCpyUYI=",
+      "publishedTime": "2019-10-02T09:07:47.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

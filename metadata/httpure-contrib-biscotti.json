@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "drewolson",
+    "githubRepo": "purescript-httpure-contrib-biscotti"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3742,
+      "hash": "sha256-mvL50g0MGrYqGINtxA81KDICaNu9+VkWw9Mm/C9atwk=",
+      "publishedTime": "2019-09-13T03:01:17.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 3872,
+      "hash": "sha256-5zzNKf2bETn9wwYbSh5XdSI0+KQk9QW5xCgBVb92i3c=",
+      "publishedTime": "2019-09-13T03:16:08.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 3917,
+      "hash": "sha256-+GJmb6+XyYrhKngUVQtiaB/zOl0+T44+e6IVvVxgxiU=",
+      "publishedTime": "2020-06-21T13:46:39.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 4016,
+      "hash": "sha256-YEhl1m4xDqQ0ZH5Y71gVGoBbxxUzXr4SXUfpZl+ekFQ=",
+      "publishedTime": "2021-03-20T04:49:33.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

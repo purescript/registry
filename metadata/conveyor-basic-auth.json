@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "oreshinya",
+    "githubRepo": "purescript-conveyor-basic-auth"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1912,
+      "hash": "sha256-DEwnt17zoS5UsH8xMioWjWYOq9bhGMVWFQNreE7PcVU=",
+      "publishedTime": "2018-10-09T15:29:53.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 1958,
+      "hash": "sha256-BORuEH4DFz1hWlv3xS+tLOESQx2K19/04m8QQzizYtk=",
+      "publishedTime": "2018-10-14T05:59:27.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 2070,
+      "hash": "sha256-/vKu4R2PnOTM6LlRFuYP1ygU+sxpfEjj2M63+fK0F8I=",
+      "publishedTime": "2018-10-14T14:59:05.0Z",
+      "ref": "v1.2.0"
+    }
+  },
+  "unpublished": {}
+}

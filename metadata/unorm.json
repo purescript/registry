@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-unorm"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 724,
+      "hash": "sha256-Sb/ADU1M8TTnNRol97aQtV3htSY2fBvU/pnosef/0gQ=",
+      "publishedTime": "2017-11-09T20:42:19.0Z",
+      "ref": "v0.0.0"
+    },
+    "1.0.0": {
+      "bytes": 684,
+      "hash": "sha256-mIgNgHPp0YO5MC9SSmqiSqSnOzQacOXsMkskV3sqfe0=",
+      "publishedTime": "2018-10-26T02:08:21.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2046,
+      "hash": "sha256-t48pe0+RXDqzhmPratvVL383FUhKGz8twEJ1wgMUdus=",
+      "publishedTime": "2020-04-29T23:44:31.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

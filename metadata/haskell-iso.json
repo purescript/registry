@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-haskell-iso"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 12017,
+      "hash": "sha256-Y8HyuFBXArSH5jeGljgBzoBkF5b4g3YHxbZv6GS2DV4=",
+      "publishedTime": "2018-11-04T16:40:08.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 12326,
+      "hash": "sha256-PEIToXO7SdzIRkrZJ+bS1iMqSAmEZzCCJNg5jkuANK4=",
+      "publishedTime": "2018-11-19T20:42:00.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 12659,
+      "hash": "sha256-PQ3xaJRZanSXzPDNn1ywS01Z0l2C287wJoqYYUsRAMs=",
+      "publishedTime": "2018-11-19T21:41:36.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 12910,
+      "hash": "sha256-hmKsPAoeuZtWTHxV3bNyJ33gC97fPgNqHk19MRe8L9Q=",
+      "publishedTime": "2018-11-29T21:09:55.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

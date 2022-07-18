@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "mcoffin",
+    "githubRepo": "purescript-minimist"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2238,
+      "hash": "sha256-+o4SHL00HXDxkfmKy9NsNWOJ6XfiTNq9zB0NbBaUf2A=",
+      "publishedTime": "2017-01-02T06:42:01.0Z",
+      "ref": "0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2270,
+      "hash": "sha256-cfWNr6QbBlIqVGf1UsoJhS9ZiZKJmekn0osRb3v5IlI=",
+      "publishedTime": "2017-01-02T18:19:24.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 2667,
+      "hash": "sha256-bRFrqOq52GV4Y4yVtC17eLGszTh6DdbRScKp+62XSAk=",
+      "publishedTime": "2017-01-02T19:27:50.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2831,
+      "hash": "sha256-LOFVDuzivqpp1VY4Pa5T65JS5c5dknyyA0reGl8ve5A=",
+      "publishedTime": "2017-02-12T06:15:03.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2846,
+      "hash": "sha256-7kuNkyFk+AM/jNZCpULUOgdcEbhRB2MrLG9tbjBz26E=",
+      "publishedTime": "2017-02-17T20:15:55.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 2851,
+      "hash": "sha256-Fi1H7Hdhx0kgDX6AaLVBs0eFCpKWWlW4nihAmHTgjwU=",
+      "publishedTime": "2017-02-21T18:24:21.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.4.0": {
+      "bytes": 2917,
+      "hash": "sha256-WEfH0SGeIjdAknlyA//3w1RXaXpB3sCkkdp9+hfdRaU=",
+      "publishedTime": "2017-04-20T17:49:17.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

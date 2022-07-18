@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "paulyoung",
+    "githubRepo": "purescript-prettier-printer"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5905,
+      "hash": "sha256-8SqX5NE6/9OKGcpct52HPglYSKYmqU+DfZz78Y1S1fk=",
+      "publishedTime": "2017-12-12T23:33:15.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5897,
+      "hash": "sha256-3NHC7g7TCqRw3EpHaJXx+ilFlDhaxjmA/KoG2+9q7LA=",
+      "publishedTime": "2017-12-14T23:54:59.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 5932,
+      "hash": "sha256-oZDgTRE99dE021j9GrKePXcsbdkdPefo8hEjvJaUCRE=",
+      "publishedTime": "2017-12-15T23:31:57.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 5941,
+      "hash": "sha256-gueBiFTr2aSMn8CLAa47eZaKPmULiVG++VTrTKncus0=",
+      "publishedTime": "2017-12-27T12:02:46.0Z",
+      "ref": "v1.2.0"
+    },
+    "2.0.0": {
+      "bytes": 5952,
+      "hash": "sha256-Cq2mLZKXJ8sGy4KhUhVE4axvqTVhnf51wM0GdHElezI=",
+      "publishedTime": "2018-06-20T18:25:40.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 5946,
+      "hash": "sha256-G8y1H8RymktI7sGBfPG3Ew9gq4scsiULNWuH6ZCe8q4=",
+      "publishedTime": "2018-06-20T18:44:40.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 5899,
+      "hash": "sha256-x4hv0gbxqe3awKVhY6QP5vQi7diCHTmP/mPB63w7Qoo=",
+      "publishedTime": "2021-03-04T22:02:56.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

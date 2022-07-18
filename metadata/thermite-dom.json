@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-thermite-dom"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 1012,
+      "hash": "sha256-EenbPFKwi+WCUw1fxUv5/U2yd05vrYIkogo0+zapaHM=",
+      "publishedTime": "2019-02-23T19:05:02.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 1019,
+      "hash": "sha256-o1cx5guWnp5RwjJhtM6uIviWYKrnWH/KRSHJTyfz6+4=",
+      "publishedTime": "2019-02-23T19:08:48.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 1242,
+      "hash": "sha256-aMnUedcoLVEkNo4V5vz6Sq5/p0p6nJfp/7wE8vqxgco=",
+      "publishedTime": "2019-02-23T19:39:37.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1249,
+      "hash": "sha256-zRhxDe+vDc+m43UuEKNy1jb2z/QakXMhiAGFAWl1JIs=",
+      "publishedTime": "2019-02-26T18:33:15.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 1261,
+      "hash": "sha256-M3uF1d8Y4MzGzR9qc+Z1cIYZYHgiBM+v79Pj4/luKUM=",
+      "publishedTime": "2019-07-31T23:11:09.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 2641,
+      "hash": "sha256-OZxMZKe22F0ID34MlquqpYRDlPIMrbC9xNpfmCSJWnQ=",
+      "publishedTime": "2020-04-29T22:05:25.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

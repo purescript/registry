@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-motsunabe"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2314,
+      "hash": "sha256-Komlmle9Hz07jW0Glstjra8heKTGI2DZgsgQ0ab0Y1g=",
+      "publishedTime": "2019-04-24T05:19:10.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2368,
+      "hash": "sha256-MlnQNeVX7E8KwJBucHILfd+7U+tXXo3DAJ/8dHRA0d4=",
+      "publishedTime": "2019-06-13T14:37:11.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

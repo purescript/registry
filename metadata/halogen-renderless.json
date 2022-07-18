@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript-deprecated",
+    "githubRepo": "purescript-halogen-renderless"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5895,
+      "hash": "sha256-A0NBWSjbvG5S0f2xZ0KXqWT7M/Uzo9o6FTqtUhIXDIQ=",
+      "publishedTime": "2018-07-05T19:48:38.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 5892,
+      "hash": "sha256-uIKaJeZV0USAnerFugGDkyaf6oGIhfA2JdMIrHEJ7tw=",
+      "publishedTime": "2018-07-05T19:53:09.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 5885,
+      "hash": "sha256-CUls9m+w6V2Hg5uXFRUSF5Mu0OOkXceIQxcoUvxU+HQ=",
+      "publishedTime": "2018-07-16T19:56:05.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 5873,
+      "hash": "sha256-/0h8Dm/R//T+V8WhtV3z8IizyV54WFs4CO0BGPQjTRU=",
+      "publishedTime": "2019-03-20T05:20:37.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

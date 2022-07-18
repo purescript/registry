@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "archaeron",
+    "githubRepo": "purescript-yaml-next"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3772,
+      "hash": "sha256-FDO5PT8OEu5vcL7YMpin9RABvfw6IdF7qzjpoxUS0RI=",
+      "publishedTime": "2017-05-07T17:14:44.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4203,
+      "hash": "sha256-0Dv4SGQKzuNFou8YMyMNklV553F76QhneTZMBM2UO2Q=",
+      "publishedTime": "2017-05-22T15:28:25.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 4172,
+      "hash": "sha256-4zX7j3UFaS977eQUVtDwMOL1MgJvLUyxccZkT4CLLfI=",
+      "publishedTime": "2018-09-11T00:47:14.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4371,
+      "hash": "sha256-aUbhHwirSMVrh+49VEEISY8oDB/VPWUn7EKQIbY0DUU=",
+      "publishedTime": "2019-10-20T01:17:28.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 4213,
+      "hash": "sha256-dXSXf0y0XzwARqD7lQmbaOsO3QthfG5H6gE2cCHxdwg=",
+      "publishedTime": "2021-03-19T01:28:37.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 4193,
+      "hash": "sha256-ih811cZ9gGr0wnU46OoFILPooA3GEj1MSkh/FQyCRCo=",
+      "publishedTime": "2021-03-20T11:13:59.0Z",
+      "ref": "v3.0.1"
+    }
+  },
+  "unpublished": {}
+}

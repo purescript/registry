@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "matthew-hilty",
+    "githubRepo": "purescript-proxying"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6046,
+      "hash": "sha256-fg9dufmudWJyXBxDTaDQYOUT4Qy6v+Fg975PFvVD6RI=",
+      "publishedTime": "2019-06-19T20:21:29.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 5851,
+      "hash": "sha256-QaSQJDG1p2j+nKgdvaxVm/YEBoy6u5XTpzFFtGJz9co=",
+      "publishedTime": "2019-06-23T00:05:13.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5842,
+      "hash": "sha256-zJiZKkK4kt85WxlW4t3I1XyAS8f5rl4PvaILPY8oGLQ=",
+      "publishedTime": "2019-07-16T20:36:13.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 4806,
+      "hash": "sha256-K8em7WgwzqwccUybgDd6haY7QculDVMjrkpcCgW5aUs=",
+      "publishedTime": "2019-08-01T20:43:58.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

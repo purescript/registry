@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "utkarshkukreti",
+    "githubRepo": "purescript-weber"
+  },
+  "published": {
+    "0.1.1": {
+      "bytes": 2006,
+      "hash": "sha256-Tn3m4BTx3r2peIpTNbPH2ASVYbZ+GNE/MkQjSyDaZgk=",
+      "publishedTime": "2018-11-16T14:50:16.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2141,
+      "hash": "sha256-ELGCgn4Ui/h5QX0ahUBQaGLAlLLf7CbQOHygsoLOAPM=",
+      "publishedTime": "2018-11-16T15:28:33.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 2443,
+      "hash": "sha256-XpqwS/wopK09KeuKjGh6GCynOC0qdSdbZfE1q7wC7NA=",
+      "publishedTime": "2018-11-18T03:11:12.0Z",
+      "ref": "v0.1.3"
+    },
+    "0.1.4": {
+      "bytes": 3122,
+      "hash": "sha256-9Fq/+yBxhFmLPoMRzZOORlOZ1Hr0CJO3NxvKMvasshU=",
+      "publishedTime": "2018-11-18T04:03:54.0Z",
+      "ref": "v0.1.4"
+    }
+  },
+  "unpublished": {}
+}

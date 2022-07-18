@@ -1,0 +1,69 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-dom"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 10021,
+      "hash": "sha256-WWvp1nbJj3suHWiE+XFUqqBn6HgvV7VRXoYtBNj1fGQ=",
+      "publishedTime": "2018-05-25T12:13:09.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 10038,
+      "hash": "sha256-/tHliQFN+szyqRdZL/jTE82XIKNKnVoIqFU2HlOIcHE=",
+      "publishedTime": "2019-02-23T17:48:00.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 10066,
+      "hash": "sha256-qbYTrRHjRMidhe0UcvKInGX9bvgACFyoHWWMEyrY3l4=",
+      "publishedTime": "2019-06-02T16:36:32.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.1.0": {
+      "bytes": 10124,
+      "hash": "sha256-CcBVPlmR7YQpuVsCTfaqCcEw4a86sFGhNjLrdeNK9Vc=",
+      "publishedTime": "2019-08-18T12:41:57.0Z",
+      "ref": "v3.1.0"
+    },
+    "4.0.0": {
+      "bytes": 10125,
+      "hash": "sha256-06Zgw36B/DVK6hslgq971PI3zJRGfpJ5eBCMPhOSGpQ=",
+      "publishedTime": "2019-08-18T13:38:14.0Z",
+      "ref": "v4.0.0"
+    },
+    "4.0.1": {
+      "bytes": 10359,
+      "hash": "sha256-v2BWcLcLMxBLuzYI/sc67SPZQ4kQ1sLnpVRo0Idmw8I=",
+      "publishedTime": "2020-03-15T21:03:49.0Z",
+      "ref": "v4.0.1"
+    },
+    "4.0.2": {
+      "bytes": 10372,
+      "hash": "sha256-l523CUMi2eo6B7DiYSLoO/ujfzkWdEBIdtLy2zCsZaE=",
+      "publishedTime": "2020-05-18T20:25:29.0Z",
+      "ref": "v4.0.2"
+    },
+    "4.1.0": {
+      "bytes": 10466,
+      "hash": "sha256-5j2NTJJTEfh+ZtDJE0zzaWtBL+Jlwd/xiuIgPdpRAc4=",
+      "publishedTime": "2020-06-07T15:33:09.0Z",
+      "ref": "v4.1.0"
+    },
+    "5.0.0": {
+      "bytes": 11055,
+      "hash": "sha256-sd7Wx/yx1jKenbYRywMSIrN0cehnKt7AB34AOdbL01k=",
+      "publishedTime": "2021-02-26T20:58:16.0Z",
+      "ref": "v5.0.0"
+    },
+    "6.0.0": {
+      "bytes": 11151,
+      "hash": "sha256-UXh1y8WLBSSZ1fkwr5hQwnWsJqdXsyy55L5MK0pSUwI=",
+      "publishedTime": "2022-04-27T23:07:46.0Z",
+      "ref": "v6.0.0"
+    }
+  },
+  "unpublished": {}
+}

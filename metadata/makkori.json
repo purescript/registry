@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-makkori"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2954,
+      "hash": "sha256-cQWuqFCrayJNHlC0BwMvbFYYR2tvRC0aM5UXQ6+QBj0=",
+      "publishedTime": "2018-03-09T18:35:54.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2956,
+      "hash": "sha256-VYyIyFKjyfrYSUaiUa57ew26APMhX/GKuXapseTgcfA=",
+      "publishedTime": "2018-05-30T17:08:23.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

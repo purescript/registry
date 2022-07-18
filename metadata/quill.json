@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "jmackie",
+    "githubRepo": "purescript-quill"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 8823,
+      "hash": "sha256-H72ozRGMGmd6oyqdMeFb66LY2PUSnTUSPHQCXAuf0c0=",
+      "publishedTime": "2018-01-31T19:27:29.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 8595,
+      "hash": "sha256-1jbvHPO2rSw1oHr1HelmFpMTNukXhXY3/o2reseFGaA=",
+      "publishedTime": "2018-02-12T10:38:47.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 8313,
+      "hash": "sha256-TgjOvI5tGJ8leVh6gpPx1cTbqcASJZ9UwtEg58kRf7U=",
+      "publishedTime": "2018-09-27T15:48:01.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

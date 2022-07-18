@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "markfarrell",
+    "githubRepo": "purescript-parsing-foreign"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 3048,
+      "hash": "sha256-dZb8KkLvcfHPs3sEmdaQ4+vF/XhqhHNRHhZSlLBKCRg=",
+      "publishedTime": "2020-09-24T15:32:08.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 3084,
+      "hash": "sha256-Ao71dmHwS1/rGXDrq9vOJzNeL+TCjaqfQuZGRFQWgik=",
+      "publishedTime": "2020-09-28T05:06:35.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

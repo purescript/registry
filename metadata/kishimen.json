@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-kishimen"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2799,
+      "hash": "sha256-OapFRdcurqsk+2xj5rxB/BBRhPWtVGsmg5Zhbe6LvJU=",
+      "publishedTime": "2019-02-19T11:25:32.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2833,
+      "hash": "sha256-pjlEMjfuZ4f7En780lHpjv05hrSbEN9d0kg7shxySmY=",
+      "publishedTime": "2019-02-21T08:58:57.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 2828,
+      "hash": "sha256-2xSHrFpfvGhOOrzcptgVlsOTyr4+jhFdjZtcFc+4UZM=",
+      "publishedTime": "2019-05-30T19:13:02.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2842,
+      "hash": "sha256-4CaJmOsvJhhAcSwVuBtwhRcBxa6V+gpV6hVET84D7Yk=",
+      "publishedTime": "2019-05-30T19:15:04.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 2824,
+      "hash": "sha256-UuPwn75NHwJNa6Co5xcjX+QD4kxU8+vatU+4U1b4ons=",
+      "publishedTime": "2021-12-15T12:59:53.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "joneshf",
+    "githubRepo": "purescript-chalk"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1491,
+      "hash": "sha256-5amGLcjchcQbWEuBashDMt7ERhSXoLI0jA10xv/GxuM=",
+      "publishedTime": "2014-07-13T06:21:02.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1498,
+      "hash": "sha256-SFyMPl7fpUSPuwVBm9lNheB1b9RUNnn4P5FuJEuVZN0=",
+      "publishedTime": "2014-07-13T06:30:25.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 1503,
+      "hash": "sha256-cEUKmFZFU3fNlEjFxR9YDSlPrBV0QxmUq75HyEzSUdQ=",
+      "publishedTime": "2014-07-13T06:41:04.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 1499,
+      "hash": "sha256-/GbSyi9WuFQyLxuI0/hh9q8taL+WFet06+6t5drRdIU=",
+      "publishedTime": "2014-08-15T01:18:41.0Z",
+      "ref": "v0.0.4"
+    }
+  },
+  "unpublished": {}
+}

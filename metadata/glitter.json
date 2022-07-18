@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "hrb90",
+    "githubRepo": "purescript-glitter"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1894,
+      "hash": "sha256-/aqg+Nmqjdt5GYZqdRCtImH8A78qeDFH6O6R8A6hOFE=",
+      "publishedTime": "2017-12-17T20:23:50.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 2020,
+      "hash": "sha256-c9CV0GR4Tzo2UeTRcdCGJdwSJ2FH7MaPcrRgYbGP0ng=",
+      "publishedTime": "2017-12-17T20:27:50.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

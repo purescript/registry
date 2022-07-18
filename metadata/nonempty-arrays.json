@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "stevejb71",
+    "githubRepo": "purescript-nonempty-array"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 2891,
+      "hash": "sha256-uqqK1tl8eronNd1vj1Bk12QKIVsd0M6drKbSMS7ygBQ=",
+      "publishedTime": "2014-11-16T14:52:36.0Z",
+      "ref": "0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 2928,
+      "hash": "sha256-dNloGo30C/mGyzOEHJupIt7p9btvKE3pSo1QvuhGo6o=",
+      "publishedTime": "2014-11-17T06:18:00.0Z",
+      "ref": "0.0.3"
+    },
+    "0.1.0": {
+      "bytes": 3071,
+      "hash": "sha256-7+ap7MxG/BYHja5NkXLRcDw1tBiFdGSDkyjtRpEiYzo=",
+      "publishedTime": "2014-11-19T12:12:02.0Z",
+      "ref": "0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3200,
+      "hash": "sha256-Nzb8evUdIhQi3FCUfLN58yk5yks934ZyP96yLRkJHj0=",
+      "publishedTime": "2015-04-08T12:30:54.0Z",
+      "ref": "0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3072,
+      "hash": "sha256-SsrTSqpdy80426lcjfcvjjtaV2YoFIaZsPV7f5wSIsA=",
+      "publishedTime": "2015-07-10T15:15:49.0Z",
+      "ref": "0.3.0"
+    }
+  },
+  "unpublished": {}
+}

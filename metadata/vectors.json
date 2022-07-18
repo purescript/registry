@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "thought2",
+    "githubRepo": "purescript-vectors"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 6146,
+      "hash": "sha256-IGnAsfZNVIiEtR6ljZglsPIuNeljPMJek+uzw9vQWQM=",
+      "publishedTime": "2019-10-02T05:07:31.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 6119,
+      "hash": "sha256-BL1Pu+/O6zxfS9MBFzbWOfilsQSg+Kkl3dqdpr5GwQw=",
+      "publishedTime": "2019-10-02T04:36:06.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 6131,
+      "hash": "sha256-SYlsc+Vy2AIytkusNPfuHbl0G/5ipnb1Q4XaTzl17js=",
+      "publishedTime": "2019-10-02T04:38:44.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.0": {
+      "bytes": 6128,
+      "hash": "sha256-cnCaBQnjGWZP3lZq3mOSmN8cMWTLkpFoIwm0mwwIMTQ=",
+      "publishedTime": "2019-09-19T05:17:58.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

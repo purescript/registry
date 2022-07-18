@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "oliver3",
+    "githubRepo": "purescript-telegraf"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2196,
+      "hash": "sha256-7DQyGb1YMN83Gc1kptBeEpo6S59FmE7zAIfJiovJyn0=",
+      "publishedTime": "2017-12-19T11:11:14.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.1": {
+      "bytes": 2313,
+      "hash": "sha256-yEJRyC+KZC0rImFzlZrUxSQ6+StSCrhgfgJeJ6NzR5U=",
+      "publishedTime": "2017-12-19T12:43:27.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 2393,
+      "hash": "sha256-mEdIJn9YXVba6qmS8vHXT1M9QoBfOTM2CPDzH+QiPSM=",
+      "publishedTime": "2017-12-19T13:56:36.0Z",
+      "ref": "v0.2.2"
+    },
+    "0.3.0": {
+      "bytes": 2668,
+      "hash": "sha256-ZokghrsJwdmtgSS2I0F9JnhoAtB9Sxq6Ud9Cl52ZDts=",
+      "publishedTime": "2017-12-20T11:40:52.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 2701,
+      "hash": "sha256-B2TZCcEh41Y1UEYcliOdsJ0as1WWBJ1ALtIB0+Whoms=",
+      "publishedTime": "2017-12-20T14:46:26.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.4.0": {
+      "bytes": 3009,
+      "hash": "sha256-a2uW+8jvS8eo+n7/2EnVadaDbdcHrdraeWGHGpQEEf8=",
+      "publishedTime": "2017-12-29T16:12:03.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.4.1": {
+      "bytes": 3014,
+      "hash": "sha256-cOi2qgH+rQyrG6qJIJvecnIRfDCG+mua/dNFGwrK64g=",
+      "publishedTime": "2017-12-30T16:44:34.0Z",
+      "ref": "v0.4.1"
+    },
+    "0.5.0": {
+      "bytes": 3210,
+      "hash": "sha256-397UNXzffMy6UTv6GCwRw4vE50FoFsqP1gsJK/aQBx8=",
+      "publishedTime": "2018-01-01T16:57:59.0Z",
+      "ref": "v0.5.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "jacobstanley",
+    "githubRepo": "purescript-jack"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 13913,
+      "hash": "sha256-McPgLAudLTODSbFSUFuQ1kQ3EFNnJjCKm7i3f3bzXHw=",
+      "publishedTime": "2016-10-06T12:53:50.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 14014,
+      "hash": "sha256-hu3oQAZ2yu9SHRk31x0+Lt1Pmg/8bwekmjNFPYDVII4=",
+      "publishedTime": "2016-10-09T23:08:10.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 14154,
+      "hash": "sha256-5wbN4JbMn8zlPmKQIU85LYx4HGToeDtChz9QpwWRMAM=",
+      "publishedTime": "2016-11-08T01:01:31.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 14213,
+      "hash": "sha256-ItyZ8faydR6rTPSdenS/FnjAj5f5vctSm92Yex0+K/I=",
+      "publishedTime": "2017-03-12T20:10:05.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 14221,
+      "hash": "sha256-JFAf82Y5VVF8vS58yc0vuNiFnZyJLW2J+2C8Yz9KJPY=",
+      "publishedTime": "2017-03-12T20:25:07.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 14059,
+      "hash": "sha256-4BY8cUQV5YdKGouf2yYC/w3+8cr+ucTyaP8v2TyEP5w=",
+      "publishedTime": "2017-06-09T23:19:15.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 14304,
+      "hash": "sha256-+CiAyuZEVBsjbiIVzW0kIj/WGQJU1mfnNWwF7t5gwFA=",
+      "publishedTime": "2019-06-17T01:20:07.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

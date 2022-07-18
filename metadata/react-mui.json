@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "doolse",
+    "githubRepo": "purescript-react-mui"
+  },
+  "published": {
+    "3.1.0": {
+      "bytes": 66395,
+      "hash": "sha256-QJ5DNaDyIAVTZ38Y8XfqCtU96VqU8XiiSlDSCQWz6jQ=",
+      "publishedTime": "2018-09-26T08:00:38.0Z",
+      "ref": "v3.1.0"
+    },
+    "3.6.0": {
+      "bytes": 69518,
+      "hash": "sha256-wVKHyHl3+d/YqA/iS974cfG362fkmkQWrbOkRuInRfE=",
+      "publishedTime": "2018-12-03T07:32:17.0Z",
+      "ref": "v3.6.0"
+    },
+    "3.9.2": {
+      "bytes": 72105,
+      "hash": "sha256-rmjgWqhoPu6trfMR2LUbSTzLXAyX614L6Psb2kbquCg=",
+      "publishedTime": "2019-03-05T00:40:56.0Z",
+      "ref": "v3.9.2"
+    },
+    "3.9.3": {
+      "bytes": 71890,
+      "hash": "sha256-xu11zsyWZ71sgaW9breSYHa5Eio+1eVf3jyKHUqIayk=",
+      "publishedTime": "2019-05-15T10:12:40.0Z",
+      "ref": "v3.9.3"
+    },
+    "3.9.313": {
+      "bytes": 71953,
+      "hash": "sha256-/ka1CmriziSly/OKHZCq2SCqLqek4TSaaf/QAa2/I/s=",
+      "publishedTime": "2019-07-08T08:14:44.0Z",
+      "ref": "v3.9.313"
+    }
+  },
+  "unpublished": {}
+}

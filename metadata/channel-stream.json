@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "ConnorDillon",
+    "githubRepo": "purescript-channel-stream"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5991,
+      "hash": "sha256-5Lzz+0yz+evA84HNZzN/zgZ6uuQ5SRdaVj5If415B6k=",
+      "publishedTime": "2021-04-27T09:12:05.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 5926,
+      "hash": "sha256-FhpocZHSBgcQTRFoKMFnjybuvL4Y6uU+yCe2eXKCvtg=",
+      "publishedTime": "2021-04-30T07:40:07.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

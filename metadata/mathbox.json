@@ -1,0 +1,57 @@
+{
+  "location": {
+    "githubOwner": "rintcius",
+    "githubRepo": "purescript-mathbox"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 31543,
+      "hash": "sha256-edNTPncSBephGWGaRsPfi8TDljc5gL/DBhVzO7sR4js=",
+      "publishedTime": "2016-12-19T10:42:14.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 31228,
+      "hash": "sha256-DfOXZ1LVdbQ90awogW5EtncUbuMdTkFxykNFWLJyHaM=",
+      "publishedTime": "2017-01-20T23:11:12.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 31482,
+      "hash": "sha256-CAqTaX0eHd6dQWsSKhNPLxwDaMrdvfp3TDGN06YY0Tk=",
+      "publishedTime": "2017-01-26T22:43:20.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 32714,
+      "hash": "sha256-JpQMQ2U2veGbnB5pFiWFzNto3QqCMQnMfT90IHsFfgg=",
+      "publishedTime": "2017-02-14T19:41:31.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 32699,
+      "hash": "sha256-Tr4SYKhDTN7tKaTmz6/Fcrpzw6LzTthUZsnWHl+cVvo=",
+      "publishedTime": "2017-04-09T18:49:00.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 32989,
+      "hash": "sha256-8RUfswBknYLDoMSOLBvqlFYeJpgPgVnxQx06/qeEnx0=",
+      "publishedTime": "2017-04-09T19:02:12.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 32626,
+      "hash": "sha256-wzKyXf15ArQ++Mj6pUeXeNg07hXRpowe/9lg8P7YP9Q=",
+      "publishedTime": "2019-05-11T15:25:37.0Z",
+      "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 32629,
+      "hash": "sha256-HJJRjjS3dOEdDFlSQkIL0LCFF7Kd8QbDL60Xubpg6rE=",
+      "publishedTime": "2019-05-11T16:20:22.0Z",
+      "ref": "v0.6.0"
+    }
+  },
+  "unpublished": {}
+}

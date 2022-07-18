@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "ehrenmurdick",
+    "githubRepo": "purescript-oak-debug"
+  },
+  "published": {
+    "0.6.10": {
+      "bytes": 2942,
+      "hash": "sha256-AQ1x0R9ex61KwoPZ6V+rCjWA2iGTDJgozJj1beF1bRg=",
+      "publishedTime": "2019-05-28T02:13:53.0Z",
+      "ref": "v0.6.10"
+    },
+    "0.7.0": {
+      "bytes": 3606,
+      "hash": "sha256-dowu8N0RyN8amliUP5/s66qC2ZfY+DAuMYXJhBUvk94=",
+      "publishedTime": "2019-05-28T18:48:31.0Z",
+      "ref": "v0.7.0"
+    },
+    "0.8.1": {
+      "bytes": 3881,
+      "hash": "sha256-aute0C3kIGnqmhoKHh4ywj5Y1t4EPaKkTHR8uqVszOU=",
+      "publishedTime": "2019-05-30T22:00:35.0Z",
+      "ref": "v0.8.1"
+    },
+    "1.0.0": {
+      "bytes": 3866,
+      "hash": "sha256-r/5kMqH2/sl5zPQcDnGYXbpr90I/ZCfJnZUeQdcHDdA=",
+      "publishedTime": "2019-12-27T00:29:39.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

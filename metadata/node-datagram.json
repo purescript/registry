@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "brandonhamilton",
+    "githubRepo": "purescript-node-datagram"
+  },
+  "published": {
+    "2.0.0": {
+      "bytes": 3543,
+      "hash": "sha256-vG6+FK4328nkm/cidpHwcKyJRGPxUn3q1Yt7BDNepjg=",
+      "publishedTime": "2016-12-27T20:58:30.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3552,
+      "hash": "sha256-k9czFO6OBtctmOmG46dWdJC+rTTlg3Te5jSjCbedIng=",
+      "publishedTime": "2017-04-28T09:48:50.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 3489,
+      "hash": "sha256-yVVi9zjtLjQKSyl6DlaKdkv8nxTUqgDdeGkyQjf4q+s=",
+      "publishedTime": "2019-10-10T09:49:53.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

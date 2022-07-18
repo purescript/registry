@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "purescript-web",
+    "githubRepo": "purescript-web-fetch"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5444,
+      "hash": "sha256-N1KbLCUHBixZ9C88oHw5WAe8S9vrj5KulT+zKfEsOhY=",
+      "publishedTime": "2020-01-14T19:12:30.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5452,
+      "hash": "sha256-KS7LZ6s2qhZHvNq6101ZoiBIv1ZAEfe61jFyouzzLVY=",
+      "publishedTime": "2020-01-15T19:46:57.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 5856,
+      "hash": "sha256-kzDbU+L5IvB63AUOOd1uLjhTvUPJwvz0qhKXo1qtfVA=",
+      "publishedTime": "2021-02-26T21:54:16.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 5859,
+      "hash": "sha256-W1MmDSV4gra8M8Kt2eXNEK1MmLacB1tCUz5RJrfkFY4=",
+      "publishedTime": "2022-04-27T23:34:04.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

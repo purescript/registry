@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "csicar",
+    "githubRepo": "purescript-vectorfield"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 815,
+      "hash": "sha256-JUkeXCyZw3A8WK6znoLCzdS6WrjMGzh9p2JW1f5rfHM=",
+      "publishedTime": "2018-06-23T22:31:27.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 822,
+      "hash": "sha256-b4jVObn1rt1r0NdZPjrC2FR205d2Gi2zzSBWAIOVQhY=",
+      "publishedTime": "2020-01-26T13:27:09.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

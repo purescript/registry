@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "kRITZCREEK",
+    "githubRepo": "purescript-matrices"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5686,
+      "hash": "sha256-GtSplVQ/99GAwbyB6Mw4e2HBf7dESPRY8lqziHa3sZg=",
+      "publishedTime": "2016-09-02T18:12:30.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5878,
+      "hash": "sha256-X1Cer27UD77uY+GqTlv/pqiM/Wq02z9S5PZDgV0WIjY=",
+      "publishedTime": "2016-09-03T22:15:48.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 5897,
+      "hash": "sha256-bYPYNrJigfLiPXslCUtLgOSlf0ImlKbx65ZIVyQzbPE=",
+      "publishedTime": "2016-11-09T02:00:26.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 5891,
+      "hash": "sha256-SFyRHAkgChWulW7pXVOl/l/kblPuVFOK81BLA/jJzdo=",
+      "publishedTime": "2017-04-26T18:38:16.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 5902,
+      "hash": "sha256-A9MNQsEBgxM2DUYfBsNLxjsaYVQeoSfRakyyHaCFo7E=",
+      "publishedTime": "2018-11-17T17:43:51.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 6091,
+      "hash": "sha256-D7mFDDHrDmD7VUZDSN1JrMCaRsl1/DBDbFwUda+f69E=",
+      "publishedTime": "2020-02-24T01:06:18.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.0.1": {
+      "bytes": 6100,
+      "hash": "sha256-5PIpBkTLkmupREq1lhMAurfAutOnIF1LfVpYOq6vJMA=",
+      "publishedTime": "2020-02-24T01:14:09.0Z",
+      "ref": "v5.0.1"
+    }
+  },
+  "unpublished": {}
+}

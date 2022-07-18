@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "lumihq",
+    "githubRepo": "purescript-tagged-sum"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 6577,
+      "hash": "sha256-25B1IrXKtfFBqmsGXyznAtT0gQsIOAd2iS4w+RP4xgA=",
+      "publishedTime": "2019-05-22T22:57:26.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 6761,
+      "hash": "sha256-DnGQ3eGaYYzp8p1E3gkbaNywgzp739AJADoWytg2yHs=",
+      "publishedTime": "2019-07-02T14:52:08.0Z",
+      "ref": "v1.1.0"
+    }
+  },
+  "unpublished": {}
+}

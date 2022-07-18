@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "mlang",
+    "githubRepo": "purescript-logic"
+  },
+  "published": {
+    "0.0.3": {
+      "bytes": 1516,
+      "hash": "sha256-e93Jvkg0fAWkY1T2S+VASTG5YA73483aOk/WNmjyzR8=",
+      "publishedTime": "2019-01-09T23:38:20.0Z",
+      "ref": "v0.0.3"
+    },
+    "0.0.4": {
+      "bytes": 1614,
+      "hash": "sha256-AwtkXJBLVoBjLPOt9R3FGBITu7ZJuZD6J2VCk+xa4+s=",
+      "publishedTime": "2019-01-10T00:46:17.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 1649,
+      "hash": "sha256-Ev7aV5IiATMbpFGdCiLAcMv1iUttP3zOoQUG5vGIU3A=",
+      "publishedTime": "2019-01-10T20:45:42.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.1.0": {
+      "bytes": 2046,
+      "hash": "sha256-RyiLjSHeyw7aT+ALyymGv5fpn65Q8V24EbuvZyOTqas=",
+      "publishedTime": "2019-01-11T10:55:13.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

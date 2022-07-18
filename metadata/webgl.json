@@ -1,0 +1,69 @@
+{
+  "location": {
+    "githubOwner": "mgmeier",
+    "githubRepo": "purescript-webgl"
+  },
+  "published": {
+    "1.1.0": {
+      "bytes": 21509,
+      "hash": "sha256-mIBA6L5IsJ2+0xhSl3IK2YC7j6T69U4jRzZOTqXh/t8=",
+      "publishedTime": "2016-07-07T15:51:48.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 21515,
+      "hash": "sha256-TAkzIksGThJyPjymFgzN7O9/C0HTUs+hl1lfHCQynxU=",
+      "publishedTime": "2016-07-08T17:09:59.0Z",
+      "ref": "v1.1.1"
+    },
+    "1.1.2": {
+      "bytes": 21525,
+      "hash": "sha256-zKkOP6yBxVvYXmLrfQaMvYSRU+vLHtTD+oB3LFPsPMU=",
+      "publishedTime": "2016-07-08T17:14:35.0Z",
+      "ref": "v1.1.2"
+    },
+    "1.1.3": {
+      "bytes": 21516,
+      "hash": "sha256-hTkCmLsc226dT/bnWOztPSjZemQiwCg2zYuB/miw4Z0=",
+      "publishedTime": "2016-09-30T12:12:54.0Z",
+      "ref": "v1.1.3"
+    },
+    "1.2.0": {
+      "bytes": 21580,
+      "hash": "sha256-fjQKZ1Udki6Ww9dpiZXpHQsPf9SlPXpMKXH6RKiFoBo=",
+      "publishedTime": "2016-10-19T11:58:22.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.3.0": {
+      "bytes": 21606,
+      "hash": "sha256-8vxCS2A2Dn2KWiDn9KkIXEOafAILtVmUs0sivt9u3aI=",
+      "publishedTime": "2017-01-16T15:02:28.0Z",
+      "ref": "v1.3.0"
+    },
+    "1.3.1": {
+      "bytes": 21695,
+      "hash": "sha256-e5UKIzWtjRtbo3mbhRS/BL7uRgkGoVxQhMA2sBDJMVI=",
+      "publishedTime": "2017-03-11T11:01:13.0Z",
+      "ref": "v1.3.1"
+    },
+    "1.3.2": {
+      "bytes": 21699,
+      "hash": "sha256-eoVNqijA0LIHfSa+HuhUdA57Tl3GEu1oMkIbh+t4fvQ=",
+      "publishedTime": "2017-03-11T11:26:33.0Z",
+      "ref": "v1.3.2"
+    },
+    "2.0.0": {
+      "bytes": 21636,
+      "hash": "sha256-QD3IlLQAkE38iMTQYyvgLT9EMhnmku6PmWuUDSsbQbc=",
+      "publishedTime": "2017-04-28T14:04:30.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 21633,
+      "hash": "sha256-pkl091J6Lgkbqcpstj0BL5F8bNit9aJoRzpc1agsbF4=",
+      "publishedTime": "2017-04-28T14:21:10.0Z",
+      "ref": "v2.0.1"
+    }
+  },
+  "unpublished": {}
+}

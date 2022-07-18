@@ -1,0 +1,135 @@
+{
+  "location": {
+    "githubOwner": "purescript-contrib",
+    "githubRepo": "purescript-arraybuffer"
+  },
+  "published": {
+    "2.0.0": {
+      "bytes": 3461,
+      "hash": "sha256-eVDQTVbXxCabiitIUjep/qezJYTcRB//2guwNFwr3ws=",
+      "publishedTime": "2016-09-26T20:33:09.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 3708,
+      "hash": "sha256-gBCyEw7K59Yd7HoGVvgP3yvnWWfnJoQOM3bzs6C6lIQ=",
+      "publishedTime": "2016-11-28T21:17:46.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 3792,
+      "hash": "sha256-7sYFhr/TSiHrigbjCRTpNHbM+QVTDKFY/uK/Ji5knw4=",
+      "publishedTime": "2017-01-25T22:10:01.0Z",
+      "ref": "v4.0.0"
+    },
+    "5.0.0": {
+      "bytes": 3807,
+      "hash": "sha256-Q1F8FcRPB0ySpZTnjjWOJ8svwcIF0eh8F1jAamxvlZI=",
+      "publishedTime": "2017-04-10T21:23:20.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.0.1": {
+      "bytes": 3820,
+      "hash": "sha256-okoxBcdhHx6lxlwpkQt8Cs0EEikWizooX0e9cNvdhMY=",
+      "publishedTime": "2017-10-06T08:40:13.0Z",
+      "ref": "v5.0.1"
+    },
+    "6.0.0": {
+      "bytes": 3809,
+      "hash": "sha256-akAdUeygtLoKwHOP/5COrKzJ/3vi31dQi775PorNtzc=",
+      "publishedTime": "2017-10-07T13:29:49.0Z",
+      "ref": "v6.0.0"
+    },
+    "7.0.0": {
+      "bytes": 3803,
+      "hash": "sha256-2hgYBI7b6ODezQJbGelkSYeE4MLwb38q8S/mFzzaRWw=",
+      "publishedTime": "2018-06-06T20:14:19.0Z",
+      "ref": "v7.0.0"
+    },
+    "7.1.0": {
+      "bytes": 4010,
+      "hash": "sha256-fDU8/99KnXsdijVjyaWCvarNjUsab3acrIAP+4YCXHQ=",
+      "publishedTime": "2018-06-30T21:20:11.0Z",
+      "ref": "v7.1.0"
+    },
+    "8.0.0": {
+      "bytes": 4126,
+      "hash": "sha256-4CcASjkqJvAXKVdFlR4gGwoXXgN8ryq2pOLPE7wzQQY=",
+      "publishedTime": "2018-07-15T19:06:12.0Z",
+      "ref": "v8.0.0"
+    },
+    "8.0.2": {
+      "bytes": 4105,
+      "hash": "sha256-XaDwZcCG5zM4xN3CRyoqfgD7z5JZESPKpzbD/1wUv3Y=",
+      "publishedTime": "2018-12-02T21:51:54.0Z",
+      "ref": "v8.0.2"
+    },
+    "8.0.3": {
+      "bytes": 10302,
+      "hash": "sha256-19K/dDr0BrmTD78OcibpEKb60Albn8AS3ezMRa/Hmr4=",
+      "publishedTime": "2020-02-28T23:23:11.0Z",
+      "ref": "v8.0.3"
+    },
+    "9.0.0": {
+      "bytes": 3549,
+      "hash": "sha256-GK5QZ1tYhV/sLxhZxp69oIx+ktKZ19ZMSDDX8xEnjKs=",
+      "publishedTime": "2019-01-22T10:45:41.0Z",
+      "ref": "v9.0.0"
+    },
+    "10.0.0": {
+      "bytes": 10315,
+      "hash": "sha256-7uVMfQvDq9vycoBbEtgSqN3zk+h5kUPKA2YptoWVNWE=",
+      "publishedTime": "2019-02-07T08:51:07.0Z",
+      "ref": "v10.0.0"
+    },
+    "10.0.1": {
+      "bytes": 10243,
+      "hash": "sha256-xBw0eI2Md5++7roqRXEwy3aMFfFUn3FwItr80is2b8E=",
+      "publishedTime": "2019-10-05T22:13:25.0Z",
+      "ref": "v10.0.1"
+    },
+    "10.0.2": {
+      "bytes": 10319,
+      "hash": "sha256-0zu86VSSLRp7ZeEWGCLj4U4uKmrfImb2B+f1OOYtc1Q=",
+      "publishedTime": "2019-10-13T02:43:28.0Z",
+      "ref": "v10.0.2"
+    },
+    "11.0.0": {
+      "bytes": 11667,
+      "hash": "sha256-eVlb74tH9335Qv0RaCT3Xxs+5y58zC8nqkuv26Y+uvw=",
+      "publishedTime": "2021-07-16T10:13:16.0Z",
+      "ref": "v11.0.0"
+    },
+    "11.0.1": {
+      "bytes": 12121,
+      "hash": "sha256-E1p2N3uri2ZfHbkO3AZF6Q1mnjMqpJTXF3CmUrOAJjI=",
+      "publishedTime": "2021-07-16T10:44:35.0Z",
+      "ref": "v11.0.1"
+    },
+    "11.0.2": {
+      "bytes": 11970,
+      "hash": "sha256-zyiYJMt9Bc4rDMWFN69SWH7uJ/iAgf7tQHtVL9QMb9A=",
+      "publishedTime": "2021-09-21T16:14:15.0Z",
+      "ref": "v11.0.2"
+    },
+    "11.0.3": {
+      "bytes": 12120,
+      "hash": "sha256-/g4hfjT0aAoqQpnRrVO9vaa9XeDz02/3d36exnwn5DY=",
+      "publishedTime": "2021-09-23T12:58:36.0Z",
+      "ref": "v11.0.3"
+    },
+    "12.0.0": {
+      "bytes": 11974,
+      "hash": "sha256-PMXkElsAN6x8YFiT+QYpU8fg3GKvaDhG4GLPS2jd1SY=",
+      "publishedTime": "2021-09-23T13:33:13.0Z",
+      "ref": "v12.0.0"
+    },
+    "13.0.0": {
+      "bytes": 11710,
+      "hash": "sha256-ifvKQ74SV9QVSHcbcVL2ZM4BPPTJCgiS5K2eBbuJ5FU=",
+      "publishedTime": "2022-04-27T23:08:50.0Z",
+      "ref": "v13.0.0"
+    }
+  },
+  "unpublished": {}
+}

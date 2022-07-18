@@ -1,0 +1,63 @@
+{
+  "location": {
+    "githubOwner": "Risto-Stevcev",
+    "githubRepo": "purescript-ffi-utils"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 6422,
+      "hash": "sha256-p6IfEn3xmfySt43Y5Jz6Dz1liRfY4zo9C9ky/Q0zcJY=",
+      "publishedTime": "2017-01-02T01:40:27.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 6921,
+      "hash": "sha256-xUEi2lbOjsWjsEyCnD3YLxUuM/2lmQvS266kx7celTQ=",
+      "publishedTime": "2017-01-02T20:46:53.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.2.0": {
+      "bytes": 6865,
+      "hash": "sha256-z4EplqFvZeuqJkca58f6bs/JNUfFZmi0TpdA/afwkjQ=",
+      "publishedTime": "2017-01-02T21:03:26.0Z",
+      "ref": "v1.2.0"
+    },
+    "1.3.0": {
+      "bytes": 7534,
+      "hash": "sha256-G9ZT8k7L4GxO/O84qMkZoIzl4P2/lozyZRY5FQ58f0A=",
+      "publishedTime": "2017-02-21T09:38:49.0Z",
+      "ref": "v1.3.0"
+    },
+    "1.4.0": {
+      "bytes": 7616,
+      "hash": "sha256-sj4ccC4OIyjQkwm2tfdHL/M26p07wwtVzjcIqwvmVB8=",
+      "publishedTime": "2017-03-15T22:11:33.0Z",
+      "ref": "v1.4.0"
+    },
+    "2.0.0": {
+      "bytes": 7854,
+      "hash": "sha256-Phgua3s1o+7hoUWL3+vQBJal3/hZVdjElwwRuH6KQyo=",
+      "publishedTime": "2017-05-31T07:11:03.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 7860,
+      "hash": "sha256-GY5dXhb6qa+Blhs4vvgKch2bihXIdxDtsYAOAqiNKyk=",
+      "publishedTime": "2017-07-25T22:53:55.0Z",
+      "ref": "v2.0.1"
+    },
+    "3.0.0": {
+      "bytes": 8923,
+      "hash": "sha256-a+quYpQ/xZuWSPrePsdQI0YXiCsyLdsiM1y9CtuB2jw=",
+      "publishedTime": "2017-10-30T11:48:28.0Z",
+      "ref": "v3.0.0"
+    },
+    "4.0.0": {
+      "bytes": 8931,
+      "hash": "sha256-+iZC9ZS74vdTntIWA7ZrFvOvAQ8SwRwZ3iXqs8QKR4A=",
+      "publishedTime": "2017-11-11T19:29:07.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

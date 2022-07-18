@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-hotteok"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2414,
+      "hash": "sha256-uWWgA3JirvR0sOKfPJcRXt5bXtkNiFRetUfJrf7fbk4=",
+      "publishedTime": "2018-04-01T11:31:18.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 3112,
+      "hash": "sha256-ix81YUoS5fp+D1INCGo+fqCaDNg4DOBiTKunMeaQA+U=",
+      "publishedTime": "2018-08-09T12:40:18.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 3136,
+      "hash": "sha256-/ag/WsOaQNJlCNVXKD5OHIM8iyo9igiRtLGSYYH3T7U=",
+      "publishedTime": "2018-08-09T12:43:35.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}
