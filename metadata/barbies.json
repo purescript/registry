@@ -3,6 +3,13 @@
     "githubOwner": "the-dr-lazy",
     "githubRepo": "purescript-barbies"
   },
-  "published": {},
+  "published": {
+    "1.0.0": {
+      "bytes": 7703,
+      "hash": "sha256-mn6T5v1aee8D5ZjbgrrDg8c8ktJCteRFxMKSgNBhQew=",
+      "publishedTime": "2022-07-23T20:35:00.0Z",
+      "ref": "v1.0.0"
+    }
+  },
   "unpublished": {}
 }
