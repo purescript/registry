@@ -68,4 +68,4 @@ jobs:
         run: cd ci && nix develop --command 'registry-importer' 'update'
 
       - name: Import new versions to the package sets
-        run: cd ci && nix develop --command 'registry-package-set' 'commit'
+        run: cd ci && nix develop --command 'registry-package-set-updater' 'commit'
