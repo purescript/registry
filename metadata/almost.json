@@ -1,8 +1,15 @@
 {
   "location": {
     "githubOwner": "TylorS",
-    "githubRepo": "Almost"
+    "githubRepo": "almost"
   },
+  "owners": [
+    {
+      "email": "pacchettibotti@purescript.org",
+      "keytype": "ssh-ed25519",
+      "public": "AAAAC3NzaC1lZDI1NTE5AAAAIFFHOZvrQEe9AZte6XdI7YcpM61iisIktF91lpHUVvnd"
+    }
+  ],
   "published": {
     "0.0.1": {
       "bytes": 2503,
