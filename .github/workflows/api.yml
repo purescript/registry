@@ -27,6 +27,7 @@ jobs:
       - name: Check out source repository
         uses: actions/checkout@v3
         with:
+          ref: trh/add-log
           repository: purescript/registry
           token: ${{ secrets.PACCHETTIBOTTI_TOKEN }}
 
