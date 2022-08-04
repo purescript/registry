@@ -15,6 +15,7 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.PACCHETTIBOTTI_TOKEN }}
       PACCHETTIBOTTI_TOKEN: ${{ secrets.PACCHETTIBOTTI_TOKEN }}
+      PACCHETTIBOTTI_ED25519: ${{ secrets.PACCHETTIBOTTI_ED25519 }}
       SPACES_KEY: ${{ secrets.SPACES_KEY }}
       SPACES_SECRET: ${{ secrets.SPACES_SECRET }}
 
@@ -66,6 +67,9 @@ jobs:
 
       - name: Run the importer
         run: cd ci && nix develop --command 'registry-importer' 'update'
+
+      - name: Run the transferrer
+        run: cd ci && nix develop --command 'registry-package-transferrer'
 
       - name: Import new versions to the package sets
         run: cd ci && nix develop --command 'registry-package-set-updater' 'commit'
