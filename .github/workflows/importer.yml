@@ -23,6 +23,7 @@ jobs:
       # Checks out the registry-dev repository so we can run scripts from it
       - uses: actions/checkout@v3
         with:
+          ref: trh/transfer-bugfixes
           repository: purescript/registry
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
       
