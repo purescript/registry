@@ -48,8 +48,13 @@ jobs:
         uses: actions/cache@v2
         with:
           # This cache directory is meant to be essentially permanent, with cache
-          # expiry implemented in code.
-          key: ${{ runner.os }}-registry-importer-1
+          # expiry implemented in code. However, we never want this to be a direct
+          # cache hit, or else new writes to the cache won't be saved. We want a
+          # partial hit by using a restore-key, which means the cache will always
+          # be saved with new changes, and will always be restored.
+          key: cache-0-${{ github.sha }}
+          restore-keys: |
+            cache-0-
           path: |
             ./ci/.cache
 
