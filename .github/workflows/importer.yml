@@ -46,7 +46,7 @@ jobs:
             ./ci/output
 
       - name: Set current time
-        run: echo "NOW=$(date + '%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
+        run: echo "NOW=$(date)" >> $GITHUB_ENV
 
       - name: Cache importer artifacts
         uses: actions/cache@v2
