@@ -53,7 +53,7 @@ jobs:
           # cache hit, or else new writes to the cache won't be saved. We want a
           # partial hit by using a restore-key, which means the cache will always
           # be saved with new changes, and will always be restored.
-          key: cache-0-$(date +'%Y-%m-%dT%H:%M:%S')
+          key: cache-0-${{ $(date +'%Y-%m-%dT%H:%M:%S') }}
           restore-keys: |
             cache-0-
           path: |
