@@ -3,6 +3,13 @@
     "githubOwner": "rowtype-yoga",
     "githubRepo": "purescript-fetch-yoga-json"
   },
-  "published": {},
+  "published": {
+    "1.0.1": {
+      "bytes": 2036,
+      "hash": "sha256-4UrwdnADCRUtZJ9gZjrR87fcXraibeC4l3VgCWwefsc=",
+      "publishedTime": "2022-08-21T10:36:11.0Z",
+      "ref": "v1.0.1"
+    }
+  },
   "unpublished": {}
 }
