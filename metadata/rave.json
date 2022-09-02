@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "reactormonk",
+    "githubRepo": "purescript-rave"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2960,
+      "hash": "sha256-Gh6sMdRvQJPKX7sYGJL5BifIKA9Jegf6rz57togpgXg=",
+      "publishedTime": "2019-03-10T15:38:54.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2983,
+      "hash": "sha256-k969JsfKjKrEscLbUS6169ska6iTt8xaE+Xf+JpEeN8=",
+      "publishedTime": "2019-05-30T21:41:21.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "purescript-halogen",
+    "githubRepo": "purescript-halogen-subscriptions"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 7664,
+      "hash": "sha256-oCmTt8xoMyG0XuSbrKVW3mqYkXggqTqC1T9HZgqf4vk=",
+      "publishedTime": "2021-03-09T00:28:21.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 7628,
+      "hash": "sha256-8/BPME/sC/kWMDxp0+n4k09gA1IIedXn2yUJ4pCH5xw=",
+      "publishedTime": "2022-04-28T13:54:46.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

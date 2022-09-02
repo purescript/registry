@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "oreshinya",
+    "githubRepo": "purescript-key-based-diff"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2926,
+      "hash": "sha256-MZgSzpSygr4Im9wnygPiYqzM+2grro0KwvOfw5f0AN0=",
+      "publishedTime": "2017-10-10T14:04:00.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2919,
+      "hash": "sha256-fNpz/LnOSlzu2xYp/VA9jcDHZY4rq9niXtZlzuDkINY=",
+      "publishedTime": "2017-10-17T14:03:49.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 2981,
+      "hash": "sha256-EcYhu7AQKZlmBGQEjIucwtlA/dicTcxTIG2Dy8KimLE=",
+      "publishedTime": "2017-10-23T11:41:23.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.0": {
+      "bytes": 3015,
+      "hash": "sha256-xxh8ngE8dG+5XYYLgQp4STi384c8n4QhoUz6nz5fE68=",
+      "publishedTime": "2017-10-24T12:32:28.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2914,
+      "hash": "sha256-69PXm9iduyanshAEmAlkYRAyaxkW9q/aqXTY0tSi+bg=",
+      "publishedTime": "2017-12-30T15:17:20.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 3008,
+      "hash": "sha256-2KFZu6eQrKSlQsB5SPLtAUBGFOfW2JxUw9+kmQ4n/Ek=",
+      "publishedTime": "2017-12-31T11:05:04.0Z",
+      "ref": "v0.4.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "bodil",
+    "githubRepo": "purescript-observable-channel"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2379,
+      "hash": "sha256-2UO82jxelZFm3QaIzZE5tOViJxQfGcp31Uq7Tfu/qdg=",
+      "publishedTime": "2016-08-28T19:38:47.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2371,
+      "hash": "sha256-UKH6iJaN+46bwgK6XBF1xnn3HMgqMOP/ElbPxiYHzHQ=",
+      "publishedTime": "2016-10-21T20:26:51.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

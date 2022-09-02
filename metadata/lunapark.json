@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-lunapark"
+  },
+  "published": {
+    "5.0.0": {
+      "bytes": 19386,
+      "hash": "sha256-nJNc12Zfo7gIkn2+EwDeWtVwxhvLJCIrXe9J6OHqBK4=",
+      "publishedTime": "2019-03-20T15:50:24.0Z",
+      "ref": "v5.0.0"
+    },
+    "5.0.1": {
+      "bytes": 19375,
+      "hash": "sha256-Rdw8LZB/IV/rnW/CRTQD2wNsnMigoNJRDV6E/cFjcHw=",
+      "publishedTime": "2019-05-06T22:41:40.0Z",
+      "ref": "v5.0.1"
+    },
+    "5.0.2": {
+      "bytes": 19431,
+      "hash": "sha256-Et7MjcAcPsHzZsUmaD2f5UEOXgk6t8eu13Bgjvj0Glk=",
+      "publishedTime": "2019-08-02T11:49:33.0Z",
+      "ref": "v5.0.2"
+    },
+    "6.0.0": {
+      "bytes": 20332,
+      "hash": "sha256-vRhvRIEp4NaqGcrwNCxvPZLcBu8dfN04qCPtnNtU+Z8=",
+      "publishedTime": "2020-11-19T17:25:44.0Z",
+      "ref": "v6.0.0"
+    },
+    "6.1.0": {
+      "bytes": 20437,
+      "hash": "sha256-+aNST8aI8yKz+WY5J/mhBGqDBIlXeaHCu5fZ9/C3BMM=",
+      "publishedTime": "2020-11-23T15:40:42.0Z",
+      "ref": "v6.1.0"
+    },
+    "6.2.0": {
+      "bytes": 21210,
+      "hash": "sha256-T+AeK3C3u4siDBnPB2JiLb4HgN3fNMSU2CB5t+FiH6Q=",
+      "publishedTime": "2020-11-30T15:18:38.0Z",
+      "ref": "v6.2.0"
+    },
+    "7.0.0": {
+      "bytes": 20830,
+      "hash": "sha256-Wfr9L6ewlxtISYYRXlgobe9LLybHpUcZX6FEaTTRIsM=",
+      "publishedTime": "2021-06-14T13:33:46.0Z",
+      "ref": "v7.0.0"
+    }
+  },
+  "unpublished": {}
+}

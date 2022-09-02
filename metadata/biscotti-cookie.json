@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "drewolson",
+    "githubRepo": "purescript-biscotti-cookie"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5079,
+      "hash": "sha256-1zCyTBI+t4xOjuN6aCffViJjlgVTKB5fwz46QaAVxi8=",
+      "publishedTime": "2019-09-08T15:08:26.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 5349,
+      "hash": "sha256-/DaRn3whAYGniaT8yvNftGCkeTzbHWdRLgrlXx3ZlfQ=",
+      "publishedTime": "2019-09-13T02:35:27.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 5132,
+      "hash": "sha256-xD2VxCA5yigbsfPlCh4LMSI6xGgo+4Y5430h5Mzgedg=",
+      "publishedTime": "2021-04-14T14:10:19.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

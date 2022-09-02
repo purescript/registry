@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "brakmic",
+    "githubRepo": "purescript-ractive"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 7209,
+      "hash": "sha256-n0MAJN3au6WJZYK1DlCjSv1P9zAzYqHFz4Di8YOATgw=",
+      "publishedTime": "2016-02-07T20:33:09.0Z",
+      "ref": "0.1.0"
+    },
+    "0.1.2": {
+      "bytes": 7191,
+      "hash": "sha256-co20sr6QG1jAiVbmLzIK+8S4QFJZZ9rrWkNzPkc/BNs=",
+      "publishedTime": "2016-02-07T20:42:44.0Z",
+      "ref": "0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 7548,
+      "hash": "sha256-avYPqwj8zhaaqsHikTMkTVxhVttGTEvvlz8Om4F37r0=",
+      "publishedTime": "2016-08-15T21:45:37.0Z",
+      "ref": "0.1.3"
+    },
+    "0.1.4": {
+      "bytes": 7548,
+      "hash": "sha256-VvjPJ4IdnQuEMMpD+QCaD+e4JAXJVx010pS2zqm0xU8=",
+      "publishedTime": "2016-08-15T21:50:25.0Z",
+      "ref": "0.1.4"
+    }
+  },
+  "unpublished": {}
+}

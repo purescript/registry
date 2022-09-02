@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "joshuahhh",
+    "githubRepo": "purescript-mkdirp"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2408,
+      "hash": "sha256-tZKEoJcQXGQmBxXXk0YOwBEXYmc5YuexGCYC2LpPrQo=",
+      "publishedTime": "2016-10-04T02:55:00.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2411,
+      "hash": "sha256-C2KOx4A9QTJGjvPy/waZZTmtsKeEZlUNdcNA6OMsh2A=",
+      "publishedTime": "2017-02-08T02:15:25.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2387,
+      "hash": "sha256-Aq1faAbHfcncLSZ85xNB8w7tyDMUwHxkCd+Ag9nwEtc=",
+      "publishedTime": "2018-04-12T01:22:17.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "rintcius",
+    "githubRepo": "purescript-aui"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4378,
+      "hash": "sha256-msMuvEe9XZAcmE+t9/H3G8n/OFb6rhj8Hbx1Y1TBs9A=",
+      "publishedTime": "2016-11-30T22:03:04.0Z",
+      "ref": "0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 4408,
+      "hash": "sha256-aBGwt9fcGsQxkVbwCyzZAeGefmOa5Fge3zyy/xwP6TU=",
+      "publishedTime": "2016-11-30T22:06:29.0Z",
+      "ref": "0.1.1"
+    }
+  },
+  "unpublished": {}
+}

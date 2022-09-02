@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "markfarrell",
+    "githubRepo": "purescript-parsing-expect"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1143,
+      "hash": "sha256-qAedIL1XzWTFEw0Mnc4cH5g80I3/JOtnPXYJZtMiMLc=",
+      "publishedTime": "2020-06-04T22:41:44.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 2605,
+      "hash": "sha256-BUyzXpKbMAHJ1cJlmL6SObPjulnkTy3sxTjTWLLSM3k=",
+      "publishedTime": "2020-07-17T01:31:35.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 2725,
+      "hash": "sha256-DphztVR/AcFaDgHY2XHMtB1DF+TngrYHykB3zGE+WL4=",
+      "publishedTime": "2020-07-17T02:29:55.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "hrajchert",
+    "githubRepo": "purescript-clipboardy"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2335,
+      "hash": "sha256-1xiBy0RE9jysmCZ9be6waFkBg5HYU8jpwBi3f6dWhWA=",
+      "publishedTime": "2020-06-06T05:10:54.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2336,
+      "hash": "sha256-SkqV2DNiCHZlbMzRwvrHdadaFqNEjT2K+B6xBohTPPE=",
+      "publishedTime": "2020-06-06T05:15:29.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 2484,
+      "hash": "sha256-9lhyFw+qQs5fVhsXrpivMhMVkZ+OIyr7O5o6T93GVjs=",
+      "publishedTime": "2020-06-09T21:27:39.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.0.3": {
+      "bytes": 2476,
+      "hash": "sha256-yExEx+1PguIZklGCT/GnWvjTYeOIV5BU+xjaaJJXCaU=",
+      "publishedTime": "2020-06-09T23:54:37.0Z",
+      "ref": "v1.0.3"
+    }
+  },
+  "unpublished": {}
+}

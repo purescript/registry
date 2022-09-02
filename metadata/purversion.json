@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "Quelklef",
+    "githubRepo": "purversion"
+  },
+  "published": {
+    "0.0.4": {
+      "bytes": 4366,
+      "hash": "sha256-ln8dvnA6plOmWJE4G2ecKm/WSBbZcR3iC8zCj/ZLH4A=",
+      "publishedTime": "2021-02-14T17:33:35.0Z",
+      "ref": "v0.0.4"
+    },
+    "0.0.5": {
+      "bytes": 4646,
+      "hash": "sha256-kZ4ffjam0RXVcGT1ZKRMcDllC9KwAz7vE0eMRI6EVRo=",
+      "publishedTime": "2021-02-16T08:02:30.0Z",
+      "ref": "v0.0.5"
+    },
+    "0.0.6": {
+      "bytes": 4647,
+      "hash": "sha256-8RdG8A1NRnRIHDPt2oYJxhCWQQP31B8oZ8F9Dsw7Bn0=",
+      "publishedTime": "2021-02-16T08:04:20.0Z",
+      "ref": "v0.0.6"
+    }
+  },
+  "unpublished": {}
+}

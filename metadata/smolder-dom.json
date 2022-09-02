@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "bodil",
+    "githubRepo": "purescript-smolder-dom"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1936,
+      "hash": "sha256-ncvdS16D6WwZKJyc0S7TR1qFXhYiEZDFlwgiD7Qn8+E=",
+      "publishedTime": "2017-05-21T15:02:45.0Z",
+      "ref": "1.0.0"
+    },
+    "1.1.0": {
+      "bytes": 3463,
+      "hash": "sha256-24+ssDdcMvvXBRh9AIyo3yXrnE4Voe8z0uZN5TqR9TU=",
+      "publishedTime": "2017-05-21T21:02:14.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 4107,
+      "hash": "sha256-C/ZYDhpKCQwms64J+tM4CUP3L/s2Y0LUCtF3lfiauT0=",
+      "publishedTime": "2017-07-22T00:36:21.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 4148,
+      "hash": "sha256-C05hJY34ts/zCW+Djp1hWkkDLdmtEjtMN46guaRJ7Kg=",
+      "publishedTime": "2018-10-11T13:01:22.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

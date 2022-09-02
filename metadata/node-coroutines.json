@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "paf31",
+    "githubRepo": "purescript-node-coroutines"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1790,
+      "hash": "sha256-MRdOYtSuvwzbDt7zdzPE0nwDViWKtLQsQA3WP0qQ0zY=",
+      "publishedTime": "2017-08-15T02:06:25.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 1782,
+      "hash": "sha256-s9qRqs2YLB653fPeVRrDXI1O58BMVsVp6FcS5os/mW8=",
+      "publishedTime": "2018-06-23T01:31:58.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

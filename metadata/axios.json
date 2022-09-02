@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "iarthstar",
+    "githubRepo": "purescript-axios"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2917,
+      "hash": "sha256-FrpUtv7+DPhfwID/5ZsZD6J0425jxdzBKreDjvUqYGo=",
+      "publishedTime": "2019-08-05T22:14:45.0Z",
+      "ref": "v0.0.1"
+    },
+    "1.0.2": {
+      "bytes": 2877,
+      "hash": "sha256-jwEYhgqqBCfkGxEawfeW8fn0ksz6Ac7q3td4zVqsE38=",
+      "publishedTime": "2019-08-24T21:46:31.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.1.0": {
+      "bytes": 3313,
+      "hash": "sha256-bgNixhDG8rRFSmPT1kC60cXdbbcA/1QU0is7TP4PGcg=",
+      "publishedTime": "2019-11-10T17:08:20.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 3851,
+      "hash": "sha256-KTSko3u4imE8/uMTBmRSfHOj7QCJTltBsfZwKy3c3zc=",
+      "publishedTime": "2019-11-10T18:49:46.0Z",
+      "ref": "v1.1.1"
+    },
+    "1.1.2": {
+      "bytes": 4030,
+      "hash": "sha256-NV6FBMXUKT2vSjczyuDhyoNvWszC1C/GtN8hDRp3HiU=",
+      "publishedTime": "2019-11-10T19:43:06.0Z",
+      "ref": "v1.1.2"
+    }
+  },
+  "unpublished": {}
+}

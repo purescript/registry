@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "mgajda",
+    "githubRepo": "purescript-intmap"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 1626,
+      "hash": "sha256-rbfW8lCm4YXQB4vdQrt1PYVQdPLBNz2TpMF+vrXQ194=",
+      "publishedTime": "2017-06-26T13:57:29.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 1667,
+      "hash": "sha256-Rq3m0ey9RulroBoDDkKSYU5lyclvcpRvb+AjAxA8CEs=",
+      "publishedTime": "2017-06-26T14:15:25.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

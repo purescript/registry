@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "jamieyung",
+    "githubRepo": "purescript-selection-foldable"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 6052,
+      "hash": "sha256-ksHPNkgvfGghnB+boibKEuMZ9DITWjpJFmyVfClphVg=",
+      "publishedTime": "2018-09-07T09:33:58.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 6037,
+      "hash": "sha256-9F4oVK6ggS+n/P5YMFz5V6x9JpxKDhnytiAT/YkiI7c=",
+      "publishedTime": "2018-09-07T09:43:14.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 6135,
+      "hash": "sha256-R3mRwff7+EsKzH1V/Emur2yahPLQmVVWzYEo0oGLXa8=",
+      "publishedTime": "2018-09-10T01:03:12.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.1.3": {
+      "bytes": 6342,
+      "hash": "sha256-DgUPq09jsTGmqenpHd6lj50bIbdvdjM1/17iY3vhiPo=",
+      "publishedTime": "2018-09-10T07:39:09.0Z",
+      "ref": "v0.1.3"
+    },
+    "0.2.0": {
+      "bytes": 6422,
+      "hash": "sha256-spEXsZKq0U5X6HpvQldkccw0uUVrw7G9aAu0JH79A0g=",
+      "publishedTime": "2018-09-10T17:17:10.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

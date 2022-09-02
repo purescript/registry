@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "alvart",
+    "githubRepo": "purescript-react-enzyme"
+  },
+  "published": {
+    "1.0.1": {
+      "bytes": 6669,
+      "hash": "sha256-Xvbo8dunzakvkoE+rFazOqsjwKV3jA+9eNvrJueEXhY=",
+      "publishedTime": "2021-01-20T01:32:54.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 6741,
+      "hash": "sha256-GMvy9undSNMZxaf8i1iLxVMM+CPRqZ+AArrATnMiP+E=",
+      "publishedTime": "2021-01-20T15:28:15.0Z",
+      "ref": "v1.1.0"
+    },
+    "1.1.1": {
+      "bytes": 6742,
+      "hash": "sha256-Zaah27Dc5/LOcm4lDuCaPUQU1UFh62mMmGtTxYZ4ZcU=",
+      "publishedTime": "2021-01-20T16:53:08.0Z",
+      "ref": "v1.1.1"
+    }
+  },
+  "unpublished": {}
+}

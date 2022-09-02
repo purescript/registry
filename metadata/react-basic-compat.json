@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "lumihq",
+    "githubRepo": "purescript-react-basic-compat"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5413,
+      "hash": "sha256-29XpvNgKtprSi57Et24YJSSUvIkMMRx5BaFQ3w3pSYY=",
+      "publishedTime": "2020-06-30T06:55:25.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 5415,
+      "hash": "sha256-M984CCxuGz99DPyoEI8Tvhej/SFgOfFUqMRmaanqUIs=",
+      "publishedTime": "2020-06-30T07:12:08.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "purescript-aws-sdk",
+    "githubRepo": "purescript-aws-stepfunctions"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 16067,
+      "hash": "sha256-J9JpV9Kx89sXH4IfZ3FynZ2JE5s0CTqXfjVTVOYgohE=",
+      "publishedTime": "2018-03-10T21:53:16.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.1": {
+      "bytes": 16091,
+      "hash": "sha256-Tv1LMD5I+Fte0yY5wrEwGaU429wNV0qc1wJKWKhaC1s=",
+      "publishedTime": "2018-03-12T18:26:13.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 16069,
+      "hash": "sha256-Q5z7l5iXFQJNFsf+Mm/PPSYQy6k7uzLR2FKy/LFNG9M=",
+      "publishedTime": "2018-03-13T13:40:27.0Z",
+      "ref": "v0.1.2"
+    },
+    "0.2.1": {
+      "bytes": 16101,
+      "hash": "sha256-lWLceQQ4etD8My2pqKEbUwpH/pr6eeL1TbNNfJJHcR8=",
+      "publishedTime": "2018-03-28T16:48:55.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.1": {
+      "bytes": 15894,
+      "hash": "sha256-Y0NwdZESXhOUe/KPP5KeRlSXYMX0x9LgNLCFbQ4Wdm4=",
+      "publishedTime": "2018-04-26T13:32:45.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

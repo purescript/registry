@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "justinwoo",
+    "githubRepo": "purescript-expect-inferred"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2264,
+      "hash": "sha256-YzryVQeHQCsnHTASILZCqK+fdJo0Yoc95VKgBmojyPA=",
+      "publishedTime": "2018-08-11T14:24:24.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2085,
+      "hash": "sha256-X0/8RKE+14k0F4/MTbj5/rcQTsJ5jYyAwGl1Qo7ChTY=",
+      "publishedTime": "2018-08-13T17:46:21.0Z",
+      "ref": "v0.2.0"
+    },
+    "1.0.0": {
+      "bytes": 2098,
+      "hash": "sha256-Kb3uM0GmzbFyB3lIQJ5omOawHOG3GCqiy768Aw/McZ0=",
+      "publishedTime": "2019-01-26T17:17:09.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2104,
+      "hash": "sha256-gnCapK+zutIu1CWusrIuegnpA5+9xO7eA+SZV73jMdA=",
+      "publishedTime": "2019-05-30T19:10:31.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 2119,
+      "hash": "sha256-8LBhK5etVOnSu6QHtO4YhEqlnbWhlIwXVfv2D1s38K8=",
+      "publishedTime": "2021-12-15T12:56:04.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

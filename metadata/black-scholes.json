@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "vyorkin",
+    "githubRepo": "purescript-black-scholes"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2073,
+      "hash": "sha256-Y1DllpGYrEIa3uNqgHzbDLDqrvL7kdqewgmmD+ckjIg=",
+      "publishedTime": "2017-01-22T20:54:31.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 2074,
+      "hash": "sha256-G6HrgUopUrJL0tql1GkGfneb3EeQwSsyiDUKpSteVi4=",
+      "publishedTime": "2017-01-22T21:08:19.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

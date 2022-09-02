@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "LiamGoodacre",
+    "githubRepo": "purescript-moldy"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2125,
+      "hash": "sha256-sG0PFESK4Cnrpt40gY+/xeQTbHwzCnNtxGnmrh60gIc=",
+      "publishedTime": "2017-02-12T23:54:38.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 2209,
+      "hash": "sha256-wABGO6AjfiYdLVaZa2QOVg35uDRHPaT2hdH8zv3tkwE=",
+      "publishedTime": "2017-02-13T21:56:06.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 2392,
+      "hash": "sha256-zqwdq+fC7erUQtqUz1Fzp2vo3IZakh7RmQQKUI2pfg8=",
+      "publishedTime": "2017-04-10T22:29:27.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 2400,
+      "hash": "sha256-NnxTfUvDOXFW+z/NUpYwI3f0YRw6D6xX94m0QoXFCaM=",
+      "publishedTime": "2017-07-22T15:56:14.0Z",
+      "ref": "v2.1.0"
+    },
+    "3.0.0": {
+      "bytes": 2408,
+      "hash": "sha256-fQj0IDFRxo81iEiu+32jGugYtL5aR7gSBd5V9e0GpCY=",
+      "publishedTime": "2019-09-24T18:42:28.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

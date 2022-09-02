@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "the-dr-lazy",
+    "githubRepo": "purescript-barbies"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 7695,
+      "hash": "sha256-ccJBG4PTk1Td9dxJCfkTLUmTk5IMCQDyfniPaVTFwJc=",
+      "publishedTime": "2022-07-23T20:35:00.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 7696,
+      "hash": "sha256-UkOW1CYFSCYi0E1H9nv/pIQIuZoPJ/lippmfBCR+0ZY=",
+      "publishedTime": "2022-07-23T20:41:18.0Z",
+      "ref": "v1.0.1"
+    }
+  },
+  "unpublished": {}
+}

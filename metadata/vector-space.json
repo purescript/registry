@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "mkaemmerer",
+    "githubRepo": "purescript-vector-space"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 2572,
+      "hash": "sha256-oeI0iGPBPrC1Nii7PKC2kfuq+MG+bbWSSAn1XCvmqew=",
+      "publishedTime": "2015-03-23T16:13:08.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.1.0": {
+      "bytes": 3213,
+      "hash": "sha256-O0yZgcnqDzmXeYbGqKkVsHP0SUJbJkESVzmBuJo+jf4=",
+      "publishedTime": "2015-03-27T14:29:39.0Z",
+      "ref": "v0.1.0"
+    }
+  },
+  "unpublished": {}
+}

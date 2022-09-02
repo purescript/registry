@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "pkamenarsky",
+    "githubRepo": "purescript-refract"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 15329,
+      "hash": "sha256-t9Sx+GktFZjFx2EM4oYmw+l6WNJhrvff1jYGKeHtwhg=",
+      "publishedTime": "2018-02-02T13:48:39.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 15330,
+      "hash": "sha256-sbIqw8nnS0uPoIqPNWAHylKpkotmAgqso+D0wYMCtto=",
+      "publishedTime": "2018-02-02T13:53:50.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

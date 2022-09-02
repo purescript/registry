@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "yornaath",
+    "githubRepo": "purescript-bf-gun"
+  },
+  "published": {
+    "0.0.32": {
+      "bytes": 4940,
+      "hash": "sha256-DJJtVONLC0Bc0w4Hq025qJKxYZgUMjwwV1ShgnZtwEY=",
+      "publishedTime": "2021-10-20T16:14:58.0Z",
+      "ref": "v0.0.32"
+    },
+    "0.0.33": {
+      "bytes": 4938,
+      "hash": "sha256-AKj03A8VBi/S5kluxKalzgyEmL3QlcMsNIBTGu1i1gk=",
+      "publishedTime": "2021-10-20T16:17:36.0Z",
+      "ref": "v0.0.33"
+    },
+    "0.0.34": {
+      "bytes": 4993,
+      "hash": "sha256-dLhEh2WZXCVwqjHnA5Ojr9FyFECZfy0MfdB9uZbsRI4=",
+      "publishedTime": "2021-10-20T16:20:15.0Z",
+      "ref": "v0.0.34"
+    },
+    "0.0.35": {
+      "bytes": 5093,
+      "hash": "sha256-IIAiBmPCUMav6j1+AzX2NfxCjnxx7E4HO6/576rGtc8=",
+      "publishedTime": "2021-10-20T17:52:30.0Z",
+      "ref": "v0.0.35"
+    },
+    "0.0.36": {
+      "bytes": 5721,
+      "hash": "sha256-YJqRBpWfD798lAXLo3V2LCkMav7V0Ht5Ru6elFO0fSc=",
+      "publishedTime": "2021-10-20T17:54:49.0Z",
+      "ref": "v0.0.36"
+    },
+    "0.1.0": {
+      "bytes": 5802,
+      "hash": "sha256-7Wr4H+lnXai5QO6ZS4Cs7x9JFHYiGNT77GcPeTo0g0Q=",
+      "publishedTime": "2021-10-22T13:23:58.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 6993,
+      "hash": "sha256-0qZNZGq4hUc6E58vyddqwPB33YRix07Cd0W9R08k9gA=",
+      "publishedTime": "2021-11-05T15:02:06.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "joneshf",
+    "githubRepo": "purescript-resource"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5021,
+      "hash": "sha256-h11xbfCwUUoFiu9zGoVadGAyD624mQSG4M9AqXhY0D8=",
+      "publishedTime": "2019-04-30T16:07:28.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 5457,
+      "hash": "sha256-5Scqw82AH8W2CSvpFVGk+ReRDXgfGuM6hdfOQtmmMZE=",
+      "publishedTime": "2021-02-28T01:01:40.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 5036,
+      "hash": "sha256-25k+P1ryyyqNga34YamDGrOGAVokOX+ebdq5Y8D+ENs=",
+      "publishedTime": "2021-03-20T16:51:26.0Z",
+      "ref": "v2.0.1"
+    }
+  },
+  "unpublished": {}
+}
