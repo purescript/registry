@@ -5,7 +5,7 @@
 
 The PureScript Registry stores PureScript packages (and metadata about them) and provides an API for registering, updating, transferring, and unpublishing packages. Most PureScript users will only interact with the registry via package managers.
 
-:warning: As of September 2022, no package manager officially supports the registry. To register your package, please add the name and URL of your package to the [new-packages.json file in the registry-dev repository](https://github.com/purescript/registry/blob/master/new-packages.json) and open a pull request. Once registered, your package will be added to the package sets automatically (if it compiles with the current package set), its docs will be uploaded to Pursuit, and any SemVer tag you publish on the repository in the future will automatically update your package in the registry.
+:warning: As of September 2022, no package manager officially supports the registry. To register your package, please add the name and URL of your package to the [new-packages.json file in the registry-dev repository](https://github.com/purescript/registry-dev/blob/master/new-packages.json) and open a pull request. Once registered, your package will be added to the package sets automatically (if it compiles with the current package set), its docs will be uploaded to Pursuit, and any SemVer tag you publish on the repository in the future will automatically update your package in the registry.
 
 ## Registry Overview
 
