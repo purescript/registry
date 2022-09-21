@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "athanclark",
+    "githubRepo": "purescript-subtlecrypto"
+  },
+  "published": {
+    "0.0.0": {
+      "bytes": 5761,
+      "hash": "sha256-MqUZhl6EyxKA/p+GaGupGEd0AWomkS1Aeidr7Qghb9Y=",
+      "publishedTime": "2019-01-17T21:01:28.0Z",
+      "ref": "v0.0.0"
+    },
+    "0.0.1": {
+      "bytes": 7109,
+      "hash": "sha256-LaeiLDjuMr7vVEz/TaW5JBrMs5REG2rxtLP9wwL1DYc=",
+      "publishedTime": "2020-04-29T22:39:36.0Z",
+      "ref": "v0.0.1"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "DaQuirm",
+    "githubRepo": "purescript-shortid"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1373,
+      "hash": "sha256-IIsjFFq0SnNQa3V2Qvteo5N7mgp/jkMl7qHQCoUMzaI=",
+      "publishedTime": "2017-01-15T11:06:33.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1373,
+      "hash": "sha256-p31HUiCh61D3GZA29tBKf+VXIGu4DGHzQzLYmoNaLf0=",
+      "publishedTime": "2017-01-15T11:20:06.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 1576,
+      "hash": "sha256-8WRG+BP9i+FE+ZRiZxLIkNUk2CswP59keh/8dRUlpEc=",
+      "publishedTime": "2017-01-15T11:41:13.0Z",
+      "ref": "v0.0.3"
+    }
+  },
+  "unpublished": {}
+}

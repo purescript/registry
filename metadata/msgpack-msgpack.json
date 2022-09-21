@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "nonbili",
+    "githubRepo": "purescript-msgpack-msgpack"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2353,
+      "hash": "sha256-CL/aKAy5G511kbHtGI4Sm8eZO3gQpMkACPP5b6jtKs8=",
+      "publishedTime": "2019-05-28T09:21:33.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 2557,
+      "hash": "sha256-g8ffcDjUNXPwOSAvYkZ5AEH+aTVTbxPVBXXz6REIUss=",
+      "publishedTime": "2019-06-02T07:52:51.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 2603,
+      "hash": "sha256-yE3zCGguVftewC9QM62u6J/HcqvztY9MwunYVOZi8LI=",
+      "publishedTime": "2019-10-27T09:08:16.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.4.0": {
+      "bytes": 2606,
+      "hash": "sha256-HXL1chUIf0KRWbYZCgUhfKww6vm1Et0sW4gXou0h3XU=",
+      "publishedTime": "2020-05-06T02:21:23.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.5.0": {
+      "bytes": 2679,
+      "hash": "sha256-RTzPK62FAoN5Bnhir6m+t0ud0AjZxPDWC4xQfGKg8bE=",
+      "publishedTime": "2020-09-03T05:28:29.0Z",
+      "ref": "v0.5.0"
+    }
+  },
+  "unpublished": {}
+}

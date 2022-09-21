@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "hdgarrood",
+    "githubRepo": "purescript-symmetric-groups"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 5852,
+      "hash": "sha256-mojCyJHboWPKr9+vO8pmU7RPsQbkByX0yY7cWkdQoto=",
+      "publishedTime": "2017-11-29T23:47:30.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 6636,
+      "hash": "sha256-4UlqpFkXjLZBp5NO+gcPhYx6cTs2w1O3tKN9K1SDkhw=",
+      "publishedTime": "2017-11-30T15:45:47.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 6769,
+      "hash": "sha256-twzkyYXLOY77gKlgucYQpNdEo48QqHHMw0YmXdYPQCA=",
+      "publishedTime": "2017-11-30T15:51:15.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "fujisawa",
+    "githubRepo": "purescript-simple-csv"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4352,
+      "hash": "sha256-78uOHROM9zXzzzlwI2F74fsmtE09+xNoAtRPadUTVE4=",
+      "publishedTime": "2020-12-29T13:43:47.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 4347,
+      "hash": "sha256-BNB2ok9SzmImzzt4z2vgqaw4DgSoasGkMkcjs2bj2ws=",
+      "publishedTime": "2021-01-07T14:07:25.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

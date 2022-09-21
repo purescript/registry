@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "CapillarySoftware",
+    "githubRepo": "purescript-requestanimationframe"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 1245,
+      "hash": "sha256-RwIWlED3ORB/7Yl4H0O6lZwKVnxnzQ6Kn4KIuydK1QI=",
+      "publishedTime": "2014-11-13T21:23:33.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 1336,
+      "hash": "sha256-oMlpdpgmeWQFMq0H2h5Z2Y9ySUvb1U5E18JwwG4q3vo=",
+      "publishedTime": "2015-02-03T11:59:47.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.0.3": {
+      "bytes": 1329,
+      "hash": "sha256-Zqqs5QQCRKA0OVhmNPi/+iXaLthvaofLba9c2+TyWa0=",
+      "publishedTime": "2015-03-05T18:56:33.0Z",
+      "ref": "v0.0.3"
+    },
+    "1.0.0": {
+      "bytes": 1195,
+      "hash": "sha256-Fi/1RfM7LknCdB5dX5d0pFSMV4YV/dEC31sdC2u1XaU=",
+      "publishedTime": "2015-08-21T01:29:55.0Z",
+      "ref": "v1.0.0"
+    }
+  },
+  "unpublished": {}
+}

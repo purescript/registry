@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "MichaelXavier",
+    "githubRepo": "purescript-server-sent-events"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3116,
+      "hash": "sha256-xpAoddcThP/ATi1XuZm0soui0+LdlPLIH4UdOUvAXNg=",
+      "publishedTime": "2017-07-21T16:55:53.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 3158,
+      "hash": "sha256-VQLKh4hSIDZJ/p8alsfQ0OfJ1VxK5xcSzJDNe42GNC8=",
+      "publishedTime": "2018-10-22T18:45:36.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.0": {
+      "bytes": 3379,
+      "hash": "sha256-wzeOeb0aOQdsCBePuuTInma5W0dVdGjGBsKfWH+1W8k=",
+      "publishedTime": "2021-04-12T20:10:51.0Z",
+      "ref": "v0.3.0"
+    },
+    "0.3.1": {
+      "bytes": 3318,
+      "hash": "sha256-vMyRwf8wsxVQQagCfjG82qXUD9v9y59tpG82qR7sML8=",
+      "publishedTime": "2021-04-13T16:17:39.0Z",
+      "ref": "v0.3.1"
+    }
+  },
+  "unpublished": {}
+}

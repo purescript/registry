@@ -1,0 +1,51 @@
+{
+  "location": {
+    "githubOwner": "labordynamicsinstitute",
+    "githubRepo": "purescript-metajelo"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 13351,
+      "hash": "sha256-GbicmrtONW1sXocycNEbEnwwdNHO1f3o4koqRiPI1HI=",
+      "publishedTime": "2019-05-09T15:08:35.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 13398,
+      "hash": "sha256-AckymrSbyh7Dvp/IcxIMDMd2u52teWMegC7dnpLD4uA=",
+      "publishedTime": "2019-06-15T12:11:44.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 13392,
+      "hash": "sha256-l30Mq+cHQvvEczkpnlDissyEi5sE243FnWCpbC31mYs=",
+      "publishedTime": "2019-06-26T20:02:30.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 16747,
+      "hash": "sha256-KpFViRRT5psZnWkOkNuSOmNZ6amTrESPFL4mQssepZQ=",
+      "publishedTime": "2019-07-05T15:03:01.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 16819,
+      "hash": "sha256-RsIvpy2egIxd/f7Cp1KZc7wc6NKMClS7DNReo53hthg=",
+      "publishedTime": "2019-07-06T21:00:39.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 16579,
+      "hash": "sha256-IEHrJzgBOo0ZKYcfTFZPbe4NeqRNzv9wm7tbuu0CfCU=",
+      "publishedTime": "2019-07-06T21:05:40.0Z",
+      "ref": "v3.0.1"
+    },
+    "3.1.0": {
+      "bytes": 17180,
+      "hash": "sha256-6sbgU+WiZ3kZmE+DC0r344Ie476ta/FRkQ0AIjWC5P0=",
+      "publishedTime": "2019-07-08T19:32:35.0Z",
+      "ref": "v3.1.0"
+    }
+  },
+  "unpublished": {}
+}

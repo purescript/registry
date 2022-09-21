@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "HivemindTechnologies",
+    "githubRepo": "purescript-kafkajs"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3375,
+      "hash": "sha256-YpBVpYlZYZ6IQ1rMEupMhGYz9zJUkbM2eziDgN0fL/4=",
+      "publishedTime": "2021-01-21T08:56:24.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 5236,
+      "hash": "sha256-WeCX3FmQ/2eT49fETKQdq2yY2Nxtmzn7k57eYbmwZu4=",
+      "publishedTime": "2021-03-09T13:53:46.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "jisantuc",
+    "githubRepo": "purescript-stac"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 9466,
+      "hash": "sha256-UL8xtyTviiQNGRhb6uM2ErUg5FY5C35o4uh+Z2DYg0s=",
+      "publishedTime": "2021-02-16T23:51:37.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 9466,
+      "hash": "sha256-zAnMV385ro5aqlqylh/Z+GtBbyVdDPRPtAuLq6FXP5A=",
+      "publishedTime": "2021-02-16T23:57:11.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 9473,
+      "hash": "sha256-VMjPnrz63SsDUmFrnFA751MuTGEWcTldyxvQ2HfHbYU=",
+      "publishedTime": "2021-02-16T23:59:45.0Z",
+      "ref": "v0.1.2"
+    },
+    "1.0.0": {
+      "bytes": 13375,
+      "hash": "sha256-R5ML1Kk1EvvXIltxd1I+nJoWQfOSJhth/Rf/2JXU0Fw=",
+      "publishedTime": "2021-03-09T01:21:17.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 13374,
+      "hash": "sha256-GbcjRxX26t7JxH1WUYUZC8tvqJfKy02AfEPwEheQOZw=",
+      "publishedTime": "2021-03-21T21:35:46.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 13931,
+      "hash": "sha256-7WpmbFA9aRyqGJJjNOE6Cf1LiKS6a8nV4/Z2qJWwKRk=",
+      "publishedTime": "2021-04-28T21:29:46.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

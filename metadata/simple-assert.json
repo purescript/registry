@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "philopon",
+    "githubRepo": "purescript-simple-assert"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 1519,
+      "hash": "sha256-GAxAcR9tp2ZpQNoKXRGlaOi+rKNwlvY6A+jcKsEs+bY=",
+      "publishedTime": "2014-12-25T11:31:03.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.2.0": {
+      "bytes": 1661,
+      "hash": "sha256-Ki+cXv5jtu0cr+3JqbQ3kDaqLc5Xjvq9h93om4NYYiI=",
+      "publishedTime": "2014-12-26T16:42:58.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.2.1": {
+      "bytes": 1650,
+      "hash": "sha256-7pTNGEOdRRVLHg2xUCva1T6iVSkhZmRsB0xyuyxGxAg=",
+      "publishedTime": "2014-12-27T16:27:24.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.3.0": {
+      "bytes": 1616,
+      "hash": "sha256-8WFbnASGISeNKhMxVUwsZMkGnyw5R2simjvEWmBP5Ww=",
+      "publishedTime": "2015-07-18T08:16:37.0Z",
+      "ref": "v0.3.0"
+    }
+  },
+  "unpublished": {}
+}

@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "newlandsvalley",
+    "githubRepo": "purescript-js-fileio"
+  },
+  "published": {
+    "2.1.0": {
+      "bytes": 4215,
+      "hash": "sha256-twjyaG2pxxHZ3n39X3gRmdAfO5DuwIg8FNuHCftzb/I=",
+      "publishedTime": "2020-12-07T16:19:31.0Z",
+      "ref": "v2.1.0"
+    },
+    "2.2.0": {
+      "bytes": 4337,
+      "hash": "sha256-sEPTyXTVXR8WueSvbsMZPbdRujzvcxrkj75WygFiJeg=",
+      "publishedTime": "2021-03-10T14:13:53.0Z",
+      "ref": "v2.2.0"
+    },
+    "3.0.0": {
+      "bytes": 4361,
+      "hash": "sha256-drwkIYPfboPuWjlbb8EDvyvVXplur42gAddT625ANh0=",
+      "publishedTime": "2022-05-06T20:15:28.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

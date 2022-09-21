@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "rgrempel",
+    "githubRepo": "purescript-exists-eq"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 2493,
+      "hash": "sha256-o2MMtnPTakaWj+d26yglQ12PafY979gEyoTgeIJEnQs=",
+      "publishedTime": "2016-08-12T16:49:50.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 2493,
+      "hash": "sha256-X2mKd/UxeoI2n4PdHggx7ntDDEbf7Q7IBqsZf7g/t78=",
+      "publishedTime": "2016-08-12T16:57:50.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.0.2": {
+      "bytes": 2494,
+      "hash": "sha256-bIHlFfX4c7KzWEqv3ASbj5hqBYtX8WI1N6l3q6o1wmk=",
+      "publishedTime": "2016-08-13T04:56:49.0Z",
+      "ref": "v1.0.2"
+    },
+    "1.0.3": {
+      "bytes": 2751,
+      "hash": "sha256-q/97xNhzK2KV5eEhUOYSkKTda3ixqS9BjtcKfRYmhSE=",
+      "publishedTime": "2016-08-16T19:33:16.0Z",
+      "ref": "v1.0.3"
+    }
+  },
+  "unpublished": {}
+}

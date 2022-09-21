@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "mechairoi",
+    "githubRepo": "purescript-virtual-dom-typed"
+  },
+  "published": {
+    "0.0.2": {
+      "bytes": 2003,
+      "hash": "sha256-y+vQxYU9d4BoePYqffwHSZvDTY2CY/R3v8ubvHcglCo=",
+      "publishedTime": "2014-12-16T15:24:01.0Z",
+      "ref": "v0.0.2"
+    },
+    "0.1.0": {
+      "bytes": 2169,
+      "hash": "sha256-7tARHovL+Hnn9IjH5uLXy090z63ByVPFAX7W5aK6Dz0=",
+      "publishedTime": "2014-12-17T17:47:05.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 1743,
+      "hash": "sha256-Pb7NHSDRyY+GNDC8ZqYTw9pI/gLsENu25GOC1952LYA=",
+      "publishedTime": "2015-03-02T05:27:04.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 1737,
+      "hash": "sha256-zp40DMj5Yyb93PZlqXlbEluNwHFj+IH/8opShOlbJyU=",
+      "publishedTime": "2015-04-27T16:31:01.0Z",
+      "ref": "v0.1.2"
+    }
+  },
+  "unpublished": {}
+}

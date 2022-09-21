@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "matthew-hilty",
+    "githubRepo": "purescript-tolerant-argonaut"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 8693,
+      "hash": "sha256-DqiEhVkYYmQYGfX6QUNAkUthcOApRvL6FUS6T/Ukbko=",
+      "publishedTime": "2019-07-17T19:40:46.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 8947,
+      "hash": "sha256-0EW/RHADVlXbwi5WKa+Acd5xxnJTC/vq3XCzUkA+NCo=",
+      "publishedTime": "2019-07-20T21:17:07.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 8869,
+      "hash": "sha256-W5H68gb4q64J0n3o/6um8KNd+OBvxIAGcnKCH4scrBI=",
+      "publishedTime": "2019-07-21T16:13:48.0Z",
+      "ref": "v1.0.1"
+    },
+    "1.1.0": {
+      "bytes": 7850,
+      "hash": "sha256-8OV0+v5TPi6BpJBpEhD1XhhQI6ChJnYPmpXptEsMbNY=",
+      "publishedTime": "2019-08-06T16:59:08.0Z",
+      "ref": "v1.1.0"
+    },
+    "2.0.0": {
+      "bytes": 7607,
+      "hash": "sha256-XzqQOFARtis+y7BcDNqfWYssuUAabs9AU/VNa+eaiGQ=",
+      "publishedTime": "2020-07-08T22:29:22.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

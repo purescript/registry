@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "Risto-Stevcev",
+    "githubRepo": "purescript-sqlite"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4701,
+      "hash": "sha256-Z+2evzMZ9XrmftXoBuUSOILqSRluDjAvKk2MKECAQ10=",
+      "publishedTime": "2016-08-08T13:29:43.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 4703,
+      "hash": "sha256-NOLrLFy5qlBQB8Emq+x4Kbc6h337z7ZcAcxVQJ7lgsA=",
+      "publishedTime": "2016-08-08T13:32:47.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.1.2": {
+      "bytes": 4716,
+      "hash": "sha256-cJIN9wRXuA/tmT/56naTPbLTIx2OJVYZmSRMaCxLmSA=",
+      "publishedTime": "2016-08-08T13:34:25.0Z",
+      "ref": "v0.1.2"
+    },
+    "1.0.0": {
+      "bytes": 4766,
+      "hash": "sha256-UGhjJSr6ouTc6wAR1odIoCKKFreGMh94CiAvLINcblA=",
+      "publishedTime": "2017-03-15T23:38:55.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 4985,
+      "hash": "sha256-wtARNpT5Cs849LLGXRb62aE5Rf6GuWJN3t5sNvjD8Gs=",
+      "publishedTime": "2017-03-23T11:03:07.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 4949,
+      "hash": "sha256-vWM/u/B9xT2T8IvLuUelySvNXLeeX1Nx1K9CfTNxa50=",
+      "publishedTime": "2017-05-28T16:00:39.0Z",
+      "ref": "v3.0.0"
+    }
+  },
+  "unpublished": {}
+}

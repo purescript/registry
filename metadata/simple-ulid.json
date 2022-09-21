@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "oreshinya",
+    "githubRepo": "purescript-simple-ulid"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 3959,
+      "hash": "sha256-J9CnZU3W1nTgSIQqn0RcWzpR9Www4as+DPRin7gz8Dk=",
+      "publishedTime": "2020-12-16T15:20:31.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 3945,
+      "hash": "sha256-A67oWuEEgNwx1+kHfNJa9UXAX1DjW4BuvVEZfhuH7oM=",
+      "publishedTime": "2021-03-02T06:07:08.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

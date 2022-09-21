@@ -1,0 +1,39 @@
+{
+  "location": {
+    "githubOwner": "Thimoteus",
+    "githubRepo": "purescript-difflists"
+  },
+  "published": {
+    "2.0.0": {
+      "bytes": 3125,
+      "hash": "sha256-iAw5TH3y6idZTc7/jMQ/G5jhT5OW8o+yvp93EIsClOU=",
+      "publishedTime": "2015-07-29T10:44:15.0Z",
+      "ref": "2.0.0"
+    },
+    "2.0.1": {
+      "bytes": 3057,
+      "hash": "sha256-3a29uvKr5bxWR7/HEGxAUPWpP+f7N+4fENIzCutGafE=",
+      "publishedTime": "2015-07-29T10:58:37.0Z",
+      "ref": "2.0.1"
+    },
+    "2.1.0": {
+      "bytes": 3220,
+      "hash": "sha256-ajiW8nXliGFgMziSDFeWSNHwpofp6K1xkUiwq6cen3g=",
+      "publishedTime": "2015-07-29T12:36:13.0Z",
+      "ref": "2.1.0"
+    },
+    "3.0.0": {
+      "bytes": 2877,
+      "hash": "sha256-GRTWga+Ux8l97aWnOJw8ZGQDdnbNDM/bAOn/YozLcys=",
+      "publishedTime": "2015-12-02T00:57:19.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 2994,
+      "hash": "sha256-Ov6IkxZgJFlH2zE816XcL6135RfzjUIAlVCd9HVLxQw=",
+      "publishedTime": "2016-02-15T23:39:21.0Z",
+      "ref": "v3.0.1"
+    }
+  },
+  "unpublished": {}
+}

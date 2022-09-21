@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "jasonzoladz",
+    "githubRepo": "purescript-rx-state"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 4537,
+      "hash": "sha256-x9AX7zMr12Vtx5SkiniVV4ZwK5RRxrbWy/A1aAC6Co0=",
+      "publishedTime": "2016-03-13T20:19:45.0Z",
+      "ref": "0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 4455,
+      "hash": "sha256-LCvsy46UDG+CGLR/+FXuFjnu21JzGTfLEMl+UOY3v0g=",
+      "publishedTime": "2016-06-12T15:38:36.0Z",
+      "ref": "0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 4462,
+      "hash": "sha256-Zk5KiDoXlv4/vl5jF/BjV/QqnSuzeU5TmSl7T7vT8Wc=",
+      "publishedTime": "2016-10-28T14:03:52.0Z",
+      "ref": "v0.2.0"
+    }
+  },
+  "unpublished": {}
+}

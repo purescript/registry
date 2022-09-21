@@ -1,0 +1,75 @@
+{
+  "location": {
+    "githubOwner": "blockmason",
+    "githubRepo": "purescript-ethereum"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 2727,
+      "hash": "sha256-myg3ki9c94Lq1iUVOsukqpOitxJT5ZtjOenNGPbDhFM=",
+      "publishedTime": "2017-08-01T12:20:18.0Z",
+      "ref": "0.1.0"
+    },
+    "0.2.1": {
+      "bytes": 2726,
+      "hash": "sha256-eLxdzhlbjaOIGqAdzP11e9rMT9EH4wO+PhnQIpnYN7E=",
+      "publishedTime": "2017-08-01T12:47:49.0Z",
+      "ref": "v0.2.1"
+    },
+    "0.2.2": {
+      "bytes": 2624,
+      "hash": "sha256-0f7VQPngxVdF1Wbq5zW7B+Tz79pJ3wxFkLzmlf5pg5A=",
+      "publishedTime": "2017-08-01T12:52:20.0Z",
+      "ref": "v0.2.2"
+    },
+    "0.2.3": {
+      "bytes": 2830,
+      "hash": "sha256-35z+fZ/ObT/+yKpkFp0JHkiudby/E0z6mC9CrmWudy8=",
+      "publishedTime": "2017-08-09T10:21:34.0Z",
+      "ref": "v0.2.3"
+    },
+    "0.2.4": {
+      "bytes": 2879,
+      "hash": "sha256-s2FaMB4h6xsDBJRvlTqj9o+y2Un9ssG0haTgljCl8bY=",
+      "publishedTime": "2017-08-10T07:15:57.0Z",
+      "ref": "v0.2.4"
+    },
+    "0.2.5": {
+      "bytes": 2882,
+      "hash": "sha256-k68+Ylz8uaGBE2qi/bLTux1VHXZfrlaAPo1P0eIiovI=",
+      "publishedTime": "2017-08-10T07:42:49.0Z",
+      "ref": "v0.2.5"
+    },
+    "0.2.6": {
+      "bytes": 2884,
+      "hash": "sha256-j78PbOCIlgnCyfRUqPR2NNtXDYh2qqyuzFTz9knpBRc=",
+      "publishedTime": "2017-08-10T07:53:19.0Z",
+      "ref": "v0.2.6"
+    },
+    "0.2.7": {
+      "bytes": 2905,
+      "hash": "sha256-3yGB11BETwxKIKGL4DrW+wfRqLtVkpJoZzhqypoHOdE=",
+      "publishedTime": "2017-08-10T08:09:24.0Z",
+      "ref": "v0.2.7"
+    },
+    "0.2.8": {
+      "bytes": 2953,
+      "hash": "sha256-xed76/Six8UWO7UZCFOAgqB1rxrOsFVtOAJeRQhTuu0=",
+      "publishedTime": "2017-08-11T05:32:55.0Z",
+      "ref": "v0.2.8"
+    },
+    "0.2.9": {
+      "bytes": 2968,
+      "hash": "sha256-8ZJ0GaMxMAv1rMVd4912xyqRXuq3LsiNCsSgV/aKs3g=",
+      "publishedTime": "2017-08-11T08:46:43.0Z",
+      "ref": "v0.2.9"
+    },
+    "0.2.10": {
+      "bytes": 2988,
+      "hash": "sha256-ShRyP9QgG/XJbDtrnm+c+JaMQK9TPxdEl8fZG6kbB9Y=",
+      "publishedTime": "2017-08-12T13:32:06.0Z",
+      "ref": "v0.2.10"
+    }
+  },
+  "unpublished": {}
+}

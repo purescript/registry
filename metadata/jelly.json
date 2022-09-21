@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "yukikurage",
+    "githubRepo": "purescript-jelly"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 8700,
+      "hash": "sha256-MdKibhErr1lZbA8ErmYt8szPi3oyV59nFv4gupgJNo8=",
+      "publishedTime": "2022-05-25T04:36:40.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 8723,
+      "hash": "sha256-z9zpY+/Y0mSSYW/8ogEsjGhcCWilTq7DYbOhZCrQujY=",
+      "publishedTime": "2022-05-25T04:52:05.0Z",
+      "ref": "v0.1.1"
+    },
+    "0.2.0": {
+      "bytes": 6403,
+      "hash": "sha256-SixpUatFkHXNDyrRnL4hPPmePqu354dxGb6PZf/J0I8=",
+      "publishedTime": "2022-05-25T15:42:08.0Z",
+      "ref": "v0.2.0"
+    },
+    "0.3.1": {
+      "bytes": 8286,
+      "hash": "sha256-LY2FIFW6QKTdo+zLCOOXOw2bH7RmOidJ6AEIsF3ADIU=",
+      "publishedTime": "2022-08-03T12:37:20.0Z",
+      "ref": "v0.3.1"
+    },
+    "0.4.0": {
+      "bytes": 8895,
+      "hash": "sha256-mxFm0OfTenZtAdMW2gyulVeTN0bYzi7wCJt43QXXC3A=",
+      "publishedTime": "2022-08-05T14:43:48.0Z",
+      "ref": "v0.4.0"
+    },
+    "0.4.1": {
+      "bytes": 9169,
+      "hash": "sha256-M3jM5WhNtF9Qp3UFHDKyZaZ0IIKoYc4OCP7uMcykamM=",
+      "publishedTime": "2022-08-06T11:03:49.0Z",
+      "ref": "v0.4.1"
+    }
+  },
+  "unpublished": {}
+}

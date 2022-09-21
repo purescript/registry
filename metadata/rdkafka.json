@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "mcoffin",
+    "githubRepo": "purescript-rdkafka"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 3707,
+      "hash": "sha256-CZK6MjhOY08BwTvUy9mYvfpe1inoO9Cl27j3hDjuM+g=",
+      "publishedTime": "2017-05-30T18:22:29.0Z",
+      "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 3690,
+      "hash": "sha256-VSWySHrjpF5M5cqeRh7NwgS9injxGS1vO7G7PyKobBw=",
+      "publishedTime": "2017-05-31T18:51:36.0Z",
+      "ref": "v0.1.1"
+    }
+  },
+  "unpublished": {}
+}

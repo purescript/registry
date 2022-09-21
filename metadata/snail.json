@@ -1,0 +1,33 @@
+{
+  "location": {
+    "githubOwner": "thimoteus",
+    "githubRepo": "purescript-snail"
+  },
+  "published": {
+    "2.0.0": {
+      "bytes": 5349,
+      "hash": "sha256-Sl1IS9lIYF0vqp1TsjzeZUlW5p5RX0F5bFHlvtRemzc=",
+      "publishedTime": "2016-06-27T07:52:27.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 5657,
+      "hash": "sha256-kUCbv/nZ7v6jXNWLIPVQPFX9PhpyLCAZuzEYrlD0Uy0=",
+      "publishedTime": "2017-08-01T21:45:06.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.1.0": {
+      "bytes": 6346,
+      "hash": "sha256-q/QSkweTfyyGHQdl1/CeaNkBA9RaVPGb1uNue+rwTZo=",
+      "publishedTime": "2017-08-30T17:05:16.0Z",
+      "ref": "v3.1.0"
+    },
+    "4.0.0": {
+      "bytes": 6407,
+      "hash": "sha256-V9gO6kGpwI+9OCLAp1YVKsAW23HdP3uNUtO5XG8eAu4=",
+      "publishedTime": "2017-11-18T02:14:55.0Z",
+      "ref": "v4.0.0"
+    }
+  },
+  "unpublished": {}
+}

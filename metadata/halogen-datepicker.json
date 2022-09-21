@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "slamdata",
+    "githubRepo": "purescript-halogen-datepicker"
+  },
+  "published": {
+    "0.1.0": {
+      "bytes": 22812,
+      "hash": "sha256-YWigwE+0oZ4RxNV+SXPlhy1d3qhzmRZQtYDnSI3uIMY=",
+      "publishedTime": "2017-07-13T19:01:03.0Z",
+      "ref": "v0.1.0"
+    },
+    "1.0.0": {
+      "bytes": 22804,
+      "hash": "sha256-3RrXkP4R3vEBvtgznFqDXNiHNc0oA3lgnT5eipgFjbA=",
+      "publishedTime": "2017-12-07T13:03:38.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 22220,
+      "hash": "sha256-6kX57Pw6wTEaZkLnRQNWTfv0imEgGMWTq5bQBT6Nznw=",
+      "publishedTime": "2021-04-26T13:19:30.0Z",
+      "ref": "v2.0.0"
+    }
+  },
+  "unpublished": {}
+}

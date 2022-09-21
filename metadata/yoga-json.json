@@ -1,0 +1,45 @@
+{
+  "location": {
+    "githubOwner": "rowtype-yoga",
+    "githubRepo": "purescript-yoga-json"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 5315,
+      "hash": "sha256-8pkVZI40pkVVXFVvGQgr0QyjADZSbM0X9q6UTXJ+zZo=",
+      "publishedTime": "2022-05-10T17:05:00.0Z",
+      "ref": "v1.0.0"
+    },
+    "1.0.1": {
+      "bytes": 7064,
+      "hash": "sha256-nJtH39rtBvHBNnfoFAIrp8GcKDC7iimSfJ1z4ZirY4w=",
+      "publishedTime": "2022-06-10T14:36:49.0Z",
+      "ref": "v1.0.1"
+    },
+    "2.0.0": {
+      "bytes": 8895,
+      "hash": "sha256-DZWfFnkG3I2DCYUdO4RDjVulydPkA0kNjocpzfGw3sA=",
+      "publishedTime": "2022-06-11T19:13:29.0Z",
+      "ref": "v2.0.0"
+    },
+    "3.0.0": {
+      "bytes": 10329,
+      "hash": "sha256-dTJjIgHgW1srG04bXfJVqNv+TaGGuezLwhfq390IivM=",
+      "publishedTime": "2022-07-21T12:46:59.0Z",
+      "ref": "v3.0.0"
+    },
+    "3.0.1": {
+      "bytes": 10336,
+      "hash": "sha256-M5oKv0IAYgEcQ5Jit3HRAC7hQxYAFgbBRsrgnih5f1E=",
+      "publishedTime": "2022-07-21T12:55:43.0Z",
+      "ref": "v3.0.1"
+    },
+    "3.0.2": {
+      "bytes": 11078,
+      "hash": "sha256-/N0PdF9ACaAxyHrYBt2InVPq2TwZ0yYa7PtDXx0fh6o=",
+      "publishedTime": "2022-08-22T08:37:57.0Z",
+      "ref": "v3.0.2"
+    }
+  },
+  "unpublished": {}
+}

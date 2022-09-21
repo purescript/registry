@@ -1,0 +1,21 @@
+{
+  "location": {
+    "githubOwner": "klntsky",
+    "githubRepo": "purescript-unconsable"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 3519,
+      "hash": "sha256-i67MZzA+TC5ZRA8OMtqoqjutA0VUSYoOq+D7hqFj8ls=",
+      "publishedTime": "2019-01-20T15:09:41.0Z",
+      "ref": "v0.0.1"
+    },
+    "0.0.2": {
+      "bytes": 3529,
+      "hash": "sha256-PojX4FffOI3vQqZqLKTjN7nMc7dCbjeTl00xd1b5IVc=",
+      "publishedTime": "2019-01-20T16:19:02.0Z",
+      "ref": "v0.0.2"
+    }
+  },
+  "unpublished": {}
+}

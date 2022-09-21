@@ -1,0 +1,27 @@
+{
+  "location": {
+    "githubOwner": "the-dr-lazy",
+    "githubRepo": "purescript-splitmix"
+  },
+  "published": {
+    "1.0.0": {
+      "bytes": 8983,
+      "hash": "sha256-cUQnH92f6FmSLP1Db0n0bweIm97yVef3f99spwueOkM=",
+      "publishedTime": "2022-07-24T09:21:14.0Z",
+      "ref": "v1.0.0"
+    },
+    "2.0.0": {
+      "bytes": 9008,
+      "hash": "sha256-9QvHu98ytla/ZRLa9CE77cmm6HWYrFE+RnLwb1LwK7g=",
+      "publishedTime": "2022-07-24T09:28:04.0Z",
+      "ref": "v2.0.0"
+    },
+    "2.1.0": {
+      "bytes": 9014,
+      "hash": "sha256-iZy+c5f+PqKfkxdgqCi5n/S/XDEoCVsoF4l79aw8pIs=",
+      "publishedTime": "2022-07-24T09:29:18.0Z",
+      "ref": "v2.1.0"
+    }
+  },
+  "unpublished": {}
+}
