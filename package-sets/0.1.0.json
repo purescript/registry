@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.1",
   "compiler": "0.15.4",
-  "published": "2022-09-21",
+  "published": "2022-09-24",
   "packages": {
     "ace": "9.0.0",
     "aff": "7.1.0",
@@ -247,7 +247,6 @@
     "quickcheck-combinators": "0.1.3",
     "quickcheck-laws": "7.0.0",
     "quickcheck-utf8": "0.0.0",
-    "quotient": "3.0.0",
     "random": "6.0.0",
     "rationals": "5.0.0",
     "react": "10.0.1",
@@ -263,7 +262,6 @@
     "react-testing-library": "4.0.1",
     "read": "1.0.1",
     "record": "4.0.0",
-    "refined": "1.0.0",
     "refs": "6.0.0",
     "remotedata": "5.0.0",
     "resource": "2.0.1",
