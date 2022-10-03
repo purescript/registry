@@ -29,7 +29,7 @@ When you submit an issue with the correct payload, this repository's CI will exe
 
 ### Operations
 
-The Registry API allows anyone to add a package, update a package, or upgrade the package set. To add or update a package, your package must contain a `bower.json` file, `spago.dhall` file, or [`purs.json` manifest file](https://github.com/purescript/registry/blob/24db591b992b99730ea23211d746bc4c5fe295d7/src/Registry/Schema.purs#L21-L30). Eventually, the registry will no longer accept packages that do not have a registry manifest file, but for now legacy manifests are still accepted. For an example of the new manifests, see the [manifests for the `prelude` package](https://github.com/purescript/registry-index/blob/main/pr/el/prelude).
+The Registry API allows anyone to add a package, update a package, or upgrade the package set. To add or update a package, your package must contain a `bower.json` file, `spago.dhall` file, or [`purs.json` manifest file](https://github.com/purescript/registry-dev/blob/0bad5ddded9ca7d8f3e461588aa92a05df9125b1/src/Registry/Schema.purs#L21-L30). Eventually, the registry will no longer accept packages that do not have a registry manifest file, but for now legacy manifests are still accepted. For an example of the new manifests, see the [manifests for the `prelude` package](https://github.com/purescript/registry-index/blob/main/pr/el/prelude).
 
 #### Add a Package
 
