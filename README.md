@@ -154,7 +154,7 @@ To transfer a package, authenticate a payload of the JSON spec below.
 
 Example payload:
 
-```json
+```jsonc
 {
   // The name of the package to transfer
   "name": "math",
@@ -173,7 +173,7 @@ Packages versions can be unpublished for a short time after being published. To 
 
 Example payload:
 
-```json
+```jsonc
 {
   // The package to unpublish
   "name": "halogen-hooks",
