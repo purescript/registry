@@ -30,7 +30,7 @@ jobs:
       # We cache NPM and PureScript dependencies, as well as persist the in-memory
       # cache used by the registry importer
       - name: Cache NPM dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
