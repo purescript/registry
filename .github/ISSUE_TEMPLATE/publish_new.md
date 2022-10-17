@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+```json
 {
   "name": "my-library",
   "ref": "v1.0.0",
@@ -15,3 +16,4 @@ assignees: ''
     "githubRepo": "purescript-my-library"
   }
 }
+```
