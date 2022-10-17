@@ -6,8 +6,10 @@ labels: ''
 assignees: ''
 
 ---
+```json
 {
   "name": "my-library",
   "ref": "v1.1.0",
   "compiler": "0.15.4"
 }
+```
