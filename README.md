@@ -33,9 +33,12 @@ The Registry API allows anyone to publish a package version or upgrade the packa
 
 #### Publish a Package
 
-To publish a new package version, open an issue with the JSON specified below. For example, you can copy the below payload into a [new issue on this repository](https://github.com/purescript/registry/issues/new), change the fields to match your library, and submit it.
+To publish a [new package](https://github.com/purescript/registry/issues/new?title=Add+my-library&template=publish_new.md) or an [update to an existing package](https://github.com/purescript/registry/issues/new?title=Update+my-library&template=publish_update.md) (e.g. a new version), [open a new issue](https://github.com/purescript/registry/issues/new) with a comment consisting of package metadata in the JSON format shown below.
 
 ```jsonc
+// Please note that jsonc is not supported, only used here for documentation.
+// Remove comments and comma-dangles below before submitting, or use the issue
+// templates linked above.
 {
   // These three fields are always required.
   "name": "safe-coerce",
