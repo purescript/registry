@@ -1,11 +1,11 @@
 ---
 name: Publish new package
 about: Add a package to the registry.
-title: 'Add my-library'
-labels: ''
-assignees: ''
-
+title: "Add my-library"
+labels: ""
+assignees: ""
 ---
+
 ```json
 {
   "name": "my-library",
