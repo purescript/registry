@@ -75,7 +75,7 @@ jobs:
         run: nix develop --command 'registry-install'
 
       - name: Run the importer
-        run: nix develop --command 'registry-importer' 'update'
+        run: nix develop --command 'registry-importer' 'update-registry'
 
       - name: Run the transferrer
         run: nix develop --command 'registry-package-transferrer'
