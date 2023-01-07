@@ -40,7 +40,7 @@ jobs:
       - name: Cache PureScript dependencies
         uses: actions/cache@v2
         with:
-          key: ${{ runner.os }}-spago-${{ hashFiles('*.dhall') }}
+          key: ${{ runner.os }}-spago-${{ hashFiles('**/spago.yaml') }}
           path: |
             .spago
             output
@@ -60,7 +60,7 @@ jobs:
           restore-keys: |
             cache-1-
           path: |
-            .cache
+            scratch/.cache
 
       # The registry repository uses a number of system tools, so it's necessary we
       # make them available via Nix
