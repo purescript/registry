@@ -3,25 +3,6 @@
     "githubOwner": "TinkerTravel",
     "githubRepo": "purescript-redis"
   },
-  "published": {
-    "0.0.1": {
-      "bytes": 2494,
-      "hash": "sha256-EcoYp1RYO5D/eeVhswS59bL+RfUcKwGJrWZu4XdyzP8=",
-      "publishedTime": "2017-02-08T14:08:30.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 2485,
-      "hash": "sha256-1s3IvQo1eaVJCQTRn2k0PJRJGzXhv3np56ceZV+yxZI=",
-      "publishedTime": "2017-02-10T10:45:13.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 2540,
-      "hash": "sha256-FIBWHhCsHWjvltetLCVBAfOvBgIsc7GuG2qAbKix970=",
-      "publishedTime": "2017-02-20T08:52:46.000Z",
-      "ref": "v0.0.3"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

@@ -4,42 +4,6 @@
     "githubRepo": "purescript-cofree-react-router"
   },
   "published": {
-    "0.3.3": {
-      "bytes": 7096,
-      "hash": "sha256-nlRc8v48/D2vcWtMtzQOaK+53vAk8p+IFpHj5W1U7os=",
-      "publishedTime": "2017-03-24T23:26:50.000Z",
-      "ref": "v0.3.3"
-    },
-    "0.3.4": {
-      "bytes": 7086,
-      "hash": "sha256-CrXQL+OOwgx/XTWTpAASo/rjGLmCX98aDxRu+4UxLxA=",
-      "publishedTime": "2017-03-24T23:31:12.000Z",
-      "ref": "v0.3.4"
-    },
-    "0.3.5": {
-      "bytes": 7080,
-      "hash": "sha256-qp1/JpW1Ykcw0VXNybaMtXoEVI2uEijVvsM2RhbJFSE=",
-      "publishedTime": "2017-03-24T23:37:33.000Z",
-      "ref": "v0.3.5"
-    },
-    "0.3.6": {
-      "bytes": 7083,
-      "hash": "sha256-qrvL1AIVD+UeORSrsFwyjJOPzlUCwRzLaDHtNyNuY+M=",
-      "publishedTime": "2017-03-25T12:15:00.000Z",
-      "ref": "v0.3.6"
-    },
-    "1.0.0": {
-      "bytes": 7200,
-      "hash": "sha256-WSlemVavMni1ZY/OO4n5vHBr2JzofqWci/+iaT3MZ7k=",
-      "publishedTime": "2017-03-27T16:41:11.000Z",
-      "ref": "v1.0.0"
-    },
-    "1.0.1": {
-      "bytes": 7293,
-      "hash": "sha256-hyFQBIv7oqYv9Kh9sajPosrudoyFvxvPBXCgxxrpJvA=",
-      "publishedTime": "2017-03-27T16:58:04.000Z",
-      "ref": "v1.0.1"
-    },
     "2.0.1": {
       "bytes": 7070,
       "hash": "sha256-YTdKr4gZjHESJAob85dhYx94CkLlqjR1RuH7WeziU5k=",
@@ -105,12 +69,6 @@
       "hash": "sha256-7Mw0wEpQ4tCyu85eh5Kf8sZ4jmMuDgd6cqApsRhBfsQ=",
       "publishedTime": "2017-06-29T10:29:43.000Z",
       "ref": "v6.1.0"
-    },
-    "6.1.1": {
-      "bytes": 8882,
-      "hash": "sha256-AHMy4TEoRLNbGwXd+wm52pwoLgXFSB/dwfpJZNQg0qc=",
-      "publishedTime": "2017-06-29T12:01:00.000Z",
-      "ref": "v6.1.1"
     },
     "6.1.2": {
       "bytes": 8970,

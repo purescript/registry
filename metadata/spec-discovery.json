@@ -4,29 +4,11 @@
     "githubRepo": "purescript-spec-discovery"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 6905,
-      "hash": "sha256-WM8VpOC4AFcst5pj0MCSVGqN/pMXaQjINz98Kv5wQ88=",
-      "publishedTime": "2016-10-25T19:53:00.000Z",
-      "ref": "v0.1.0"
-    },
     "0.2.0": {
       "bytes": 6905,
       "hash": "sha256-3jTY2Z9jTObh4Yf6ehqbdloZ/lPy+bCIQlY0xDkd+Pk=",
       "publishedTime": "2016-10-28T18:07:24.000Z",
       "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 6878,
-      "hash": "sha256-ikgHYwHeWMcgGvN5qWdru+/jDW3tzKjLq5l+Es3s1sQ=",
-      "publishedTime": "2017-01-12T07:01:29.000Z",
-      "ref": "v0.3.0"
-    },
-    "0.4.0": {
-      "bytes": 6881,
-      "hash": "sha256-lc3MmhraUnVou9ecpcMNiPVhOHzfXwiot9LMGf4bVig=",
-      "publishedTime": "2017-02-01T20:22:26.000Z",
-      "ref": "v0.4.0"
     },
     "0.5.0": {
       "bytes": 6891,
@@ -39,18 +21,6 @@
       "hash": "sha256-51wbBVqfJsiDx9hhBKXn21BKZOyg80HuY2ItFpDuaRU=",
       "publishedTime": "2017-05-01T14:54:12.000Z",
       "ref": "v0.6.0"
-    },
-    "1.0.0": {
-      "bytes": 6879,
-      "hash": "sha256-0gPbnWHipFtqiiYfBWhRepMkCvoSUpZbIYbL0cJbtSM=",
-      "publishedTime": "2017-09-29T05:53:39.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 6885,
-      "hash": "sha256-rbTM7cZ5uQP557gFhex3+q1iNoQ1LdssnhShsAl5A3I=",
-      "publishedTime": "2017-10-03T18:56:06.000Z",
-      "ref": "v2.0.0"
     },
     "3.0.0": {
       "bytes": 6875,

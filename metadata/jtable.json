@@ -4,12 +4,6 @@
     "githubRepo": "purescript-jtable"
   },
   "published": {
-    "0.7.0": {
-      "bytes": 7720,
-      "hash": "sha256-5sR8/Jbsz+ARMjtrDZHE2KxWvKpFm1fZ0m/RBdJuD2s=",
-      "publishedTime": "2015-10-16T20:30:59.000Z",
-      "ref": "v0.7.0"
-    },
     "0.8.0": {
       "bytes": 7629,
       "hash": "sha256-teAimV74CMGJyD3I33Ewd6p2kPz3Dr4snVR0EmHcU4U=",
@@ -51,54 +45,6 @@
       "hash": "sha256-ayz8GG36KbruJ6+X9EbBSJ0DSPsySyReoReX8WUISP8=",
       "publishedTime": "2016-07-28T15:24:08.000Z",
       "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 7944,
-      "hash": "sha256-sYhEWQuUxye4RbQLzqKrNgBn0CPQ1jm5vGevwX3VEjc=",
-      "publishedTime": "2016-07-31T17:23:54.000Z",
-      "ref": "v2.0.0"
-    },
-    "2.0.1": {
-      "bytes": 8016,
-      "hash": "sha256-eX5+J44Bl3nSXDyxmgbyeDzGC+g96V0HQPTtaf7hEkg=",
-      "publishedTime": "2016-08-16T19:41:43.000Z",
-      "ref": "v2.0.1"
-    },
-    "3.0.0": {
-      "bytes": 7991,
-      "hash": "sha256-/NSjjJI9VvV77ZnAf71rfLuom8cLLraavr6oTIMACjo=",
-      "publishedTime": "2016-11-07T15:32:06.000Z",
-      "ref": "v3.0.0"
-    },
-    "4.0.0": {
-      "bytes": 8040,
-      "hash": "sha256-DzYEvuQhhyvugP4Xo4Z6tw6vrP4RvyitZnPFnk6gFpU=",
-      "publishedTime": "2017-03-01T16:17:18.000Z",
-      "ref": "v4.0.0"
-    },
-    "5.0.0": {
-      "bytes": 8028,
-      "hash": "sha256-SGrUDx/gDPKc6hr/zg1L6u5nypmc1nVchRTLwpU2eFw=",
-      "publishedTime": "2017-04-24T10:52:35.000Z",
-      "ref": "v5.0.0"
-    },
-    "5.1.0": {
-      "bytes": 8059,
-      "hash": "sha256-mlNRVBC1gf9MMibRZ/Wv173dlONiLS57r9XNN9zNbZM=",
-      "publishedTime": "2017-05-03T14:20:08.000Z",
-      "ref": "v5.1.0"
-    },
-    "6.0.0": {
-      "bytes": 5635,
-      "hash": "sha256-89GjRaOXAWFBPUE+tTxlidYbSSUWMp8wv4g61VOZ2O4=",
-      "publishedTime": "2017-05-08T18:40:49.000Z",
-      "ref": "v6.0.0"
-    },
-    "7.0.0": {
-      "bytes": 5655,
-      "hash": "sha256-V6ght1jQGMJ0HJosyoJSm0N55FoIxMXFIAYGzp9mMUA=",
-      "publishedTime": "2017-10-16T16:02:46.000Z",
-      "ref": "v7.0.0"
     },
     "8.0.0": {
       "bytes": 5676,

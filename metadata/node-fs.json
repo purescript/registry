@@ -4,18 +4,6 @@
     "githubRepo": "purescript-node-fs"
   },
   "published": {
-    "0.1.2": {
-      "bytes": 5308,
-      "hash": "sha256-GPvdcaxQ8glXGOEfNmXF6oz86O+6St7cc8Eu0iiXehs=",
-      "publishedTime": "2014-10-14T15:35:59.000Z",
-      "ref": "v0.1.2"
-    },
-    "0.1.3": {
-      "bytes": 5304,
-      "hash": "sha256-AZTWQKtC1Y31vByNFiXH2FyNC2KE/+Sb9RMdq4BRkcM=",
-      "publishedTime": "2014-11-18T22:47:09.000Z",
-      "ref": "v0.1.3"
-    },
     "0.2.0": {
       "bytes": 5315,
       "hash": "sha256-qCagUQt7AvradmMqabWZc2/ks/ffxzwcdIsrFydoraY=",
@@ -27,12 +15,6 @@
       "hash": "sha256-oyvYbUBPyqo7HNaDUj4YM7Ay8zpTe317n1KmP+FlNvQ=",
       "publishedTime": "2015-01-14T14:45:13.000Z",
       "ref": "v0.2.1"
-    },
-    "0.3.0": {
-      "bytes": 6757,
-      "hash": "sha256-14/5hosRja/Q3nCnl9sfe/+gffVMhCz7dPc3Lck5QZ8=",
-      "publishedTime": "2015-01-29T21:20:19.000Z",
-      "ref": "v0.3.0"
     },
     "0.4.0": {
       "bytes": 6660,
@@ -123,12 +105,6 @@
       "hash": "sha256-6wRFU5Hk+twcCLPjfea1hW4iXrThCYuvHO+IpQjHors=",
       "publishedTime": "2016-06-11T09:58:51.000Z",
       "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 9456,
-      "hash": "sha256-WgWRg/N7DYSdKAxloXOe5NcAxXREzKZi5+OwP3C/E8w=",
-      "publishedTime": "2016-07-31T13:37:14.000Z",
-      "ref": "v2.0.0"
     },
     "3.0.0": {
       "bytes": 9612,

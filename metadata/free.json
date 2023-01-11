@@ -4,12 +4,6 @@
     "githubRepo": "purescript-free"
   },
   "published": {
-    "0.0.8": {
-      "bytes": 2873,
-      "hash": "sha256-fE8EWrE7wBmJE9D0lmTst4BuEF1xU3X9eehagl3s6ms=",
-      "publishedTime": "2014-06-01T13:22:43.000Z",
-      "ref": "0.0.8"
-    },
     "0.1.4": {
       "bytes": 4840,
       "hash": "sha256-ggreWsKW7pBlwxCTAL8NEIT7WpC9ovJH6BUc2O51cnI=",
@@ -136,12 +130,6 @@
       "publishedTime": "2016-09-16T00:47:29.000Z",
       "ref": "v1.4.0"
     },
-    "2.0.0": {
-      "bytes": 6328,
-      "hash": "sha256-v1bv3YL5xH3zZIoirM+SWLk7B3E0BpPBw8SPPb266Rc=",
-      "publishedTime": "2016-10-13T16:46:42.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
       "bytes": 6540,
       "hash": "sha256-oZnQ4XN/8b6EaTpqiuSCPa//bIVmSUkejJPwd41/8R4=",
@@ -154,23 +142,11 @@
       "publishedTime": "2016-11-14T17:51:59.000Z",
       "ref": "v3.0.1"
     },
-    "3.1.0": {
-      "bytes": 6736,
-      "hash": "sha256-zyYG7zXKdEjB7GgjJrKAPM3XQMA0b1xWWCw66bdE1UM=",
-      "publishedTime": "2016-12-24T11:12:42.000Z",
-      "ref": "v3.1.0"
-    },
     "3.2.0": {
       "bytes": 6689,
       "hash": "sha256-ySHm2Cof9eG2NaZ1zoRI6oA266HXO5CM8qCiOMz5WT4=",
       "publishedTime": "2016-12-29T22:49:19.000Z",
       "ref": "v3.2.0"
-    },
-    "3.3.0": {
-      "bytes": 7029,
-      "hash": "sha256-YJQMbXwfm59pKCn74xKT3LL22Kx+ZvtWo1zGIevGJvs=",
-      "publishedTime": "2017-01-02T21:12:47.000Z",
-      "ref": "v3.3.0"
     },
     "3.4.0": {
       "bytes": 6855,
