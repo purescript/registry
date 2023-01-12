@@ -4,12 +4,6 @@
     "githubRepo": "purescript-express"
   },
   "published": {
-    "0.1.5": {
-      "bytes": 8407,
-      "hash": "sha256-ABj7rLFP7WMzmxhdfYElPxd7mdA92fqTS6Im1Qbwzos=",
-      "publishedTime": "2015-01-23T08:04:03.000Z",
-      "ref": "0.1.5"
-    },
     "0.2.0": {
       "bytes": 8433,
       "hash": "sha256-sVyerypqeduhxNxwW8yrS4poFq71WAQr1mBJWrovM7c=",
@@ -107,8 +101,8 @@
       "ref": "v0.6.3"
     },
     "0.6.4": {
-      "bytes": 14524,
-      "hash": "sha256-vBMSw36bNZJw055RzX77ufX0mnRGJuLmJ4nenT/d+Ag=",
+      "bytes": 14522,
+      "hash": "sha256-dgnngriCu1KKBpfb6HO8GAZY3eslVhxkNCujg0mfVWE=",
       "publishedTime": "2018-03-12T09:16:58.000Z",
       "ref": "v0.6.4"
     },
@@ -125,14 +119,14 @@
       "ref": "v0.7.1"
     },
     "0.8.0": {
-      "bytes": 13174,
-      "hash": "sha256-GFz9c1NGrVATE61LvmvCfz/TN7L+elAbD4dSXrJdPgc=",
+      "bytes": 13169,
+      "hash": "sha256-KCVCPUmEERM6eB11LHtcjuDI2doN7Ob4gCz3MIkQ/Zc=",
       "publishedTime": "2019-03-18T08:55:09.000Z",
       "ref": "v0.8.0"
     },
     "0.9.0": {
-      "bytes": 13771,
-      "hash": "sha256-Czn6LZsmg5lXQcW0mn2UWQ1JjTrI6/aWCizmLpsknqo=",
+      "bytes": 13769,
+      "hash": "sha256-O2oqWpQgAnk3DPLMQdUjy3e6MvQ5U36JH8nuv9GfmAA=",
       "publishedTime": "2021-04-11T15:04:51.000Z",
       "ref": "v0.9.0"
     }

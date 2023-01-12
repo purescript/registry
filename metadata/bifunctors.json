@@ -4,24 +4,6 @@
     "githubRepo": "purescript-bifunctors"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 2749,
-      "hash": "sha256-HWckdAy+0Iv7hl9XPEP3uWHRGcuTxByjgOVF8HJgQ3g=",
-      "publishedTime": "2014-05-21T20:21:14.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 4806,
-      "hash": "sha256-Vacu/4ktC+3PJ3oIBkjs0oPsasFVaTsI275i9/Zr44M=",
-      "publishedTime": "2014-07-15T08:33:45.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 4806,
-      "hash": "sha256-HM3QHzpoDDADJQyXip+vT9NoqGY1wny9/ovkwqaN52Y=",
-      "publishedTime": "2014-07-15T16:05:53.000Z",
-      "ref": "v0.0.3"
-    },
     "0.0.4": {
       "bytes": 4811,
       "hash": "sha256-y9+epn7AMqrqqlVcLzYsHdNeUVoo8k9deRq3Wl7Karw=",
@@ -89,20 +71,20 @@
       "ref": "v3.0.0"
     },
     "4.0.0": {
-      "bytes": 4032,
-      "hash": "sha256-dObSQFIMmT9Gl/loPOLLvnBZ0xVNmQ1Ot+GIWJjl6VM=",
+      "bytes": 4034,
+      "hash": "sha256-LBaVoIhGgAhE4BYAHsiQaqNpBRWeE394uQfLwfu1BiM=",
       "publishedTime": "2018-05-23T00:45:46.000Z",
       "ref": "v4.0.0"
     },
     "5.0.0": {
       "bytes": 3241,
-      "hash": "sha256-n3YZD1tKsp2Ly5WkrTrXxQ1Dvtuigkd0r7nDqUpYjhY=",
+      "hash": "sha256-hGJ8Idd1fg1Xtbn2xVwx828GBtEaGHQxNYD90a3Ilk4=",
       "publishedTime": "2021-02-26T17:57:10.000Z",
       "ref": "v5.0.0"
     },
     "6.0.0": {
-      "bytes": 3241,
-      "hash": "sha256-K9mwMHmkohhAPLJIPf57OvWUVpP9k4QQviFmcMCMO0M=",
+      "bytes": 3240,
+      "hash": "sha256-/gZwC9YhNxZNQpnHa5BIYerCGM2jeX9ukZiEvYxm5Nw=",
       "publishedTime": "2022-04-27T19:24:55.000Z",
       "ref": "v6.0.0"
     }

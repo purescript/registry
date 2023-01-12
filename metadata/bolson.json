@@ -4,63 +4,15 @@
     "githubRepo": "purescript-bolson"
   },
   "published": {
-    "0.0.0": {
-      "bytes": 10408,
-      "hash": "sha256-n33e2J2yJAaKumBn3rfY0iqHOLvt1fZdOkklf4RNvM8=",
-      "publishedTime": "2022-05-11T20:18:40.000Z",
-      "ref": "v0.0.0"
-    },
-    "0.0.1": {
-      "bytes": 10481,
-      "hash": "sha256-tEQ8PEnFTWsuLe5xjUuUOkX5eqIHSN+ZruHdk1bfGxw=",
-      "publishedTime": "2022-05-12T07:39:28.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 10505,
-      "hash": "sha256-PJAPYC9+tN7MO5egtzRGuvCNtuHUtKuaKuIoqjre3YM=",
-      "publishedTime": "2022-05-18T03:27:16.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 10506,
-      "hash": "sha256-qp2e+AIszgq2kz6DPgQY240sOQxdZUwvqoeKNoDTxZo=",
-      "publishedTime": "2022-06-01T10:12:50.000Z",
-      "ref": "v0.0.3"
-    },
-    "0.0.4": {
-      "bytes": 10506,
-      "hash": "sha256-bxwVd+UdqiOt+aHXE6IDinYZcHlef+zg3g92YDnRZf4=",
-      "publishedTime": "2022-06-01T10:19:23.000Z",
-      "ref": "v0.0.4"
-    },
-    "0.0.5": {
-      "bytes": 10741,
-      "hash": "sha256-mOm9Nn186UznLsfvhilBWNk0oV/vutxixRdGmKG8Bxg=",
-      "publishedTime": "2022-06-01T11:36:47.000Z",
-      "ref": "v0.0.5"
-    },
     "0.0.6": {
       "bytes": 11073,
       "hash": "sha256-Zq/CvYLuy3lRf6m3ejEwBzRsyNwAshaMsniarVLYwV4=",
       "publishedTime": "2022-06-05T09:57:29.000Z",
       "ref": "v0.0.6"
     },
-    "0.0.7": {
-      "bytes": 11123,
-      "hash": "sha256-+U9NhkGJBVVM9Jn+XG8fO2OH5XWM9EtVlApF1bzUihA=",
-      "publishedTime": "2022-06-30T19:18:25.000Z",
-      "ref": "v0.0.7"
-    },
-    "0.0.8": {
-      "bytes": 11684,
-      "hash": "sha256-50tSr6NGkznB9pAhpm+jmsikGm/uZHNDX86Vyh1T76A=",
-      "publishedTime": "2022-07-13T12:29:10.000Z",
-      "ref": "v0.0.8"
-    },
     "0.0.9": {
-      "bytes": 10944,
-      "hash": "sha256-ivHiJ5X1Rev/M1aYdR8kqCh7wqiDrJndLmOkdrfYLgI=",
+      "bytes": 10949,
+      "hash": "sha256-Pu9ihc46G/BcplSHu7bBbAPq+kmXbY1zbn3IKyY8Msg=",
       "publishedTime": "2022-08-10T06:01:27.000Z",
       "ref": "v0.0.9"
     },

@@ -4,12 +4,6 @@
     "githubRepo": "purescript-mmorph"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 2531,
-      "hash": "sha256-Ai4iDMYn3Y2eEpMBwJoSXqNrHKluyzXsUCGt2jGMYy8=",
-      "publishedTime": "2015-10-19T23:50:04.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
       "bytes": 2421,
       "hash": "sha256-gsrNmu6n1rPSuHTFnGWhUwNRLPZGsSyRiDrpIqMgUac=",
@@ -17,26 +11,26 @@
       "ref": "v2.0.0"
     },
     "3.0.0": {
-      "bytes": 2574,
-      "hash": "sha256-DkTjUG/qIAx2PDo+nUG9guk2pILAHh1UV35kRDaczWg=",
+      "bytes": 2406,
+      "hash": "sha256-ncffjDAKlMHyIf5D70hADRyMTSKDkZHG0EDTy/otcPQ=",
       "publishedTime": "2017-04-09T03:10:05.000Z",
       "ref": "v3.0.0"
     },
     "5.0.0": {
       "bytes": 2403,
-      "hash": "sha256-eG8oiU6PKme/h91MNaWDfUlSb4PNTcZxkLv3g95OcEo=",
+      "hash": "sha256-VM1psj34YxQx5CcDXHjx2oeWXS6EYGG7zaMPazVUU4I=",
       "publishedTime": "2018-05-27T21:46:59.000Z",
       "ref": "v5.0.0"
     },
     "5.1.0": {
-      "bytes": 2662,
-      "hash": "sha256-/SSRe9cGiGEwfzkwKEiK44hM4ZTkwy8C3Meq5rR3PfA=",
+      "bytes": 2663,
+      "hash": "sha256-6N0hnLUPdwznbHR1vLH3+1wtMtOMZMBqIS/2dQrCG0U=",
       "publishedTime": "2018-12-04T19:30:07.000Z",
       "ref": "v5.1.0"
     },
     "6.0.0": {
       "bytes": 2669,
-      "hash": "sha256-vTRxeDRb1MTA6BSxJQawGj1d/W5UViwa3OwTp9U9u/w=",
+      "hash": "sha256-rrnXRSShRp99JXj4uNUlBmTinsGZ4AubsLBgh13Uqb4=",
       "publishedTime": "2021-03-01T21:08:53.000Z",
       "ref": "v6.0.0"
     },

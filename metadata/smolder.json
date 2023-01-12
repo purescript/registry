@@ -4,30 +4,6 @@
     "githubRepo": "purescript-smolder"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 7330,
-      "hash": "sha256-UfagNskidA9ruOttYO8S419SL+fLcHXi/VFc5sL8JFA=",
-      "publishedTime": "2014-10-15T22:21:08.000Z",
-      "ref": "1.0.0"
-    },
-    "1.0.1": {
-      "bytes": 7347,
-      "hash": "sha256-DZp2ToKP22SBk4MZm/z2uJG6D+7/X6XNKdCqw+TqPVw=",
-      "publishedTime": "2014-11-29T19:20:17.000Z",
-      "ref": "1.0.1"
-    },
-    "1.0.2": {
-      "bytes": 7419,
-      "hash": "sha256-16NmewvMwnmdANhzcpLo56Lni2dHqaFS0sUmbSofieU=",
-      "publishedTime": "2014-12-13T22:19:45.000Z",
-      "ref": "1.0.2"
-    },
-    "2.0.0": {
-      "bytes": 6599,
-      "hash": "sha256-d+8SB16uJe6nd+ii5qYoJPz3e+ceiPTFpK/rq1sqmMs=",
-      "publishedTime": "2015-01-22T17:47:50.000Z",
-      "ref": "2.0.0"
-    },
     "3.0.0": {
       "bytes": 5209,
       "hash": "sha256-ZtyU8QS5hQWH714WnJoAv8uBu4BIesy4jiPRhC9mheQ=",
@@ -101,8 +77,8 @@
       "ref": "v10.1.0"
     },
     "10.2.0": {
-      "bytes": 12002,
-      "hash": "sha256-+8Px8MnlkSV7cwjaXieppfWVziaVifQVqdTFBZGmpSw=",
+      "bytes": 12003,
+      "hash": "sha256-5FlxiAhJdNlrr+Uov9/0MjGcRUMKwJXx5l4Pxj4k4ls=",
       "publishedTime": "2017-10-26T18:02:26.000Z",
       "ref": "v10.2.0"
     },
@@ -113,14 +89,14 @@
       "ref": "v11.0.0"
     },
     "11.0.1": {
-      "bytes": 12884,
-      "hash": "sha256-lDfnP/YTRYGaOjk72kaROakrW+pgGqlP1eROjNQQeS0=",
+      "bytes": 12883,
+      "hash": "sha256-bvByYinVi627TmXUN1YinwTMHd2/DCJnLIAyMuAskqs=",
       "publishedTime": "2018-09-25T13:25:20.000Z",
       "ref": "v11.0.1"
     },
     "12.0.0": {
-      "bytes": 13062,
-      "hash": "sha256-QanZ0wSSMAEVFWyt6ODJf+WvX/LA7e8/I1gdC2IlJUA=",
+      "bytes": 13061,
+      "hash": "sha256-Ta6nxoKLDkhPuq+KGK76Jk3oDSU8N/Vqb/nk8xgCYVQ=",
       "publishedTime": "2019-06-10T22:30:41.000Z",
       "ref": "v12.0.0"
     },
@@ -137,8 +113,8 @@
       "ref": "v12.2.0"
     },
     "12.3.0": {
-      "bytes": 13368,
-      "hash": "sha256-LaikZ6Dk9uS1qDoC3ENc5B7PlUAm/UCPmnBzF59Ev8I=",
+      "bytes": 13365,
+      "hash": "sha256-l0CsBRoMXkVmT+I5YfKoYxOs/5FS/puYIvtxE7rYNqI=",
       "publishedTime": "2019-10-15T14:07:43.000Z",
       "ref": "v12.3.0"
     }
