@@ -3,6 +3,13 @@
     "githubOwner": "JoelLefkowitz",
     "githubRepo": "purescript-huffman"
   },
+  "owners": [
+    {
+      "email": "joel@Joels-MacBook.local",
+      "keytype": "ssh-rsa",
+      "public": "AAAAB3NzaC1yc2EAAAADAQABAAABgQCw02v+ws36EuH9Mjlq9v/jG2TolbPSSABuMR9UF/BPUdSO1Ey41pD29ot3DZRNWZXmmoykfrKik81HcH8/wyO8lxlF0mqthNpp8TUtF7WOGr8zTRiP92kJy+n7t7djVyEeMxWdDYpN+lU53u6kx0K5e4i0ZVfDiuSjJZe76HOVUUiyguF6EdOD/Gi1bdIyMlCFw4w1b63IBT8JGgq6qkuJ1jfnfCm7ZyBi9eXJC6gdSZYGKC/vBft+iZwn7xNbzaBajPsuKfNohrYp7g3DpFltaxiCEc1bCqXWLe8u9a+CVqrQSDCtUFaMyLk9s54vgl5QV4/AnwFcs/3CqVWieKog4iQAvNMuYPtuGujAELaBNLgm/7W/DGHB7SAWjhLLjL+3TDcUT1ZksiNB5MCMOjn8mqpMd1Mb0iD1hN6rfebyQbgCj8R3ZCCamcryv0RLHof2GEz2pMrZlKBGy4Bg6hWh4KzSviZogpAsRj6JKwYxIQAHeSfJdLRypgBUyibS7Fk="
+    }
+  ],
   "published": {
     "0.2.0": {
       "bytes": 5311,
@@ -15,6 +22,12 @@
       "hash": "sha256-3U2Jfq79iBH72SS0NGYPfD8CPPkqSYmDd1sCDA/F5mA=",
       "publishedTime": "2021-12-05T22:04:15.000Z",
       "ref": "v0.2.1"
+    },
+    "0.3.2": {
+      "bytes": 6120,
+      "hash": "sha256-5m4cFm8tF8R0XEHp/KlCCGFTMZ7P+auJu3ffmI8ee0s=",
+      "publishedTime": "2023-02-27T19:01:32.000Z",
+      "ref": "v0.3.2"
     }
   },
   "unpublished": {}
