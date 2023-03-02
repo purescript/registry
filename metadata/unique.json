@@ -3,6 +3,13 @@
     "githubOwner": "mechairoi",
     "githubRepo": "purescript-unique"
   },
+  "owners": [
+    {
+      "email": "nick@saunde.rs",
+      "keytype": "ssh-ed25519",
+      "public": "AAAAC3NzaC1lZDI1NTE5AAAAICm0Ar7rHAWONOM4qA5q777/CQaN6cHvcBq3VXB7d5Yw"
+    }
+  ],
   "published": {
     "0.0.1": {
       "bytes": 1175,
@@ -57,6 +64,12 @@
       "hash": "sha256-q+1h5iwoOBCrOl8MXRGAZ/EPM9ZPY3NfbesTi4bawg0=",
       "publishedTime": "2017-04-27T00:16:05.000Z",
       "ref": "v0.5.0"
+    },
+    "0.6.0": {
+      "bytes": 2115,
+      "hash": "sha256-HY6XXNDvDMvMuOab3UtuUF0mi0ov4RqJh/9TTqOg6Dw=",
+      "publishedTime": "2023-03-02T13:01:16.000Z",
+      "ref": "v0.6.0"
     }
   },
   "unpublished": {}
