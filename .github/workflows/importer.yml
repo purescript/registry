@@ -71,8 +71,8 @@ jobs:
             access-tokens = github.com=${{ env.PACCHETTIBOTTI_TOKEN }}
 
       # Finally, we can execute the importer.
-      - name: Install dependencies
-        run: nix develop --command 'registry-install'
+      - name: Build
+        run: nix develop --command 'registry-build'
 
       - name: Run the importer
         run: nix develop --command 'registry-importer' 'update-registry'
