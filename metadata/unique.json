@@ -7,7 +7,7 @@
     {
       "email": "nick@saunde.rs",
       "keytype": "ssh-ed25519",
-      "public": "AAAAC3NzaC1lZDI1NTE5AAAAICm0Ar7rHAWONOM4qA5q777/CQaN6cHvcBq3VXB7d5Yw"
+      "public": "AAAAC3NzaC1lZDI1NTE5AAAAIONVUgzC6fBZMCob5Ua0BShtF9QlriJV1IyZVvr8m8Gd"
     }
   ],
   "published": {
@@ -70,6 +70,12 @@
       "hash": "sha256-HY6XXNDvDMvMuOab3UtuUF0mi0ov4RqJh/9TTqOg6Dw=",
       "publishedTime": "2023-03-02T13:01:16.000Z",
       "ref": "v0.6.0"
+    },
+    "0.6.1": {
+      "bytes": 3420,
+      "hash": "sha256-njmgJAwbKIbC2sLKPAJ2y2OY2T57gwkw4hI4jlfxAdA=",
+      "publishedTime": "2023-03-18T12:54:23.000Z",
+      "ref": "v0.6.1"
     }
   },
   "unpublished": {}
