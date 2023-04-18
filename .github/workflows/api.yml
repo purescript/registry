@@ -32,7 +32,7 @@ jobs:
         with:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
-          ref: 'master'
+          ref: 'trh/fix-concat-bug'
 
       # We cache NPM and PureScript dependencies, as well as persist the in-memory
       # cache used by the registry importer
