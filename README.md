@@ -33,7 +33,9 @@ The Registry API allows anyone to publish a package version or upgrade the packa
 
 #### Publish a Package
 
-To publish a [new package](https://github.com/purescript/registry/issues/new?title=Add+my-library&template=publish_new.md) or an [update to an existing package](https://github.com/purescript/registry/issues/new?title=Update+my-library&template=publish_update.md) (e.g. a new version), [open a new issue](https://github.com/purescript/registry/issues/new) with a comment consisting of package metadata in the JSON format shown below.
+To publish a [new package](https://github.com/purescript/registry/issues/new?title=Add+my-library&template=publish_new.md) or to [publish a new version of an existing package](https://github.com/purescript/registry/issues/new?title=Update+my-library&template=publish_update.md), open a new issue with a comment consisting of package metadata in the JSON format shown below.
+
+> NOTE: If your package is in the registry but it is missing documentation on Pursuit, you can re-publish an existing version to re-generate documentation.
 
 ```jsonc
 // Please note that jsonc is not supported, only used here for documentation.
