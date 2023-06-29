@@ -65,10 +65,12 @@ jobs:
       # The registry repository uses a number of system tools, so it's necessary we
       # make them available via Nix
       - name: Install Nix
-        uses: cachix/install-nix-action@v16
+        uses: DeterminateSystems/nix-installer-action@v4
         with:
-          extra_nix_config: |
-            access-tokens = github.com=${{ env.PACCHETTIBOTTI_TOKEN }}
+          github-token: ${{ env.PACCHETTIBOTTI_TOKEN }}
+
+      - name: Setup Nix cache
+        uses: DeterminateSystems/magic-nix-cache-action@v2
 
       # Finally, we can execute the importer.
       - name: Build
