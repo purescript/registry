@@ -77,7 +77,7 @@ jobs:
         run: nix run .#legacy-importer update-registry
 
       - name: Run the transferrer
-        run: nix develop --command 'registry-package-transferrer'
+        run: nix run .#package-transferrer
 
       - name: Import new versions to the package sets
-        run: nix develop --command 'registry-package-set-updater' 'commit'
+        run: nix run .#package-set-updater commit
