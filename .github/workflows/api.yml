@@ -81,7 +81,7 @@ jobs:
 
       # Finally, we can execute the registry API
       - name: Install dependencies
-        run: nix develop --command 'registry-build'
+        run: nix develop
 
       - name: Run the registry API
-        run: nix develop --command 'registry-api'
+        run: nix run .#github-importer
