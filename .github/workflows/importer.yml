@@ -79,6 +79,7 @@ jobs:
       - name: Import packages
         run: |
           nix develop
+          purs-0_15_9 --help
           nix run .#legacy-importer update-registry
 
       - name: Run the transferrer
