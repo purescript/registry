@@ -34,24 +34,6 @@ jobs:
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
           ref: 'master'
 
-      # We cache NPM and PureScript dependencies, as well as persist the in-memory
-      # cache used by the registry importer
-      - name: Cache NPM dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Cache PureScript dependencies
-        uses: actions/cache@v2
-        with:
-          key: ${{ runner.os }}-spago-${{ hashFiles('**/spago.yaml') }}
-          path: |
-            .spago
-            output
-
       - name: Set current time
         run: echo "NOW=$(date)" >> $GITHUB_ENV
 
@@ -69,8 +51,6 @@ jobs:
           path: |
             scratch/.cache
 
-      # The registry repository uses a number of system tools, so it's necessary we
-      # make them available via Nix
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@v4
         with:
@@ -79,11 +59,5 @@ jobs:
       - name: Setup Nix cache
         uses: DeterminateSystems/magic-nix-cache-action@v2
 
-      # Finally, we can execute the registry API
-      - name: Install dependencies
-        run: nix develop
-
       - name: Run the registry API
-        run: |
-          nix develop
-          nix run .#github-importer
+        run: nix run .#github-importer
