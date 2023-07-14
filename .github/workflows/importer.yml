@@ -74,10 +74,19 @@ jobs:
 
       # Finally, we can execute the importer.
       - name: Build
-        run: nix run .#legacy-importer update-registry
+        run: nix develop
+        
+      - name: Import packages
+        run: |
+          nix develop
+          nix run .#legacy-importer update-registry
 
       - name: Run the transferrer
-        run: nix run .#package-transferrer
+        run: |
+          nix develop
+          nix run .#package-transferrer
 
       - name: Import new versions to the package sets
-        run: nix run .#package-set-updater commit
+        run: |
+          nix develop
+          nix run .#package-set-updater commit
