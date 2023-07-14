@@ -41,7 +41,7 @@ jobs:
           # be saved with new changes, and will always be restored.
           key: cache-1-${{ env.NOW }}
           restore-keys: |
-            cache-1-
+            cache-2-
           path: |
             scratch/.cache
 
