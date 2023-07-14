@@ -27,24 +27,6 @@ jobs:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
 
-      # We cache NPM and PureScript dependencies, as well as persist the in-memory
-      # cache used by the registry importer
-      - name: Cache NPM dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Cache PureScript dependencies
-        uses: actions/cache@v2
-        with:
-          key: ${{ runner.os }}-spago-${{ hashFiles('**/spago.yaml') }}
-          path: |
-            .spago
-            output
-
       - name: Set current time
         run: echo "NOW=$(date)" >> $GITHUB_ENV
 
@@ -62,8 +44,6 @@ jobs:
           path: |
             scratch/.cache
 
-      # The registry repository uses a number of system tools, so it's necessary we
-      # make them available via Nix
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@v4
         with:
@@ -71,23 +51,12 @@ jobs:
 
       - name: Setup Nix cache
         uses: DeterminateSystems/magic-nix-cache-action@v2
-
-      # Finally, we can execute the importer.
-      - name: Build
-        run: nix develop
         
       - name: Import packages
-        run: |
-          nix develop
-          purs-0_15_9 --help
-          nix run .#legacy-importer update-registry
+        run: nix run .#legacy-importer update-registry
 
       - name: Run the transferrer
-        run: |
-          nix develop
-          nix run .#package-transferrer
+        run: nix run .#package-transferrer
 
       - name: Import new versions to the package sets
-        run: |
-          nix develop
-          nix run .#package-set-updater commit
+        run: nix run .#package-set-updater commit
