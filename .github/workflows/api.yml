@@ -76,12 +76,14 @@ jobs:
         with:
           github-token: ${{ env.PACCHETTIBOTTI_TOKEN }}
 
-#       - name: Setup Nix cache
-#         uses: DeterminateSystems/magic-nix-cache-action@v2
+      - name: Setup Nix cache
+        uses: DeterminateSystems/magic-nix-cache-action@v2
 
       # Finally, we can execute the registry API
       - name: Install dependencies
         run: nix develop
 
       - name: Run the registry API
-        run: nix run .#github-importer
+        run: |
+          nix develop
+          nix run .#github-importer
