@@ -19,6 +19,7 @@ jobs:
       PACCHETTIBOTTI_ED25519: ${{ secrets.PACCHETTIBOTTI_ED25519 }}
       SPACES_KEY: ${{ secrets.SPACES_KEY }}
       SPACES_SECRET: ${{ secrets.SPACES_SECRET }}
+      DHALL_TYPES: "./types"
 
     steps:
       # Checks out the registry-dev repository so we can run scripts from it
