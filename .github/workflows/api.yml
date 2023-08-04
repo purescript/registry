@@ -33,7 +33,7 @@ jobs:
         with:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
-          ref: 'master'
+          ref: 'trh/git-lfs'
 
       - name: Set current time
         run: echo "NOW=$(date)" >> $GITHUB_ENV
