@@ -26,6 +26,7 @@ jobs:
       SPACES_KEY: ${{ secrets.SPACES_KEY }}
       SPACES_SECRET: ${{ secrets.SPACES_SECRET }}
       DHALL_TYPES: "./types"
+      HEALTHCHECKS_URL: "N/A"
 
     steps:
       # Checks out the registry-dev repository so we can run scripts from it
@@ -33,7 +34,7 @@ jobs:
         with:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
-          ref: 'trh/git-lfs'
+          ref: 'master'
 
       - name: Set current time
         run: echo "NOW=$(date)" >> $GITHUB_ENV
