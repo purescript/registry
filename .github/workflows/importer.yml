@@ -20,6 +20,7 @@ jobs:
       SPACES_KEY: ${{ secrets.SPACES_KEY }}
       SPACES_SECRET: ${{ secrets.SPACES_SECRET }}
       DHALL_TYPES: "./types"
+      HEALTHCHECKS_URL: "N/A"
 
     steps:
       # Checks out the registry-dev repository so we can run scripts from it
