@@ -3,6 +3,13 @@
     "githubOwner": "garyb",
     "githubRepo": "purescript-json"
   },
-  "published": {},
+  "published": {
+    "1.0.0": {
+      "bytes": 7422,
+      "hash": "sha256-UCHdePAoOD19UyCPLU97oZjcdxLlQZQneWFsfoUNNpE=",
+      "publishedTime": "2023-10-22T12:53:47.682Z",
+      "ref": "v1.0.0"
+    }
+  },
   "unpublished": {}
 }
