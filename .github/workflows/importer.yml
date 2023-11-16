@@ -28,6 +28,7 @@ jobs:
         with:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
+          ref: trh/fix-transferrer
 
       - name: Set current time
         run: echo "NOW=$(date)" >> $GITHUB_ENV
@@ -54,11 +55,11 @@ jobs:
       - name: Setup Nix cache
         uses: DeterminateSystems/magic-nix-cache-action@v2
 
-      # - name: Run the transferrer
-      #   run: nix run .#package-transferrer
+      - name: Run the transferrer
+        run: nix run .#package-transferrer
         
-      # - name: Import packages
-      #   run: nix run .#legacy-importer update-registry
+      - name: Import packages
+        run: nix run .#legacy-importer update-registry
 
-      # - name: Import new versions to the package sets
-      #   run: nix run .#package-set-updater commit
+      - name: Import new versions to the package sets
+        run: nix run .#package-set-updater commit
