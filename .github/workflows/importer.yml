@@ -28,7 +28,7 @@ jobs:
         with:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
-          ref: trh/fix-transferrer
+          ref: master
 
       - name: Set current time
         run: echo "NOW=$(date)" >> $GITHUB_ENV
