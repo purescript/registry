@@ -3,6 +3,13 @@
     "githubOwner": "lumihq",
     "githubRepo": "purescript-lumi-components"
   },
-  "published": {},
+  "published": {
+    "18.0.0": {
+      "bytes": 123836,
+      "hash": "sha256-ykX75jHeZWbZ9GLqF8NUpZZak0cLrkOQkDB6g4RwG2I=",
+      "publishedTime": "2023-11-16T19:36:26.998Z",
+      "ref": "v18.0.0"
+    }
+  },
   "unpublished": {}
 }
