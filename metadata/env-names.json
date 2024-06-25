@@ -3,13 +3,6 @@
     "githubOwner": "joellefkowitz",
     "githubRepo": "env-names"
   },
-  "owners": [
-    {
-      "email": "joel@Joels-MacBook.local",
-      "keytype": "ssh-rsa",
-      "public": "AAAAB3NzaC1yc2EAAAADAQABAAABgQCw02v+ws36EuH9Mjlq9v/jG2TolbPSSABuMR9UF/BPUdSO1Ey41pD29ot3DZRNWZXmmoykfrKik81HcH8/wyO8lxlF0mqthNpp8TUtF7WOGr8zTRiP92kJy+n7t7djVyEeMxWdDYpN+lU53u6kx0K5e4i0ZVfDiuSjJZe76HOVUUiyguF6EdOD/Gi1bdIyMlCFw4w1b63IBT8JGgq6qkuJ1jfnfCm7ZyBi9eXJC6gdSZYGKC/vBft+iZwn7xNbzaBajPsuKfNohrYp7g3DpFltaxiCEc1bCqXWLe8u9a+CVqrQSDCtUFaMyLk9s54vgl5QV4/AnwFcs/3CqVWieKog4iQAvNMuYPtuGujAELaBNLgm/7W/DGHB7SAWjhLLjL+3TDcUT1ZksiNB5MCMOjn8mqpMd1Mb0iD1hN6rfebyQbgCj8R3ZCCamcryv0RLHof2GEz2pMrZlKBGy4Bg6hWh4KzSviZogpAsRj6JKwYxIQAHeSfJdLRypgBUyibS7Fk="
-    }
-  ],
   "published": {
     "0.3.1": {
       "bytes": 3720,
@@ -34,6 +27,12 @@
       "hash": "sha256-+i67VQeIq+dcCnDmRY9BUBTD2acL5uv4kROUURsypJs=",
       "publishedTime": "2023-02-26T19:06:27.000Z",
       "ref": "v0.3.4"
+    },
+    "0.4.0": {
+      "bytes": 3486,
+      "hash": "sha256-AKNmDepp0OneaNlK7CJRvqSWX8ZfKh4TZCi8jp60s1s=",
+      "publishedTime": "2024-06-25T16:09:16.306Z",
+      "ref": "v0.4.0"
     }
   },
   "unpublished": {}
