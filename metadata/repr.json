@@ -3,6 +3,12 @@
     "githubOwner": "joellefkowitz",
     "githubRepo": "repr"
   },
+  "owners": [
+    {
+      "keytype": "ssh-rsa",
+      "public": "AAAAB3NzaC1yc2EAAAADAQABAAABgQCw02v+ws36EuH9Mjlq9v/jG2TolbPSSABuMR9UF/BPUdSO1Ey41pD29ot3DZRNWZXmmoykfrKik81HcH8/wyO8lxlF0mqthNpp8TUtF7WOGr8zTRiP92kJy+n7t7djVyEeMxWdDYpN+lU53u6kx0K5e4i0ZVfDiuSjJZe76HOVUUiyguF6EdOD/Gi1bdIyMlCFw4w1b63IBT8JGgq6qkuJ1jfnfCm7ZyBi9eXJC6gdSZYGKC/vBft+iZwn7xNbzaBajPsuKfNohrYp7g3DpFltaxiCEc1bCqXWLe8u9a+CVqrQSDCtUFaMyLk9s54vgl5QV4/AnwFcs/3CqVWieKog4iQAvNMuYPtuGujAELaBNLgm/7W/DGHB7SAWjhLLjL+3TDcUT1ZksiNB5MCMOjn8mqpMd1Mb0iD1hN6rfebyQbgCj8R3ZCCamcryv0RLHof2GEz2pMrZlKBGy4Bg6hWh4KzSviZogpAsRj6JKwYxIQAHeSfJdLRypgBUyibS7Fk="
+    }
+  ],
   "published": {
     "0.2.0": {
       "bytes": 3634,
@@ -33,6 +39,12 @@
       "hash": "sha256-vRNZcmpls2vgs5TAsc7EGb/SteGZ1BhBxrqsBO6Zgqw=",
       "publishedTime": "2023-02-26T16:07:28.000Z",
       "ref": "v0.4.1"
+    },
+    "0.4.4": {
+      "bytes": 4127,
+      "hash": "sha256-HNJgxhPrqokKirT5BZ49Jpo1Dtm2pfVbDyhzDHJXtAs=",
+      "publishedTime": "2024-08-22T13:24:17.309Z",
+      "ref": "v0.4.4"
     },
     "0.5.0": {
       "bytes": 3341,
