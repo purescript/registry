@@ -3,12 +3,25 @@
     "githubOwner": "f-f",
     "githubRepo": "purescript-priority-queue"
   },
+  "owners": [
+    {
+      "id": "fabrizio+github@hadrianus",
+      "keytype": "ssh-ed25519",
+      "public": "AAAAC3NzaC1lZDI1NTE5AAAAIBP7cbacua16Pi8FpgJUGpzlB14Y8AWcVAHlgdQTMQof"
+    }
+  ],
   "published": {
     "0.1.0": {
       "bytes": 6621,
       "hash": "sha256-xGrxKk7v+PzqufGkS35q86q/cseguY8YLpTgCKYtqfI=",
       "publishedTime": "2024-07-24T18:00:19.100Z",
       "ref": "v0.1.0"
+    },
+    "0.1.1": {
+      "bytes": 6801,
+      "hash": "sha256-kELUxQ3ILOJPqfkQEsxx5M9MSwkDWjzYJTXfpP2zrBc=",
+      "publishedTime": "2024-08-28T17:43:00.957Z",
+      "ref": "v0.1.1"
     }
   },
   "unpublished": {}
