@@ -34,7 +34,7 @@ jobs:
         run: echo "NOW=$(date)" >> $GITHUB_ENV
 
       - name: Cache importer artifacts
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           # This cache directory is meant to be essentially permanent, with cache
           # expiry implemented in code. However, we never want this to be a direct
