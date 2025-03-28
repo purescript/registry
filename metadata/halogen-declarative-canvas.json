@@ -1,0 +1,22 @@
+{
+  "location": {
+    "githubOwner": "UnrelatedString",
+    "githubRepo": "purescript-halogen-declarative-canvas"
+  },
+  "owners": [
+    {
+      "id": "june@sideros.rocks",
+      "keytype": "ssh-rsa",
+      "public": "AAAAB3NzaC1yc2EAAAADAQABAAABAQCY1Gdnnq2tNSrBxKnxuLfSsl7sLjCU5Js9c3tW9/x12tA4g1grIOezpBAszHUr40XuzGMHwmd3i3iq45ORhNJeq8lbgp8I5Zc3Kv+nugSqPHWLVIfa3dwktBYpUaDIwurPZsiQwXL/QJLMwSFKLn4DK8ZctMv+8Uy123Z4rlLNfZ8obaP9odtpegNtcCJ7tHFyg0EsgFpYYZHWJd2fzB9m9YW0Hziyyc/bknOwiwCcjiLUKaSPIE/8UgiPJx1mvKopd65PbqZf093lhHl3TesWF5pqeS5esCOaBUkL6UHeQMiQGnlt/VHMvIQaXNa33RoR8luZtDmUolgXi221xrNX"
+    }
+  ],
+  "published": {
+    "0.0.8": {
+      "bytes": 6366,
+      "hash": "sha256-j4UwWCDpOFYJqn77n+siyJCF78sPJN/rd1KwsWkvapU=",
+      "publishedTime": "2025-03-28T19:28:30.691Z",
+      "ref": "v0.0.8"
+    }
+  },
+  "unpublished": {}
+}
