@@ -24,7 +24,7 @@ jobs:
 
     steps:
       # Checks out the registry-dev repository so we can run scripts from it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: purescript/registry-dev
           token: ${{ env.PACCHETTIBOTTI_TOKEN }}
@@ -48,12 +48,13 @@ jobs:
             scratch/.cache
 
       - name: Install Nix
-        uses: DeterminateSystems/nix-installer-action@v4
+        uses: DeterminateSystems/nix-installer-action@v21
         with:
           github-token: ${{ env.PACCHETTIBOTTI_TOKEN }}
+          determinate: false
 
       - name: Setup Nix cache
-        uses: DeterminateSystems/magic-nix-cache-action@v2
+        uses: DeterminateSystems/magic-nix-cache-action@v13
 
       - name: Run the transferrer
         run: nix run .#package-transferrer
