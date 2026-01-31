@@ -4,35 +4,47 @@
     "githubRepo": "purescript-moldy"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2125,
-      "hash": "sha256-sG0PFESK4Cnrpt40gY+/xeQTbHwzCnNtxGnmrh60gIc=",
-      "publishedTime": "2017-02-12T23:54:38.000Z",
-      "ref": "v0.1.0"
-    },
-    "1.0.0": {
-      "bytes": 2209,
-      "hash": "sha256-wABGO6AjfiYdLVaZa2QOVg35uDRHPaT2hdH8zv3tkwE=",
-      "publishedTime": "2017-02-13T21:56:06.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 2392,
-      "hash": "sha256-zqwdq+fC7erUQtqUz1Fzp2vo3IZakh7RmQQKUI2pfg8=",
-      "publishedTime": "2017-04-10T22:29:27.000Z",
-      "ref": "v2.0.0"
+      "bytes": 2408,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-UzGsRLqFg1LxKrmPh9q0FLnI3lHZmBv8xU1zY7vXO68=",
+      "publishedTime": "2017-04-10T22:29:27.000Z"
     },
     "2.1.0": {
-      "bytes": 2400,
-      "hash": "sha256-NnxTfUvDOXFW+z/NUpYwI3f0YRw6D6xX94m0QoXFCaM=",
-      "publishedTime": "2017-07-22T15:56:14.000Z",
-      "ref": "v2.1.0"
+      "bytes": 2420,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-FwU9lAQPxGrC31vRJUt32r6ENQObHOTVE4UiC2e+wDU=",
+      "publishedTime": "2017-07-22T15:56:14.000Z"
     },
     "3.0.0": {
-      "bytes": 2408,
-      "hash": "sha256-fQj0IDFRxo81iEiu+32jGugYtL5aR7gSBd5V9e0GpCY=",
-      "publishedTime": "2019-09-24T18:42:28.000Z",
-      "ref": "v3.0.0"
+      "bytes": 2415,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-z3hL1pFgDNk2RL9dyQbB5gc2WjWxUzhxYpVzuLysORY=",
+      "publishedTime": "2019-09-24T18:42:28.000Z"
     }
   },
   "unpublished": {}

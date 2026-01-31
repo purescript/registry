@@ -4,47 +4,19 @@
     "githubRepo": "purescript-cookie"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2592,
-      "hash": "sha256-zTTgkBj4acmWjAft22uiRnFBmm/KAQACPf3js041Iuc=",
-      "publishedTime": "2017-06-18T07:49:01.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.1.1": {
-      "bytes": 2592,
-      "hash": "sha256-y1dKnlY34n+C4ygLwLzwVw497dnRzMT1oePpnQeqY9o=",
-      "publishedTime": "2017-07-30T12:07:32.000Z",
-      "ref": "v0.1.1"
-    },
-    "0.1.2": {
-      "bytes": 2592,
-      "hash": "sha256-Tr4tAKbruR/FZdLJ1urqhNri7aakirW0Jil4Rh/2F3Q=",
-      "publishedTime": "2017-08-04T02:13:47.000Z",
-      "ref": "v0.1.2"
-    },
-    "0.1.3": {
-      "bytes": 2598,
-      "hash": "sha256-MUQKePbjeEfHnvi42RIAxhOqEBZnN2MFL/oyaBxiobs=",
-      "publishedTime": "2017-09-21T13:36:45.000Z",
-      "ref": "v0.1.3"
-    },
-    "0.2.0": {
-      "bytes": 2488,
-      "hash": "sha256-hOUSv1prtABDKsgcLFTovUbzVkj6jXiTZg9AeRMuco0=",
-      "publishedTime": "2017-10-27T12:52:18.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 2559,
-      "hash": "sha256-S1W4Ji/h54H3K2WWEE0A6kuNwQn+EeCQL0C0xQ9dl/w=",
-      "publishedTime": "2018-02-04T12:54:29.000Z",
-      "ref": "v0.3.0"
-    },
     "1.0.0": {
-      "bytes": 2527,
-      "hash": "sha256-+5Wl17fINDAXg4qldMHmzYaKM51WwlCvIQm3qZ4z+HY=",
-      "publishedTime": "2018-06-03T12:34:07.000Z",
-      "ref": "v1.0.0"
+      "bytes": 2591,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-9Ju1EtaFSJ1wCF+Lamm0NitzClV8AzjQiLTNM2j6xqc=",
+      "publishedTime": "2018-06-03T12:34:07.000Z"
     }
   },
   "unpublished": {}

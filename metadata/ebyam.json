@@ -4,29 +4,19 @@
     "githubRepo": "purescript-ebyam"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2209,
-      "hash": "sha256-71QK07Ea1MzkQVNsD+iTDyeRZ+HShNgbnzI9QNpEeRY=",
-      "publishedTime": "2016-06-17T17:45:41.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.1.1": {
-      "bytes": 2058,
-      "hash": "sha256-aajhyJFFUEQ/4UgzVuB/YUWwFpfSqGyrNxq3CXbImBs=",
-      "publishedTime": "2016-06-17T17:55:22.000Z",
-      "ref": "v0.1.1"
-    },
-    "1.0.0": {
-      "bytes": 2055,
-      "hash": "sha256-PouNjrRNBYXwwZ4Gcpt5tmsh5vx7sKCsr6a7lnMmHKY=",
-      "publishedTime": "2016-06-17T18:05:48.000Z",
-      "ref": "v1.0.0"
-    },
     "1.2.0": {
-      "bytes": 2091,
-      "hash": "sha256-GSjei2OqmVvzql200RAZfksQWfWUC5oxtMevGIfM/cs=",
-      "publishedTime": "2017-03-26T13:06:47.000Z",
-      "ref": "v1.2.0"
+      "bytes": 2095,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-OnlAIkp9aMeZQr9CPUvZkCbXP2gHjuXH8riZWyJOWCQ=",
+      "publishedTime": "2017-03-26T13:06:47.000Z"
     }
   },
   "unpublished": {}

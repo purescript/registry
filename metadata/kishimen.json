@@ -4,35 +4,36 @@
     "githubRepo": "purescript-kishimen"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2830,
-      "hash": "sha256-LKV8MazwRjnIaj1FUIk2J7zSTYFb9pGz9+3bVYF+LOU=",
-      "publishedTime": "2019-02-19T11:25:32.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 2860,
-      "hash": "sha256-S1/AaToKw881cDl/X3dJlzKsW0Tv2AgXgQO5lFovz3o=",
-      "publishedTime": "2019-02-21T08:58:57.000Z",
-      "ref": "v0.2.0"
-    },
-    "1.0.0": {
-      "bytes": 2855,
-      "hash": "sha256-3UD8OmDH5isiqiZ/dRElKbTpd3g9aITdu5sdgI4vKJY=",
-      "publishedTime": "2019-05-30T19:13:02.000Z",
-      "ref": "v1.0.0"
-    },
     "1.0.1": {
-      "bytes": 2872,
-      "hash": "sha256-5Z+E5PUqjw19Jai+/zPhjxXLoKmHSp9bk1xXdQbX7OE=",
-      "publishedTime": "2019-05-30T19:15:04.000Z",
-      "ref": "v1.0.1"
+      "bytes": 2893,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-Q2F0nuETq7ED6iTOZmSvqlsc1XaJkpzKHCQpsrR60jw=",
+      "publishedTime": "2019-05-30T19:15:04.000Z"
     },
     "2.0.0": {
-      "bytes": 2856,
-      "hash": "sha256-xPZ/IFU5DAZ7S2Fgne/IjbeMMCgYpFaQ8yP+Q7J1dgE=",
-      "publishedTime": "2021-12-15T12:59:53.000Z",
-      "ref": "v2.0.0"
+      "bytes": 2875,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-9QkIpa9U0MWBkPjv3vT8mjVGnvDaySU0WIb6cg9T6Ig=",
+      "publishedTime": "2021-12-15T12:59:53.000Z"
     }
   },
   "unpublished": {}

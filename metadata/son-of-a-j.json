@@ -3,37 +3,6 @@
     "githubOwner": "paluh",
     "githubRepo": "purescript-son-of-a-j"
   },
-  "published": {
-    "0.1.0": {
-      "bytes": 2812,
-      "hash": "sha256-stAZ2HRU9pWe0xitVUXRscsIHt7DQjRurXBPEtf7tS0=",
-      "publishedTime": "2019-09-04T19:46:19.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.1.1": {
-      "bytes": 2746,
-      "hash": "sha256-VJA1FObqnFBsTevFRIKQ85l4tj/T8gjoPVR2eDbfEuY=",
-      "publishedTime": "2019-09-04T19:50:41.000Z",
-      "ref": "v0.1.1"
-    },
-    "0.2.0": {
-      "bytes": 3159,
-      "hash": "sha256-VlWaSz95gzHLV5GabGOlVHd3E3hcJL3EDkr6ToQC2AA=",
-      "publishedTime": "2019-09-04T21:50:57.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.2.1": {
-      "bytes": 3180,
-      "hash": "sha256-KdCT51j0U5Smkw0VY3NwJdjMnSMV3XSbzK4W/qk670I=",
-      "publishedTime": "2019-09-05T06:21:50.000Z",
-      "ref": "v0.2.1"
-    },
-    "0.2.2": {
-      "bytes": 3185,
-      "hash": "sha256-cFjvkdjpIHuYUCJ+3uhRPVVapcbSrcj2FeKcqGa90fI=",
-      "publishedTime": "2019-09-05T06:59:12.000Z",
-      "ref": "v0.2.2"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

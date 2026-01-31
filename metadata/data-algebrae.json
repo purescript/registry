@@ -4,23 +4,19 @@
     "githubRepo": "purescript-data-algebrae"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 1563,
-      "hash": "sha256-ai1XRbz89g7y3Ig6FqhQD01vQcsUv3JQg4zvL6+pfeI=",
-      "publishedTime": "2018-03-24T10:47:01.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 2326,
-      "hash": "sha256-8kTW6sxvlTfz3PMiL6cYxVH5b0Ev9uvJLj5FHbFfOS4=",
-      "publishedTime": "2018-03-24T18:19:07.000Z",
-      "ref": "v2.0.0"
-    },
     "4.0.0": {
-      "bytes": 3826,
-      "hash": "sha256-hpw49t+E+JAxw0eqQm6JQ3ZsJMfc/JVa6EiOHNXN2zU=",
-      "publishedTime": "2018-06-10T10:29:41.000Z",
-      "ref": "v4.0.0"
+      "bytes": 3814,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-T3PmS/JT4MvcdSOfTOtQMDoM9yWiKugtJKnCp3FG7j0=",
+      "publishedTime": "2018-06-10T10:29:41.000Z"
     }
   },
   "unpublished": {}

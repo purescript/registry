@@ -4,17 +4,19 @@
     "githubRepo": "purescript-optional"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 3788,
-      "hash": "sha256-r1ogI6UeVVmqs8hVh4McKoYt8GvFpHyB/12YdYUiZ8M=",
-      "publishedTime": "2018-03-18T00:08:37.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 3664,
-      "hash": "sha256-DHL4VFhP+slNkxYtuHKe5QDpa9lCnWWzDMKe22kJUrQ=",
-      "publishedTime": "2018-08-23T01:27:18.000Z",
-      "ref": "v2.0.0"
+      "bytes": 3674,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-NQV6KEGRUN7RIxxe9H1bxROelVMNc51Ik+k569jAZic=",
+      "publishedTime": "2018-08-23T01:27:18.000Z"
     }
   },
   "unpublished": {}

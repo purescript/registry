@@ -3,31 +3,6 @@
     "githubOwner": "erlscripten",
     "githubRepo": "erlps-core"
   },
-  "published": {
-    "0.0.1": {
-      "bytes": 33266,
-      "hash": "sha256-Qz1VEQbaQrRNocZEbQ1ROmQO0s/1kdqjHM9uyp689aM=",
-      "publishedTime": "2020-12-01T14:42:07.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 33978,
-      "hash": "sha256-xQ7IVT0diHiGr+WneYyduDKMJNaiH4kIicmJFXjQjtg=",
-      "publishedTime": "2020-12-01T15:28:48.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 33991,
-      "hash": "sha256-uvuHKvKf86YEMwzViljevULU+SDWf82ozlfD8MjLTRg=",
-      "publishedTime": "2020-12-01T16:43:37.000Z",
-      "ref": "v0.0.3"
-    },
-    "0.0.4": {
-      "bytes": 34310,
-      "hash": "sha256-V7TdhZnx34vqnScHo2bgRTj38U1oz1fKS4ioTrva9h8=",
-      "publishedTime": "2020-12-01T18:58:11.000Z",
-      "ref": "v0.0.4"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

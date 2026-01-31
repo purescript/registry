@@ -4,17 +4,19 @@
     "githubRepo": "purescript-sudoku"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 4557,
-      "hash": "sha256-bWRUyJlJggHkfRxgZ/JgIeoN0hHCA9XpZbwAtzN9KW8=",
-      "publishedTime": "2017-01-31T06:58:13.000Z",
-      "ref": "v0.1.0"
-    },
     "1.0.0": {
       "bytes": 4555,
-      "hash": "sha256-+6GnmKqDOmxhAeUfc3C4GWEh2MHETmWMAFrx+qUTGGo=",
-      "publishedTime": "2017-04-26T07:49:43.000Z",
-      "ref": "v1.0.0"
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-NJMGzcNCkRvpy5E5zFKzfY4oHc7NvYm/QoNdiaR70sA=",
+      "publishedTime": "2017-04-26T07:49:43.000Z"
     }
   },
   "unpublished": {}

@@ -4,29 +4,19 @@
     "githubRepo": "purescript-distributions"
   },
   "published": {
-    "1.1.0": {
-      "bytes": 1427,
-      "hash": "sha256-dX6FFOnxwvyynMd1MKB8gQyIhkuTqfc2HmKYI7mdx7E=",
-      "publishedTime": "2016-08-18T04:01:25.000Z",
-      "ref": "v1.1.0"
-    },
-    "2.0.0": {
-      "bytes": 1579,
-      "hash": "sha256-1/OQBsZydMK0D5qc5zJT9Wl/AtS0Lec29OA9SBwPN2A=",
-      "publishedTime": "2016-10-23T04:10:33.000Z",
-      "ref": "v2.0.0"
-    },
-    "3.0.0": {
-      "bytes": 1519,
-      "hash": "sha256-6USrwUtpyZMPA+jYgx/iBElf21mY4cfxDg1c4U40pDM=",
-      "publishedTime": "2017-04-07T02:12:31.000Z",
-      "ref": "v3.0.0"
-    },
     "4.0.0": {
-      "bytes": 1518,
-      "hash": "sha256-qv3IYe3kgrh8pBHtLljyupchPG7f+Wj+VkeBnJ+W9yg=",
-      "publishedTime": "2018-06-23T01:44:29.000Z",
-      "ref": "v4.0.0"
+      "bytes": 1564,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-VdzxtbxXgTJslZttEvnEhPqZpBYGWfGHpN61p4OOn5U=",
+      "publishedTime": "2018-06-23T01:44:29.000Z"
     }
   },
   "unpublished": {}

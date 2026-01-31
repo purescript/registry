@@ -4,23 +4,22 @@
     "githubRepo": "purescript-halogen-datepicker"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 22812,
-      "hash": "sha256-YWigwE+0oZ4RxNV+SXPlhy1d3qhzmRZQtYDnSI3uIMY=",
-      "publishedTime": "2017-07-13T19:01:03.000Z",
-      "ref": "v0.1.0"
-    },
-    "1.0.0": {
-      "bytes": 22805,
-      "hash": "sha256-UUEZEHu+eCpixgdJ+9iWfQixpo3mFZ5B8ADCrsz9IxQ=",
-      "publishedTime": "2017-12-07T13:03:38.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 22220,
-      "hash": "sha256-6kX57Pw6wTEaZkLnRQNWTfv0imEgGMWTq5bQBT6Nznw=",
-      "publishedTime": "2021-04-26T13:19:30.000Z",
-      "ref": "v2.0.0"
+      "bytes": 22345,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-VOVuWg0Ft0ZprGPgc2fdOCCF49LyhpKRNiLTLOl2NRQ=",
+      "publishedTime": "2021-04-26T13:19:30.000Z"
     }
   },
   "unpublished": {}

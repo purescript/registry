@@ -4,41 +4,19 @@
     "githubRepo": "purescript-benchotron"
   },
   "published": {
-    "3.0.5": {
-      "bytes": 6936,
-      "hash": "sha256-k6bndWrwcnIafC7Hn/zIbHZUMdWvCQewGhiglKFaezY=",
-      "publishedTime": "2016-05-02T23:40:57.000Z",
-      "ref": "v3.0.5"
-    },
-    "4.0.0": {
-      "bytes": 7017,
-      "hash": "sha256-sqdZ79ihvLjuNxutSCqZ0uKsJPWePOKzXQlUsdGkcsw=",
-      "publishedTime": "2016-06-30T00:10:17.000Z",
-      "ref": "v4.0.0"
-    },
-    "5.0.0": {
-      "bytes": 7679,
-      "hash": "sha256-W1YH4eouhdp0bb00f2kmpiMmtLHNVMtujlIupy5ioaA=",
-      "publishedTime": "2016-11-07T20:46:51.000Z",
-      "ref": "v5.0.0"
-    },
-    "6.0.0": {
-      "bytes": 7760,
-      "hash": "sha256-ZUoV6LBmUGBhcEIyj/wXSITNR82NrjnIstx7ZHQwptI=",
-      "publishedTime": "2017-04-11T22:52:53.000Z",
-      "ref": "v6.0.0"
-    },
-    "7.0.0": {
-      "bytes": 7513,
-      "hash": "sha256-ZQmQSPkB/vy9EvLcd10V+imIVtPcAg9prc2aZzDvMMs=",
-      "publishedTime": "2018-08-04T16:09:45.000Z",
-      "ref": "v7.0.0"
-    },
     "7.0.1": {
-      "bytes": 7535,
-      "hash": "sha256-p18/EeuBcXfIysulGZ4bKCLial9FhZCt6F4W6nx6SLY=",
-      "publishedTime": "2019-06-08T15:15:44.000Z",
-      "ref": "v7.0.1"
+      "bytes": 7581,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-SyoUotdZgQY36Wkvr3JzTJ0vsjVDWPSw9NoecREsQP0=",
+      "publishedTime": "2019-06-08T15:15:44.000Z"
     }
   },
   "unpublished": {}

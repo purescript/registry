@@ -4,53 +4,122 @@
     "githubRepo": "purescript-nodemailer"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2209,
-      "hash": "sha256-0cNyi84Ot62ZjxpfKZbPwlf+zOep6WnLHNuzmphn19E=",
-      "publishedTime": "2017-11-06T15:18:11.000Z",
-      "ref": "v0.1.0"
-    },
     "1.0.0": {
-      "bytes": 2164,
-      "hash": "sha256-qn03V+l4Bnl+Ikt54QDhqiy76Zzbr70Q2KBpY2fLfj4=",
-      "publishedTime": "2018-06-01T12:33:32.000Z",
-      "ref": "v1.0.0"
+      "bytes": 2191,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-AFCcd9/G6LV4zGgeSMQeLAguAJ2e9H7BtqzWOoT4ABg=",
+      "publishedTime": "2018-06-01T12:33:32.000Z"
     },
     "2.0.0": {
-      "bytes": 2894,
-      "hash": "sha256-7AvvQtVTr5PFsHtxRpDJay84wFs5JQ2uIy2SlliD1W0=",
-      "publishedTime": "2019-04-13T03:57:04.000Z",
-      "ref": "v2.0.0"
+      "bytes": 2944,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-5r6nuBYl6dv2eGDBUWHr70dGWOIG2u2wTmbVbGl9xSg=",
+      "publishedTime": "2019-04-13T03:57:04.000Z"
     },
     "2.0.1": {
-      "bytes": 2939,
-      "hash": "sha256-TTZHdIZe/MaZRHBGlUBQHpPAuS1Rmf2x5cFbyA7DO1A=",
-      "publishedTime": "2019-06-04T14:29:13.000Z",
-      "ref": "v2.0.1"
+      "bytes": 2982,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-zJOXnNQQbxrvwIZebp3Ul1YU6S5PW5fuPzn/C2V5SxM=",
+      "publishedTime": "2019-06-04T14:29:13.000Z"
     },
     "2.0.2": {
-      "bytes": 2941,
-      "hash": "sha256-PVNpumP6ax2/znRbyjNk3N8vU/BSCL4KP6yxlpYv6vI=",
-      "publishedTime": "2019-06-23T12:20:48.000Z",
-      "ref": "v2.0.2"
+      "bytes": 2985,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-kWQQE7Msws9jN5veXI4if1G8AevZn87np+6nWngcx38=",
+      "publishedTime": "2019-06-23T12:20:48.000Z"
     },
     "3.0.0": {
-      "bytes": 2984,
-      "hash": "sha256-Rd4W+4zNI6c7FgbZddN1geMl6oINTEzLmyTGJsSnHq4=",
-      "publishedTime": "2021-03-23T00:24:13.000Z",
-      "ref": "v3.0.0"
+      "bytes": 3020,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-jRwX7Qj3Naq2hLzSHlLAXlbaZCSsWRzkNLtUMwCAuNw=",
+      "publishedTime": "2021-03-23T00:24:13.000Z"
     },
     "4.0.0": {
-      "bytes": 2982,
-      "hash": "sha256-qvF2DaMvSSOLzk+Wduj4KjzmMfJLizdjL5GnkobiPRQ=",
-      "publishedTime": "2022-11-03T12:04:16.000Z",
-      "ref": "v4.0.0"
+      "bytes": 3026,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-6jQo5Odmnv7SxzFPKJczYdDDioYiXi9g3+bHV+5g97s=",
+      "publishedTime": "2022-11-03T12:04:16.000Z"
     },
     "4.0.1": {
       "bytes": 4408,
-      "hash": "sha256-pwR9kiG0hQQVikdIkM7OwlI+MGnd8yIuWsPUHlFMkvk=",
-      "publishedTime": "2022-11-15T15:27:35.000Z",
-      "ref": "v4.0.1"
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-42H3qTM9osISOYuqo+TrUvTuYKkDC4EpT/KCAHCnWL0=",
+      "publishedTime": "2022-11-15T15:27:35.000Z"
     }
   },
   "unpublished": {}

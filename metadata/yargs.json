@@ -4,71 +4,29 @@
     "githubRepo": "purescript-yargs"
   },
   "published": {
-    "0.4.0": {
-      "bytes": 3185,
-      "hash": "sha256-4vDCBoj329xV7WBS78aX0LUSIysBh0SJFLtyiK6UM7A=",
-      "publishedTime": "2015-01-10T15:32:09.000Z",
-      "ref": "v0.4.0"
-    },
-    "0.5.0": {
-      "bytes": 3186,
-      "hash": "sha256-XJ9LoIlPodETa/2yVilSJjo+jDZPKTW9Lv1clTg/vbA=",
-      "publishedTime": "2015-02-21T18:07:55.000Z",
-      "ref": "v0.5.0"
-    },
-    "0.7.2": {
-      "bytes": 3395,
-      "hash": "sha256-rRdi/npr6z5ZxinlT3OBaa08b+F2+cmnqQFrE56M+vE=",
-      "publishedTime": "2016-01-12T17:57:24.000Z",
-      "ref": "v0.7.2"
-    },
-    "0.7.3": {
-      "bytes": 3585,
-      "hash": "sha256-x26qdOgjBmfGI7BhK5shCmzXG77DHM7HXOdtH7jBtm8=",
-      "publishedTime": "2016-04-27T03:07:15.000Z",
-      "ref": "v0.7.3"
-    },
-    "1.0.0": {
-      "bytes": 3555,
-      "hash": "sha256-4sAS984huIVDwyeorwJzFXMzKccCm9GOOWl3HjtcDec=",
-      "publishedTime": "2016-06-07T03:03:02.000Z",
-      "ref": "v1.0.0"
-    },
-    "1.0.1": {
-      "bytes": 3557,
-      "hash": "sha256-jjDVD5jgeLXX6gzItr0T9pEfVYgT93HMkMh7uu0jRJg=",
-      "publishedTime": "2016-08-18T04:28:21.000Z",
-      "ref": "v1.0.1"
-    },
-    "2.0.0": {
-      "bytes": 4472,
-      "hash": "sha256-ewC+aDVTPI6lPRUwwMPmYQx/hSvsYhhYlaQzgyyJs9w=",
-      "publishedTime": "2016-10-23T20:11:33.000Z",
-      "ref": "v2.0.0"
-    },
-    "3.0.0": {
-      "bytes": 4508,
-      "hash": "sha256-ovnjyG0jH5l53b9c1NLwlP6W6p2qtpyfjPGto3VlZ2o=",
-      "publishedTime": "2017-04-07T02:19:12.000Z",
-      "ref": "v3.0.0"
-    },
-    "3.0.1": {
-      "bytes": 4320,
-      "hash": "sha256-ZCkhI897ipX71Ro8V5TL+V9vlOYXyStV/owB8QhWmrw=",
-      "publishedTime": "2017-06-18T15:53:44.000Z",
-      "ref": "v3.0.1"
-    },
-    "3.1.0": {
-      "bytes": 4364,
-      "hash": "sha256-Nm2xn96totEZ7f9n8fzgooxOM+hcwvMgDtn/8XvNVu4=",
-      "publishedTime": "2017-09-04T18:04:15.000Z",
-      "ref": "v3.1.0"
-    },
     "4.0.0": {
-      "bytes": 4279,
-      "hash": "sha256-mFVuD+m4AQoGgO1XMFVcTdOq7kw13EGrIyYVQz0J37U=",
-      "publishedTime": "2018-06-19T20:40:07.000Z",
-      "ref": "v4.0.0"
+      "bytes": 4318,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-WNN//BkBU7tTt8KIQysjHwdMhsCzuhzG6QsZXhCHoak=",
+      "publishedTime": "2018-06-19T20:40:07.000Z"
     }
   },
   "unpublished": {}

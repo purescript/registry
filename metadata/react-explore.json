@@ -4,29 +4,33 @@
     "githubRepo": "purescript-react-explore"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 3767,
-      "hash": "sha256-sNMF3i3/+Mys7nnwI3oln+7iP+wCIj27WaAT1TC57Lc=",
-      "publishedTime": "2017-11-08T03:51:33.000Z",
-      "ref": "v1.0.0"
-    },
-    "1.1.0": {
-      "bytes": 4660,
-      "hash": "sha256-zFAIh+SJ2zrifxOqZhx9zbgnyaYCPsdN/8Vo5w2smfY=",
-      "publishedTime": "2017-12-09T22:53:58.000Z",
-      "ref": "v1.1.0"
-    },
     "2.0.0": {
-      "bytes": 4575,
-      "hash": "sha256-4+0zpl48sSSn5neOR8aXuCh5y+8GRnIyaEbbeRycfA8=",
-      "publishedTime": "2018-06-13T03:02:57.000Z",
-      "ref": "v2.0.0"
+      "bytes": 4629,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-L+1CekrXCBBgQSwT2K6PgVDyg0EImWpYdrxYrOH2Z9M=",
+      "publishedTime": "2018-06-13T03:02:57.000Z"
     },
     "2.1.0": {
-      "bytes": 4598,
-      "hash": "sha256-F9aHchSsgy0uPsqHwxZFLigEDae0eqyZi2XcPnh0hmY=",
-      "publishedTime": "2018-06-16T00:23:19.000Z",
-      "ref": "v2.1.0"
+      "bytes": 4645,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-uqwjobVvUX2Z12e8dYzaY2nDAqDRvZpDYcqi/dFFSGk=",
+      "publishedTime": "2018-06-16T00:23:19.000Z"
     }
   },
   "unpublished": {}

@@ -4,17 +4,19 @@
     "githubRepo": "purescript-node-coroutines"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 1790,
-      "hash": "sha256-MRdOYtSuvwzbDt7zdzPE0nwDViWKtLQsQA3WP0qQ0zY=",
-      "publishedTime": "2017-08-15T02:06:25.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 1782,
-      "hash": "sha256-s9qRqs2YLB653fPeVRrDXI1O58BMVsVp6FcS5os/mW8=",
-      "publishedTime": "2018-06-23T01:31:58.000Z",
-      "ref": "v2.0.0"
+      "bytes": 1831,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-m8ki5B/b78N0S1C4qVOoNcZyZfVd0K+pfEBoQfM2LcE=",
+      "publishedTime": "2018-06-23T01:31:58.000Z"
     }
   },
   "unpublished": {}

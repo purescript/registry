@@ -4,35 +4,29 @@
     "githubRepo": "purescript-sodium"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 8487,
-      "hash": "sha256-t3IumlaVKk7Opn7sutaxWhR9O2SvRLZ3GWjTg0kKjSQ=",
-      "publishedTime": "2018-08-28T18:43:30.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 8523,
-      "hash": "sha256-sRVvLfEKyuLfDd35cBf5jli/VI6toEttlgAWhvCmQRM=",
-      "publishedTime": "2018-08-28T19:23:31.000Z",
-      "ref": "v0.0.2"
-    },
-    "1.0.0": {
-      "bytes": 8450,
-      "hash": "sha256-qOCxRWyDK4XDxbq1SwQxY2Cnpgii178ozdUVorfXIXA=",
-      "publishedTime": "2018-08-31T11:09:46.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 8611,
-      "hash": "sha256-sKB31H7QEdSX5W3aPuHkJDRmrACAzIYAIVMawNYxrWE=",
-      "publishedTime": "2018-09-06T21:49:48.000Z",
-      "ref": "v2.0.0"
-    },
     "2.1.0": {
-      "bytes": 8642,
-      "hash": "sha256-y/HEhK9baOtIwAlBZ8YND8DzVQ7Bpz4XvDBxXYD5RBU=",
-      "publishedTime": "2018-09-13T19:47:02.000Z",
-      "ref": "v2.1.0"
+      "bytes": 8648,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-bdvz9FVRCrRwXIwSAPC9mWJz+IAgDOAkg397eOECWzE=",
+      "publishedTime": "2018-09-13T19:47:02.000Z"
     }
   },
   "unpublished": {}

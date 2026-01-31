@@ -4,17 +4,44 @@
     "githubRepo": "purescript-vectorfield"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 819,
-      "hash": "sha256-pFwheTU6pQI5UJmP5laYHSlQe9e+iUnzNewemDFfDWM=",
-      "publishedTime": "2018-06-23T22:31:27.000Z",
-      "ref": "v1.0.0"
-    },
     "1.0.1": {
-      "bytes": 820,
-      "hash": "sha256-E5oqRC/GI6g+knOFtCE2045aU8lQzqbmgpOXiFjCP2o=",
-      "publishedTime": "2020-01-26T13:27:09.000Z",
-      "ref": "v1.0.1"
+      "bytes": 798,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9",
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-dNvqUVYo4XPchuv4UJvmXVEUZK7H6lJtUQTm1Mo6QDg=",
+      "publishedTime": "2020-01-26T13:27:09.000Z"
     }
   },
   "unpublished": {}

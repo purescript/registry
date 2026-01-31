@@ -4,35 +4,22 @@
     "githubRepo": "purescript-halogen-bootstrap4"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 11554,
-      "hash": "sha256-8+s6FDTnuL+pJhJtEt5ZwbSKHVzPVHbld/P/dsM+kok=",
-      "publishedTime": "2018-09-05T10:16:14.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.1.2": {
-      "bytes": 11556,
-      "hash": "sha256-joC1OqAFkhOgM76AUxoU70ilPzFgs7AQpG2jBLu8+Mk=",
-      "publishedTime": "2018-09-05T10:16:14.000Z",
-      "ref": "v0.1.2"
-    },
-    "0.1.3": {
-      "bytes": 11595,
-      "hash": "sha256-BIzxOzUgN4m3zR6jdC9awzT3koWEqHT6ko/ZJ+rCMWs=",
-      "publishedTime": "2019-01-29T04:29:03.000Z",
-      "ref": "v0.1.3"
-    },
-    "0.1.4": {
-      "bytes": 11656,
-      "hash": "sha256-A5843EecVYMDiWkFvv/G9JoZosx2emIrM/Oabc903OE=",
-      "publishedTime": "2019-05-31T10:27:16.000Z",
-      "ref": "v0.1.4"
-    },
     "0.2.0": {
-      "bytes": 11985,
-      "hash": "sha256-W2vTUTW9aQjLQGuYBp2Oc2Ma7bvFi9j3tYqzE4eFJgM=",
-      "publishedTime": "2021-03-10T17:59:44.000Z",
-      "ref": "v0.2.0"
+      "bytes": 11979,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-IEQF/odQ75zCZLE0ew/33AW4SNnecOf0Ngg0p+6g0Tw=",
+      "publishedTime": "2021-03-10T17:59:44.000Z"
     }
   },
   "unpublished": {}

@@ -4,53 +4,33 @@
     "githubRepo": "purescript-pprint"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2412,
-      "hash": "sha256-2FvjSjsTbrnHOBnu3zj3Zvy5cBUdIgqtUx+FsOOI0tE=",
-      "publishedTime": "2015-09-25T23:35:41.000Z",
-      "ref": "v0.1.0"
-    },
-    "1.0.0": {
-      "bytes": 2381,
-      "hash": "sha256-SgK6qSf/gMVMiZs55DsJpCeNQCN7DiNTEdkNbVCvpO4=",
-      "publishedTime": "2016-06-08T01:41:55.000Z",
-      "ref": "v1.0.0"
-    },
-    "1.0.1": {
-      "bytes": 2386,
-      "hash": "sha256-/ATIcgno59x2nHnVTcK+QACk4Pt4GvhQvsoWHAzpc3k=",
-      "publishedTime": "2016-08-18T04:21:09.000Z",
-      "ref": "v1.0.1"
-    },
-    "1.0.2": {
-      "bytes": 2433,
-      "hash": "sha256-KeRTo1XYq40VVf6JT6csNKoRIAOmElIm14kyGsn3Alk=",
-      "publishedTime": "2016-09-08T02:26:57.000Z",
-      "ref": "v1.0.2"
-    },
-    "2.0.0": {
-      "bytes": 2517,
-      "hash": "sha256-mo9oE+CJzrFhlPl+9E5wuArQcDaxOWg+Jrds7TJh/JE=",
-      "publishedTime": "2016-10-22T23:36:36.000Z",
-      "ref": "v2.0.0"
-    },
-    "3.0.0": {
-      "bytes": 2539,
-      "hash": "sha256-kvT70psND7VbSxi6A20U0RyPQh9rK+I3xS/xzZhUaYU=",
-      "publishedTime": "2016-11-15T05:20:39.000Z",
-      "ref": "v3.0.0"
-    },
     "4.0.0": {
-      "bytes": 2523,
-      "hash": "sha256-Cb78105ZAjE1s8Pnt+muGcI4nkTHKZ5surUo5SX1FZE=",
-      "publishedTime": "2017-04-07T02:11:56.000Z",
-      "ref": "v4.0.0"
+      "bytes": 2560,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-1DKwP9JQ/x+4ytMlYf1qIlIaYUe+p9ZHijo278q2qzo=",
+      "publishedTime": "2017-04-07T02:11:56.000Z"
     },
     "5.0.0": {
-      "bytes": 2537,
-      "hash": "sha256-D3oj1oQH9ory8BKqPTC1eA16nypq1I1+PoLM9O2yJ6w=",
-      "publishedTime": "2018-06-23T01:43:26.000Z",
-      "ref": "v5.0.0"
+      "bytes": 2567,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-WqOqTB5dGi9y67FL2/kCcEk6A2SVHR+nvCcsssOkQ9M=",
+      "publishedTime": "2018-06-23T01:43:26.000Z"
     }
   },
   "unpublished": {}

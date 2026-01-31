@@ -4,23 +4,19 @@
     "githubRepo": "purescript-line-wrapping"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 2237,
-      "hash": "sha256-fdUTTzuFueG9qAO2S1vp9YbeV6uwX/vJ69NuIPpDld8=",
-      "publishedTime": "2017-04-19T14:53:55.000Z",
-      "ref": "v1.0.0"
-    },
-    "1.1.0": {
-      "bytes": 2240,
-      "hash": "sha256-Okje6VC6cPBd7qDqIZB3FIkIJm71p+HkWJ6XGUViYo8=",
-      "publishedTime": "2017-04-19T16:06:25.000Z",
-      "ref": "v1.1.0"
-    },
     "2.0.0": {
-      "bytes": 2214,
-      "hash": "sha256-cNSNzIEAoqwO7jAL7GBeiAjukvjv6ECpQonkzB87Psk=",
-      "publishedTime": "2017-04-21T21:17:54.000Z",
-      "ref": "v2.0.0"
+      "bytes": 2230,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-Xsl+wQqxa7k//WAFWs/SnAJleLAR/i2Z4u0iGzk7thY=",
+      "publishedTime": "2017-04-21T21:17:54.000Z"
     }
   },
   "unpublished": {}

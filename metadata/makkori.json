@@ -4,17 +4,29 @@
     "githubRepo": "purescript-makkori"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2977,
-      "hash": "sha256-D/G2nQv789/DQC7sFQX8TGr/jFsfgfnqGyB7/PWJJiA=",
-      "publishedTime": "2018-03-09T18:35:54.000Z",
-      "ref": "v0.1.0"
-    },
     "1.0.0": {
-      "bytes": 2974,
-      "hash": "sha256-GWscvvxvHgcQzp18S7dYBlWWZC2j2jGunynFby0JKec=",
-      "publishedTime": "2018-05-30T17:08:23.000Z",
-      "ref": "v1.0.0"
+      "bytes": 2992,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-mweLggSWNBPzlWhndzHCXIrkRP90Rh5a9VoNdWNbDQc=",
+      "publishedTime": "2018-05-30T17:08:23.000Z"
     }
   },
   "unpublished": {}

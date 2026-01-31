@@ -5,28 +5,60 @@
   },
   "published": {
     "0.1.0": {
-      "bytes": 6817,
-      "hash": "sha256-Cjz0OLlVNMYKTfkTYIo2LtUQIV5Hj7m2E5ZF6+N7Q2E=",
-      "publishedTime": "2019-12-15T19:15:18.000Z",
-      "ref": "v0.1.0"
+      "bytes": 6826,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-y+pF9MRqXWLuHAF2WbkGMzhKM3N8xOQuO0Twy5uVb+g=",
+      "publishedTime": "2019-12-15T19:15:18.000Z"
     },
     "0.1.1": {
-      "bytes": 6818,
-      "hash": "sha256-sDykMcMOSdDDVgf3kGiBq5mWdMw0N74k8w6awuNmPjU=",
-      "publishedTime": "2019-12-15T19:21:21.000Z",
-      "ref": "v0.1.1"
+      "bytes": 6828,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-TpZFAreC6SwjKh00lENH1Y5Zr6LbbHPVElKv2iGyQFQ=",
+      "publishedTime": "2019-12-15T19:21:21.000Z"
     },
     "0.2.0": {
-      "bytes": 7288,
-      "hash": "sha256-tVlUUAKotpVaU89i4kfUUTPirbXaZScQBWRRzgVFip0=",
-      "publishedTime": "2020-01-23T09:53:28.000Z",
-      "ref": "v0.2.0"
+      "bytes": 7296,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-gdSUEUwqFcG7xt4xzrHxTk7uZ1AMxjLjKIQE3m3IBM4=",
+      "publishedTime": "2020-01-23T09:53:28.000Z"
     },
     "0.3.0": {
-      "bytes": 8294,
-      "hash": "sha256-helPWFfAeXhqfzaG6UJjKk+L99jkpebEKuFMhxY0Bwg=",
-      "publishedTime": "2020-01-24T12:41:10.000Z",
-      "ref": "v0.3.0"
+      "bytes": 8308,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-sCumitkOUmNWr6FXl1p4qhKbXtfffrZRh9zF6TlwwT8=",
+      "publishedTime": "2020-01-24T12:41:10.000Z"
     }
   },
   "unpublished": {}

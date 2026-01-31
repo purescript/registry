@@ -4,23 +4,33 @@
     "githubRepo": "purescript-uint-instances"
   },
   "published": {
-    "0.0.0": {
-      "bytes": 1857,
-      "hash": "sha256-C0tTyO0FoDgC3iyNDI8voxV+6rwdUmIQ7V5MKmfJg2I=",
-      "publishedTime": "2019-01-03T22:29:33.000Z",
-      "ref": "v0.0.0"
-    },
     "0.0.1": {
-      "bytes": 3227,
-      "hash": "sha256-MjyuKJKiI4VTUUMxxXVhc74uesrNMPGV0OZgjc0u+9w=",
-      "publishedTime": "2020-04-29T22:48:16.000Z",
-      "ref": "v0.0.1"
+      "bytes": 3251,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-eXmJQmcGGtPZ2aOr0h6c14WXXb103qfO1H96opVPThQ=",
+      "publishedTime": "2020-04-29T22:48:16.000Z"
     },
     "0.0.2": {
-      "bytes": 3234,
-      "hash": "sha256-Mt4/6hzD5u4yA5UwcCZWmMSiIegNEJ1guWTaIzKovUc=",
-      "publishedTime": "2020-06-20T05:14:56.000Z",
-      "ref": "v0.0.2"
+      "bytes": 3256,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-/cCvXwSHLvPGWPY/mvS7BOz4J8Qs7fQjljvbmhNpJUs=",
+      "publishedTime": "2020-06-20T05:14:56.000Z"
     }
   },
   "unpublished": {}

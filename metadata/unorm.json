@@ -5,22 +5,76 @@
   },
   "published": {
     "0.0.0": {
-      "bytes": 728,
-      "hash": "sha256-zLDq0CQEQrNb1gGygTPW/bESbQ3gGbELH9StNTtyEQY=",
-      "publishedTime": "2017-11-09T20:42:19.000Z",
-      "ref": "v0.0.0"
+      "bytes": 704,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-quv2yrsANw1+I4LWDtajidBoPufRS0DBgJST0OR8w5w=",
+      "publishedTime": "2017-11-09T20:42:19.000Z"
     },
     "1.0.0": {
-      "bytes": 691,
-      "hash": "sha256-OpLSQxRKhJ+RR5a5TjWFwCVLk5+KLHC90FP0RumaXtA=",
-      "publishedTime": "2018-10-26T02:08:21.000Z",
-      "ref": "v1.0.0"
+      "bytes": 688,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-69UHJB22utcP9v9uRaYug+UGHe2mTUunGE/FK9cWe3c=",
+      "publishedTime": "2018-10-26T02:08:21.000Z"
     },
     "1.0.1": {
-      "bytes": 2075,
-      "hash": "sha256-iVjpXNL0wC5Cb5NpT64wS5vCD+MMLfAcY2VodxAxpsQ=",
-      "publishedTime": "2020-04-29T23:44:31.000Z",
-      "ref": "v1.0.1"
+      "bytes": 2073,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-1VBGfwTdd5HUncKUx3r/eU/CgBopti467exQC3wIjRg=",
+      "publishedTime": "2020-04-29T23:44:31.000Z"
     }
   },
   "unpublished": {}

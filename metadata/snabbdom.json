@@ -4,17 +4,19 @@
     "githubRepo": "purescript-snabbdom"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 6974,
-      "hash": "sha256-UkKHRGVNUDI8omZIp8hHsEICGyXzxNpkMHAE/pnT8cw=",
-      "publishedTime": "2017-04-17T00:43:56.000Z",
-      "ref": "v1.0.0"
-    },
     "1.0.1": {
-      "bytes": 6946,
-      "hash": "sha256-dKvo67uLlaRExO1L93VUu2ToWxddBgI3vxGFL31JaOE=",
-      "publishedTime": "2018-12-28T19:21:48.000Z",
-      "ref": "v1.0.1"
+      "bytes": 6952,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-wseYSQ+YBh/hnnArEq+6tTc4ecoDRzt8mxD9/T1vii4=",
+      "publishedTime": "2018-12-28T19:21:48.000Z"
     }
   },
   "unpublished": {}

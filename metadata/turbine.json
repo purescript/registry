@@ -4,41 +4,19 @@
     "githubRepo": "purescript-turbine"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 6449,
-      "hash": "sha256-eMigq3JVeNvZbIhx26rFRH2CQEo4a+NFVbvtJvG+nk0=",
-      "publishedTime": "2018-08-22T18:52:28.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 6439,
-      "hash": "sha256-HTRO4q6dRLSgaWAAWb8pm348ArRiGG+K1QkXp7czI/c=",
-      "publishedTime": "2018-08-22T19:00:52.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 6699,
-      "hash": "sha256-bCgjjZxjDCpdq2DgFGmVrNfPc9u3dlGDIoqqVXnjERQ=",
-      "publishedTime": "2018-08-30T18:04:47.000Z",
-      "ref": "v0.0.3"
-    },
-    "0.0.4": {
-      "bytes": 6695,
-      "hash": "sha256-u+mDy+5H7qEIzwxzZDPd2ZIfF8AspifnqEEqkna2SgA=",
-      "publishedTime": "2018-09-05T12:48:43.000Z",
-      "ref": "v0.0.4"
-    },
-    "0.0.5": {
-      "bytes": 10153,
-      "hash": "sha256-Llqo/toHX077ExcCcewmLAWS3Js4UotX5ZgSI+B/w4E=",
-      "publishedTime": "2019-02-25T18:11:14.000Z",
-      "ref": "v0.0.5"
-    },
     "0.1.0": {
-      "bytes": 8715,
-      "hash": "sha256-R+pyD7FKZkYtJp/f8c1QJZ2UiMzidTaR2biwH4TTuDo=",
-      "publishedTime": "2019-09-02T10:33:28.000Z",
-      "ref": "v0.1.0"
+      "bytes": 8684,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-Q2BkZx5uQYGIi6Zr8lbG/I4CcX3aOt0xWkr3sy7Xa98=",
+      "publishedTime": "2019-09-02T10:33:28.000Z"
     }
   },
   "unpublished": {}

@@ -3,31 +3,6 @@
     "githubOwner": "amderbar",
     "githubRepo": "purescript-form-decoder"
   },
-  "published": {
-    "0.0.0": {
-      "bytes": 3257,
-      "hash": "sha256-wIjmHt0tx7Oqq/zpsTK89Q0lB+3GcPDL+i1WD/DXPEQ=",
-      "publishedTime": "2019-05-02T02:30:09.000Z",
-      "ref": "0.0.0"
-    },
-    "0.0.1": {
-      "bytes": 3259,
-      "hash": "sha256-gCfUrYlwU/0dRPJgKJSoUZ3D0H9AZHBWmp4usmCYvek=",
-      "publishedTime": "2019-05-02T02:32:52.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 3431,
-      "hash": "sha256-4Yig+dmwg0dVHLcbY/kuDuot0BuFxY2avhd+3iRYXZE=",
-      "publishedTime": "2019-05-02T02:48:37.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 3434,
-      "hash": "sha256-7ZtJP5ThxfudGUiIjhi/czLAzkFfWK/FdNKyj3fBMqo=",
-      "publishedTime": "2020-04-01T14:24:34.000Z",
-      "ref": "v0.0.3"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

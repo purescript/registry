@@ -4,23 +4,83 @@
     "githubRepo": "purescript-cbor-stream"
   },
   "published": {
+    "1.0.1": {
+      "bytes": 5158,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-JyRbwI99atDWUbyty0ddP8ysrE1jG6kI9QmZ7qJLJwE=",
+      "publishedTime": "2024-05-14T20:06:30.000Z"
+    },
+    "1.0.2": {
+      "bytes": 5240,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-vPQ938gjRRLmBVJhwkYmhM50DHycEQ8+MOnnPx2bF9U=",
+      "publishedTime": "2024-05-14T20:09:03.000Z"
+    },
+    "1.0.3": {
+      "bytes": 5402,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-cyNhZh/sK09KFrMGOzAV6JvZp1BHDyjOlCF41DR5B3E=",
+      "publishedTime": "2024-05-22T20:50:53.000Z"
+    },
     "1.0.4": {
-      "bytes": 5390,
-      "hash": "sha256-ElMO3/EWH8f49HN5gWTaHpB9h5friu6zEoQdcjXdTU0=",
-      "publishedTime": "2024-05-22T20:55:40.228Z",
-      "ref": "v1.0.4"
+      "bytes": 5393,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-Rt/D+o+1m4a/D1/GU10GIQ7KCiIqGClEsItJqcgt7AI=",
+      "publishedTime": "2024-05-22T20:53:26.000Z"
     },
     "1.1.0": {
-      "bytes": 5391,
-      "hash": "sha256-MDg6HYN64lJaghYJPfdCnz4M1/5sjMmWXBHpEaKQuTs=",
-      "publishedTime": "2024-06-20T20:43:47.847Z",
-      "ref": "v1.1.0"
+      "bytes": 5395,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-CioHdHhxMWE6wxeV+u0eZjdD0KoJygqQuhEaegISboM=",
+      "publishedTime": "2024-06-20T20:43:39.000Z"
     },
     "1.3.0": {
-      "bytes": 5330,
-      "hash": "sha256-2C+msBPVYr+wRaWAabhKEaXGu484P98Rya6ojyMMyLU=",
-      "publishedTime": "2024-06-24T00:46:22.427Z",
-      "ref": "v1.3.0"
+      "bytes": 5340,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-JFASxAnMw1AdOdJKYQ1Xbf5HLScp5DSFCpVKAJxbAsM=",
+      "publishedTime": "2024-06-24T00:46:13.000Z"
     }
   },
   "unpublished": {}

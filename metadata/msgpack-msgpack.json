@@ -5,34 +5,58 @@
   },
   "published": {
     "0.1.0": {
-      "bytes": 2353,
-      "hash": "sha256-CL/aKAy5G511kbHtGI4Sm8eZO3gQpMkACPP5b6jtKs8=",
-      "publishedTime": "2019-05-28T09:21:33.000Z",
-      "ref": "v0.1.0"
+      "bytes": 2385,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-bLADelRRtOCfpoMIp47uhl0V6A2XwPGIs/2WcNQvX7k=",
+      "publishedTime": "2019-05-28T09:21:33.000Z"
     },
     "0.2.0": {
-      "bytes": 2557,
-      "hash": "sha256-g8ffcDjUNXPwOSAvYkZ5AEH+aTVTbxPVBXXz6REIUss=",
-      "publishedTime": "2019-06-02T07:52:51.000Z",
-      "ref": "v0.2.0"
+      "bytes": 2591,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-UV6W9+XEnyQ3KuX0k2XqzKRwbvBHye4Z7ZkjUu18xl4=",
+      "publishedTime": "2019-06-02T07:52:51.000Z"
     },
     "0.3.0": {
-      "bytes": 2603,
-      "hash": "sha256-yE3zCGguVftewC9QM62u6J/HcqvztY9MwunYVOZi8LI=",
-      "publishedTime": "2019-10-27T09:08:16.000Z",
-      "ref": "v0.3.0"
+      "bytes": 2630,
+      "compilers": [
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-KNkVuctXJa3lSAzY1zb8aS2n5QE6xgbEVH6sNZBC0Bg=",
+      "publishedTime": "2019-10-27T09:08:16.000Z"
     },
     "0.4.0": {
-      "bytes": 2606,
-      "hash": "sha256-HXL1chUIf0KRWbYZCgUhfKww6vm1Et0sW4gXou0h3XU=",
-      "publishedTime": "2020-05-06T02:21:23.000Z",
-      "ref": "v0.4.0"
-    },
-    "0.5.0": {
-      "bytes": 2679,
-      "hash": "sha256-RTzPK62FAoN5Bnhir6m+t0ud0AjZxPDWC4xQfGKg8bE=",
-      "publishedTime": "2020-09-03T05:28:29.000Z",
-      "ref": "v0.5.0"
+      "bytes": 2633,
+      "compilers": [
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-rMmyT8/Bk22Tqayv6IB6vK6+zlBQGwlmFEWE/IE42/w=",
+      "publishedTime": "2020-05-06T02:21:23.000Z"
     }
   },
   "unpublished": {}

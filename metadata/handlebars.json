@@ -4,23 +4,53 @@
     "githubRepo": "purescript-handlebars"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 1536,
-      "hash": "sha256-5ZaIf4UzfUK50khhMHabGgbJkWqJRvxs9KlzWCwV2eY=",
-      "publishedTime": "2015-02-21T17:38:47.000Z",
-      "ref": "v0.1.0"
-    },
     "1.0.0": {
       "bytes": 1754,
-      "hash": "sha256-v6mAHGl6jyMRAzNlmJhxNgU0D9thcXacTJzym3z+rnA=",
-      "publishedTime": "2016-06-02T03:05:34.000Z",
-      "ref": "v1.0.0"
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-SA5DI3vnWkXs7i5ktMw3VqvZZ6sdAbqBXYnYiKXHDQ8=",
+      "publishedTime": "2016-06-02T03:05:34.000Z"
     },
     "2.0.0": {
-      "bytes": 2006,
-      "hash": "sha256-XoL+94iy/ccnhutaW6xvfkALGXQA/Q2YjNs82k3XdO0=",
-      "publishedTime": "2016-10-24T01:46:17.000Z",
-      "ref": "v2.0.0"
+      "bytes": 2008,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-zCTjNjx6/pn0w7nt4fxqNr+FgDCniolPteIjq1yocTo=",
+      "publishedTime": "2016-10-24T01:46:17.000Z"
     }
   },
   "unpublished": {}

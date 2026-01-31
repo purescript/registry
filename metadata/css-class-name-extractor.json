@@ -4,23 +4,93 @@
     "githubRepo": "purescript-css-class-name-extractor"
   },
   "published": {
+    "0.0.1": {
+      "bytes": 8903,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-gSg+POZDRIHu6Rs3ngM+c4VmLohhYob0GhfXP5W+HKQ=",
+      "publishedTime": "2024-12-02T15:42:59.000Z"
+    },
     "0.0.2": {
-      "bytes": 8913,
-      "hash": "sha256-6yfOI9c0Fhwb4HvkrJiAZf7TaRscZ9CTdyU0W+cV+As=",
-      "publishedTime": "2024-12-02T16:03:39.529Z",
-      "ref": "v0.0.2"
+      "bytes": 8906,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-TzOgKRC3SaR00X/duJRhfjYmXv7+K1ggdVWXmL6xDuI=",
+      "publishedTime": "2024-12-02T16:02:15.000Z"
     },
     "0.0.3": {
-      "bytes": 9178,
-      "hash": "sha256-PmC6vX4bSFOv1EE/KHTD/5SqYb3xtxo9oXjjZzX5i/g=",
-      "publishedTime": "2024-12-06T09:46:45.788Z",
-      "ref": "v0.0.3"
+      "bytes": 9173,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-qCkYop/GVQbhn96byzjcTJ2TiqkBVGkFOk5AnOPhUpY=",
+      "publishedTime": "2024-12-06T09:40:09.000Z"
     },
     "0.0.4": {
-      "bytes": 9327,
-      "hash": "sha256-3g7ecDD8ZN3WbeYNpTu/9eNIT47rDDdA5Eowy8XT/xM=",
-      "publishedTime": "2025-01-09T13:22:42.069Z",
-      "ref": "0.0.4"
+      "bytes": 9318,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-edtoW67zc9zq7gn/JAA2FlNBdbm7Hijf3o52zW0vxcs=",
+      "publishedTime": "2025-01-09T13:20:52.000Z"
     }
   },
   "unpublished": {}

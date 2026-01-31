@@ -4,29 +4,65 @@
     "githubRepo": "purescript-sunde"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2138,
-      "hash": "sha256-REZ019aa2HG/FnUxCSYf+G4ZNeRZREFjt7N6gQv+vW8=",
-      "publishedTime": "2018-03-22T21:21:45.000Z",
-      "ref": "v0.1.0"
-    },
     "1.0.0": {
-      "bytes": 2048,
-      "hash": "sha256-QXKIhwLp3/Zd8G61yl9erxTneogrlEaJEpmTBz5w+gw=",
-      "publishedTime": "2018-06-03T07:44:58.000Z",
-      "ref": "v1.0.0"
+      "bytes": 2067,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-7fDXijoelU27q01mMxIHyt4AtOZyx+sdjwtZutJfs6Q=",
+      "publishedTime": "2018-06-03T07:44:58.000Z"
     },
     "2.0.0": {
-      "bytes": 2176,
-      "hash": "sha256-V+qIxWeiX+55onpXxgh6HRVPdd7kPZzExOTwklsgBxo=",
-      "publishedTime": "2019-06-17T13:16:05.000Z",
-      "ref": "v2.0.0"
+      "bytes": 2206,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-Xt4ZcbaXi1RmVNZRztdT0rxK+Y0rzoSUe7OZI5YtPdQ=",
+      "publishedTime": "2019-06-17T13:16:05.000Z"
     },
     "3.0.0": {
-      "bytes": 2194,
-      "hash": "sha256-+b+nYymr9tqFPNruhKfuaO7eN2gBLA80PfUgd1kJA4g=",
-      "publishedTime": "2022-08-08T15:58:50.000Z",
-      "ref": "v3.0.0"
+      "bytes": 2224,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-/aSZ+sNP4TssoxsAemFOJKaG/itBJLcbIgZ/7rb3sDc=",
+      "publishedTime": "2022-08-08T15:58:50.000Z"
     }
   },
   "unpublished": {}

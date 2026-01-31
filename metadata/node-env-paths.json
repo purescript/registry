@@ -6,9 +6,25 @@
   "published": {
     "1.0.0": {
       "bytes": 2509,
-      "hash": "sha256-nq8tqpK/Nupy9hilxe+ZlHo0MNxiObs35ExZ6P9cn4g=",
-      "publishedTime": "2023-06-09T14:51:01.000Z",
-      "ref": "v1.0.0"
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-RraKm3zHF/vW3ArQ9rL3DSGkB6jzP/GCxfRZgzUAr8o=",
+      "publishedTime": "2023-06-09T14:51:01.000Z"
     }
   },
   "unpublished": {}

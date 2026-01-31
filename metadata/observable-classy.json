@@ -5,10 +5,18 @@
   },
   "published": {
     "0.1.0": {
-      "bytes": 2364,
-      "hash": "sha256-kz+NTpCITsS9MtuRUHHjljtS/QHppwzkHoJ9/vscIdw=",
-      "publishedTime": "2017-10-10T12:24:51.000Z",
-      "ref": "v0.1.0"
+      "bytes": 2357,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-wcBbNpKWl+Jh8TXG745DnmnT3+ZRQZLbHvTMh4rsb8E=",
+      "publishedTime": "2017-10-10T12:24:51.000Z"
     }
   },
   "unpublished": {}

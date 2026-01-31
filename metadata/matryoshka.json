@@ -4,29 +4,58 @@
     "githubRepo": "purescript-matryoshka"
   },
   "published": {
-    "0.3.0": {
-      "bytes": 10053,
-      "hash": "sha256-L6oqTqdxjhBVI+l5TrlVHSRvE7rekYmojAOhFBrJIvc=",
-      "publishedTime": "2017-04-11T19:58:52.000Z",
-      "ref": "v0.3.0"
-    },
     "0.4.0": {
-      "bytes": 10076,
-      "hash": "sha256-V0dTN5BWrR92U9QRVi68x7YIQCZegmZJ6JMGhGF0aPI=",
-      "publishedTime": "2018-06-28T04:07:44.000Z",
-      "ref": "v0.4.0"
+      "bytes": 10145,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-nnK5jiafPwz68BSsQ7IMwnjtKMYo/o1DUUsQAdyaG8Y=",
+      "publishedTime": "2018-06-28T04:07:44.000Z"
     },
     "0.5.0": {
-      "bytes": 10852,
-      "hash": "sha256-7clEc7OJK9fv9zC9CbitZfKxnVZVmnI7Xo/ywyKDcrc=",
-      "publishedTime": "2021-02-26T22:31:52.000Z",
-      "ref": "v0.5.0"
+      "bytes": 10918,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-H2NFiKfCHkkH9aFhUTbSA0xSDinOQZ0juX29dsBgA9U=",
+      "publishedTime": "2021-02-26T22:31:52.000Z"
     },
     "1.0.0": {
-      "bytes": 10781,
-      "hash": "sha256-dPK0v3oNvaHL7finM6TqtxqHIDiiFKLQkqpoerGVqKE=",
-      "publishedTime": "2022-04-27T21:15:08.000Z",
-      "ref": "v1.0.0"
+      "bytes": 10829,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-vnLqowk7gEb2vMvxMmeIinID47JuEBqp6wsKyYBvIGY=",
+      "publishedTime": "2022-04-27T21:15:08.000Z"
     }
   },
   "unpublished": {}

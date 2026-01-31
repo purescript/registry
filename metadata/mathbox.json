@@ -4,29 +4,33 @@
     "githubRepo": "purescript-mathbox"
   },
   "published": {
-    "0.3.0": {
-      "bytes": 32814,
-      "hash": "sha256-bEuumEb9JPnsbPOsvJnpUhRFU/bDnrZiD2E8XmKRwMk=",
-      "publishedTime": "2017-04-09T18:49:00.000Z",
-      "ref": "v0.3.0"
-    },
-    "0.4.0": {
-      "bytes": 33102,
-      "hash": "sha256-UK/guWLRO5XNP9IBiqmqFkpoL7S2ZgnAK0GXEVcgVis=",
-      "publishedTime": "2017-04-09T19:02:12.000Z",
-      "ref": "v0.4.0"
-    },
     "0.5.0": {
-      "bytes": 32742,
-      "hash": "sha256-In2UwjkXkw40R40wXa4Vp74f3Kg2uVzPDhd7imLW6h8=",
-      "publishedTime": "2019-05-11T15:25:37.000Z",
-      "ref": "v0.5.0"
+      "bytes": 32775,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-fXFYz+7uoFOm7AIYCy2K9k9P4JMLpz4TkySipp+udN4=",
+      "publishedTime": "2019-05-11T15:25:37.000Z"
     },
     "0.6.0": {
-      "bytes": 32743,
-      "hash": "sha256-TdNeM00CHHHidJ0tm4gUVN9rn+uiEzNbEMbYEcNL5xc=",
-      "publishedTime": "2019-05-11T16:20:22.000Z",
-      "ref": "v0.6.0"
+      "bytes": 32777,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-6CaBUM+NNaFgd7Nq6tIz7xR0A1yqFE1rvHoSN+HG+lc=",
+      "publishedTime": "2019-05-11T16:20:22.000Z"
     }
   },
   "unpublished": {}

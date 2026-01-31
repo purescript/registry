@@ -4,23 +4,19 @@
     "githubRepo": "purescript-vary"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2118,
-      "hash": "sha256-wHwfOe9H2i6JtuDg+7ivvr9gCuzeyDUFfhqfmajzewU=",
-      "publishedTime": "2017-06-16T13:04:02.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 2029,
-      "hash": "sha256-slB8J8TgkTNJuPM4HpG5Iz5DUt/2vMyGj9tkvSjsRHQ=",
-      "publishedTime": "2017-10-27T13:12:48.000Z",
-      "ref": "v0.2.0"
-    },
     "1.0.0": {
-      "bytes": 2003,
-      "hash": "sha256-b2uSIKG6XcqAZMckMNjt6+wwLWYVc7cJS1ou2L0+nI8=",
-      "publishedTime": "2018-05-30T13:38:17.000Z",
-      "ref": "v1.0.0"
+      "bytes": 2056,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-dXzp/NkGaAS4PIVIMudEcNZdyp2sY1ZMyZ7zB0B/ILs=",
+      "publishedTime": "2018-05-30T13:38:17.000Z"
     }
   },
   "unpublished": {}

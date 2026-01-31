@@ -4,41 +4,71 @@
     "githubRepo": "purescript-rito"
   },
   "published": {
-    "0.0.0": {
-      "bytes": 52220,
-      "hash": "sha256-CzEFHbraaBZgLdm/970KZqn48CciLbPe4x6d7VVn8D4=",
-      "publishedTime": "2022-06-20T19:31:34.000Z",
-      "ref": "v0.0.0"
-    },
-    "0.0.2": {
-      "bytes": 57796,
-      "hash": "sha256-YNzCbU/SI6g8ECpNgBNm2zjvcz2Qb5zjMWMegFP61yo=",
-      "publishedTime": "2022-06-29T18:35:31.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 58232,
-      "hash": "sha256-sZBYUOf74SejzLfNlKLLrc5IbUXMr6FVmpaQNqzblSM=",
-      "publishedTime": "2022-08-10T08:24:20.000Z",
-      "ref": "v0.0.3"
-    },
     "0.1.0": {
-      "bytes": 58256,
-      "hash": "sha256-8Sv63Eo8xzxr9FrAsPUMjmLZ1hGFd1seBdIL1/FWZFo=",
-      "publishedTime": "2022-08-22T08:01:29.000Z",
-      "ref": "v0.1.0"
+      "bytes": 58244,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-dQLUyvK6+O+8OIc3wHdD9TDAsdBM5F9vnUP9l//bfok=",
+      "publishedTime": "2022-08-22T08:01:29.000Z"
     },
     "0.3.2": {
-      "bytes": 61080,
-      "hash": "sha256-kZsfmM/xksbARvao5oVySeawklzIQb+w23lMTbtzBRs=",
-      "publishedTime": "2022-10-30T16:53:19.000Z",
-      "ref": "v0.3.2"
+      "bytes": 61055,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-Ys4luRjOGuhn53TpznfUS7G0HduelNgxOjCpV/IEkoU=",
+      "publishedTime": "2022-10-30T16:53:19.000Z"
     },
     "0.3.4": {
-      "bytes": 59928,
-      "hash": "sha256-2zf9rPZJ8Kwi7mJNcIuFxV1pGbDlgwingpjzKezM3fY=",
-      "publishedTime": "2023-04-19T01:46:52.000Z",
-      "ref": "v0.3.4"
+      "bytes": 59900,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-O9h0tWHBHF5Pww/zCNWOUkQdjS+iXMClvmXsUCg0Dgo=",
+      "publishedTime": "2023-04-19T01:46:52.000Z"
     }
   },
   "unpublished": {}

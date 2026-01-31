@@ -4,59 +4,118 @@
     "githubRepo": "purescript-encoding"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 6517,
-      "hash": "sha256-5jOIdD/Q7F7hKcZ27HhXuI1SjHBTI5l4CyBlegNY2DM=",
-      "publishedTime": "2016-07-14T20:10:07.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 6717,
-      "hash": "sha256-JkFC0Cn2csdB5vfI9ryBCep3rea05NitJXiMVgIwZqc=",
-      "publishedTime": "2016-07-15T12:30:53.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 6706,
-      "hash": "sha256-gEZW1Qcl0hTFF7dYJm6TObMvm/oiJBsfzEuEEGfhpUc=",
-      "publishedTime": "2016-10-25T17:48:23.000Z",
-      "ref": "v0.0.3"
-    },
     "0.0.4": {
-      "bytes": 6703,
-      "hash": "sha256-Um0LlPTICKa7ObTenjsRGo8gglrMqKSH9pSRwTZCPI4=",
-      "publishedTime": "2017-04-19T17:24:52.000Z",
-      "ref": "v0.0.4"
+      "bytes": 6702,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-CXYjS3h5dihWmkUYhn4PAUAUCjRS8dbIRBYpC4KCg5Y=",
+      "publishedTime": "2017-04-19T17:24:52.000Z"
     },
     "0.0.5": {
-      "bytes": 6688,
-      "hash": "sha256-O7dXHv/9BN3fEdl6Ei0mDQ46sDovSSLLX+MBqN/Giyk=",
-      "publishedTime": "2018-07-06T15:47:32.000Z",
-      "ref": "v0.0.5"
+      "bytes": 6687,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-kL4iJKlAPGPCD248l1oqaV4VhyVyY7du62IFc8nH0o0=",
+      "publishedTime": "2018-07-06T15:47:32.000Z"
     },
     "0.0.6": {
-      "bytes": 7399,
-      "hash": "sha256-EP9TYJsQ7rXloibBGVOjlXNsuTSXRKNSrD3nEsdQj68=",
-      "publishedTime": "2019-10-15T17:56:39.000Z",
-      "ref": "v0.0.6"
+      "bytes": 7397,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-dOUYieQA+yqwWy1pejsCAuWmaZq3bhLJaKBL2LbW3Xo=",
+      "publishedTime": "2019-10-15T17:56:39.000Z"
     },
     "0.0.7": {
-      "bytes": 7450,
-      "hash": "sha256-g/wOXKglX+D4po2JChMNgtrIWPj6JTGFEhFkQSJl3Ig=",
-      "publishedTime": "2021-03-10T17:16:49.000Z",
-      "ref": "v0.0.7"
+      "bytes": 7448,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-KFc8K6ZY/4ygz3RCWJdoCfB7mXBQBhC5rPBiViEBWy4=",
+      "publishedTime": "2021-03-10T17:16:49.000Z"
     },
     "0.0.8": {
-      "bytes": 6435,
-      "hash": "sha256-n0HhENAax0yr7JFwZXcisx0jJvVf1dFwqd+Q5i2Pr88=",
-      "publishedTime": "2022-04-30T17:28:49.000Z",
-      "ref": "v0.0.8"
+      "bytes": 6430,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-GjoDQYNoXYCHeINXsHzo3rNzSv7PpOUc8UEMGFRI+lk=",
+      "publishedTime": "2022-04-30T17:28:49.000Z"
     },
     "0.0.9": {
       "bytes": 6433,
-      "hash": "sha256-vtyUO06Jww8pFl4wRekPd1YpJl2XuQXcaNXQgHtG8Tk=",
-      "publishedTime": "2024-01-27T07:20:19.471Z",
-      "ref": "v0.0.9"
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-VmELMMTv0r8C5ZABFHANoni7HZ7dX2yu5O83hSLZsSM=",
+      "publishedTime": "2024-01-26T18:00:00.000Z"
     }
   },
   "unpublished": {}

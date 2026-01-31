@@ -4,35 +4,19 @@
     "githubRepo": "purescript-dispatcher-react"
   },
   "published": {
-    "2.0.0": {
-      "bytes": 5194,
-      "hash": "sha256-APXiDybxhKhwvyN8FdapTcg4RpWr6U558bPNZNQohjQ=",
-      "publishedTime": "2017-04-12T23:16:38.000Z",
-      "ref": "v2.0.0"
-    },
-    "2.1.0": {
-      "bytes": 5576,
-      "hash": "sha256-txFu87X3tiFiP1HCLBm5vhFvn+uM4sYW1N1/HxjWwbQ=",
-      "publishedTime": "2017-06-22T02:19:42.000Z",
-      "ref": "v2.1.0"
-    },
-    "3.0.0": {
-      "bytes": 5347,
-      "hash": "sha256-4/haN0koPnbO6Zdeon/TXmiqnVcLFWc5N5YzcAx/PAA=",
-      "publishedTime": "2017-09-11T06:13:57.000Z",
-      "ref": "v3.0.0"
-    },
-    "3.1.0": {
-      "bytes": 5360,
-      "hash": "sha256-jaS8ai7OTX9msj3r8BnBMhqKXcM5dFMCu73YhR+VE4U=",
-      "publishedTime": "2017-11-04T01:38:26.000Z",
-      "ref": "v3.1.0"
-    },
     "4.0.0": {
-      "bytes": 3296,
-      "hash": "sha256-MwnH5sqIRjTkXh6bpzB37PZvJCv5MY7iIfqwZmT9n6c=",
-      "publishedTime": "2018-06-13T04:23:46.000Z",
-      "ref": "v4.0.0"
+      "bytes": 3331,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-orTOol1vqP8bFebKDoJAxBwOSYgQ0smF4xIuDL54uXc=",
+      "publishedTime": "2018-06-13T04:23:46.000Z"
     }
   },
   "unpublished": {}

@@ -4,53 +4,47 @@
     "githubRepo": "purescript-choco-pie"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 3291,
-      "hash": "sha256-ZN5IL8IHQ1EKVATHdglSMm9IrUvJwSGA3OKwgtejFvI=",
-      "publishedTime": "2017-08-05T08:23:51.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 3764,
-      "hash": "sha256-8yoP8x3UKKlI0nlTCyNxy53irMumuRhzVQfuOUSVEA0=",
-      "publishedTime": "2017-08-05T20:24:04.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 3778,
-      "hash": "sha256-hiYFgJLHc44RWteRUzTp/QNgNgBoZ6JIRcE3yJlsDqo=",
-      "publishedTime": "2017-08-22T22:30:47.000Z",
-      "ref": "v0.3.0"
-    },
-    "1.0.0": {
-      "bytes": 3788,
-      "hash": "sha256-Kmm2J+vdgKLtWQ8BwLBlNZDNdhKXZJcIfEeGSOs0Bdw=",
-      "publishedTime": "2017-11-23T21:22:16.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 3708,
-      "hash": "sha256-rYoESJmclZ6ZzScVLTXtwREcZMS5jwvpEh9TpuLThlw=",
-      "publishedTime": "2018-06-19T19:17:23.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
-      "bytes": 3313,
-      "hash": "sha256-SaQo56Zz+NINg8W8RsJ6HJ5A0PP1HiqMrjyGBlFHvW8=",
-      "publishedTime": "2018-08-19T12:31:01.000Z",
-      "ref": "v3.0.0"
+      "bytes": 3326,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-HoH6zJWVtEu1+HxF5U7LNsyx+j2C+QNYkOf7itPQUZY=",
+      "publishedTime": "2018-08-19T12:31:01.000Z"
     },
     "4.0.0": {
-      "bytes": 3380,
-      "hash": "sha256-8UHlZxnhwgacJBdXksAFjNPaS8hap5B/ANi7C0NAPSU=",
-      "publishedTime": "2019-03-23T12:54:32.000Z",
-      "ref": "v4.0.0"
+      "bytes": 3389,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-peT3Yypb531eQ5KrTMtRFsn5km8HO4Kygd/HyDe0sR8=",
+      "publishedTime": "2019-03-23T12:54:32.000Z"
     },
     "5.0.0": {
-      "bytes": 3387,
-      "hash": "sha256-PtK6ztnb34XQB5ahpDwuYDVRmW9U7+VdN7O3FX5FXqE=",
-      "publishedTime": "2019-05-30T07:31:17.000Z",
-      "ref": "v5.0.0"
+      "bytes": 3397,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-tWnu91aS5kbxydeuCyxd/gj9wfvN5QGGeUyn0JldOfY=",
+      "publishedTime": "2019-05-30T07:31:17.000Z"
     }
   },
   "unpublished": {}

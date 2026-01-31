@@ -4,29 +4,55 @@
     "githubRepo": "purescript-argonaut-aeson-generic"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 8468,
-      "hash": "sha256-Sk7rxXuZ13Oqgm/BHt6zP/PWL+sySLlSR7r6FfzLl1M=",
-      "publishedTime": "2017-10-19T13:22:11.000Z",
-      "ref": "v0.1.0"
-    },
     "0.2.0": {
-      "bytes": 11637,
-      "hash": "sha256-F2+BuAYx7uDM7KJaEmViYv1fgFApyWB2jeGDL6cYWJA=",
-      "publishedTime": "2020-11-12T23:39:30.000Z",
-      "ref": "v0.2.0"
+      "bytes": 11679,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-+5ZEkJVrI6NSh2kA8ERuoDohK5Ij+F1cBW4zTxYvFJM=",
+      "publishedTime": "2020-11-12T23:39:30.000Z"
     },
     "0.3.0": {
-      "bytes": 11742,
-      "hash": "sha256-7g2Yfus/Wihgm+q2wsrR4wewzi0DN+EPnIFk7Kl9B7E=",
-      "publishedTime": "2021-01-17T11:09:30.000Z",
-      "ref": "v0.3.0"
+      "bytes": 11783,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-IAFtj7Leou8vuK4ynqOWj2LTsY5L+m2VZUi/97AR9PA=",
+      "publishedTime": "2021-01-17T11:09:30.000Z"
     },
     "0.4.1": {
-      "bytes": 10363,
-      "hash": "sha256-zYTqoc7JyJpRxOdQ7SiR5re9WZ3EtrIdBZmigCBOmh8=",
-      "publishedTime": "2022-12-24T02:21:41.000Z",
-      "ref": "v0.4.1"
+      "bytes": 10345,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-bHpx6ozKTuZy8OwUtnhf8jVFLodKqv2G1tjOQNTGUuo=",
+      "publishedTime": "2022-12-24T02:21:41.000Z"
     }
   },
   "unpublished": {}

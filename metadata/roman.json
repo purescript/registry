@@ -4,29 +4,44 @@
     "githubRepo": "roman"
   },
   "published": {
-    "0.2.0": {
-      "bytes": 4766,
-      "hash": "sha256-pOiRjL5V/y8pPCjs/CTGTlqmhz/r8+QrBHTXuwboYLU=",
-      "publishedTime": "2021-06-01T20:29:41.000Z",
-      "ref": "v0.2.0"
-    },
     "0.2.1": {
-      "bytes": 4869,
-      "hash": "sha256-iVE07vL16DbvrJbmYwo+sRu99BfsMNldnDRIgpQbTNo=",
-      "publishedTime": "2021-12-05T22:05:09.000Z",
-      "ref": "v0.2.1"
-    },
-    "0.3.2": {
-      "bytes": 5224,
-      "hash": "sha256-mD5wtAYFO4ZeDZZ082Owuz93UioB+bfDzAu20F41Lrk=",
-      "publishedTime": "2023-02-27T19:02:10.000Z",
-      "ref": "v0.3.2"
+      "bytes": 4906,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-HICgYEh1E0PnKmyvNEdfTP8oWMqV3tgiO1SRN0K0E5s=",
+      "publishedTime": "2021-12-05T22:05:09.000Z"
     },
     "0.4.0": {
-      "bytes": 4413,
-      "hash": "sha256-u6NZlvxvre2krNo6wy/3wFnBfa7f4MdiIdBoX6RK3bw=",
-      "publishedTime": "2024-06-25T17:19:59.282Z",
-      "ref": "v0.4.0"
+      "bytes": 4421,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-p2AbxBhOXZjn3MzEO3RoeYdJjboZG41thEmk+xS/j9I=",
+      "publishedTime": "2024-06-25T17:15:43.000Z"
     }
   },
   "unpublished": {}

@@ -5,10 +5,26 @@
   },
   "published": {
     "1.0.0": {
-      "bytes": 8555,
-      "hash": "sha256-HOUfMQTAIuL5AOCUlJJcKq78masah+388eQOdloYH1g=",
-      "publishedTime": "2023-01-24T02:46:57.000Z",
-      "ref": "v1.0.0"
+      "bytes": 8556,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-3Uet4N3iU8qXqVD5isYv54tS+v5fqd5zbhJ7ntQLjR4=",
+      "publishedTime": "2023-01-24T02:46:57.000Z"
     }
   },
   "unpublished": {}
