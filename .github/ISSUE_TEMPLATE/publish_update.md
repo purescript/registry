@@ -10,6 +10,6 @@ assignees: ""
 {
   "name": "my-library",
   "ref": "v1.1.0",
-  "compiler": "0.15.4"
+  "version": "1.1.0"
 }
 ```
