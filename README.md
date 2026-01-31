@@ -1,7 +1,7 @@
 # PureScript Registry
 
-[![Import Packages](https://github.com/purescript/registry-preview/actions/workflows/importer.yml/badge.svg)](https://github.com/purescript/registry-preview/actions/workflows/importer.yml)
-[![Registry API](https://github.com/purescript/registry-preview/actions/workflows/api.yml/badge.svg)](https://github.com/purescript/registry-preview/actions/workflows/api.yml)
+[![Daily Jobs](https://github.com/purescript/registry-preview/actions/workflows/daily-jobs.yml/badge.svg)](https://github.com/purescript/registry-preview/actions/workflows/daily-jobs.yml)
+[![Registry API](https://github.com/purescript/registry-preview/actions/workflows/process-issue.yml/badge.svg)](https://github.com/purescript/registry-preview/actions/workflows/process-issue.yml)
 
 The PureScript Registry stores PureScript packages (and metadata about them) and provides an API for registering, updating, transferring, and unpublishing packages. Most PureScript users will only interact with the registry via package managers.
 
