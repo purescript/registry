@@ -1,0 +1,40 @@
+name: Process Registry Issue
+
+on:
+    issues:
+        types: [opened]
+    issue_comment:
+        types: [created]
+
+jobs:
+    process:
+        # Only run on issues, not PRs
+        if: ${{ !github.event.issue.pull_request }}
+        permissions:
+            issues: write
+            contents: read
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Install Nix
+              uses: DeterminateSystems/nix-installer-action@v21
+              with:
+                  determinate: false
+
+            - name: Setup Nix cache
+              uses: DeterminateSystems/magic-nix-cache-action@v13
+
+            - name: Checkout registry-dev
+              uses: actions/checkout@v4
+              with:
+                  repository: purescript/registry-dev
+                  ref: master
+
+            - name: Process issue
+              env:
+                  GITHUB_EVENT_PATH: ${{ github.event_path }}
+                  PACCHETTIBOTTI_TOKEN: ${{ secrets.PACCHETTIBOTTI_TOKEN }}
+                  PACCHETTIBOTTI_ED25519: ${{ secrets.PACCHETTIBOTTI_ED25519 }}
+                  PACCHETTIBOTTI_ED25519_PUB: ${{ secrets.PACCHETTIBOTTI_ED25519_PUB }}
+              run: |
+                  nix run .#github-importer
