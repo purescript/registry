@@ -5,16 +5,32 @@
   },
   "published": {
     "1.0.2": {
-      "bytes": 3993,
-      "hash": "sha256-6BLU2//OBJreolscM8Rz2Y0oyg+svAFoMm2cf8hXQUU=",
-      "publishedTime": "2023-10-13T12:33:55.414Z",
-      "ref": "v1.0.2"
+      "bytes": 4000,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-wRDI/NIfz8HMH9euj/qupm2VVHNeBO1QRtFFabQ690Y=",
+      "publishedTime": "2023-10-13T12:31:46.000Z",
+      "ref": ""
     },
     "1.0.3": {
-      "bytes": 4018,
-      "hash": "sha256-IVJyYhddJqmQO7tfX30BtEHVE1mXRhmu2CU1rp0bhBk=",
-      "publishedTime": "2024-07-27T10:00:31.806Z",
-      "ref": "v1.0.3"
+      "bytes": 4028,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-3Uo6mYl/E1HZB+TWHROC0WpowCxLkTkPQoFPpPlyWlA=",
+      "publishedTime": "2024-07-27T09:56:47.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

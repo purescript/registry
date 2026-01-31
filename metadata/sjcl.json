@@ -3,19 +3,6 @@
     "githubOwner": "athanclark",
     "githubRepo": "purescript-sjcl"
   },
-  "published": {
-    "0.0.0": {
-      "bytes": 10324,
-      "hash": "sha256-jQPXuokXpE+LDCqUf2APThdhwdH3kCYo6+ObUORydQE=",
-      "publishedTime": "2019-01-20T21:48:50.000Z",
-      "ref": "v0.0.0"
-    },
-    "0.0.1": {
-      "bytes": 11695,
-      "hash": "sha256-x/M3mUwsACuPawT4TvrLNaJuiiHaD6yFj4nwfc/DecY=",
-      "publishedTime": "2020-04-29T22:23:30.000Z",
-      "ref": "v0.0.1"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

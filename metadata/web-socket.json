@@ -5,28 +5,75 @@
   },
   "published": {
     "1.0.0": {
-      "bytes": 3644,
-      "hash": "sha256-XCNQaI98Nzm9e/5GlEA5CDscJBk/0GXxDrs3yniNjsM=",
+      "bytes": 3707,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-tgvDLmorVGXaogKol80cjQYZH59JthHnvR53R/bKGks=",
       "publishedTime": "2018-05-25T14:38:40.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "2.0.0": {
-      "bytes": 3655,
-      "hash": "sha256-wJdUYEOvu97AZT3tWGP30QQY4GjVkD99IQ5yJa7xjyA=",
+      "bytes": 3720,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-FpOTguroVdGgGiSxunPxqb5jgDdTycQ6Z++vzZ0awLE=",
       "publishedTime": "2019-02-23T18:19:31.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     },
     "3.0.0": {
-      "bytes": 3692,
-      "hash": "sha256-5SDHb1FZYi4uxpQYRPgt4+f5NXL8wwh/2IesNwOzEFI=",
+      "bytes": 3758,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-VLrjiF5oeMmuQabadql5hhAj/yMivzdJpBX5Xe1+kz8=",
       "publishedTime": "2021-02-26T21:07:50.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "4.0.0": {
-      "bytes": 3679,
-      "hash": "sha256-xz46Q/rdJPNdLhq8QsyfxBoc2CTRXzgbwAj8oqV//C4=",
+      "bytes": 3741,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-mm27+cvgtWaJBuDKl35fqKX+EgJEvq4cKA6nBuBfYhs=",
       "publishedTime": "2022-04-27T23:33:59.000Z",
-      "ref": "v4.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

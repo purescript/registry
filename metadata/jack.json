@@ -4,47 +4,20 @@
     "githubRepo": "purescript-jack"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 13888,
-      "hash": "sha256-584huFlLm5yA4NuWhhDcWZBgQ/UEg9p050V/c4zpMhM=",
-      "publishedTime": "2016-10-06T12:53:50.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.0.2": {
-      "bytes": 13964,
-      "hash": "sha256-Ho4cHkjqfzyoDK5oHiYKtQKJ42U/YfZJywuvtVqODqA=",
-      "publishedTime": "2016-10-09T23:08:10.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.1.0": {
-      "bytes": 14100,
-      "hash": "sha256-G+f/JovVFpRv9qEalsKCf2MhdZuyl19q8wuSzhiZJ88=",
-      "publishedTime": "2016-11-08T01:01:31.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 14155,
-      "hash": "sha256-xBDfJuGLH8zRwqQ7w3oyV/gJBnkyYTEzkH5bQ5fM4Yw=",
-      "publishedTime": "2017-03-12T20:10:05.000Z",
-      "ref": "v0.2.0"
-    },
-    "1.0.0": {
-      "bytes": 14163,
-      "hash": "sha256-rbrtKkUArgvKG/xpCqgLo/PXI4yEOoq71hJgfHTKxR4=",
-      "publishedTime": "2017-03-12T20:25:07.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 14002,
-      "hash": "sha256-tCi6Xwath9NtPI0TyuF8mUIdqKrWnzUlpVnjr2rukog=",
-      "publishedTime": "2017-06-09T23:19:15.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
-      "bytes": 14256,
-      "hash": "sha256-kuwx8Sqb9sJe0l+KyRAjW7P5YD2qjZQmThCiFQ2oROY=",
+      "bytes": 14308,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-XDIUr1suPDIRJBiSV9qLKjrajbkcUayWY6i/9XTuJRg=",
       "publishedTime": "2019-06-17T01:20:07.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

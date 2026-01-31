@@ -4,83 +4,95 @@
     "githubRepo": "purescript-webstorage"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 1522,
-      "hash": "sha256-bjl2fm5mcdVcn5MEZ/yTUcYsJ5bCN6leAiKEH7JMkRQ=",
-      "publishedTime": "2014-05-26T03:58:07.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.1.0": {
-      "bytes": 1542,
-      "hash": "sha256-aXw3SIDWBhyPZuh1niQuxASUWmOLPj/oqhGvuTy0ZbM=",
-      "publishedTime": "2014-06-19T23:37:54.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 1522,
-      "hash": "sha256-k1CcCrk/UNK5d1HInv8AaY+CY89nScMPjy5TeLeH6js=",
-      "publishedTime": "2014-08-14T03:13:12.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 1602,
-      "hash": "sha256-4kWWxf+Vpty4/cxVJHoyle0brUmppJeJPdJT/S77Dyk=",
-      "publishedTime": "2015-03-23T20:28:08.000Z",
-      "ref": "v0.3.0"
-    },
-    "0.4.0": {
-      "bytes": 1652,
-      "hash": "sha256-7cT8SUAmx+vEyC0yfL+ScokCrFkRLcg4vEVVQtOcBD0=",
-      "publishedTime": "2015-11-10T15:22:20.000Z",
-      "ref": "v0.4.0"
-    },
-    "1.0.0": {
-      "bytes": 1659,
-      "hash": "sha256-lqRahcHCWwiW4yR1/925yNqfAnrNaHbwwsodENZ3b4o=",
-      "publishedTime": "2016-08-09T04:38:10.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 1661,
-      "hash": "sha256-YEbx35eOf5Df4I5T8sFwm87QX7nOSlfz/vuVnQzD9Es=",
-      "publishedTime": "2016-11-09T15:15:36.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
-      "bytes": 1757,
-      "hash": "sha256-HKAsc8P+DB0nDHwCuqggSV3NGPIh5M56fEZAGt0EC+I=",
+      "bytes": 1761,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-sQTIsjsI/Kf1CWg2FKZwwHQKOD5vElVaWkZ0fo5kNVs=",
       "publishedTime": "2017-10-28T14:34:22.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "3.0.1": {
-      "bytes": 1759,
-      "hash": "sha256-9carbcQXeXtCLPGG/p0XTj0r+cY5AXw3Ybw1UKqOBp4=",
+      "bytes": 1765,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-EiA6hAgKrN+NJwXaDhn62t1hhzQ3NiK4HxfzVcWSCfg=",
       "publishedTime": "2017-10-28T14:38:23.000Z",
-      "ref": "v3.0.1"
+      "ref": ""
     },
     "3.0.2": {
-      "bytes": 1760,
-      "hash": "sha256-Qazh7X09y9TdWeaFelnNbYFKfcHfDFcSss5r+FTqxMM=",
+      "bytes": 1765,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-ttLnCA52+wmhevAx1rQepKZi4bnWeUYovFtGvdD2irs=",
       "publishedTime": "2018-04-06T13:42:45.000Z",
-      "ref": "v3.0.2"
+      "ref": ""
     },
     "3.0.3": {
-      "bytes": 1757,
-      "hash": "sha256-uHSBuHOryTFyf8gbg0/8VLvsyKTOkuffK+CifX9cYyg=",
+      "bytes": 1764,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-XJsIv80WK5lgnbWexU2UnGL6XmDeUflPcEUW+WcVGAA=",
       "publishedTime": "2018-04-07T00:12:12.000Z",
-      "ref": "v3.0.3"
+      "ref": ""
     },
     "3.0.4": {
-      "bytes": 1758,
-      "hash": "sha256-sbPNo+gis3sYpSMkTYO+NFDzmgrd+p3r2KvIjfYJal4=",
+      "bytes": 1764,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-dKjJWn4RJ0Kq4UG06D6N6v0H4bSuyo6QpNBjWZSJ1fM=",
       "publishedTime": "2018-04-07T01:00:33.000Z",
-      "ref": "v3.0.4"
+      "ref": ""
     },
     "4.0.0": {
-      "bytes": 2223,
-      "hash": "sha256-9tmgQV1sgKVZgxIoYwyIV4PsxvB1lx2plohrEVYX0z8=",
+      "bytes": 2228,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-G92fWXJ2wfrA9q2v/AB1bxm7/WNB30GeM6o1X+21I7M=",
       "publishedTime": "2018-04-07T01:34:21.000Z",
-      "ref": "v4.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

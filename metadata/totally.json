@@ -4,29 +4,20 @@
     "githubRepo": "purescript-totally"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 928,
-      "hash": "sha256-koL+lZSy5TXJ/VKZH3oakrF9DNPe9cjIKc2qFsHd3ic=",
-      "publishedTime": "2015-01-14T23:14:24.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 937,
-      "hash": "sha256-uB9f1Bqk6jQr5it5QopfniO67iniC3jzdhnMAEEPJ9I=",
-      "publishedTime": "2015-02-21T17:19:40.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 941,
-      "hash": "sha256-V4gTrvDPkUHcRt8tcLPaT7uUU99rYUbiaXCOCBIbkgI=",
-      "publishedTime": "2015-05-07T02:46:11.000Z",
-      "ref": "v0.3.0"
-    },
     "1.0.0": {
-      "bytes": 1237,
-      "hash": "sha256-nViMRcNx3yJ3mVWrrrRk0Zbc9KrWP7wizJy3MyegVjs=",
+      "bytes": 1244,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-GEaF+cpOFSi5tpDs8rVwMvx8UhXfZtR4V1EnAhz3rOc=",
       "publishedTime": "2017-06-05T22:06:03.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

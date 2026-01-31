@@ -4,23 +4,35 @@
     "githubRepo": "purescript-mote-runner"
   },
   "published": {
-    "2.0.0": {
-      "bytes": 6316,
-      "hash": "sha256-M9mALBkyTTVaJy+PMU5dAjrUL7Kt6LO9uifaR9JnbtU=",
-      "publishedTime": "2018-12-07T12:25:44.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
-      "bytes": 6344,
-      "hash": "sha256-rVvZQj85KYvgdhVpBEF+o3MEkPSByiDU1txjIL5hh2I=",
+      "bytes": 6387,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-Gzvf9sfw3ItOsgDgx+5Gf2DSDnkTkRy6uBTYgM0Kc74=",
       "publishedTime": "2019-03-24T15:13:55.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "3.0.1": {
-      "bytes": 6323,
-      "hash": "sha256-T4XTit9F2KF3AFo8WxhFGt0rsadVnXM1nPd1AcY9csc=",
+      "bytes": 6368,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-s4EryMW0AhXimaxnKMZe2ua/zgn+fncHwQEtWGPo7/4=",
       "publishedTime": "2019-06-08T23:10:54.000Z",
-      "ref": "v3.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

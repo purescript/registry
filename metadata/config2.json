@@ -4,17 +4,20 @@
     "githubRepo": "purescript-config2"
   },
   "published": {
-    "0.0.6": {
-      "bytes": 3884,
-      "hash": "sha256-rKNeUJtq5taxsjkgEhDrLHGOuM1YbBPyP8wD8nNw6J8=",
-      "publishedTime": "2017-04-09T21:41:57.000Z",
-      "ref": "v0.0.6"
-    },
     "0.1.0": {
-      "bytes": 3941,
-      "hash": "sha256-k3O1yiPtxQuDwXnZgh+P+uwCW84FutFQdLVXXO1vxSE=",
+      "bytes": 3945,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-tsPkHzbli1iBE4MhO86PXHoGk5nEoMwwr1USGALN09g=",
       "publishedTime": "2018-08-12T21:02:41.000Z",
-      "ref": "v0.1.0"
+      "ref": ""
     }
   },
   "unpublished": {}

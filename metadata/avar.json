@@ -5,52 +5,143 @@
   },
   "published": {
     "1.0.0": {
-      "bytes": 7377,
-      "hash": "sha256-8WDPakoCkfhniUKZOGtCnVmsLJ2KttSHxw1jnTuM6Ag=",
+      "bytes": 7378,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-YR6mxRm699fXRYQbc8nTLdQKnWgPX2mq7KEI1FWF+K4=",
       "publishedTime": "2017-07-18T03:31:58.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "1.0.1": {
-      "bytes": 7411,
-      "hash": "sha256-IfmFeHZTl6iUmKVgxw/+SxGYOySuY4sZNoNxFA2v7/A=",
+      "bytes": 7417,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-zxkf9MxS2dJbPk+93/RKnuTe3rN0bJBG+ygFb89XwAQ=",
       "publishedTime": "2017-07-22T16:52:37.000Z",
-      "ref": "v1.0.1"
+      "ref": ""
     },
     "2.0.0": {
-      "bytes": 7687,
-      "hash": "sha256-kESx/xPcZSItKR4oO3oEtjrHM6yNJthwn03oXu4rGaA=",
+      "bytes": 7693,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-b7MnUNi5VsQgQqXy3ahN/ZyFHyrSqfmNUAa4olNMVvY=",
       "publishedTime": "2017-08-31T18:46:22.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     },
     "2.0.1": {
-      "bytes": 7772,
-      "hash": "sha256-DvsREKoCw2hTOLUjoIEDQElLbnN1U8nsgi4O9njIbmM=",
+      "bytes": 7781,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-rqHNkMyN/OIK8lgnfuwJdfQTY6YsiFC/1UuBPdUwdjU=",
       "publishedTime": "2017-09-20T15:11:16.000Z",
-      "ref": "v2.0.1"
+      "ref": ""
     },
     "3.0.0": {
-      "bytes": 8115,
-      "hash": "sha256-Drp0h789kl8o2PQ40My/rrTDFbjmVFlFvmhVExzfFxQ=",
+      "bytes": 8117,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-HeO/D/uuETVAw4L7S11V60+fnMVKR7279voCXl3ziFE=",
       "publishedTime": "2018-05-25T12:05:42.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "4.0.0": {
-      "bytes": 8999,
-      "hash": "sha256-A3yD/aJ2gvykASvo7KAeVyNiMKA0S5PGStut1pWWwfk=",
+      "bytes": 9005,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-hccsojOmZDGBdXbE8jKsBjEQ/81ryB6k3ev/z3NCCMI=",
       "publishedTime": "2021-02-26T20:16:34.000Z",
-      "ref": "v4.0.0"
+      "ref": ""
     },
     "5.0.0": {
-      "bytes": 8867,
-      "hash": "sha256-e7hf0x4hEpcygXP0LtvfvAQ49Bbj2aWtZT3gqM///0A=",
+      "bytes": 8870,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-9tAeYrHAFSPkbJ7UCtpyLq7QawSrwf/nwLT9BcmfUx8=",
       "publishedTime": "2022-04-27T23:08:01.000Z",
-      "ref": "v5.0.0"
+      "ref": ""
     },
     "5.0.1": {
-      "bytes": 8945,
-      "hash": "sha256-f+bRR3qQPa/GVe4UbLQiJBy7+PzJkUCwT6qNn0UlkMY=",
-      "publishedTime": "2025-02-08T21:24:14.653Z",
-      "ref": "v5.0.1"
+      "bytes": 8960,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-8V4SxF4TIWZ9Ik1P4lPzIRUAZeFBe8w5WA2VcCEKsIk=",
+      "publishedTime": "2025-02-08T21:16:54.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

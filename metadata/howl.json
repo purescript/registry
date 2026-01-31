@@ -4,17 +4,20 @@
     "githubRepo": "purescript-howl"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 1920,
-      "hash": "sha256-176qixZUnvRc9IUYPI55jlxEm+zWSv0tzIO+wCc9pY0=",
-      "publishedTime": "2018-02-18T17:29:30.000Z",
-      "ref": "v0.1.0"
-    },
     "0.2.0": {
-      "bytes": 1858,
-      "hash": "sha256-zby5zqWuNeHzx1DpnNRopmoLeqpiZjw4kUI6+Y+qgSU=",
+      "bytes": 1857,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-gF05mFsV6Ivyuh0b9buXh4aQ2pxQxtJOGcWXWzjmZ7M=",
       "publishedTime": "2018-05-24T19:39:52.000Z",
-      "ref": "v0.2.0"
+      "ref": ""
     }
   },
   "unpublished": {}

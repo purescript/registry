@@ -4,47 +4,38 @@
     "githubRepo": "purescript-ejson"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 10487,
-      "hash": "sha256-vg7Ro4OofpBwwNBDxvv5D7JoDLPo3BkSzFr/6HqnCMc=",
-      "publishedTime": "2016-07-18T21:25:04.000Z",
-      "ref": "v1.0.0"
-    },
-    "9.0.0": {
-      "bytes": 11844,
-      "hash": "sha256-+sgMDi+vZPiIrmoZg7/bswtoePnSMVLYpcPQuy1jcNs=",
-      "publishedTime": "2017-04-21T19:21:41.000Z",
-      "ref": "v9.0.0"
-    },
-    "10.0.0": {
-      "bytes": 12285,
-      "hash": "sha256-LsSrppUWb/ruMQsO8KqSYFKEbB5DUFnE9LwvwM+By3s=",
-      "publishedTime": "2017-06-28T15:12:12.000Z",
-      "ref": "v10.0.0"
-    },
-    "10.0.1": {
-      "bytes": 12448,
-      "hash": "sha256-BUAWG/8oMsAl3zneVjN+KMxZqTq6Q3g2Vs3uex8P2G0=",
-      "publishedTime": "2017-08-02T15:14:48.000Z",
-      "ref": "v10.0.1"
-    },
-    "11.0.0": {
-      "bytes": 11636,
-      "hash": "sha256-67mG+hEtG683rixX9K53x84OgUwCwRvSOC+pQgkmE/E=",
-      "publishedTime": "2018-06-28T05:13:56.000Z",
-      "ref": "v11.0.0"
-    },
     "12.0.0": {
-      "bytes": 11640,
-      "hash": "sha256-V+9lcUXdOtOru0JOE8Wc7oApqfqCOoPe0ID52JkDCEo=",
+      "bytes": 11735,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-LUKPui75bMMjW576lrnVbVzJRkrrFFBtF4Btnznlk8I=",
       "publishedTime": "2019-03-04T01:09:18.000Z",
-      "ref": "v12.0.0"
+      "ref": ""
     },
     "13.0.0": {
-      "bytes": 11517,
-      "hash": "sha256-eF5H7n5yrZNtOBp3mN5wsPLmvwbVN3GaXBS76x+enrg=",
+      "bytes": 11605,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-MMeyZlBQGlsOLz4x2x+Z9M+GJuaFxE28ca6M7NwAWnk=",
       "publishedTime": "2021-04-26T12:57:25.000Z",
-      "ref": "v13.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

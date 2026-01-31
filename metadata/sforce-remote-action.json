@@ -4,23 +4,20 @@
     "githubRepo": "purescript-sforce-remote-action"
   },
   "published": {
-    "0.0.0": {
-      "bytes": 3938,
-      "hash": "sha256-/Bwe7QrQVgoMVEuRr/D8LY/uUteN2wdgPG/zoXPq6ws=",
-      "publishedTime": "2019-04-11T13:39:42.000Z",
-      "ref": "0.0.0"
-    },
-    "1.0.0": {
-      "bytes": 4179,
-      "hash": "sha256-QzckkDP6ZQrEq4OaFvu7WINqF+U7DzvJ+C6NSDvAVUE=",
-      "publishedTime": "2019-04-11T14:03:55.000Z",
-      "ref": "v1.0.0"
-    },
     "1.0.1": {
-      "bytes": 4225,
-      "hash": "sha256-fJpyr7OE1HJMEovtjsMjMPl/oJf79u170yGG+L2KIA8=",
+      "bytes": 4235,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-evytwAlL1X8ul8VPsKIV9CWimhUgOHsZQ2uDtb0hpw0=",
       "publishedTime": "2019-10-02T09:07:47.000Z",
-      "ref": "v1.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

@@ -4,41 +4,20 @@
     "githubRepo": "purescript-record-prefix"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 1121,
-      "hash": "sha256-N+g97NzCwqCCKAVOMozu0PtqDCV/q4qCexgiKGFqG1A=",
-      "publishedTime": "2018-09-13T12:31:13.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 1215,
-      "hash": "sha256-fXxAsx85ylFAxCTyhpydMBro1g1bE0LQH7p0GSMVDEw=",
-      "publishedTime": "2018-10-15T15:04:28.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.2.1": {
-      "bytes": 1229,
-      "hash": "sha256-+rPJCtfs/RBjl6S4FyY9wakWGVn6cRUej4WuGlBuaA4=",
-      "publishedTime": "2018-10-15T15:08:04.000Z",
-      "ref": "v0.2.1"
-    },
-    "0.3.0": {
-      "bytes": 1226,
-      "hash": "sha256-2f9bO8I+CRPlnE2eUZJvDL5ls1noqWf7kCS3sbOpS28=",
-      "publishedTime": "2018-10-15T15:11:34.000Z",
-      "ref": "v0.3.0"
-    },
     "1.0.0": {
       "bytes": 1269,
-      "hash": "sha256-3lSA+h6xg7WwrlUdP9pDlKljZP38yFc3FiAHWRZ/QRQ=",
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-0+NK6AT60UPxc4CnVdMdgFCgjGtGa2QWQfM9GpV2zP8=",
       "publishedTime": "2019-10-28T15:44:06.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 2653,
-      "hash": "sha256-24ZjqaH8hOQlhzzPQznA9eJi4rOlpeTU3q4AFifwtrg=",
-      "publishedTime": "2021-11-17T15:05:12.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

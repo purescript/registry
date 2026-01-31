@@ -4,17 +4,20 @@
     "githubRepo": "purescript-parsing-foreign"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 3058,
-      "hash": "sha256-w24W3BySeN+Q7z0eRYAS0v68D3kE7cv3jmfD7DPbtm4=",
-      "publishedTime": "2020-09-24T15:32:08.000Z",
-      "ref": "v0.0.1"
-    },
     "0.0.2": {
-      "bytes": 3091,
-      "hash": "sha256-5aOew3M2F4OrcR5eyrtV+e9ZndpO/z0J1DfLjLdo1RU=",
+      "bytes": 3075,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-/S+8OcX5D+COORkjSkvcA1Gfz13NZBmnq5xGf9Ms0KE=",
       "publishedTime": "2020-09-28T05:06:35.000Z",
-      "ref": "v0.0.2"
+      "ref": ""
     }
   },
   "unpublished": {}

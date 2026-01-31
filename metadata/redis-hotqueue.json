@@ -4,23 +4,20 @@
     "githubRepo": "purescript-redis-hotqueue"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 3549,
-      "hash": "sha256-aj6HFFNH3rgmYyybNnGdw84pxilGETeo18ULhf/NV2Q=",
-      "publishedTime": "2018-05-17T23:06:04.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 3641,
-      "hash": "sha256-qcHRXNSf1WVqw2muFUdsZmnb+zIiapxPwAoR9hx81KU=",
-      "publishedTime": "2018-05-18T09:47:48.000Z",
-      "ref": "v0.2.0"
-    },
     "0.2.1": {
-      "bytes": 3888,
-      "hash": "sha256-B2fkuKxr7tD6PydthnckFLXhfpm9r90Whqwlj+9UhJE=",
+      "bytes": 3916,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-qy47gmjttZh+oeTYss6S/s465zw7TO4Cr7iYOOMhu4U=",
       "publishedTime": "2020-03-05T13:56:52.000Z",
-      "ref": "v0.2.1"
+      "ref": ""
     }
   },
   "unpublished": {}

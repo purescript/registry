@@ -1,0 +1,32 @@
+{
+  "location": {
+    "githubOwner": "mitchellandwebb",
+    "githubRepo": "webb-file"
+  },
+  "published": {
+    "0.0.1": {
+      "bytes": 5120,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-3Wj9eHFsKz0w48sFx+CkbBiXtWc8GQRXm7YV0ZPhZaM=",
+      "publishedTime": "2025-12-24T19:58:21.000Z",
+      "ref": ""
+    }
+  },
+  "unpublished": {}
+}

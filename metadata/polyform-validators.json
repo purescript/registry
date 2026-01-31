@@ -4,41 +4,35 @@
     "githubRepo": "purescript-polyform-validators"
   },
   "published": {
-    "0.0.2": {
-      "bytes": 5068,
-      "hash": "sha256-W7URimrV0+Yg/k3Pw7Ofmm/P97zrJsfDvitMk29n3RQ=",
-      "publishedTime": "2018-07-17T20:46:09.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 5813,
-      "hash": "sha256-/Uv08r59ZQT6x4m9F7WzrKOWcd7TNnLSHGS1HKP88QY=",
-      "publishedTime": "2018-07-18T22:48:46.000Z",
-      "ref": "v0.0.3"
-    },
-    "0.0.4": {
-      "bytes": 5851,
-      "hash": "sha256-GGCp8mlxp8Hj/ON4dRygVVMKitr2qPnXsccTFtYpBqU=",
-      "publishedTime": "2018-07-18T23:06:44.000Z",
-      "ref": "v0.0.4"
-    },
-    "0.0.5": {
-      "bytes": 5854,
-      "hash": "sha256-75aE8SbpP//x+PVu4vq7Ioom+n0u23LwasRiI4bMNcg=",
-      "publishedTime": "2018-10-11T14:09:34.000Z",
-      "ref": "v0.0.5"
-    },
     "0.0.6": {
-      "bytes": 9331,
-      "hash": "sha256-KQ9AuWbrjq7lepwmHpKyjY5waj7cN0U9z6HafHXeEfc=",
+      "bytes": 9504,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-FEpZI+zTC8whmonSSSw1aoPkk1ECAlQ97Kvu2YC7HRc=",
       "publishedTime": "2020-03-07T23:01:42.000Z",
-      "ref": "v0.0.6"
+      "ref": ""
     },
     "0.1.0": {
-      "bytes": 9382,
-      "hash": "sha256-QKwcRco9xnJ6DsU+HdcyXJpHhOlCqgii34+4g//j4QI=",
+      "bytes": 9560,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-hlwuSfuQq31x6ajLeFowztBLTxQwVd4njlwcd04zaog=",
       "publishedTime": "2021-05-29T09:44:09.000Z",
-      "ref": "v0.1.0"
+      "ref": ""
     }
   },
   "unpublished": {}

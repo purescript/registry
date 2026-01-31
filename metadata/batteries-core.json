@@ -4,35 +4,38 @@
     "githubRepo": "batteries-core"
   },
   "published": {
-    "0.0.2": {
-      "bytes": 5071,
-      "hash": "sha256-498h3ktr1+L1BTHxiPxQAjMLZBEAeZdDpYrDPMfIuLY=",
-      "publishedTime": "2018-07-17T20:46:09.000Z",
-      "ref": "v0.0.2"
-    },
-    "0.0.3": {
-      "bytes": 5814,
-      "hash": "sha256-NVRaWlu+nMlacXTZi57DV5D6Luf+s6FTIwF3nepMXGE=",
-      "publishedTime": "2018-07-18T22:48:46.000Z",
-      "ref": "v0.0.3"
-    },
-    "0.0.5": {
-      "bytes": 5855,
-      "hash": "sha256-+S+VSHV49d9BChmCsya5krN9zdK+f6ppUgo72Q+FS80=",
-      "publishedTime": "2018-10-11T14:09:34.000Z",
-      "ref": "v0.0.5"
-    },
     "0.0.6": {
-      "bytes": 9335,
-      "hash": "sha256-6nikS9iMPzLhwI9xmhYGEW5pL/2EvVyKnv59EUHFIIE=",
+      "bytes": 9509,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-enIKufxSTYTyVZ52lYDb6IYivIxfEcrOYpLdGI98wU0=",
       "publishedTime": "2020-03-07T23:01:42.000Z",
-      "ref": "v0.0.6"
+      "ref": ""
     },
     "0.2.0": {
-      "bytes": 9586,
-      "hash": "sha256-qTnwfL2YW7I6WpaR2tj7GVoMpauXRdkeEkoGehtTjio=",
+      "bytes": 9546,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-tNYTjyznGmI/55LosPWTeH2ggntuOQmismKefWDu3ZM=",
       "publishedTime": "2021-06-08T12:48:21.000Z",
-      "ref": "v0.2.0"
+      "ref": ""
     }
   },
   "unpublished": {}

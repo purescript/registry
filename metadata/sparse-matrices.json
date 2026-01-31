@@ -5,46 +5,147 @@
   },
   "published": {
     "1.0.0": {
-      "bytes": 5613,
-      "hash": "sha256-U4ArPKRkxQDVJuXWywv8C3mBCAtrY0UIEqj4cW5hINE=",
+      "bytes": 5616,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-LkSg37BpkuQK/vOE3/ErmJQdGuemHdAlVTaOXGtrpDM=",
       "publishedTime": "2020-06-12T20:45:37.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "1.1.0": {
-      "bytes": 6208,
-      "hash": "sha256-a46kAIbbEtV8otz+CbXjkZOtV/QvP1BwqgNkKh/kj/c=",
+      "bytes": 6241,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-MkdBJ1n6u66j8mSkU2XCtgXV6WD6IVCaAKHaAlOmS5Y=",
       "publishedTime": "2020-06-12T23:27:42.000Z",
-      "ref": "v1.1.0"
+      "ref": ""
     },
     "1.2.0": {
-      "bytes": 6208,
-      "hash": "sha256-pwon0wkBA6d28ABRWAqbt2k0UgSl57An4bcGn35pWls=",
+      "bytes": 6236,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-y0sMVitwhJbU5uIOJvP5wtRVYpRQ9zDbcLrXFXP6HbY=",
       "publishedTime": "2020-06-12T23:27:42.000Z",
-      "ref": "v1.2.0"
+      "ref": ""
     },
     "1.2.1": {
-      "bytes": 6218,
-      "hash": "sha256-zwroUOkpgfLWIj7WMUGd5HDRLPa5fy4gUx9ClytN3K8=",
+      "bytes": 6244,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-DQ7RPk2hKzCp+cBu5Cx6wPVXSTbskOoi0GhxwXD9Qr0=",
       "publishedTime": "2022-05-06T14:18:29.000Z",
-      "ref": "v1.2.1"
+      "ref": ""
     },
     "1.3.0": {
-      "bytes": 7406,
-      "hash": "sha256-VNNtwXts9IIw5yN6dB6CysM1I3go49KJANa6dTM6Xk0=",
+      "bytes": 7374,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-sNZOvY/YtUBoAu524XxT0x4+w4LxjgW6ndXRt/OkFfU=",
       "publishedTime": "2023-03-05T12:26:46.000Z",
-      "ref": "v1.3.0"
+      "ref": ""
     },
     "2.0.0": {
-      "bytes": 6460,
-      "hash": "sha256-AtRJyMPNmMUTmLkIMHslgGYVJ77RoKB7Vqe41abvBa0=",
-      "publishedTime": "2024-07-12T09:24:22.988Z",
-      "ref": "v2.0.0"
+      "bytes": 6468,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-La0uIu6GWj8erBgqaREJwmHQjoiIyJolFTDY8C3iAAc=",
+      "publishedTime": "2024-07-12T09:23:31.000Z",
+      "ref": ""
     },
     "2.0.1": {
-      "bytes": 6456,
-      "hash": "sha256-8U+0MDE2dDgGMG7iCHJQA6XFUTmg/13KF+nAO3zCdXU=",
-      "publishedTime": "2024-07-27T09:55:40.470Z",
-      "ref": "v2.0.1"
+      "bytes": 6461,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-Elz+DSNAmoZ0NsX7+bJuy00DThitQeHIzfcodB87j8w=",
+      "publishedTime": "2024-07-27T09:51:23.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

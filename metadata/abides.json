@@ -5,16 +5,34 @@
   },
   "published": {
     "0.0.0": {
-      "bytes": 5458,
-      "hash": "sha256-OWLJbHfvMBM14xGP4k2EHh/ws6xwSApYXPYimT2rtZc=",
+      "bytes": 5472,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-0gcRFH/6SdJYJw2mTGHH6ujZOLGXX3+YV7oGIlwBYiM=",
       "publishedTime": "2019-09-23T15:18:01.000Z",
-      "ref": "v0.0.0"
+      "ref": ""
     },
     "0.0.1": {
-      "bytes": 6803,
-      "hash": "sha256-wxW4WBGhdfCTLBL+BavJHFqhKKXt8+TmsVUCrj9Rkfc=",
+      "bytes": 6824,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-FYqlqqtMZ/5imxWPi5csUw3uLu08CxAV1ak2Ljgz4LY=",
       "publishedTime": "2020-04-29T21:33:41.000Z",
-      "ref": "v0.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

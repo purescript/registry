@@ -4,17 +4,20 @@
     "githubRepo": "purescript-decimal"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 2397,
-      "hash": "sha256-svjEOow6sMEPprAmTnINuNDZu22YHCrd0d+GEwQcNaY=",
-      "publishedTime": "2016-12-03T15:18:38.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 2387,
-      "hash": "sha256-KLqXO6CKa5Fg00XV5MHnJGivXy7LVhfh4Pu2N/i1gPw=",
+      "bytes": 2392,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-x7JAioFkBzz09/iWL1woEpvxBtZVUAWLoNH2FhnJWfQ=",
       "publishedTime": "2017-05-03T00:23:46.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

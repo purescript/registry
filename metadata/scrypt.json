@@ -4,29 +4,45 @@
     "githubRepo": "purescript-scrypt"
   },
   "published": {
-    "0.0.0": {
-      "bytes": 1238,
-      "hash": "sha256-h+zObcacbL2qvlNZ5hsL4i7lo6IIWDw5OQ1k87cdqac=",
-      "publishedTime": "2017-11-09T21:24:33.000Z",
-      "ref": "v0.0.0"
-    },
-    "0.0.1": {
-      "bytes": 1240,
-      "hash": "sha256-WLydfd+EU7sUOu125kcAGYnptLMEJV0SUhL0Sb//N0U=",
-      "publishedTime": "2018-03-29T03:57:07.000Z",
-      "ref": "v0.0.1"
-    },
     "1.0.0": {
-      "bytes": 1141,
-      "hash": "sha256-+/z9UxQjLS/47nh6mOONNVksgd6VDgd96LsKZkiSWb8=",
+      "bytes": 1151,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-gHe4ZZIyFf5s6f3CaS2reQaHlfyz1oe1FLoGK9aEDD8=",
       "publishedTime": "2018-10-22T08:34:48.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "1.0.1": {
-      "bytes": 2470,
-      "hash": "sha256-4+uKOFpyPZ9P0KjG1Iffh+ZMe2WcsFTHGfFIAqMTaaI=",
+      "bytes": 2498,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-w2KFlrVILgznBvyW05yjcklKOcSBtRJRTOt6NvinXUM=",
       "publishedTime": "2020-04-29T23:51:44.000Z",
-      "ref": "v1.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

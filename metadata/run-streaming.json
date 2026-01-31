@@ -4,23 +4,20 @@
     "githubRepo": "purescript-run-streaming"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 6136,
-      "hash": "sha256-QM5lZZk4TcQTzMyevYZrZPOMs57VIUBxorUCqtJTwFQ=",
-      "publishedTime": "2017-05-04T02:58:10.000Z",
-      "ref": "v0.1.0"
-    },
-    "1.0.0": {
-      "bytes": 6110,
-      "hash": "sha256-wbzxOQ2kE0ZwqU8BOV7Q0Y8orlhmMByr0Y+3IROL12Q=",
-      "publishedTime": "2017-10-28T16:47:54.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 6120,
-      "hash": "sha256-WMgidKL9g2cjiQuYLSYVbYv81hk7g5efqjwBeyF5qVI=",
+      "bytes": 6181,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-SNX7VyUUsOoagZXwOZuZdqkWpFGefufCzE90VUxRPBk=",
       "publishedTime": "2018-08-24T16:40:48.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

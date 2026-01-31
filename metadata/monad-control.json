@@ -4,41 +4,45 @@
     "githubRepo": "purescript-monad-control"
   },
   "published": {
-    "3.0.0": {
-      "bytes": 3323,
-      "hash": "sha256-hZNuDlChg6S0v/bjfDg9UDuI7xdXGQa34Y00+/bAGYI=",
-      "publishedTime": "2017-07-21T17:01:24.000Z",
-      "ref": "v3.0.0"
-    },
-    "3.0.1": {
-      "bytes": 3442,
-      "hash": "sha256-1okUEnJAYTnDk7mjuNiheitFltzvSlBhFr6NwJCbepk=",
-      "publishedTime": "2017-07-30T02:13:32.000Z",
-      "ref": "v3.0.1"
-    },
-    "3.0.2": {
-      "bytes": 3634,
-      "hash": "sha256-mtSCYPlttpL5zrMXezFNPklR34YW+tEGzUPMfXWjHww=",
-      "publishedTime": "2017-08-04T16:40:06.000Z",
-      "ref": "v3.0.2"
-    },
-    "4.0.0": {
-      "bytes": 4047,
-      "hash": "sha256-CRPq3GkllB8DcE/pYxkK4dxg0M0LQwlvCKt2tPeTU+0=",
-      "publishedTime": "2017-09-14T21:14:30.000Z",
-      "ref": "v4.0.0"
-    },
-    "4.1.0": {
-      "bytes": 4186,
-      "hash": "sha256-ad4I8iB5oi8lkPP9ZgRqR5LtWNaIhjSZdyPfh1bmCsA=",
-      "publishedTime": "2017-09-23T23:47:24.000Z",
-      "ref": "v4.1.0"
-    },
     "5.0.0": {
-      "bytes": 4118,
-      "hash": "sha256-bgfDW30wbIm70NR1Tvvh9P+VFQMDh1wK2sSJXCj/dZc=",
+      "bytes": 4164,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9",
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-pQ27G7h7loyrqB7+vgKch4Su8h7rx4gEN+gySXLFOMo=",
       "publishedTime": "2018-10-19T06:13:33.000Z",
-      "ref": "v5.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

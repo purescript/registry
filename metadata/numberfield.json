@@ -5,28 +5,69 @@
   },
   "published": {
     "0.1.0": {
-      "bytes": 5423,
-      "hash": "sha256-YXYL9fEzTTQsHL050SskgrB/en9kVsh4XOYLubZNMmQ=",
+      "bytes": 5406,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-1428CylOgUJjFavR+DWUqPl1g3+JhnjcBeo6i76NN5Q=",
       "publishedTime": "2023-03-09T14:00:07.000Z",
-      "ref": "v0.1.0"
+      "ref": ""
     },
     "0.2.0": {
-      "bytes": 12230,
-      "hash": "sha256-KmjzjahEc2JyBWKz8a+k+3VtyfRWNZ2u3CsZp6Y7zqM=",
-      "publishedTime": "2024-07-12T12:20:38.641Z",
-      "ref": "v0.2.0"
+      "bytes": 12237,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-Cy4w4CtnnCKXiCTg0A8YdKFScs170V7mAbxVNgGh3VU=",
+      "publishedTime": "2024-07-12T12:16:25.000Z",
+      "ref": ""
     },
     "0.2.1": {
-      "bytes": 12220,
-      "hash": "sha256-vRyyLsxjzb8U0PwTKfRrmA5f+Yga+ZdFdknNuMJt/ZI=",
-      "publishedTime": "2024-07-27T10:04:38.090Z",
-      "ref": "v0.2.1"
+      "bytes": 12227,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-3sPshy9oGQQwaoiM2payV5xF4yEIlhkUj5wG4qSfXAQ=",
+      "publishedTime": "2024-07-27T10:00:09.000Z",
+      "ref": ""
     },
     "0.2.2": {
-      "bytes": 12304,
-      "hash": "sha256-6AtKqrvsIZFDvVS322B6+Z2Gua23y68mWLSROnJWJx0=",
-      "publishedTime": "2024-08-01T12:05:55.477Z",
-      "ref": "v0.2.2"
+      "bytes": 12310,
+      "compilers": [
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-dR6GjVMBpAXk6sGnID65EUtSsGT7KSmSBFzD7ixtO/U=",
+      "publishedTime": "2024-08-01T12:03:00.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

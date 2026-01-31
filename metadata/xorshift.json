@@ -4,35 +4,65 @@
     "githubRepo": "purescript-xorshift"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 1290,
-      "hash": "sha256-xaeOrTsUeGC2+K9KwAXPTpGJQcKI+AEYeXa0qJjEBGc=",
-      "publishedTime": "2017-03-16T20:03:37.000Z",
-      "ref": "v0.0.1"
-    },
     "1.0.0": {
-      "bytes": 1314,
-      "hash": "sha256-BgDqqmDm+Hnq4+7L3RBofydItyLMgCo6vQSNNJo7EOA=",
+      "bytes": 1305,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-BpT+ikiFcXdjqPH3luRKItfEYowvvCWvF1S1dS9dYt8=",
       "publishedTime": "2017-04-03T13:25:22.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "2.0.0": {
-      "bytes": 1188,
-      "hash": "sha256-l2fb/GWoi4v7d86cjhaXu8cCz3cn01A8s+WdswTKkmM=",
+      "bytes": 1186,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-kyDj3A7qBYLc9wgGDdrMFkfDvya8eEye6Ot+q+xy39M=",
       "publishedTime": "2018-02-02T22:56:20.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     },
     "3.0.0": {
-      "bytes": 1349,
-      "hash": "sha256-yaluwHE+mcIXRyqoThSoHWP1ecCTTdfNwb69kW50d3I=",
+      "bytes": 1348,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-Ll6UMjKexFRVyh7y2Evs79v14HKJnszCS8pZ2HZNf/I=",
       "publishedTime": "2018-02-08T02:45:02.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "3.0.1": {
       "bytes": 1348,
-      "hash": "sha256-qK27AW5nq/cGpN8/hZ4qzOZbw9zfWaKclO8j11c6Zws=",
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-vxngTaGt+emGAIhSMQbB0ud+4UtvMkdg4Yb64xe9Ca8=",
       "publishedTime": "2018-02-08T02:53:45.000Z",
-      "ref": "v3.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

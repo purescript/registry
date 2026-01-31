@@ -4,11 +4,51 @@
     "githubRepo": "purescript-react-basic-dom-beta"
   },
   "published": {
+    "0.1.0": {
+      "bytes": 32931,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-OZJXjpQYvWNApMy1GICkGPaiJMrvQfbYmlo6IJozNVk=",
+      "publishedTime": "2024-10-01T19:01:08.000Z",
+      "ref": ""
+    },
     "0.1.1": {
-      "bytes": 32864,
-      "hash": "sha256-r3kCJ0N9a3ODd6VaVl2ELL1rDw40i+5cjcJLnJu306Q=",
-      "publishedTime": "2024-10-04T14:07:51.240Z",
-      "ref": "v0.1.1"
+      "bytes": 32870,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-7J9dxBL8h4TUggQouZl58FfBYPkaa1e1XxbPvwM6Vdo=",
+      "publishedTime": "2024-10-04T14:07:26.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

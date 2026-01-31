@@ -4,41 +4,28 @@
     "githubRepo": "purescript-bound"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2904,
-      "hash": "sha256-wuxv2Pu2XyNxG5GDmwmOoLa9PuW6N4lVWwizBqrzdXE=",
-      "publishedTime": "2016-10-13T18:19:51.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 3327,
-      "hash": "sha256-5gElXRPr3IU+x7l1XQbUnlv7OqYrJ10L+8/UaHYbI+U=",
-      "publishedTime": "2016-10-13T20:01:48.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 3512,
-      "hash": "sha256-pieZVGMtLr4EjfSvBlUa3FveVxlXlB7IxvTIfcYGjUA=",
-      "publishedTime": "2016-10-13T20:26:37.000Z",
-      "ref": "v0.3.0"
-    },
-    "0.4.0": {
-      "bytes": 3635,
-      "hash": "sha256-YAo0ZeukXkoRg+KGRA+Yj8AbTq9gVGx3I9xcMfWBmUo=",
-      "publishedTime": "2016-10-17T18:09:31.000Z",
-      "ref": "v0.4.0"
-    },
-    "0.5.0": {
-      "bytes": 3629,
-      "hash": "sha256-aP4qls0w1RoKYBoxMs57TmEzP/Tp8iMS2D4i0bo0nIU=",
-      "publishedTime": "2017-06-26T14:15:09.000Z",
-      "ref": "v0.5.0"
-    },
     "0.6.0": {
-      "bytes": 3653,
-      "hash": "sha256-eKM/AmFSWr2CWHFPnt639ouYjkm6Kg1yF9NA3mnpN/U=",
+      "bytes": 3665,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-1jQkW4DyG+Jew7wd4CCMJiW3FrU0CAv0iy+zx2RRoBo=",
       "publishedTime": "2023-06-26T15:01:36.000Z",
-      "ref": "v0.6.0"
+      "ref": ""
     }
   },
   "unpublished": {}

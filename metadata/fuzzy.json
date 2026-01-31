@@ -4,41 +4,68 @@
     "githubRepo": "purescript-fuzzy"
   },
   "published": {
-    "0.1.1": {
-      "bytes": 8954,
-      "hash": "sha256-4LHpbvGZm5KbWuf2IOYCMQYrHpA1nyOif5cVYxQiZvs=",
-      "publishedTime": "2018-02-13T02:40:22.000Z",
-      "ref": "v0.1.1"
-    },
-    "0.1.2": {
-      "bytes": 8962,
-      "hash": "sha256-FYVxjekhmIcNLRXrYH41iIjOiuaAOy5SMlB7iemoVhk=",
-      "publishedTime": "2018-02-13T04:31:23.000Z",
-      "ref": "v0.1.2"
-    },
-    "0.2.0": {
-      "bytes": 9048,
-      "hash": "sha256-DMqa3jS+i46uL2ymYID8qGTIBv6zbgVPNjmAsqwdaHU=",
-      "publishedTime": "2018-06-12T22:33:53.000Z",
-      "ref": "v0.2.0"
-    },
     "0.2.1": {
-      "bytes": 9061,
-      "hash": "sha256-ZV+GCEd/Du2mfaAnO25StkVRD7nH6HorN7biYxpgycE=",
+      "bytes": 9072,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-NlnHSE1XsXH7zmEiX/4meDM7Y9HaJtwWi5hifA4KbxM=",
       "publishedTime": "2018-06-14T01:50:28.000Z",
-      "ref": "v0.2.1"
+      "ref": ""
     },
     "0.3.0": {
-      "bytes": 9076,
-      "hash": "sha256-0GyBpdFO8n6UxB6i9n3LUarCllfDhLo9m5fuOyg17g0=",
+      "bytes": 9088,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-dwcU3v8mIrVhYNyYKbMQqaZ+cz1CTKAnm/5YJWsa9Is=",
       "publishedTime": "2020-05-01T20:08:51.000Z",
-      "ref": "v0.3.0"
+      "ref": ""
     },
     "0.4.0": {
-      "bytes": 10225,
-      "hash": "sha256-+WdBgh6syuxvrK1E6nqm+2H8QA/Udgpm5uHVPnS2Ihs=",
+      "bytes": 10232,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9",
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-c/IPyaLxBDKecaaDtQ+Q79dTOub4hIxSCxcjHmc3y84=",
       "publishedTime": "2021-03-18T22:04:39.000Z",
-      "ref": "v0.4.0"
+      "ref": ""
     }
   },
   "unpublished": {}

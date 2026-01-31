@@ -4,41 +4,20 @@
     "githubRepo": "purescript-phoenix"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 3361,
-      "hash": "sha256-rSuwKhPRCpkqABDvlnWfKU2iXIdqi5v3+/SEXQOrNnw=",
-      "publishedTime": "2016-07-17T22:09:07.000Z",
-      "ref": "v0.1.0"
-    },
-    "2.0.0": {
-      "bytes": 3359,
-      "hash": "sha256-eJeAHd1lvWp1TQ5UQySfHNMudvZC3vsExVv8r4lW/cc=",
-      "publishedTime": "2016-12-21T08:04:44.000Z",
-      "ref": "v2.0.0"
-    },
-    "2.0.1": {
-      "bytes": 3356,
-      "hash": "sha256-TviaAl7Rj/YEqS458K/P86o9CTaRBeJyDnVRae1JxwI=",
-      "publishedTime": "2016-12-28T20:56:34.000Z",
-      "ref": "v2.0.1"
-    },
-    "2.0.2": {
-      "bytes": 3356,
-      "hash": "sha256-gr2+YZzwknxn5w7a8mV31ckEttYoIa+c6ST036ew5xM=",
-      "publishedTime": "2017-01-30T15:52:19.000Z",
-      "ref": "v2.0.2"
-    },
-    "3.0.0": {
-      "bytes": 3364,
-      "hash": "sha256-RhZ2oZFMEM+jcqaduJocINbt1uZDFOFUp6DCe96+MmA=",
-      "publishedTime": "2017-04-28T09:27:21.000Z",
-      "ref": "v3.0.0"
-    },
     "4.0.0": {
-      "bytes": 3401,
-      "hash": "sha256-9IrqIszX1FVB4MZdjVepueb9kszTSwSnGXhD+PAVhQA=",
+      "bytes": 3411,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-xe8HGbrx1YcvOHfX2V9GzRN2xtEmX3PcjVz6w5PxI9I=",
       "publishedTime": "2018-06-17T14:12:38.000Z",
-      "ref": "v4.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

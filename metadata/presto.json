@@ -4,23 +4,20 @@
     "githubRepo": "purescript-presto"
   },
   "published": {
-    "0.3.0": {
-      "bytes": 22139,
-      "hash": "sha256-Q4wzefFH7+Pw5n6x5Nq4hspctV1Un03f5nRVGPQp5cs=",
-      "publishedTime": "2018-04-25T12:59:36.000Z",
-      "ref": "v0.3.0"
-    },
     "0.4.0": {
-      "bytes": 21891,
-      "hash": "sha256-5GQj1RmLM/1VnQbsyah36QIUTunjr3a1Vhl3G9jzxiM=",
+      "bytes": 21878,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-4iAW/2wSDhPizFc/0V571kON/5bifn4+x5PlpLYx6Io=",
       "publishedTime": "2018-09-28T11:01:58.000Z",
-      "ref": "v0.4.0"
-    },
-    "0.4.1": {
-      "bytes": 21999,
-      "hash": "sha256-Up7SNCwgAuV97wArOQc1jZ1IEgBPlrwC+S/38WDvEvo=",
-      "publishedTime": "2019-07-03T17:50:10.000Z",
-      "ref": "0.4.1"
+      "ref": ""
     }
   },
   "unpublished": {}

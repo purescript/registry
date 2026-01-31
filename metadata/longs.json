@@ -4,17 +4,30 @@
     "githubRepo": "purescript-longs"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 7975,
-      "hash": "sha256-grh4W3shcH7NxZOw+l+Aey9Cq4+zrpdwibTXTBbquRM=",
-      "publishedTime": "2019-02-26T04:58:11.000Z",
-      "ref": "v0.1.0"
-    },
     "0.1.1": {
-      "bytes": 8050,
-      "hash": "sha256-4JVvmGCVObRoM2aaFi/pSvkdqx6vyHtwvqTh/ThHFg8=",
+      "bytes": 8047,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-GHW3OewWRk1N/+I4q9fL7fOHynfvDP85UCYxAXYN1YA=",
       "publishedTime": "2019-02-26T05:11:23.000Z",
-      "ref": "v0.1.1"
+      "ref": ""
     }
   },
   "unpublished": {}

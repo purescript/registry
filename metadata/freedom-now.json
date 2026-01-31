@@ -5,22 +5,49 @@
   },
   "published": {
     "1.0.0": {
-      "bytes": 2077,
-      "hash": "sha256-gBxHBeIGLtaQXj70QA1A+atKSVO/kXpEdI6P9MeN+/s=",
+      "bytes": 2128,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-rZwAaAl4OUVMN9PZOSn+mxYOwtHaquvL0xPIEU6slZE=",
       "publishedTime": "2019-08-29T09:19:35.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "2.0.0": {
-      "bytes": 2082,
-      "hash": "sha256-6dPZGk8AusOfVv5UR8pDXqOdK0LU0DuvCw6i5Xmd1yQ=",
+      "bytes": 2125,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-oaD6you9U32SMHplE8hWhcRI3frmDtmsQ/77CSqLNEY=",
       "publishedTime": "2019-09-02T05:23:37.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     },
     "3.0.0": {
-      "bytes": 2018,
-      "hash": "sha256-4j3U+3nzP2Cei4bRYELBLh5+3evcpgcP7VC+YQ7FSXY=",
+      "bytes": 2052,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-YRr3VVn9szQwOtiI7joVbnfBCfV5Z2Gqs3m3yi3lrkI=",
       "publishedTime": "2020-04-03T14:56:35.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

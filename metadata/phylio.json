@@ -5,28 +5,96 @@
   },
   "published": {
     "1.0.0": {
-      "bytes": 12549,
-      "hash": "sha256-Y4ycx2V547oZhnyaweUhxknL3+1P6SwPBOjlwbVXCxE=",
+      "bytes": 12555,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-xtHwUKbYq0z4nQBEOIg4j7r03JhIJryxhw7GZwBCIjE=",
       "publishedTime": "2022-08-29T10:08:23.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "1.0.1": {
-      "bytes": 12559,
-      "hash": "sha256-FcLe0X3O2iwxnCNJ6X5VF/q7F8MnT4P1slMWm6dRMiw=",
+      "bytes": 12563,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-KaDGpb4HaMYnK7HHsTAJ/EQsBSmFzW1C8fAVNRfM5Pg=",
       "publishedTime": "2022-08-31T11:38:37.000Z",
-      "ref": "v1.0.1"
+      "ref": ""
     },
     "1.1.0": {
-      "bytes": 12667,
-      "hash": "sha256-uq6cPjrf9uom78En6D8jPPv6VVA1H+LCoww2SZbZQaw=",
+      "bytes": 12676,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-9KtDrMgfyUm7BAUbJP2RWb4YzvyV4MA7ZpJSoKgQ5xo=",
       "publishedTime": "2023-05-05T13:47:10.000Z",
-      "ref": "v1.1.0"
+      "ref": ""
     },
     "1.1.2": {
-      "bytes": 12921,
-      "hash": "sha256-pNGOk9/YW16TRyJO+8UUzf8REK8w5jEghIcfSh+S9qY=",
+      "bytes": 12929,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-2rsLBb2/7MlKHEh8MIm0VJNuVi9zyoETF5k+0Ty+qPA=",
       "publishedTime": "2023-05-05T20:49:28.000Z",
-      "ref": "v1.1.2"
+      "ref": ""
     }
   },
   "unpublished": {}

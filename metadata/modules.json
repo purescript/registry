@@ -4,23 +4,30 @@
     "githubRepo": "purescript-modules"
   },
   "published": {
-    "2.1.0": {
-      "bytes": 1779,
-      "hash": "sha256-FWGbXfvW02DUGO32iUQGei+uE0qQ4022/xU4vvDvmNY=",
-      "publishedTime": "2017-03-29T19:41:02.000Z",
-      "ref": "v2.1.0"
-    },
-    "2.2.0": {
-      "bytes": 1842,
-      "hash": "sha256-1ptYu4m4brgwn+YGt3Rgp79/5W/A0yV62uEbxoqvQzU=",
-      "publishedTime": "2017-04-01T16:11:57.000Z",
-      "ref": "v2.2.0"
-    },
     "3.0.0": {
-      "bytes": 1837,
-      "hash": "sha256-LUIpB0vH+lZwKVT/83x4ZzaOHFOH6osPO2AZMSox4i8=",
+      "bytes": 1834,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-sGsw+UpWajp1x5XgfwMpy2GgxW1hMDtBlX4a3M1m3a8=",
       "publishedTime": "2017-04-18T21:06:53.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

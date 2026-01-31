@@ -4,41 +4,75 @@
     "githubRepo": "purescript-thermite-dom"
   },
   "published": {
-    "0.0.0": {
-      "bytes": 1019,
-      "hash": "sha256-wfmAs+oHB6qihZ/py6y5fyc63Bqywa0Nlgi6ezDNb+w=",
-      "publishedTime": "2019-02-23T19:05:02.000Z",
-      "ref": "v0.0.0"
-    },
-    "0.0.1": {
-      "bytes": 1023,
-      "hash": "sha256-EsIXrxJEA2t6hJTefG5m+yVHoGJO2lk94nJ/1YaUEd0=",
-      "publishedTime": "2019-02-23T19:08:48.000Z",
-      "ref": "v0.0.1"
-    },
-    "0.1.0": {
-      "bytes": 1240,
-      "hash": "sha256-rtxt+6tOLHKlXTXCawR44KdxxvE/wxUQJ2/6s9PlgRk=",
-      "publishedTime": "2019-02-23T19:39:37.000Z",
-      "ref": "v0.1.0"
-    },
     "0.2.0": {
-      "bytes": 1249,
-      "hash": "sha256-nZdHoKEY1lyus6+bcygMHoTuWoA9Bi64ZFY/cCbIDHk=",
+      "bytes": 1269,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-p5HJFgilFBwiSVZT8Ledj7UZGrQduFHnRofszU/RXvg=",
       "publishedTime": "2019-02-26T18:33:15.000Z",
-      "ref": "v0.2.0"
+      "ref": ""
     },
     "0.3.0": {
-      "bytes": 1265,
-      "hash": "sha256-CUxxw7VJ2r+5CmefnxaNy6mtxXaJCFMGtuO9LWwBNLw=",
+      "bytes": 1292,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-w4eQm5eY/odh0IFZx4W1eNAyn7XiDHbk4z1ftkRf4gE=",
       "publishedTime": "2019-07-31T23:11:09.000Z",
-      "ref": "v0.3.0"
+      "ref": ""
     },
     "0.3.1": {
-      "bytes": 2666,
-      "hash": "sha256-6v6v2lWG8089mwrW+J7Arhl+G1T4JE2cRZ1E3cZ6Y4Y=",
+      "bytes": 2696,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9",
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-E7PQS5eBD2O33gvya7I1ZuRnIGgIcf4R3UtU++3Li8U=",
       "publishedTime": "2020-04-29T22:05:25.000Z",
-      "ref": "v0.3.1"
+      "ref": ""
     }
   },
   "unpublished": {}

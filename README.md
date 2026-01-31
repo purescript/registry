@@ -5,6 +5,8 @@
 
 The PureScript Registry stores PureScript packages (and metadata about them) and provides an API for registering, updating, transferring, and unpublishing packages. Most PureScript users will only interact with the registry via package managers.
 
+This document only provides a summary and overview of registry operations. If you are a tooling author or want to know how the registry works, please refer to the [SPEC](https://github.com/purescript/registry-dev/blob/master/SPEC.md).
+
 > **Warning**
 > As of September 2023, the only package manager with official support for the registry is [spago](https://github.com/purescript/spago). To publish your package without `spago` please open an issue using the [Publish](#publish-a-package) workflow. Once registered, your package will be added to the package sets automatically (if it compiles with the current package set), its docs will be uploaded to Pursuit, and any SemVer tag you publish on the repository in the future will automatically update your package in the registry.
 

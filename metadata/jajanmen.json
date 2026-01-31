@@ -4,23 +4,35 @@
     "githubRepo": "purescript-jajanmen"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 2847,
-      "hash": "sha256-Q8QQj243oWoo+FmPKZtrU7CiABoh/QvZHaZDkA1CY8s=",
-      "publishedTime": "2018-06-04T17:44:49.000Z",
-      "ref": "v0.1.0"
-    },
     "0.2.0": {
-      "bytes": 2858,
-      "hash": "sha256-kq4NgF5lwLsoFa+QvnVV126lrIGY4P9HBbfKYo9YDAA=",
+      "bytes": 2864,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-Dmjxt0XgTuKocjaUhOPPR7uwaarz6ciqGlDi6G/Aj4s=",
       "publishedTime": "2018-10-04T11:31:54.000Z",
-      "ref": "v0.2.0"
+      "ref": ""
     },
     "1.0.0": {
-      "bytes": 2900,
-      "hash": "sha256-RrBQ8+kWZ+y783si60yG1gVcgz17q1Q5J8OIp0uxNzU=",
+      "bytes": 2902,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-c+t3tGxv8j5weHc4zy0haPCSPwASR2r0LgOrJPzBWIs=",
       "publishedTime": "2019-03-23T12:41:27.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

@@ -5,22 +5,73 @@
   },
   "published": {
     "0.3.0": {
-      "bytes": 7077,
-      "hash": "sha256-LSi58fovshX+p/x05xDn/tQuOe+S+jt2Vy95Y1+l4lQ=",
-      "publishedTime": "2024-04-16T07:26:14.393Z",
-      "ref": "v0.3.0"
+      "bytes": 7087,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-bUr3+oZlbHbiZLvoh2hAzaHgqoIeIhoIfxdlpSTj9pc=",
+      "publishedTime": "2022-05-12T08:57:50.000Z",
+      "ref": ""
     },
     "0.3.1": {
-      "bytes": 7080,
-      "hash": "sha256-oK35pQqCeFANXCWF8oPbC8hNfrgu8JeXFwfTJf8Fk1M=",
-      "publishedTime": "2024-04-19T07:22:25.958Z",
-      "ref": "v0.3.1"
+      "bytes": 7089,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-5HHjB1prsckTgXT3RnddagALqJdUsb9T4PjBL42TjJI=",
+      "publishedTime": "2022-09-13T08:53:34.000Z",
+      "ref": ""
     },
     "0.4.0": {
-      "bytes": 7428,
-      "hash": "sha256-zdTxMuBOlh5AcmH52o+Vvp4kj8gnv3ISOVgUmu2o6wM=",
-      "publishedTime": "2024-04-15T11:17:05.544Z",
-      "ref": "v0.4.0"
+      "bytes": 7433,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-zuk4XF9kZ8Kyqm5Dtfc9k5afGRsLw8nqHLVazRXJsiM=",
+      "publishedTime": "2024-04-15T11:16:44.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

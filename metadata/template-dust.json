@@ -4,59 +4,20 @@
     "githubRepo": "purescript-template-dust"
   },
   "published": {
-    "1.0.0": {
-      "bytes": 2104,
-      "hash": "sha256-wcqNK/As6vijavnXfPUSrR+1kPdrGUyIpT2Psv86/ZA=",
-      "publishedTime": "2016-07-16T01:11:15.000Z",
-      "ref": "v1.0.0"
-    },
-    "1.0.1": {
-      "bytes": 2501,
-      "hash": "sha256-vgBPNhzUXEaVYdFOiXv4XDubz/JuzPTtvrBMzaTpGRs=",
-      "publishedTime": "2016-07-16T22:09:37.000Z",
-      "ref": "v1.0.1"
-    },
-    "1.0.2": {
-      "bytes": 2550,
-      "hash": "sha256-71hgx7sd34Fn3kejJQpcMIg55om5JyGKHqS2fhB1PxY=",
-      "publishedTime": "2016-07-21T02:40:36.000Z",
-      "ref": "v1.0.2"
-    },
-    "1.0.3": {
-      "bytes": 2683,
-      "hash": "sha256-5Ue9iXNbZ6AErC1xmMHxxp0y8dQDcQSNt43MuxJ1j0U=",
-      "publishedTime": "2016-07-22T17:25:04.000Z",
-      "ref": "v1.0.3"
-    },
-    "1.0.4": {
-      "bytes": 2678,
-      "hash": "sha256-Bc/NFMDhXlnKWZFWaQNjFkrogRNP+5IIdnz5De7l5ms=",
-      "publishedTime": "2016-07-22T17:30:00.000Z",
-      "ref": "v1.0.4"
-    },
-    "2.0.0": {
-      "bytes": 2545,
-      "hash": "sha256-itUZJfyWai+3xkTJcKUM2zlWdAP714395pTwOetdJsI=",
-      "publishedTime": "2016-11-03T20:38:32.000Z",
-      "ref": "v2.0.0"
-    },
-    "2.0.1": {
-      "bytes": 2679,
-      "hash": "sha256-7jtGehm87oGP4ZqsLYZ6D3QF0l7sUs0iTeXn1Mks4/A=",
-      "publishedTime": "2016-11-03T20:41:05.000Z",
-      "ref": "v2.0.1"
-    },
-    "3.0.0": {
-      "bytes": 2686,
-      "hash": "sha256-NQw9Z4saTvREQ8UPxBwvvkT9EdrCMaJLMYGtB2+9VE8=",
-      "publishedTime": "2016-11-03T20:41:05.000Z",
-      "ref": "v3.0.0"
-    },
     "3.0.1": {
-      "bytes": 2691,
-      "hash": "sha256-HliTlOFBsdhryilb+CJWfFNqJhox6gVOeanJljK21iQ=",
+      "bytes": 2690,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-R5t7JhHRzDIxdWv9Ue0UvXX0QugSHeB6LZkLioLNmE8=",
       "publishedTime": "2017-06-12T09:11:22.000Z",
-      "ref": "v3.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

@@ -4,41 +4,60 @@
     "githubRepo": "purescript-ocarina"
   },
   "published": {
-    "0.0.1": {
-      "bytes": 68728,
-      "hash": "sha256-m5NG5zggrELd7vs/ovswNW2XAXQQlk0h+HGrAUPT99A=",
-      "publishedTime": "2021-04-22T18:55:41.000Z",
-      "ref": "v0.0.1"
-    },
-    "1.2.0": {
-      "bytes": 41321,
-      "hash": "sha256-688ePd45y0Agc7sxWFxPOhJhXTnmRdh60o2cZSLgo14=",
-      "publishedTime": "2022-06-20T19:24:26.000Z",
-      "ref": "v1.2.0"
-    },
-    "1.2.1": {
-      "bytes": 41666,
-      "hash": "sha256-NbvSj2eDXLiqVr3/oF46ebWth6rm816mXIreyc5Wzg8=",
-      "publishedTime": "2022-08-10T07:55:28.000Z",
-      "ref": "v1.2.1"
-    },
     "1.3.0": {
-      "bytes": 41659,
-      "hash": "sha256-BoXCq3qsWS2uHc4Zt+7ntkf5p1YUrqq1aUE3RmG/rg8=",
+      "bytes": 41640,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-FTvKCAgQCpXwjPH1fh8aFeHLi0UCChyqgNWJ1NJgwvI=",
       "publishedTime": "2022-08-22T07:50:08.000Z",
-      "ref": "v1.3.0"
+      "ref": ""
     },
     "1.5.2": {
-      "bytes": 38156,
-      "hash": "sha256-yvzNxyCtQsokUDiXRNj29nl+oGvDdqD0FmXNcgReuGU=",
+      "bytes": 38148,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-b5clt8MXWRdXy7vTTT2O9L1d6V0waYFc6l+ErxxLYlY=",
       "publishedTime": "2022-10-30T16:50:31.000Z",
-      "ref": "v1.5.2"
+      "ref": ""
     },
     "1.5.4": {
-      "bytes": 37146,
-      "hash": "sha256-PABQgUY2Qs93EB2Xu3Bm38QAQmZoIaRd5yS5qqVh694=",
+      "bytes": 37142,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-+/P2bTJu8gD56rO3ZVlsshniHcgHwPuETQ1ENGH4bx0=",
       "publishedTime": "2023-04-19T01:40:20.000Z",
-      "ref": "v1.5.4"
+      "ref": ""
     }
   },
   "unpublished": {}

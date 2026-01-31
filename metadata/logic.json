@@ -5,28 +5,64 @@
   },
   "published": {
     "0.0.3": {
-      "bytes": 1501,
-      "hash": "sha256-Br9jCnAJaePO4Zljdp7rabROwTIHgp9i6j7ziAmCFno=",
+      "bytes": 1533,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-bJngUR9bXLC+d9XVMPro774sGaddXA4FXqReAqyrwUk=",
       "publishedTime": "2019-01-09T23:38:20.000Z",
-      "ref": "v0.0.3"
+      "ref": ""
     },
     "0.0.4": {
-      "bytes": 1598,
-      "hash": "sha256-jX+oRQbIBWpBYCtldi5D0CHDXVqaEwHNq38CtiH9aUk=",
+      "bytes": 1628,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-4ToqdAi4lBoSI6Lulbn4+/5+SAOA60eFGIKs5QTjdj8=",
       "publishedTime": "2019-01-10T00:46:17.000Z",
-      "ref": "v0.0.4"
+      "ref": ""
     },
     "0.0.5": {
-      "bytes": 1680,
-      "hash": "sha256-2qGsTzT5lb/m3oEOmUSd7nLpNX+1faSC0tXuTG07ixc=",
+      "bytes": 1693,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-d6vxzfQuruOV/wl0w+yUfF/mIh3spI5q+dQ513hc8tg=",
       "publishedTime": "2019-01-10T20:45:42.000Z",
-      "ref": "v0.0.5"
+      "ref": ""
     },
     "0.1.0": {
-      "bytes": 2072,
-      "hash": "sha256-Ot/8xg880yI4u1Yo0DJapdlXkQT7mhARJ13y6otqHuQ=",
+      "bytes": 2080,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-7h9QITG6O7YbI6SMjL7QqF7JTd3ya7QEDushcySAvuY=",
       "publishedTime": "2019-01-11T10:55:13.000Z",
-      "ref": "v0.1.0"
+      "ref": ""
     }
   },
   "unpublished": {}

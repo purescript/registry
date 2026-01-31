@@ -4,23 +4,35 @@
     "githubRepo": "purescript-node-datagram"
   },
   "published": {
-    "2.0.0": {
-      "bytes": 3534,
-      "hash": "sha256-zAUrOiVYUbMDrMdTnAxqBiYVN40pd8fAtwiwpeXX5VU=",
-      "publishedTime": "2016-12-27T20:58:30.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
-      "bytes": 3538,
-      "hash": "sha256-RuEQLJRANaEvqF8p8ERmusIjjxg+CIn368+S7EH2qbY=",
+      "bytes": 3548,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-MYCnVZqPAVgVUipauqBpegzWvY9mOSW7zIhFPAuqeBg=",
       "publishedTime": "2017-04-28T09:48:50.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "4.0.0": {
       "bytes": 3480,
-      "hash": "sha256-dbobA0xffz1p4IqZ6eAUnsj2qAXlYyAlTgcU47R238Q=",
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-15Ks4VYa76M5QynvZ84PG5HjJbGsovXzyvRtes1XufU=",
       "publishedTime": "2019-10-10T09:49:53.000Z",
-      "ref": "v4.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

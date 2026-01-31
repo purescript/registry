@@ -4,47 +4,20 @@
     "githubRepo": "purescript-free-canvas"
   },
   "published": {
-    "0.2.0": {
-      "bytes": 2998,
-      "hash": "sha256-WYyDMoco1HdQgq9Q0JNYwFmqEq3H6os7w1VIFRhLXHk=",
-      "publishedTime": "2015-03-04T21:57:56.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.3.0": {
-      "bytes": 2998,
-      "hash": "sha256-XVA6R/de9RqHia2AEwy3pnd/V5nf2qtnvv9FAN87Q2c=",
-      "publishedTime": "2015-03-23T16:32:29.000Z",
-      "ref": "v0.3.0"
-    },
-    "0.3.1": {
-      "bytes": 3449,
-      "hash": "sha256-N6kmwliEEYyJQv8wifYbqmIwKdGedPnLfjh3BVZv3Gg=",
-      "publishedTime": "2015-03-23T17:17:47.000Z",
-      "ref": "v0.3.1"
-    },
-    "1.0.1": {
-      "bytes": 3452,
-      "hash": "sha256-85OhBbbj0jkf2ZmEZSkBr5JTdLoKTr8XijFH/60jrYg=",
-      "publishedTime": "2016-08-18T04:15:11.000Z",
-      "ref": "v1.0.1"
-    },
-    "2.0.0": {
-      "bytes": 3363,
-      "hash": "sha256-LPcLdNKwDNMYBgouh3Tm+aeCrWYkwRy4zgllu3xVCQg=",
-      "publishedTime": "2017-01-05T04:28:24.000Z",
-      "ref": "v2.0.0"
-    },
-    "2.1.0": {
-      "bytes": 3508,
-      "hash": "sha256-/y4/L2/XneZ3tGQ49AlNW6PXmJCyTAz/jJve41ctCyY=",
-      "publishedTime": "2017-02-05T18:05:39.000Z",
-      "ref": "v2.1.0"
-    },
     "3.0.0": {
-      "bytes": 3603,
-      "hash": "sha256-EZ2ED58aYPbngOeSeYSybvPXtaBPMWEC6i6j3sJeoK8=",
+      "bytes": 3623,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-2FRdkYBpQTKWs/c7I0KUoC/tyyBmZL8f5aU99M8scPU=",
       "publishedTime": "2017-04-24T16:08:06.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

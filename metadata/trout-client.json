@@ -4,47 +4,65 @@
     "githubRepo": "purescript-trout-client"
   },
   "published": {
-    "0.7.0": {
-      "bytes": 7681,
-      "hash": "sha256-WTPfEqJJWWtd2yJtrmHk0ZVt8irlYwlf/kco4hb/ghc=",
-      "publishedTime": "2017-04-18T20:49:32.000Z",
-      "ref": "v0.7.0"
-    },
-    "0.8.0": {
-      "bytes": 7988,
-      "hash": "sha256-YoRGhbNNDhecOHo7rNhKo8b43NMjDJgbCAbD6GP67nw=",
-      "publishedTime": "2017-06-21T04:54:47.000Z",
-      "ref": "v0.8.0"
-    },
-    "0.10.0": {
-      "bytes": 8066,
-      "hash": "sha256-BLeN9eCEZ0H0kg+69scoaP1yTa2d5c7bWUSrMwBQZaM=",
-      "publishedTime": "2017-11-20T16:24:28.000Z",
-      "ref": "v0.10.0"
-    },
     "0.11.0": {
-      "bytes": 8657,
-      "hash": "sha256-Mmbqqw9Frl3v4tgQAL3Ri83WadO8CtHurM2SxebULto=",
+      "bytes": 8721,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-jtoC7SpC2AXR4QVjc6qpkkjrFkmcFNUkvsoj7JQsDRY=",
       "publishedTime": "2019-07-29T01:35:45.000Z",
-      "ref": "v0.11.0"
+      "ref": ""
     },
     "0.12.0": {
-      "bytes": 8885,
-      "hash": "sha256-cWWpVRink804BOfg+pQ9deqhL8bu0r2Lrtgbi2QHlrY=",
+      "bytes": 8995,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-yKNEz50tvQI77CSZucycU2fNBYm5uNomwP+gDDqqXsA=",
       "publishedTime": "2019-12-13T13:51:38.000Z",
-      "ref": "v0.12.0"
+      "ref": ""
     },
     "0.12.1": {
-      "bytes": 8961,
-      "hash": "sha256-RTu2C7VB56l4i5aX+W8x6usG+tRz7OqTyzOYu0rPYoo=",
+      "bytes": 9065,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-VPBIfKiU7i9S/ODA4Yw/qbdz8KMINeEQ2txOTQhf3Mk=",
       "publishedTime": "2020-07-02T20:22:09.000Z",
-      "ref": "v0.12.1"
+      "ref": ""
     },
     "0.13.0": {
-      "bytes": 9545,
-      "hash": "sha256-fqImFpmiAWz3/v//yo0rKNbZrTKJ2nfLzTNHOZ14GBE=",
+      "bytes": 9712,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-5TwOF3D672un0hiH969LA0+aQq/6itF83NkiQ2wptlo=",
       "publishedTime": "2020-07-28T13:42:53.000Z",
-      "ref": "v0.13.0"
+      "ref": ""
     }
   },
   "unpublished": {}

@@ -4,17 +4,30 @@
     "githubRepo": "purescript-minimatch"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 4641,
-      "hash": "sha256-qYmbGvlh01Mp8OdW5p9IwbhKC7AS7swrktturqozo5g=",
-      "publishedTime": "2015-03-09T21:33:56.000Z",
-      "ref": "0.1.0"
-    },
     "0.2.0": {
-      "bytes": 4686,
-      "hash": "sha256-UcjD7A9Ei8AWBpqnYtultdylv58Z+hWXn0HVs5JXkHE=",
+      "bytes": 4683,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-iN8XONIm/ZqFUwTmdtrX4k66mgzH3xVgMjCI3hvTfxs=",
       "publishedTime": "2015-07-14T00:16:29.000Z",
-      "ref": "0.2.0"
+      "ref": ""
     }
   },
   "unpublished": {}

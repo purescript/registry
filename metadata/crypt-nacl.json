@@ -4,23 +4,20 @@
     "githubRepo": "purescript-crypt-nacl"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 4214,
-      "hash": "sha256-TXhG2ixjptzv95VwfoN2rlGXCX1R4iHKu3/Jy0zoG8A=",
-      "publishedTime": "2016-11-06T08:15:12.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 4329,
-      "hash": "sha256-oXPfJGFHfVi7G4XOKydEaH90Tlz2CON7uDq6jyeHXtA=",
-      "publishedTime": "2016-11-07T17:30:00.000Z",
-      "ref": "v0.2.0"
-    },
     "0.3.0": {
       "bytes": 4287,
-      "hash": "sha256-jF5XYfUfbiaRIGaXMLkcIZPcC2mmQgooK43n5G8DqB0=",
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-y/Dhsyw2nsL7YdWLwrjK3cTIpwGMkSnf57o1poVUXys=",
       "publishedTime": "2017-04-24T00:02:04.000Z",
-      "ref": "v0.3.0"
+      "ref": ""
     }
   },
   "unpublished": {}

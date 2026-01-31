@@ -5,28 +5,74 @@
   },
   "published": {
     "0.0.1": {
-      "bytes": 1856,
-      "hash": "sha256-iUn67W4r7a9Ie1AvDssN6CbxSFVyXN+JTEXBqrgZ18o=",
+      "bytes": 1850,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-uJVYoW1qzHUEvd0JDJsAJbfhJmcVa5F6mmwLzL43PnY=",
       "publishedTime": "2017-08-25T16:33:08.000Z",
-      "ref": "v0.0.1"
+      "ref": ""
     },
     "0.0.2": {
-      "bytes": 1893,
-      "hash": "sha256-AlC3IXhagDdoD+ChNup+pnN+5XI8SfWU8BoawZK8oW8=",
+      "bytes": 1885,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-EhLzoy9CyIv3lCbuUTSGH+jOhyuTDBKdQUUtJYWTu+E=",
       "publishedTime": "2017-08-25T16:34:39.000Z",
-      "ref": "v0.0.2"
+      "ref": ""
     },
     "1.0.0": {
-      "bytes": 1886,
-      "hash": "sha256-AyYT8O5ffVXxsPUUNRoTLghgq698sBKdU1JXJGU5B+A=",
+      "bytes": 1882,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-/fyD9zYyCplAwzz/YJz7/IoDJ5EI6ZzDM0umGKmO1N8=",
       "publishedTime": "2018-10-26T02:06:33.000Z",
-      "ref": "v1.0.0"
+      "ref": ""
     },
     "1.0.1": {
-      "bytes": 3257,
-      "hash": "sha256-9KdttMVJ8kHVGZ3t5KHliBwV6PLRJHz9ivc4BkgQjYg=",
+      "bytes": 3262,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-1Guvup94Xd1ThzCm8+9/xI/CPY31JwWbVDNlnMDHt2s=",
       "publishedTime": "2020-04-29T23:47:29.000Z",
-      "ref": "v1.0.1"
+      "ref": ""
     }
   },
   "unpublished": {}

@@ -3,25 +3,6 @@
     "githubOwner": "purescript-deprecated",
     "githubRepo": "purescript-react-addons-css-transition-group"
   },
-  "published": {
-    "0.1.0": {
-      "bytes": 2002,
-      "hash": "sha256-KAkrpGeINa9J5dMQnZcaatBTGtGIq6L1FRZhKVB6dSE=",
-      "publishedTime": "2016-04-28T02:54:57.000Z",
-      "ref": "v0.1.0"
-    },
-    "0.2.0": {
-      "bytes": 2000,
-      "hash": "sha256-V/NNujHugMa1qNaqrBYHp3jzSn198cXqs2kfre/7/Lg=",
-      "publishedTime": "2016-10-28T13:45:24.000Z",
-      "ref": "v0.2.0"
-    },
-    "0.2.1": {
-      "bytes": 2308,
-      "hash": "sha256-1yJv7FbLRA9LdjBdt7eORz0Y1lGOtXcF7HSZxeA7Ixk=",
-      "publishedTime": "2016-10-28T20:50:20.000Z",
-      "ref": "v0.2.1"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

@@ -12,22 +12,73 @@
   ],
   "published": {
     "0.1.0": {
-      "bytes": 6621,
-      "hash": "sha256-xGrxKk7v+PzqufGkS35q86q/cseguY8YLpTgCKYtqfI=",
-      "publishedTime": "2024-07-24T18:00:19.100Z",
-      "ref": "v0.1.0"
+      "bytes": 6639,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-44tNP4XHM6Zvb/mXrqG2q6Y1Xgmeoj6UUo+0D7E5hm8=",
+      "publishedTime": "2024-07-24T17:59:30.000Z",
+      "ref": ""
     },
     "0.1.1": {
-      "bytes": 6801,
-      "hash": "sha256-kELUxQ3ILOJPqfkQEsxx5M9MSwkDWjzYJTXfpP2zrBc=",
-      "publishedTime": "2024-08-28T17:43:00.957Z",
-      "ref": "v0.1.1"
+      "bytes": 6807,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-jw3ffv7e9earDRbE3Gw+dRDhj3Fe/jf3ZBF3Ag7wX8U=",
+      "publishedTime": "2024-08-28T17:42:40.000Z",
+      "ref": ""
     },
     "0.1.2": {
-      "bytes": 6808,
-      "hash": "sha256-RGt18buu0wOk5W3Zok5GhXKLx+dOACv9zcj13Nf/d+4=",
-      "publishedTime": "2024-08-28T22:01:30.666Z",
-      "ref": "v0.1.2"
+      "bytes": 6813,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-bd888UNnJ99FlpwGYrgd9MOSDYQ127FUFHdBaQK1xxE=",
+      "publishedTime": "2024-08-28T22:01:11.000Z",
+      "ref": ""
     }
   },
   "unpublished": {}

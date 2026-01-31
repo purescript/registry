@@ -5,28 +5,96 @@
   },
   "published": {
     "4.0.3": {
-      "bytes": 6139,
-      "hash": "sha256-pE24aSf7WtzUM7Vw9KynqeBfP1e3AxqA2ZlZ68+mjXo=",
+      "bytes": 6127,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-B52X0dRS0vNupx9/e1DtwX5opBy0Vl+VuHKDFF8W5zk=",
       "publishedTime": "2022-08-20T14:46:20.000Z",
-      "ref": "v4.0.3"
+      "ref": ""
     },
     "4.0.4": {
-      "bytes": 6142,
-      "hash": "sha256-lS4yhvznII/vg37LewU/Ubeoj6OpxED2kb5/yn58YQQ=",
+      "bytes": 6129,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-Qf7QZx+jCcHG5OPuNyzpWW3zuafgcdZyelo9dkQ8PDw=",
       "publishedTime": "2022-08-20T14:58:05.000Z",
-      "ref": "v4.0.4"
+      "ref": ""
     },
     "5.0.0": {
-      "bytes": 6103,
-      "hash": "sha256-YL/sgSEfXoptKFAlerNNVm+yTKQH7kQuEalq4d8FFXY=",
+      "bytes": 6097,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-RTzoeAy7JIT/m2Gb/N9xdGKl3HuDLz2jxPzQVt2StE8=",
       "publishedTime": "2023-08-04T17:09:03.000Z",
-      "ref": "v5.0.0"
+      "ref": ""
     },
     "5.1.0": {
-      "bytes": 6256,
-      "hash": "sha256-mBifgiz5g2QhyCHeYn/A6M6+7FWEw63KxXN+UWFHX/o=",
+      "bytes": 6250,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-TgVezsoXX4P7RwzauhWvqNMPRYh0YRem3M0S7uiCI1Y=",
       "publishedTime": "2023-08-07T23:29:09.000Z",
-      "ref": "v5.1.0"
+      "ref": ""
     }
   },
   "unpublished": {}

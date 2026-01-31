@@ -3,19 +3,6 @@
     "githubOwner": "hgiasac",
     "githubRepo": "purescript-markdown-smolder"
   },
-  "published": {
-    "2.0.0": {
-      "bytes": 4598,
-      "hash": "sha256-jyAHuWsoFE5BAsiz9SJD6O7Dxke3UT00SrMGrYn0Hhw=",
-      "publishedTime": "2018-11-11T07:56:36.000Z",
-      "ref": "v2.0.0"
-    },
-    "2.0.1": {
-      "bytes": 4616,
-      "hash": "sha256-AFAvbAvunGTPdteQWi2HqwcX9qsNlKVdr9Wk+jGIiac=",
-      "publishedTime": "2018-11-11T08:41:06.000Z",
-      "ref": "v2.0.1"
-    }
-  },
+  "published": {},
   "unpublished": {}
 }

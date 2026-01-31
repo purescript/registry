@@ -4,17 +4,30 @@
     "githubRepo": "purescript-gomtang-basic"
   },
   "published": {
-    "0.1.0": {
-      "bytes": 3001,
-      "hash": "sha256-oACc6avwFSRM/2jP3wfv3w/e+lhX1Sw2FVKpMV1IPNw=",
-      "publishedTime": "2018-02-27T14:30:38.000Z",
-      "ref": "v0.1.0"
-    },
     "0.2.0": {
-      "bytes": 2982,
-      "hash": "sha256-b/tGD2q4J9uY2EPTR3ZFZfmp9mhpmk+qbBSdCQqmBXI=",
+      "bytes": 2984,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-Q0uNiW5RJgZtEtLCpxY1WZBI3TR6KlBdu5IuosmZh3Y=",
       "publishedTime": "2018-05-27T21:21:34.000Z",
-      "ref": "v0.2.0"
+      "ref": ""
     }
   },
   "unpublished": {}

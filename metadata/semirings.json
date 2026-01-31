@@ -4,53 +4,61 @@
     "githubRepo": "purescript-semirings"
   },
   "published": {
-    "0.2.0": {
-      "bytes": 2191,
-      "hash": "sha256-4Wq0nd6saLjIoOA3UEZWcMYYTw6BcnHTtGmOtJkS6Rc=",
-      "publishedTime": "2015-06-10T02:37:47.000Z",
-      "ref": "v0.2.0"
-    },
-    "1.0.0": {
-      "bytes": 2404,
-      "hash": "sha256-bBtcQpT/2YdZ1ua5t1gxxL73AXZAzs6Zs3vHXKwkAMI=",
-      "publishedTime": "2016-06-01T02:57:44.000Z",
-      "ref": "v1.0.0"
-    },
-    "2.0.0": {
-      "bytes": 2386,
-      "hash": "sha256-zZh5DX6AURBP+GWAOxcFiVUyeOfaElONG9acAqEG3h8=",
-      "publishedTime": "2016-10-10T10:17:12.000Z",
-      "ref": "v2.0.0"
-    },
-    "3.0.0": {
-      "bytes": 2554,
-      "hash": "sha256-UDlEPkuaWzQj8C8zlJgi9kQfMv5hCQ000Rh+yS5cyhM=",
-      "publishedTime": "2016-10-16T18:12:10.000Z",
-      "ref": "v3.0.0"
-    },
-    "4.0.0": {
-      "bytes": 2322,
-      "hash": "sha256-O2YIJSa2zYo5mtrD2E044W9gsFnvnDjc8Tb38NAzwrY=",
-      "publishedTime": "2017-03-27T11:06:43.000Z",
-      "ref": "v4.0.0"
-    },
     "5.0.0": {
-      "bytes": 2497,
-      "hash": "sha256-Z16prwdYXGO3/JLMNmhPfvgY/oy6rsYtqTMaix43lSc=",
+      "bytes": 2491,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-GKh9krfdpH4/nJGNYgqGnJuAcX2IZXP28aG2RTrUAps=",
       "publishedTime": "2018-05-23T22:08:30.000Z",
-      "ref": "v5.0.0"
+      "ref": ""
     },
     "6.0.0": {
-      "bytes": 2539,
-      "hash": "sha256-78QIfpDM9xVVAEJNtQlGwbSvxA4x1FKFYXh5BbnaVro=",
+      "bytes": 2536,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-qKOYiIOj1oERbx0sfLELAoYYw5euCsOAXV1Z0CR+FgM=",
       "publishedTime": "2021-02-26T19:09:08.000Z",
-      "ref": "v6.0.0"
+      "ref": ""
     },
     "7.0.0": {
-      "bytes": 2544,
-      "hash": "sha256-2qGNMxVYns7RJxZd1uGtJbGTeVl/6Ozsz9OM5gRM61A=",
+      "bytes": 2542,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-wjcUvWi+KK4pktI1PAJKjPFTBPeSeIZniTi30VlYtSs=",
       "publishedTime": "2022-04-27T21:01:37.000Z",
-      "ref": "v7.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

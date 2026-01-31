@@ -5,10 +5,19 @@
   },
   "published": {
     "0.0.2": {
-      "bytes": 4785,
-      "hash": "sha256-L+G0AMF3ZzWnHD2XV5fUcQ8xFJhkmnueoMveLMIfbk4=",
+      "bytes": 4811,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-u0aUPmef0tdeIp+ND5VJwtf3yiCI1K2pGVvkGQ/l7os=",
       "publishedTime": "2019-07-29T13:36:30.000Z",
-      "ref": "v0.0.2"
+      "ref": ""
     }
   },
   "unpublished": {}

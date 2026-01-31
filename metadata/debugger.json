@@ -4,23 +4,20 @@
     "githubRepo": "purescript-debugger"
   },
   "published": {
-    "1.0.1": {
-      "bytes": 2352,
-      "hash": "sha256-xgdVUIJWgBfXaCKmhnfuYBoCN+XC5bl+3Xr4acDXp6Q=",
-      "publishedTime": "2016-08-18T04:10:47.000Z",
-      "ref": "v1.0.1"
-    },
-    "2.0.0": {
-      "bytes": 2507,
-      "hash": "sha256-VXjJfbimRRJjeeMHHSFXbRKQJm05xT2inpk0JHETScc=",
-      "publishedTime": "2017-04-11T04:48:06.000Z",
-      "ref": "v2.0.0"
-    },
     "3.0.0": {
-      "bytes": 2365,
-      "hash": "sha256-3OrbJBHW0jEG3phgjYZuNfJ80vz2Lc+ObkT32uzBJhI=",
+      "bytes": 2391,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-nwu/fmCsL0Ikjd+kZWDj0HNI0d3cKpFTUWmvrxYk2v0=",
       "publishedTime": "2018-10-17T19:31:59.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}

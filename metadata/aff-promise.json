@@ -4,77 +4,101 @@
     "githubRepo": "purescript-aff-promise"
   },
   "published": {
-    "0.2.1": {
-      "bytes": 1720,
-      "hash": "sha256-7gCiiXA9zxs/XQgcUlwU0bg3vzbT/CWl4PpZhcPfF/g=",
-      "publishedTime": "2016-09-12T21:18:37.000Z",
-      "ref": "v0.2.1"
-    },
-    "0.3.0": {
-      "bytes": 1720,
-      "hash": "sha256-pVjHx/Cv9vDVs1SDtXnaZc1ZGsOUrTpjLXty2Z9YAls=",
-      "publishedTime": "2016-10-22T19:06:31.000Z",
-      "ref": "v0.3.0"
-    },
-    "0.4.0": {
-      "bytes": 2390,
-      "hash": "sha256-Yq0kt9vI5Qtk/hlUGd7sHen+2tvYfiGr6Mh6KxkwvQY=",
-      "publishedTime": "2016-11-08T20:41:07.000Z",
-      "ref": "v0.4.0"
-    },
-    "0.5.0": {
-      "bytes": 2608,
-      "hash": "sha256-sZQVjk+HsQnS+SL+dD2vRslmy8ljsG7KVDPCsmwAq+E=",
-      "publishedTime": "2017-04-08T13:17:58.000Z",
-      "ref": "v0.5.0"
-    },
-    "0.6.0": {
-      "bytes": 2613,
-      "hash": "sha256-+1eCmEIJSCHA5UmGVPDbeU4I5uKkj9NGXNY7Ki8qx64=",
-      "publishedTime": "2017-07-01T19:04:50.000Z",
-      "ref": "v0.6.0"
-    },
-    "0.7.0": {
-      "bytes": 3413,
-      "hash": "sha256-yM6dLIZXAwE8FVEwFnVMKLkHo7nz+6TQ4KT3gXhzSwI=",
-      "publishedTime": "2017-08-05T21:58:35.000Z",
-      "ref": "v0.7.0"
-    },
-    "1.0.0": {
-      "bytes": 3445,
-      "hash": "sha256-IH762n94mtvVjDvWAb4QgwLk2oEigOzFRtB4chVocrI=",
-      "publishedTime": "2017-10-10T09:01:32.000Z",
-      "ref": "v1.0.0"
-    },
     "2.0.0": {
-      "bytes": 3448,
-      "hash": "sha256-uWb4UvNKaar3GEZFCMF6qUYUyzgN3sHv+dXN57qH1hg=",
+      "bytes": 3495,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-FAg1HKNVVoJ/DF71BvPKhY87X69Ly6TFMJoyCAK4m4A=",
       "publishedTime": "2018-05-26T13:52:54.000Z",
-      "ref": "v2.0.0"
+      "ref": ""
     },
     "2.0.1": {
-      "bytes": 3413,
-      "hash": "sha256-KEPxOIGSEvO2JshQdVzxnoXNDyKEVhQAgpqrYlQyvzI=",
+      "bytes": 3461,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8"
+      ],
+      "hash": "sha256-DucF+pt7Pr0Xi6sMCMre6aA+XGEH/fB2Oy4i+NLSSJo=",
       "publishedTime": "2018-05-27T19:30:15.000Z",
-      "ref": "v2.0.1"
+      "ref": ""
     },
     "2.1.0": {
-      "bytes": 3475,
-      "hash": "sha256-oZ+P0l35xVGiwFX353TwZQ4cI4oj7XImzueRnLG4NcA=",
+      "bytes": 3524,
+      "compilers": [
+        "0.13.0",
+        "0.13.2",
+        "0.13.3",
+        "0.13.4",
+        "0.13.5",
+        "0.13.6",
+        "0.13.8",
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-tlei+TEEtFBC88zCNh6/HOQRKZLM4fTThXIJP/v/UQk=",
       "publishedTime": "2019-04-08T13:55:56.000Z",
-      "ref": "v2.1.0"
+      "ref": ""
     },
     "3.0.0": {
-      "bytes": 3468,
-      "hash": "sha256-K8xOL2alHZu3JPCgAB/6BK5rl5mDXsqksxZEUTaLvf8=",
+      "bytes": 3516,
+      "compilers": [
+        "0.14.0",
+        "0.14.1",
+        "0.14.2",
+        "0.14.3",
+        "0.14.4",
+        "0.14.5",
+        "0.14.6",
+        "0.14.7",
+        "0.14.8",
+        "0.14.9"
+      ],
+      "hash": "sha256-3ti1X8JMFEOWNJivbOYe/Jx6eD+5toC81CRC7t0/GAE=",
       "publishedTime": "2021-03-10T09:39:11.000Z",
-      "ref": "v3.0.0"
+      "ref": ""
     },
     "4.0.0": {
-      "bytes": 4842,
-      "hash": "sha256-Kq5EupbUpXeUXx4JqGQE7/RTTz/H6idzWhsocwlEFhM=",
+      "bytes": 4882,
+      "compilers": [
+        "0.15.0",
+        "0.15.2",
+        "0.15.3",
+        "0.15.4",
+        "0.15.5",
+        "0.15.6",
+        "0.15.7",
+        "0.15.8",
+        "0.15.9",
+        "0.15.10",
+        "0.15.11",
+        "0.15.12",
+        "0.15.13",
+        "0.15.14",
+        "0.15.15"
+      ],
+      "hash": "sha256-Jgp3y+NWuuAmwz2V3LlWoX+AvxqfVglY77N5zTw8xnI=",
       "publishedTime": "2022-04-28T14:17:02.000Z",
-      "ref": "v4.0.0"
+      "ref": ""
     }
   },
   "unpublished": {}
