@@ -10,6 +10,8 @@ on:
 
 jobs:
   build:
+    # DISABLED: Prevent daily imports while registry is inactive
+    if: false
     runs-on: ubuntu-latest
 
     env:

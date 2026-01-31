@@ -10,11 +10,13 @@ on:
 
 jobs:
   api:
+    # DISABLED: Prevent any package publishing while registry is inactive
+    if: false
     # This condition is here because the issue_comment event is triggered
     # for pull requests as well, but we want to ignore those.
     # The second part is so that we don't start a workflow if the author of an
     # issue comment is pacchettibotti itself.
-    if: ${{ (!github.event.issue.pull_request) && (github.actor != 'pacchettibotti') }}
+    # Original condition: ${{ (!github.event.issue.pull_request) && (github.actor != 'pacchettibotti') }}
 
     runs-on: ubuntu-latest
 
