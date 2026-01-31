@@ -10,7 +10,7 @@ assignees: ""
 {
   "name": "my-library",
   "ref": "v1.0.0",
-  "compiler": "0.15.4",
+  "version": "1.0.0",
   "location": {
     "githubOwner": "maxpower",
     "githubRepo": "purescript-my-library"
