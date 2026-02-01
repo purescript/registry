@@ -41,9 +41,9 @@ jobs:
                   # cache hit, or else new writes to the cache won't be saved. We want a
                   # partial hit by using a restore-key, which means the cache will always
                   # be saved with new changes, and will always be restored.
-                  key: cache-2-${{ env.NOW }}
+                  key: cache-3-${{ env.NOW }}
                   restore-keys: |
-                      cache-2-
+                      cache-3-
                   path: |
                       scratch/.cache
 
