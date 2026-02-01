@@ -24,6 +24,10 @@ The PureScript Registry as a whole consists of this repository plus a few more r
 2. The [Registry Storage](https://packages.registry.purescript.org) stores tarballs of packages that have been uploaded to the registry. Package managers download dependencies from the registry storage.
 3. The [Registry Dev](https://github.com/purescript/registry-dev) repository is used to develop the registry. The registry-dev repository is also a library, which package managers can use to easily integrate with the registry by reusing its types and functions.
 
+## Registry Archive
+
+The `archive` directory contains a list of all packages which existed in the Bower registry and all packages added to the PureScript registry in advance of the registry launch, as well as a `removed-packages.json` file which lists every package version which has a tag on GitHub but could not be published to the registry along with the relevant error.
+
 ## Using the Registry API
 
 Most PureScript users will only use the Registry API via their package manager. However, it is also possible to interact with it directly via GitHub issues in this repository. The guide below separates _Operations_ (API calls anyone can make) from _Authenticated Operations_ (API calls that can only be made by package owners or registry trustees).
