@@ -132,6 +132,15 @@
       "hash": "sha256-uC9gfF78/skCa7J+n91QT4R9UJQU9mVxZvxkMAdxMzc=",
       "publishedTime": "2026-02-05T14:37:48.291Z",
       "ref": ""
+    },
+    "1.2.0": {
+      "bytes": 7603,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-XenArCFcf6Gb0Vr9RjtMRMMmSiLggtYRFRVe8EcugXQ=",
+      "publishedTime": "2026-02-05T14:44:20.356Z",
+      "ref": ""
     }
   },
   "unpublished": {}
