@@ -63,6 +63,7 @@
     "0.1.6": {
       "bytes": 35128,
       "compilers": [
+        "0.15.10",
         "0.15.15"
       ],
       "hash": "sha256-wI2aiM7S99gq7pPCBI8ijemMNV5vqjToLHVLr9nCtog=",
