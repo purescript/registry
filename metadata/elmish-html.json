@@ -408,6 +408,7 @@
     "0.11.1": {
       "bytes": 19642,
       "compilers": [
+        "0.15.13",
         "0.15.15"
       ],
       "hash": "sha256-vTKUfpb66rvcoy02lzqQ2eUAEmHt85vjCIopdfGipb4=",
