@@ -233,6 +233,15 @@
       "hash": "sha256-uDV3/o8mUOTIgSEQFqIATPyladzL8BcjURvfS901hgI=",
       "publishedTime": "2026-02-05T15:14:51.868Z",
       "ref": ""
+    },
+    "1.3.0": {
+      "bytes": 8257,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-KWJXUgLTj7MpWTiYldF56WFYxQ/aNqyGp81T2B9fQ4k=",
+      "publishedTime": "2026-02-16T22:38:14.325Z",
+      "ref": ""
     }
   },
   "unpublished": {}
