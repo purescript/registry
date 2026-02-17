@@ -58,6 +58,15 @@
       "hash": "sha256-cuSGrHGa+XAGG6muYya+CEZeKJPdeb0dbYMPsXBvrek=",
       "publishedTime": "2026-02-16T23:55:08.624Z",
       "ref": ""
+    },
+    "1.1.1": {
+      "bytes": 9509,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-9Hl4M0p/+6X98slJAv/Zg5oitWQBYb9ndD7rQlkfXTo=",
+      "publishedTime": "2026-02-17T00:08:02.966Z",
+      "ref": ""
     }
   },
   "unpublished": {}
