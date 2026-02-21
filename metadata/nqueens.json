@@ -1,0 +1,25 @@
+{
+  "location": {
+    "githubOwner": "jrrom",
+    "githubRepo": "purescript-nqueens"
+  },
+  "owners": [
+    {
+      "id": "maintainer@jrrom.com",
+      "keytype": "ssh-ed25519",
+      "public": "AAAAC3NzaC1lZDI1NTE5AAAAIFO1kn/983377PaE6JQO9UoiJ67ZZWNZxyouUVkhJYKd"
+    }
+  ],
+  "published": {
+    "0.1.2": {
+      "bytes": 3432,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-4opw40Wwn30lX1WcYtarnGKWPxmKwCJiDkjBnwG7CtA=",
+      "publishedTime": "2026-02-21T18:58:22.952Z",
+      "ref": ""
+    }
+  },
+  "unpublished": {}
+}
