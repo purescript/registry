@@ -4,6 +4,15 @@
     "githubRepo": "purescript-yoga-currency"
   },
   "published": {
+    "1.0.1": {
+      "bytes": 6691,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-cgsvwKDHezxbADN64Ut5gpIZCFr1G9oaz7jPLvez064=",
+      "publishedTime": "2026-03-03T08:13:06.575Z",
+      "ref": ""
+    },
     "1.0.2": {
       "bytes": 6692,
       "compilers": [
