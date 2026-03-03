@@ -4,6 +4,15 @@
     "githubRepo": "purescript-yoga-country"
   },
   "published": {
+    "2.0.0": {
+      "bytes": 12201,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-0nwV+123t0bqZVNUcqz7kkfN+Yyy+SksEalxBx7ANFo=",
+      "publishedTime": "2026-03-03T08:05:30.736Z",
+      "ref": ""
+    },
     "3.0.0": {
       "bytes": 12202,
       "compilers": [
