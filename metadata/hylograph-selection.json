@@ -115,6 +115,15 @@
       "hash": "sha256-J/MOht/UnPE6v0aOIofSGceX835ZYa7xEM0fzWG/UPs=",
       "publishedTime": "2026-03-31T09:33:41.609Z",
       "ref": ""
+    },
+    "0.5.1": {
+      "bytes": 188116,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-/cxTLlzBYBrQiL80+roo0irozdHAyf++31pd2sYUvOQ=",
+      "publishedTime": "2026-04-05T10:21:07.703Z",
+      "ref": ""
     }
   },
   "unpublished": {}
