@@ -255,6 +255,15 @@
       "hash": "sha256-TTttptRPHR1lj3xQypZtF52VbzMujMPYAzdnOwm33y0=",
       "publishedTime": "2026-02-03T02:20:21.119Z",
       "ref": ""
+    },
+    "0.0.34": {
+      "bytes": 25708,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-lr7cZfJVY2FQjije92Sqx0nKSoH3tlIPCC9wZQJUh1s=",
+      "publishedTime": "2026-06-03T20:20:05.098Z",
+      "ref": ""
     }
   },
   "unpublished": {}
