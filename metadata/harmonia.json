@@ -55,6 +55,7 @@
     "0.2.0": {
       "bytes": 20020,
       "compilers": [
+        "0.15.0",
         "0.15.15"
       ],
       "hash": "sha256-25mnON4NIYuoNDtcCb/9DO1joR7fazKxnECW2iOxITc=",
