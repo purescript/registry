@@ -53,6 +53,9 @@ To publish a [new package](https://github.com/purescript/registry/issues/new?tit
   // These three fields are always required.
   "name": "safe-coerce",
   "ref": "v12.0.0",
+  "version": "12.0.0",
+
+  // The compiler field is optional.
   "compiler": "0.15.4",
   
   // You must specify a GitHub location if this package has never been published
@@ -69,7 +72,7 @@ To publish a [new package](https://github.com/purescript/registry/issues/new?tit
 }
 ```
 
-The registry will fetch the repository at the provided ref and attempt to register the package, compile it with the provided compiler version, upload the documentation to Pursuit, and add the package to the day's package set batch.
+The registry will fetch the repository at the provided ref and attempt to register the package, compile it, upload the documentation to Pursuit, and add the package to the day's package set batch.
 
 #### Modify the Package Set
 
