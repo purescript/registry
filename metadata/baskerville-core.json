@@ -11,30 +11,6 @@
     }
   ],
   "published": {
-    "0.1.2": {
-      "bytes": 10436,
-      "compilers": [
-        "0.15.0",
-        "0.15.2",
-        "0.15.3",
-        "0.15.4",
-        "0.15.5",
-        "0.15.6",
-        "0.15.7",
-        "0.15.8",
-        "0.15.9",
-        "0.15.10",
-        "0.15.11",
-        "0.15.12",
-        "0.15.13",
-        "0.15.14",
-        "0.15.15",
-        "0.15.16"
-      ],
-      "hash": "sha256-y+IvVVbLM/GZzQ96RawbEGxBWwcN2HKQlxQWYCW5i5w=",
-      "publishedTime": "2026-07-25T15:11:12.686Z",
-      "ref": ""
-    },
     "0.1.3": {
       "bytes": 10726,
       "compilers": [
@@ -60,5 +36,11 @@
       "ref": ""
     }
   },
-  "unpublished": {}
+  "unpublished": {
+    "0.1.2": {
+      "publishedTime": "2026-07-25T15:11:12.686Z",
+      "reason": "0.1.2's 321-char description exceeds spago 1.0.4's client-side 300-char LimitedString and breaks consumers; republished as 0.1.3 with a shorter description.",
+      "unpublishedTime": "2026-07-25T16:25:01.133Z"
+    }
+  }
 }
