@@ -1,0 +1,25 @@
+{
+  "location": {
+    "githubOwner": "afcondon",
+    "githubRepo": "purescript-mycroft-z3-wasm"
+  },
+  "owners": [
+    {
+      "id": "afc@Andrews-MBP.lan",
+      "keytype": "ecdsa-sha2-nistp521",
+      "public": "AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAArkYOfYhQVU6qJgppVJwlKMnP8HwKrJezMWX/N9gpQCrpVk+YBANNXuzT7/wp9D55UCMTtbXrqxi6M+lPWF929yAGfzA+2lu8HzCEPbCPWhlcM3mO0HsYEJA7WLnMwzRXHvYdhVG9ZEdxq/MgDM1rLSpflE6mHpMsbvRitZ9oTkIWQLw=="
+    }
+  ],
+  "published": {
+    "0.1.0": {
+      "bytes": 4571,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-LFkWANQNfB2a4bXwZTmyKuwyGueVIdf/z00kA8dLQ/Q=",
+      "publishedTime": "2026-07-25T17:05:31.426Z",
+      "ref": ""
+    }
+  },
+  "unpublished": {}
+}
