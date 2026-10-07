@@ -1,0 +1,25 @@
+{
+  "location": {
+    "githubOwner": "mateopedersen",
+    "githubRepo": "purescript-betacalendars-grid-algebra"
+  },
+  "owners": [
+    {
+      "id": "jwcalendarcom@gmail.com",
+      "keytype": "ssh-ed25519",
+      "public": "AAAAC3NzaC1lZDI1NTE5AAAAIHBg9ABXhX4MWBUD9FY3x6UydzfUfRa9c20Tl2dlCVC/"
+    }
+  ],
+  "published": {
+    "0.1.1": {
+      "bytes": 13955,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-a48qVgE8Usp2dzX1q/dQI8Dkwc1HR7Aep92abCjhx3U=",
+      "publishedTime": "2026-10-07T15:51:28.110Z",
+      "ref": ""
+    }
+  },
+  "unpublished": {}
+}
