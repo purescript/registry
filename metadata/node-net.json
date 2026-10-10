@@ -150,6 +150,15 @@
       "hash": "sha256-e2kxHXolOzYD/OkZekYlVPwCl/b4WqyLOodA6QX7FQI=",
       "publishedTime": "2023-07-26T21:59:54.000Z",
       "ref": ""
+    },
+    "5.1.1": {
+      "bytes": 8519,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-grFL+zo4gsMawZwEoXJ9jJuAG0Jwgd5ymB8efHEYGIQ=",
+      "publishedTime": "2026-10-10T01:53:10.364Z",
+      "ref": ""
     }
   },
   "unpublished": {}
