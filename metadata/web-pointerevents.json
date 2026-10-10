@@ -51,6 +51,15 @@
       "hash": "sha256-mQbm1V36u3It2WdYMAXtzLBJl3uRAhN4BjeZTw3LWN8=",
       "publishedTime": "2023-11-02T18:34:11.000Z",
       "ref": ""
+    },
+    "2.0.1": {
+      "bytes": 2952,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-qlVldrIHa3/VOixQSLZC6hVbSz9U3WYsmOgFv1PgsGU=",
+      "publishedTime": "2026-10-10T12:50:47.391Z",
+      "ref": ""
     }
   },
   "unpublished": {}
