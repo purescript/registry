@@ -180,6 +180,15 @@
       "hash": "sha256-txsdkeWBKU/+5v9m5c6kysgJQSDyV1r7MHaeT4STpjQ=",
       "publishedTime": "2022-04-27T23:25:18.000Z",
       "ref": ""
+    },
+    "4.0.1": {
+      "bytes": 4689,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-a13aH57xdTgf13SEcK15BdhoJnhiBc5O1ny3lbWETf8=",
+      "publishedTime": "2026-10-10T15:51:00.272Z",
+      "ref": ""
     }
   },
   "unpublished": {}
