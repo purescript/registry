@@ -108,6 +108,15 @@
       "hash": "sha256-ESRRNnqLU6K1t1DMIpr5tBx3603PcHjfPzh4oeQSJ/c=",
       "publishedTime": "2022-04-27T23:58:22.000Z",
       "ref": ""
+    },
+    "11.0.1": {
+      "bytes": 11854,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-sQ9tn1AcjM7HEkmAxLiUCkqHZM3ekR2Py/5BeNV1yss=",
+      "publishedTime": "2026-10-11T01:46:28.438Z",
+      "ref": ""
     }
   },
   "unpublished": {}
