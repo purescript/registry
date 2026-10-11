@@ -441,6 +441,15 @@
       "hash": "sha256-N88gb/XbM29vw/Uop83shuMFT4wieQCz4wlQAct5eMs=",
       "publishedTime": "2026-01-17T07:27:48.000Z",
       "ref": ""
+    },
+    "11.0.1": {
+      "bytes": 39526,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-B8Gnnw5nZYc/fj7YoAoYXY8nGVMGdt67gEt45XWaIxM=",
+      "publishedTime": "2026-10-11T21:23:33.828Z",
+      "ref": ""
     }
   },
   "unpublished": {}
