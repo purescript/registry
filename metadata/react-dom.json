@@ -90,6 +90,15 @@
       "hash": "sha256-/UBpNOBd3uqPkBlXAkszWisAToJujFhyNco22vw8Wd0=",
       "publishedTime": "2022-04-27T23:21:20.000Z",
       "ref": ""
+    },
+    "8.0.1": {
+      "bytes": 3177,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-Ouw8BAVKBQ3kCPXdb96evvE+qRiCPIvgvYq8/Msivk0=",
+      "publishedTime": "2026-10-11T01:51:36.386Z",
+      "ref": ""
     }
   },
   "unpublished": {}
