@@ -93,6 +93,15 @@
       "hash": "sha256-VCE/dKdY9Tpt70Gnyi0r/Sg47gP69s9uSoMpy2tUDb4=",
       "publishedTime": "2022-04-27T21:01:00.000Z",
       "ref": ""
+    },
+    "7.0.1": {
+      "bytes": 6004,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-2Mcr9VUbimN8nImZHDAZfsJ1KkDJd5c6xmy0QSub2UI=",
+      "publishedTime": "2026-10-11T20:45:00.878Z",
+      "ref": ""
     }
   },
   "unpublished": {}
