@@ -183,6 +183,15 @@
       "hash": "sha256-9BRIrSdRoYybfiUmBqgKJ66cPqxYHb277bVWQMn/9sg=",
       "publishedTime": "2024-09-08T19:36:51.000Z",
       "ref": ""
+    },
+    "8.0.1": {
+      "bytes": 18115,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-kTVlOjB/xYw3uB/9k2+M0hhoV3ALjTGNRDmiuVyjq+Y=",
+      "publishedTime": "2026-10-11T01:08:31.280Z",
+      "ref": ""
     }
   },
   "unpublished": {}
