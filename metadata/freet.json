@@ -120,6 +120,15 @@
       "hash": "sha256-mk5TqtK5urVgKNm+nJSH4VUK5O4OB9hgCgpabF9kKj8=",
       "publishedTime": "2022-04-27T23:07:51.000Z",
       "ref": ""
+    },
+    "7.0.1": {
+      "bytes": 5433,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-BLgo5zXVTk7gRLsLlSBFN9X3du/hn2wPfXvTbWWAC7I=",
+      "publishedTime": "2026-10-11T13:27:25.405Z",
+      "ref": ""
     }
   },
   "unpublished": {}
