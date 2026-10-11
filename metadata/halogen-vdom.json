@@ -208,6 +208,15 @@
       "hash": "sha256-jk6aj/tH630skFVk6mB5Q+0g2zb897KX72T63fJhJ2Y=",
       "publishedTime": "2022-04-28T13:44:11.000Z",
       "ref": ""
+    },
+    "8.0.1": {
+      "bytes": 13082,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-MPl4CE8zoeyqrWyjILh24CICYLAJfp2EDUkY52L0vkI=",
+      "publishedTime": "2026-10-11T00:46:12.557Z",
+      "ref": ""
     }
   },
   "unpublished": {}
