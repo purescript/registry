@@ -60,6 +60,15 @@
       "hash": "sha256-nuckEWqL80NaPmR/l9AUyrfycNh18XcvlZV9PAamwqc=",
       "publishedTime": "2022-04-27T19:25:37.000Z",
       "ref": ""
+    },
+    "6.0.1": {
+      "bytes": 4180,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-V1ZZmfEXAZ6McPXS/8kdnmJyAT0OP7s8QLzm23HoDJQ=",
+      "publishedTime": "2026-10-17T23:58:36.464Z",
+      "ref": ""
     }
   },
   "unpublished": {}
