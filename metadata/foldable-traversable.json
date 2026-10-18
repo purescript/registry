@@ -288,6 +288,15 @@
       "hash": "sha256-NGGWyCio/xjce6fPP7y3wwg7CheqllID6aJudDxbWhA=",
       "publishedTime": "2022-04-27T20:06:18.000Z",
       "ref": ""
+    },
+    "6.0.1": {
+      "bytes": 15123,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-Lk7qqAwIyset85SPw/dXnO6nUCEfOm+JWz7ifu3py8s=",
+      "publishedTime": "2026-10-18T00:43:04.419Z",
+      "ref": ""
     }
   },
   "unpublished": {}
