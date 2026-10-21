@@ -264,6 +264,15 @@
       "hash": "sha256-guvY+NtSOBQmM+HqNJ7woX6taN8hS1wEz7JDmdKF11E=",
       "publishedTime": "2026-02-10T16:19:19.158Z",
       "ref": ""
+    },
+    "8.4.2": {
+      "bytes": 7523,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-E7OSCtJX66LAAPFhvm2yFf/pUAVWsun/afy+EjYY63c=",
+      "publishedTime": "2026-10-21T16:46:50.270Z",
+      "ref": ""
     }
   },
   "unpublished": {}
