@@ -103,6 +103,15 @@
       "hash": "sha256-7sMiR9IHCNnoyfdJWghG09eLp/2t1zrAUMyaWxhCfOw=",
       "publishedTime": "2022-05-06T08:23:20.000Z",
       "ref": ""
+    },
+    "3.0.2": {
+      "bytes": 8662,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-BfJgChjOs0VQ/4dL6ltTwryNZrWgkemUG5UxGEibooc=",
+      "publishedTime": "2026-11-05T15:30:41.926Z",
+      "ref": ""
     }
   },
   "unpublished": {}
