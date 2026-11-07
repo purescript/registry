@@ -303,6 +303,15 @@
       "hash": "sha256-qzLRn4J6m55FJQ1UmLlSBXEsstrI7QmgNAJhWBoLjD8=",
       "publishedTime": "2023-08-05T18:14:19.000Z",
       "ref": ""
+    },
+    "4.0.4": {
+      "bytes": 7833,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-ddCLJGwPTUyJq4s+3NeTMRScG2uLTd1pvtr+JArwkko=",
+      "publishedTime": "2026-11-07T13:59:06.774Z",
+      "ref": ""
     }
   },
   "unpublished": {}
