@@ -99,6 +99,15 @@
       "hash": "sha256-TgVezsoXX4P7RwzauhWvqNMPRYh0YRem3M0S7uiCI1Y=",
       "publishedTime": "2023-08-07T23:29:09.000Z",
       "ref": ""
+    },
+    "5.1.1": {
+      "bytes": 6008,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-D3u7EgBzImHfqFceQQXKAhCzdALIQtO9ktj6tfNQ0B4=",
+      "publishedTime": "2026-11-10T20:06:31.434Z",
+      "ref": ""
     }
   },
   "unpublished": {}
