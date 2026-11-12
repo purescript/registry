@@ -133,6 +133,15 @@
       "hash": "sha256-d/EzRm/J2JyzvlIeo2Ex78Y7HRB0IXBitnVJywL4gHk=",
       "publishedTime": "2022-09-16T18:15:36.000Z",
       "ref": ""
+    },
+    "6.0.3": {
+      "bytes": 3760,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-Lsd/kq+4q1eZRMBKkzoFFS+DZH/0w57vXwm2deqyTSo=",
+      "publishedTime": "2026-11-12T16:05:19.276Z",
+      "ref": ""
     }
   },
   "unpublished": {}
