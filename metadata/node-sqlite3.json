@@ -146,6 +146,15 @@
       "hash": "sha256-vmiT8S2dcBO6udUoXn8ppG3FNCEcq6AA1q92memeyWo=",
       "publishedTime": "2022-05-14T22:05:27.000Z",
       "ref": ""
+    },
+    "8.0.1": {
+      "bytes": 2916,
+      "compilers": [
+        "0.15.17"
+      ],
+      "hash": "sha256-mAyZr+Tyg1/utLlg7MVJfibNA6IPvxV/kYDzTioQu/Y=",
+      "publishedTime": "2026-11-14T14:11:47.575Z",
+      "ref": ""
     }
   },
   "unpublished": {}
