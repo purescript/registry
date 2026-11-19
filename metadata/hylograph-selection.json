@@ -179,6 +179,15 @@
       "hash": "sha256-X5x2KqHmGGJCxDJauyJFoBSEekW/ZRKxTm8Hvf096so=",
       "publishedTime": "2026-07-28T09:10:41.578Z",
       "ref": ""
+    },
+    "0.6.0": {
+      "bytes": 197850,
+      "compilers": [
+        "0.15.15"
+      ],
+      "hash": "sha256-cU/P8B9DDRuhUJytdCGGTVctGoNFxJbsQ27G5LjJZVQ=",
+      "publishedTime": "2026-11-19T09:13:10.786Z",
+      "ref": ""
     }
   },
   "unpublished": {}
