@@ -128,6 +128,15 @@
       "hash": "sha256-IS1K5wBYVelYAfSVlvkTsSTaD+98jEqoewlY1eiQi1k=",
       "publishedTime": "2026-11-16T20:32:24.498Z",
       "ref": ""
+    },
+    "0.3.0": {
+      "bytes": 54204,
+      "compilers": [
+        "0.15.16"
+      ],
+      "hash": "sha256-52suQa4pGTQnyGR9VP5qJDKIaI8I9r8qN2YD2QJW+zU=",
+      "publishedTime": "2026-11-21T23:18:39.364Z",
+      "ref": ""
     }
   },
   "unpublished": {}
