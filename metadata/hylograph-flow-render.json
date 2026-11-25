@@ -3,6 +3,13 @@
     "githubOwner": "afcondon",
     "githubRepo": "purescript-hylograph-flow-render"
   },
+  "owners": [
+    {
+      "id": "afc@Andrews-MBP.lan",
+      "keytype": "ecdsa-sha2-nistp521",
+      "public": "AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAArkYOfYhQVU6qJgppVJwlKMnP8HwKrJezMWX/N9gpQCrpVk+YBANNXuzT7/wp9D55UCMTtbXrqxi6M+lPWF929yAGfzA+2lu8HzCEPbCPWhlcM3mO0HsYEJA7WLnMwzRXHvYdhVG9ZEdxq/MgDM1rLSpflE6mHpMsbvRitZ9oTkIWQLw=="
+    }
+  ],
   "published": {
     "0.1.0": {
       "bytes": 11827,
@@ -66,6 +73,15 @@
       ],
       "hash": "sha256-qotzFcxHVL7onmrcs4a4F53oOYu47kcm/JdDG6/T+IU=",
       "publishedTime": "2026-11-25T09:05:38.484Z",
+      "ref": ""
+    },
+    "0.7.1": {
+      "bytes": 106540,
+      "compilers": [
+        "0.15.17"
+      ],
+      "hash": "sha256-RTHI19FudEBPTzCPGhmdTgIQX8xfI3TvRPfpyKGSxls=",
+      "publishedTime": "2026-11-25T11:14:53.822Z",
       "ref": ""
     }
   },
