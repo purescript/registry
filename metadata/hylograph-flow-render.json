@@ -59,22 +59,6 @@
       "publishedTime": "2026-11-22T08:13:27.368Z",
       "ref": ""
     },
-    "0.7.0": {
-      "bytes": 106248,
-      "compilers": [
-        "0.15.10",
-        "0.15.11",
-        "0.15.12",
-        "0.15.13",
-        "0.15.14",
-        "0.15.15",
-        "0.15.16",
-        "0.15.17"
-      ],
-      "hash": "sha256-qotzFcxHVL7onmrcs4a4F53oOYu47kcm/JdDG6/T+IU=",
-      "publishedTime": "2026-11-25T09:05:38.484Z",
-      "ref": ""
-    },
     "0.7.1": {
       "bytes": 106540,
       "compilers": [
@@ -89,5 +73,11 @@
       "ref": ""
     }
   },
-  "unpublished": {}
+  "unpublished": {
+    "0.7.0": {
+      "publishedTime": "2026-11-25T09:05:38.484Z",
+      "reason": "Description over 300 characters makes the package unreadable by spago 1.0.5; republished as 0.7.1.",
+      "unpublishedTime": "2026-11-25T11:21:53.147Z"
+    }
+  }
 }
